@@ -1,89 +1,60 @@
-# 🌍 geo-data
+# geo-data
 
-Copy only the countries you need. No bloat.
+Install only the countries you need. Get typed helpers for free.
 
-## The Problem
-
-```bash
-# Installing country data for your app?
-npm install country-city-multilanguage  # 6MB of world data 😱
-```
-
-You only need Saudi Arabia and UAE, but you're shipping data for 250 countries.
-
-## The Solution
+Most geography packages ship megabytes of data for 250 countries when your app needs three. geo-data flips that — you pick the countries, it fetches only those, and generates a typed API in your project. No runtime dependency, no bloat.
 
 ```bash
-npx geo-data add sa ae    # ~65KB instead of 6MB ✨
-```
-
-## Quick Start
-
-```bash
-# 1. Initialize in your project
 npx geo-data init
-
-# 2. Add countries you need
-npx geo-data add sa ae qa
-
-# 3. Use in your code
+npx geo-data add sa ae
 ```
 
-```tsx
-import { getCities, getLocalizedName } from './src/data/geo';
+That's it. You now have `sa.json`, `ae.json`, and a generated `index.ts` in your project:
+
+```ts
+import { getCities, getLocalizedName } from '@/data/geo';
 
 const cities = getCities('SA');
-// → [{ name: { en: "Riyadh", ar: "الرياض" }, ... }]
+// [{ name: { en: "Riyadh", ar: "الرياض" }, latitude: 24.7136, ... }]
 
-// With i18n
-const cityName = getLocalizedName(city, 'ar'); // → "الرياض"
+getLocalizedName(cities[0], 'ar'); // "الرياض"
 ```
 
-## Features
+Type-safe country codes, autocomplete, 17 languages. All from local files you can inspect and edit.
 
-- 🎯 **Only what you need** — install 1 country, not 250
-- 🌐 **Multilingual** — English, Arabic, French, Spanish, and 13 more languages
-- 📦 **No runtime dependency** — data lives in your project
-- 🔧 **Fully customizable** — it's just JSON, edit as needed
-- ⚡ **TypeScript ready** — full type safety out of the box
-- 🔄 **Offline support** — works offline after first download
-- 🗑️ **Easy management** — add, update, or remove countries anytime
+## Don't know the country code?
+
+```bash
+npx geo-data pick
+```
+
+Fuzzy search across 218 countries. Type "sau" and it finds Saudi Arabia. Space to select, Enter to install.
+
+Or just guess — if you type `npx geo-data add saa`, it'll suggest `sa (Saudi Arabia)`.
 
 ## Commands
 
 ```bash
-# Initialize configuration
-npx geo-data init
-
-# Add countries
-npx geo-data add sa qa ae
-npx geo-data add sa --force        # Overwrite existing
-npx geo-data add sa --dry-run      # Preview changes
-
-# List countries
-npx geo-data list                   # All available (218 countries)
-npx geo-data list --installed       # Only installed
-
-# Update installed countries
-npx geo-data update                 # Re-download with current config
-npx geo-data update --dry-run       # Preview what would update
-
-# Remove countries
-npx geo-data remove sa              # Remove with confirmation
-npx geo-data rm sa --force          # Remove without confirmation
-
-# Manage cache
-npx geo-data cache                  # Show cache info
+npx geo-data init                   # Set up config
+npx geo-data add sa ae qa           # Install countries
+npx geo-data add sa --dry-run       # Preview without writing
+npx geo-data pick                   # Interactive fuzzy search
+npx geo-data list                   # All 218 countries
+npx geo-data list --installed       # What you have
+npx geo-data update                 # Re-fetch installed countries
+npx geo-data remove sa              # Remove a country
 npx geo-data cache clear            # Clear offline cache
 ```
 
+All mutating commands support `--force` (skip confirmation) and `--dry-run` (preview only).
+
 ## Configuration
 
-After `init`, you'll have a `geo-data.json`:
+`geo-data init` creates a `geo-data.json` in your project root:
 
 ```json
 {
-  "$schema": "https://geo-data.dev/schema.json",
+  "$schema": "https://raw.githubusercontent.com/H4ck3r-x0/geo-data/main/schema.json",
   "outputDir": "./src/data/geo",
   "languages": ["en", "ar"],
   "includeCoordinates": true,
@@ -91,20 +62,26 @@ After `init`, you'll have a `geo-data.json`:
 }
 ```
 
-| Option | Description | Default |
-|--------|-------------|---------|
-| `outputDir` | Where to put the data files | `./src/data/geo` |
-| `languages` | Languages to include | `["en"]` |
-| `includeCoordinates` | Include lat/lng for cities | `true` |
-| `typescript` | Generate TypeScript types | `true` |
+**`outputDir`** — where country files and the generated index go. Default: `./src/data/geo`
 
-### Available Languages
+**`languages`** — which translations to include. English is always kept as a fallback. Available: `en` `ar` `de` `es` `fr` `hi` `it` `ja` `ko` `nl` `pl` `pt` `pt-BR` `ru` `tr` `uk` `zh`
 
-`en`, `ar`, `de`, `es`, `fr`, `hi`, `it`, `ja`, `ko`, `nl`, `pl`, `pt`, `pt-BR`, `ru`, `tr`, `uk`, `zh`
+**`includeCoordinates`** — whether cities include `latitude`/`longitude`. Default: `true`
 
-## Data Schema
+**`typescript`** — generates `index.ts` with full types. Set to `false` for plain `index.js`. Default: `true`
 
-Each country file contains:
+## What gets generated
+
+When you add countries, the CLI writes their JSON files to your output directory and generates an `index.ts` (or `.js`) with typed helpers:
+
+- `getCountry('SA')` — full country object
+- `getCities('SA')` — all cities, or `getCities('SA', 'SA-01')` for a specific region
+- `getLocalizedName(item, 'ar')` — get a translated name with English fallback
+- `isValidCountryCode(input)` — type guard for user input
+
+Country codes are a union type based on what you've installed, so your editor catches typos.
+
+## What a country file looks like
 
 ```json
 {
@@ -130,57 +107,21 @@ Each country file contains:
 }
 ```
 
-## Generated Helpers
+It's plain JSON. You own it, you can commit it, and you can hand-edit it if you need to. Running `update` re-downloads fresh data from the registry, so keep that in mind if you've made local changes.
 
-The CLI generates an `index.ts` with helpful functions:
-
-```typescript
-import {
-  countries,
-  getCountry,
-  getRegions,
-  getCities,
-  getAllCities,
-  getLocalizedName,
-  getCountryCodes,
-  isValidCountryCode
-} from './src/data/geo';
-
-// Get all cities in a country
-const cities = getCities('SA');
-
-// Get cities in a specific region
-const riyadhCities = getCities('SA', 'SA-01');
-
-// Get localized name
-const name = getLocalizedName(city, 'ar'); // "الرياض"
-
-// Type-safe country codes
-type CountryCode = 'SA' | 'AE' | 'QA'; // Based on what you installed
-
-// Validation
-if (isValidCountryCode(userInput)) {
-  const country = getCountry(userInput);
-}
-```
-
-## Framework Examples
-
-### React
+## Example: city selector with i18n
 
 ```tsx
 import { getCities, getLocalizedName } from '@/data/geo';
-import { useTranslation } from 'react-i18next';
 
-function CitySelect({ country }: { country: 'SA' | 'AE' }) {
-  const { i18n } = useTranslation();
+function CitySelect({ country, lang }: { country: 'SA' | 'AE', lang: string }) {
   const cities = getCities(country);
 
   return (
     <select>
       {cities.map(city => (
         <option key={city.name.en} value={city.name.en}>
-          {getLocalizedName(city, i18n.language)}
+          {getLocalizedName(city, lang)}
         </option>
       ))}
     </select>
@@ -188,37 +129,17 @@ function CitySelect({ country }: { country: 'SA' | 'AE' }) {
 }
 ```
 
-### Vue
+## Good to know
 
-```vue
-<script setup lang="ts">
-import { computed } from 'vue';
-import { getCities, getLocalizedName } from '@/data/geo';
-import { useI18n } from 'vue-i18n';
+**Offline support** — Country data is cached in `~/.cache/geo-data/` after the first download. If you lose connectivity, the CLI falls back to cached data. Run `npx geo-data cache` to see what's cached.
 
-const props = defineProps<{ country: 'SA' | 'AE' }>();
-const { locale } = useI18n();
-const cities = computed(() => getCities(props.country));
-</script>
+**Node.js 18+** required.
 
-<template>
-  <select>
-    <option v-for="city in cities" :key="city.name.en" :value="city.name.en">
-      {{ getLocalizedName(city, locale) }}
-    </option>
-  </select>
-</template>
-```
-
-## Data Sources
-
-This package combines data from:
-- [dr5hn/countries-states-cities-database](https://github.com/dr5hn/countries-states-cities-database) — Base country/city data
-- [GeoNames](https://www.geonames.org/) — Arabic translations for cities worldwide
+**Data sources** — Country, region, and city data comes from [dr5hn/countries-states-cities-database](https://github.com/dr5hn/countries-states-cities-database). Arabic city translations are sourced from [GeoNames](https://www.geonames.org/).
 
 ## Contributing
 
-Found incorrect data? PRs welcome! Each country is a separate JSON file in `registry/countries/`.
+Each country is a standalone JSON file in `registry/countries/`. If you spot incorrect data — a wrong city name, missing translation, bad coordinates — open a PR fixing that file.
 
 ## License
 
