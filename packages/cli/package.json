@@ -1,6 +1,6 @@
 {
   "name": "geo-data-cli",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Copy only the countries you need. No bloat.",
   "type": "module",
   "files": [
