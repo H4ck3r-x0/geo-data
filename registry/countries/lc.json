@@ -1,0 +1,3464 @@
+{
+  "code": "LC",
+  "iso3": "LCA",
+  "name": {
+    "en": "Saint Lucia",
+    "ar": "سانت لوسيا",
+    "de": "Saint Lucia",
+    "es": "Santa Lucía",
+    "fr": "Saint-Lucie",
+    "hi": "सेंट लूसिया",
+    "it": "Santa Lucia",
+    "ja": "セントルシア",
+    "ko": "세인트루시아",
+    "nl": "Saint Lucia",
+    "pl": "Saint Lucia",
+    "pt": "Santa Lúcia",
+    "pt-BR": "Santa Lúcia",
+    "ru": "Сент-Люсия",
+    "tr": "Saint Lucia",
+    "uk": "Сент-Люсія",
+    "zh": "圣卢西亚"
+  },
+  "phone": "+1",
+  "currency": "XCD",
+  "timezone": "America/St_Lucia",
+  "flag": "🇱🇨",
+  "regions": [
+    {
+      "code": "LC-01",
+      "name": {
+        "en": "Anse la Raye"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Anse La Raye"
+          },
+          "latitude": 13.94619,
+          "longitude": -61.03879
+        },
+        {
+          "name": {
+            "en": "Au Tabor"
+          },
+          "latitude": 13.9454,
+          "longitude": -61.04112
+        },
+        {
+          "name": {
+            "en": "Au Tabor Hill"
+          },
+          "latitude": 13.94457,
+          "longitude": -61.03559
+        },
+        {
+          "name": {
+            "en": "Bois D'Inde"
+          },
+          "latitude": 13.94148,
+          "longitude": -61.00966
+        },
+        {
+          "name": {
+            "en": "Caico/Millet"
+          },
+          "latitude": 13.91948,
+          "longitude": -60.99264
+        },
+        {
+          "name": {
+            "en": "Canaries"
+          },
+          "latitude": 13.90224,
+          "longitude": -61.06459
+        },
+        {
+          "name": {
+            "en": "Champen Estate"
+          },
+          "latitude": 13.93575,
+          "longitude": -61.02991
+        },
+        {
+          "name": {
+            "en": "Derriere Lagoon"
+          },
+          "latitude": 13.94168,
+          "longitude": -61.01891
+        },
+        {
+          "name": {
+            "en": "Durandeau"
+          },
+          "latitude": 13.92277,
+          "longitude": -60.99512
+        },
+        {
+          "name": {
+            "en": "Enbar Pwin"
+          },
+          "latitude": 13.91175,
+          "longitude": -60.99266
+        },
+        {
+          "name": {
+            "en": "Jacmel"
+          },
+          "latitude": 13.94796,
+          "longitude": -61.01297
+        },
+        {
+          "name": {
+            "en": "Jean Baptiste"
+          },
+          "latitude": 13.94704,
+          "longitude": -61.01578
+        },
+        {
+          "name": {
+            "en": "La Trielle"
+          },
+          "latitude": 13.94014,
+          "longitude": -60.99729
+        },
+        {
+          "name": {
+            "en": "Massacre"
+          },
+          "latitude": 13.94872,
+          "longitude": -61.03544
+        },
+        {
+          "name": {
+            "en": "Millet"
+          },
+          "latitude": 13.90985,
+          "longitude": -60.98884
+        },
+        {
+          "name": {
+            "en": "Morne Ciseaux"
+          },
+          "latitude": 13.93597,
+          "longitude": -61.0033
+        },
+        {
+          "name": {
+            "en": "Morne D'Or"
+          },
+          "latitude": 13.94931,
+          "longitude": -61.00601
+        },
+        {
+          "name": {
+            "en": "Roseau Valley"
+          },
+          "latitude": 13.95317,
+          "longitude": -61.02676
+        },
+        {
+          "name": {
+            "en": "St Lawrence"
+          },
+          "latitude": 13.93852,
+          "longitude": -61.02503
+        },
+        {
+          "name": {
+            "en": "St Lawrence Estate"
+          },
+          "latitude": 13.94236,
+          "longitude": -61.04248
+        },
+        {
+          "name": {
+            "en": "Tete Chemin"
+          },
+          "latitude": 13.89092,
+          "longitude": -60.99785
+        },
+        {
+          "name": {
+            "en": "Vanard"
+          },
+          "latitude": 13.93558,
+          "longitude": -60.99363
+        },
+        {
+          "name": {
+            "en": "Venus"
+          },
+          "latitude": 13.91558,
+          "longitude": -61.01676
+        },
+        {
+          "name": {
+            "en": "Village"
+          },
+          "latitude": 13.93939,
+          "longitude": -61.0415
+        },
+        {
+          "name": {
+            "en": "Village/Petite Bourgh"
+          },
+          "latitude": 13.93801,
+          "longitude": -61.04184
+        }
+      ]
+    },
+    {
+      "code": "LC-12",
+      "name": {
+        "en": "Canaries"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Anse Cochon"
+          },
+          "latitude": 13.92261,
+          "longitude": -61.0525
+        },
+        {
+          "name": {
+            "en": "Anse Galet"
+          },
+          "latitude": 13.93221,
+          "longitude": -61.0429
+        },
+        {
+          "name": {
+            "en": "Anse La Verdue"
+          },
+          "latitude": 13.90964,
+          "longitude": -61.04755
+        },
+        {
+          "name": {
+            "en": "Belvedere"
+          },
+          "latitude": 13.89122,
+          "longitude": -61.0555
+        },
+        {
+          "name": {
+            "en": "Chalon"
+          },
+          "latitude": 13.92018,
+          "longitude": -61.04412
+        },
+        {
+          "name": {
+            "en": "Riverside Road"
+          },
+          "latitude": 13.89408,
+          "longitude": -61.04989
+        },
+        {
+          "name": {
+            "en": "Theodrine"
+          },
+          "latitude": 13.92878,
+          "longitude": -61.04972
+        },
+        {
+          "name": {
+            "en": "Village"
+          },
+          "latitude": 13.90526,
+          "longitude": -61.06108
+        }
+      ]
+    },
+    {
+      "code": "LC-02",
+      "name": {
+        "en": "Castries"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Active Hill"
+          },
+          "latitude": 14.0194,
+          "longitude": -60.97767
+        },
+        {
+          "name": {
+            "en": "Agard Lands/Morne Dudon"
+          },
+          "latitude": 14.00768,
+          "longitude": -60.96462
+        },
+        {
+          "name": {
+            "en": "Almondale"
+          },
+          "latitude": 14.01848,
+          "longitude": -60.96162
+        },
+        {
+          "name": {
+            "en": "Aurendel Hill"
+          },
+          "latitude": 14.00069,
+          "longitude": -60.9867
+        },
+        {
+          "name": {
+            "en": "Babonneau Proper"
+          },
+          "latitude": 14.00535,
+          "longitude": -60.9464
+        },
+        {
+          "name": {
+            "en": "Bagatelle"
+          },
+          "latitude": 13.99797,
+          "longitude": -60.98156
+        },
+        {
+          "name": {
+            "en": "Balata"
+          },
+          "latitude": 14.01471,
+          "longitude": -60.95167
+        },
+        {
+          "name": {
+            "en": "Banannes Bay"
+          },
+          "latitude": 14.01087,
+          "longitude": -61.00135
+        },
+        {
+          "name": {
+            "en": "Barnard Hill"
+          },
+          "latitude": 14.01423,
+          "longitude": -60.98924
+        },
+        {
+          "name": {
+            "en": "Barre Denis"
+          },
+          "latitude": 13.96809,
+          "longitude": -60.99073
+        },
+        {
+          "name": {
+            "en": "Barre Duchaussee"
+          },
+          "latitude": 13.9619,
+          "longitude": -60.99678
+        },
+        {
+          "name": {
+            "en": "Barre St.Joseph"
+          },
+          "latitude": 13.97247,
+          "longitude": -61.01829
+        },
+        {
+          "name": {
+            "en": "Belair"
+          },
+          "latitude": 13.95283,
+          "longitude": -60.99747
+        },
+        {
+          "name": {
+            "en": "Bella Rosa"
+          },
+          "latitude": 14.00777,
+          "longitude": -60.99628
+        },
+        {
+          "name": {
+            "en": "Bexon"
+          },
+          "latitude": 13.96077,
+          "longitude": -60.97497
+        },
+        {
+          "name": {
+            "en": "Bisee"
+          },
+          "latitude": 14.02429,
+          "longitude": -60.97445
+        },
+        {
+          "name": {
+            "en": "Bishop'S Gap"
+          },
+          "latitude": 14.00019,
+          "longitude": -60.98498
+        },
+        {
+          "name": {
+            "en": "Bissee"
+          },
+          "latitude": 14.02255,
+          "longitude": -60.97489
+        },
+        {
+          "name": {
+            "en": "Black Mallet"
+          },
+          "latitude": 14.00457,
+          "longitude": -60.98811
+        },
+        {
+          "name": {
+            "en": "Bocage"
+          },
+          "latitude": 14.00199,
+          "longitude": -60.96954
+        },
+        {
+          "name": {
+            "en": "Bois Catchet"
+          },
+          "latitude": 14.00399,
+          "longitude": -60.99437
+        },
+        {
+          "name": {
+            "en": "Bois Patat"
+          },
+          "latitude": 14.00892,
+          "longitude": -60.98214
+        },
+        {
+          "name": {
+            "en": "Cabiche/Babonneau"
+          },
+          "latitude": 14.00583,
+          "longitude": -60.95432
+        },
+        {
+          "name": {
+            "en": "Cacoa/Babonneau"
+          },
+          "latitude": 13.98875,
+          "longitude": -60.95113
+        },
+        {
+          "name": {
+            "en": "Calvary"
+          },
+          "latitude": 14.01391,
+          "longitude": -60.98664
+        },
+        {
+          "name": {
+            "en": "Capital Hill"
+          },
+          "latitude": 13.99307,
+          "longitude": -60.99097
+        },
+        {
+          "name": {
+            "en": "Carellie"
+          },
+          "latitude": 14.01889,
+          "longitude": -60.96851
+        },
+        {
+          "name": {
+            "en": "Castries",
+            "ar": "كاستريس"
+          },
+          "latitude": 13.9957,
+          "longitude": -61.00614
+        },
+        {
+          "name": {
+            "en": "Cedars"
+          },
+          "latitude": 14.00601,
+          "longitude": -60.98232
+        },
+        {
+          "name": {
+            "en": "Chase Gardens"
+          },
+          "latitude": 14.01481,
+          "longitude": -60.97395
+        },
+        {
+          "name": {
+            "en": "Chassin/Babonneau"
+          },
+          "latitude": 13.991,
+          "longitude": -60.92187
+        },
+        {
+          "name": {
+            "en": "Choppin Ridge/Sarot"
+          },
+          "latitude": 13.95597,
+          "longitude": -60.98624
+        },
+        {
+          "name": {
+            "en": "Ciceron"
+          },
+          "latitude": 13.99296,
+          "longitude": -61.00878
+        },
+        {
+          "name": {
+            "en": "City"
+          },
+          "latitude": 14.00946,
+          "longitude": -60.99027
+        },
+        {
+          "name": {
+            "en": "City Gate/La Clery"
+          },
+          "latitude": 14.02124,
+          "longitude": -60.98149
+        },
+        {
+          "name": {
+            "en": "Conway/Waterfront"
+          },
+          "latitude": 14.01389,
+          "longitude": -60.99055
+        },
+        {
+          "name": {
+            "en": "Coolie Town"
+          },
+          "latitude": 13.95684,
+          "longitude": -61.01437
+        },
+        {
+          "name": {
+            "en": "Coubaril",
+            "ar": "كاستريس"
+          },
+          "latitude": 14.00223,
+          "longitude": -61.00919
+        },
+        {
+          "name": {
+            "en": "Crownlands/Marc"
+          },
+          "latitude": 13.95174,
+          "longitude": -60.9715
+        },
+        {
+          "name": {
+            "en": "Cul De Sac"
+          },
+          "latitude": 13.98084,
+          "longitude": -61.00645
+        },
+        {
+          "name": {
+            "en": "Darling Road"
+          },
+          "latitude": 14.01355,
+          "longitude": -60.98779
+        },
+        {
+          "name": {
+            "en": "Deglos"
+          },
+          "latitude": 13.97727,
+          "longitude": -60.97329
+        },
+        {
+          "name": {
+            "en": "Derierre Fort/Old Victoria Road"
+          },
+          "latitude": 13.99474,
+          "longitude": -60.98513
+        },
+        {
+          "name": {
+            "en": "Dubrassay"
+          },
+          "latitude": 13.98382,
+          "longitude": -60.97154
+        },
+        {
+          "name": {
+            "en": "En Pois Doux/Babonneau"
+          },
+          "latitude": 13.98853,
+          "longitude": -60.94099
+        },
+        {
+          "name": {
+            "en": "Entrepot"
+          },
+          "latitude": 13.99978,
+          "longitude": -60.97953
+        },
+        {
+          "name": {
+            "en": "Faux A Chaud"
+          },
+          "latitude": 14.00878,
+          "longitude": -60.99558
+        },
+        {
+          "name": {
+            "en": "Ferrand"
+          },
+          "latitude": 13.98684,
+          "longitude": -60.98494
+        },
+        {
+          "name": {
+            "en": "Floissac/Marc"
+          },
+          "latitude": 13.96283,
+          "longitude": -60.9588
+        },
+        {
+          "name": {
+            "en": "Fond Assau/Babonneau"
+          },
+          "latitude": 13.99491,
+          "longitude": -60.93626
+        },
+        {
+          "name": {
+            "en": "Fond Canie"
+          },
+          "latitude": 13.99195,
+          "longitude": -60.95954
+        },
+        {
+          "name": {
+            "en": "Forestiere"
+          },
+          "latitude": 13.97775,
+          "longitude": -60.95766
+        },
+        {
+          "name": {
+            "en": "George Charles Boulevard"
+          },
+          "latitude": 14.00499,
+          "longitude": -60.98673
+        },
+        {
+          "name": {
+            "en": "Girard"
+          },
+          "latitude": 14.00004,
+          "longitude": -60.9596
+        },
+        {
+          "name": {
+            "en": "Goergeville"
+          },
+          "latitude": 14.01311,
+          "longitude": -60.98446
+        },
+        {
+          "name": {
+            "en": "Goodlands"
+          },
+          "latitude": 13.99121,
+          "longitude": -60.9984
+        },
+        {
+          "name": {
+            "en": "Grass Street"
+          },
+          "latitude": 14.00706,
+          "longitude": -60.98763
+        },
+        {
+          "name": {
+            "en": "Green Gold"
+          },
+          "latitude": 13.99603,
+          "longitude": -60.95284
+        },
+        {
+          "name": {
+            "en": "Guesneau"
+          },
+          "latitude": 13.99084,
+          "longitude": -60.96486
+        },
+        {
+          "name": {
+            "en": "Hill 20/Babonneau"
+          },
+          "latitude": 13.99941,
+          "longitude": -60.94988
+        },
+        {
+          "name": {
+            "en": "Hillcrest Gardens"
+          },
+          "latitude": 14.01115,
+          "longitude": -60.97083
+        },
+        {
+          "name": {
+            "en": "Hospital Road"
+          },
+          "latitude": 14.00914,
+          "longitude": -60.99906
+        },
+        {
+          "name": {
+            "en": "Independence City"
+          },
+          "latitude": 14.00199,
+          "longitude": -60.97879
+        },
+        {
+          "name": {
+            "en": "John Compton Highway"
+          },
+          "latitude": 14.01909,
+          "longitude": -60.9911
+        },
+        {
+          "name": {
+            "en": "L'Anse Road"
+          },
+          "latitude": 14.01875,
+          "longitude": -60.98799
+        },
+        {
+          "name": {
+            "en": "La Carierre"
+          },
+          "latitude": 14.01806,
+          "longitude": -60.98723
+        },
+        {
+          "name": {
+            "en": "La Clery"
+          },
+          "latitude": 14.01846,
+          "longitude": -60.98422
+        },
+        {
+          "name": {
+            "en": "La Croix Maingot"
+          },
+          "latitude": 13.96569,
+          "longitude": -61.00582
+        },
+        {
+          "name": {
+            "en": "La Pansee"
+          },
+          "latitude": 14.01368,
+          "longitude": -60.98187
+        },
+        {
+          "name": {
+            "en": "La Toc"
+          },
+          "latitude": 14.00824,
+          "longitude": -61.00404
+        },
+        {
+          "name": {
+            "en": "Labayee"
+          },
+          "latitude": 13.94044,
+          "longitude": -60.97316
+        },
+        {
+          "name": {
+            "en": "Lastic Hill"
+          },
+          "latitude": 14.00755,
+          "longitude": -60.98321
+        },
+        {
+          "name": {
+            "en": "Leslie Land"
+          },
+          "latitude": 14.00752,
+          "longitude": -60.98674
+        },
+        {
+          "name": {
+            "en": "Marc"
+          },
+          "latitude": 13.95688,
+          "longitude": -60.95724
+        },
+        {
+          "name": {
+            "en": "Marchand"
+          },
+          "latitude": 14.00415,
+          "longitude": -60.98532
+        },
+        {
+          "name": {
+            "en": "Marigot"
+          },
+          "latitude": 13.96212,
+          "longitude": -61.02205
+        },
+        {
+          "name": {
+            "en": "Maynard Hill"
+          },
+          "latitude": 14.00314,
+          "longitude": -60.98966
+        },
+        {
+          "name": {
+            "en": "Miami/Bexon"
+          },
+          "latitude": 13.92295,
+          "longitude": -60.96945
+        },
+        {
+          "name": {
+            "en": "Monkey Town Ciceron"
+          },
+          "latitude": 13.98885,
+          "longitude": -61.00615
+        },
+        {
+          "name": {
+            "en": "Morne Assau/Babonneau"
+          },
+          "latitude": 13.99079,
+          "longitude": -60.93241
+        },
+        {
+          "name": {
+            "en": "Morne Dudon"
+          },
+          "latitude": 14.01194,
+          "longitude": -60.96378
+        },
+        {
+          "name": {
+            "en": "Morne Road"
+          },
+          "latitude": 14.00544,
+          "longitude": -60.99693
+        },
+        {
+          "name": {
+            "en": "Morne Rouge/Marc"
+          },
+          "latitude": 13.95838,
+          "longitude": -60.96972
+        },
+        {
+          "name": {
+            "en": "Mount Pleasant"
+          },
+          "latitude": 14.01494,
+          "longitude": -60.98576
+        },
+        {
+          "name": {
+            "en": "New Village"
+          },
+          "latitude": 14.01104,
+          "longitude": -60.98456
+        },
+        {
+          "name": {
+            "en": "Odsan"
+          },
+          "latitude": 13.97479,
+          "longitude": -60.98319
+        },
+        {
+          "name": {
+            "en": "Parker'S Hill"
+          },
+          "latitude": 14.00378,
+          "longitude": -60.99049
+        },
+        {
+          "name": {
+            "en": "Patterson'S Gap"
+          },
+          "latitude": 14.00655,
+          "longitude": -60.98473
+        },
+        {
+          "name": {
+            "en": "Pavee"
+          },
+          "latitude": 14.00282,
+          "longitude": -60.99191
+        },
+        {
+          "name": {
+            "en": "Peart'S Gap"
+          },
+          "latitude": 14.01035,
+          "longitude": -60.98598
+        },
+        {
+          "name": {
+            "en": "Perou"
+          },
+          "latitude": 13.9596,
+          "longitude": -61.00726
+        },
+        {
+          "name": {
+            "en": "Pointe Seraphine"
+          },
+          "latitude": 14.01575,
+          "longitude": -60.99305
+        },
+        {
+          "name": {
+            "en": "Quarte Chemins"
+          },
+          "latitude": 13.99136,
+          "longitude": -60.9763
+        },
+        {
+          "name": {
+            "en": "Ravine Chabot"
+          },
+          "latitude": 14.00051,
+          "longitude": -60.97617
+        },
+        {
+          "name": {
+            "en": "Ravine Poisson"
+          },
+          "latitude": 13.93156,
+          "longitude": -60.96849
+        },
+        {
+          "name": {
+            "en": "Ravine Touterelle"
+          },
+          "latitude": 14.00325,
+          "longitude": -60.98806
+        },
+        {
+          "name": {
+            "en": "Resinard/Babonneau"
+          },
+          "latitude": 14.00289,
+          "longitude": -60.942
+        },
+        {
+          "name": {
+            "en": "Rock Hall"
+          },
+          "latitude": 14.00009,
+          "longitude": -60.98928
+        },
+        {
+          "name": {
+            "en": "Rose Hill"
+          },
+          "latitude": 14.00816,
+          "longitude": -60.9856
+        },
+        {
+          "name": {
+            "en": "San Soucis"
+          },
+          "latitude": 14.01695,
+          "longitude": -60.98985
+        },
+        {
+          "name": {
+            "en": "Sand De Feu"
+          },
+          "latitude": 13.92781,
+          "longitude": -60.98026
+        },
+        {
+          "name": {
+            "en": "Sarot"
+          },
+          "latitude": 13.94212,
+          "longitude": -60.98489
+        },
+        {
+          "name": {
+            "en": "Summersdale"
+          },
+          "latitude": 14.02582,
+          "longitude": -60.97644
+        },
+        {
+          "name": {
+            "en": "Sunbilt"
+          },
+          "latitude": 14.00561,
+          "longitude": -60.97922
+        },
+        {
+          "name": {
+            "en": "Sunny Acres"
+          },
+          "latitude": 14.0281,
+          "longitude": -60.97361
+        },
+        {
+          "name": {
+            "en": "Talvern"
+          },
+          "latitude": 13.99578,
+          "longitude": -60.9441
+        },
+        {
+          "name": {
+            "en": "Tapion"
+          },
+          "latitude": 14.01383,
+          "longitude": -61.00489
+        },
+        {
+          "name": {
+            "en": "The Morne"
+          },
+          "latitude": 13.99778,
+          "longitude": -60.9962
+        },
+        {
+          "name": {
+            "en": "Ti Colon"
+          },
+          "latitude": 13.97071,
+          "longitude": -61.00229
+        },
+        {
+          "name": {
+            "en": "Ti Rocher"
+          },
+          "latitude": 13.9949,
+          "longitude": -60.9711
+        },
+        {
+          "name": {
+            "en": "Trois Piton"
+          },
+          "latitude": 13.9889,
+          "longitude": -60.97259
+        },
+        {
+          "name": {
+            "en": "Trou Cochan/Marc"
+          },
+          "latitude": 13.9422,
+          "longitude": -60.96199
+        },
+        {
+          "name": {
+            "en": "Trou Florent/Marc"
+          },
+          "latitude": 13.94525,
+          "longitude": -60.95382
+        },
+        {
+          "name": {
+            "en": "Trou Rouge"
+          },
+          "latitude": 14.00602,
+          "longitude": -60.9895
+        },
+        {
+          "name": {
+            "en": "Vide Bouteille"
+          },
+          "latitude": 14.02439,
+          "longitude": -60.98066
+        },
+        {
+          "name": {
+            "en": "Vigie"
+          },
+          "latitude": 14.02053,
+          "longitude": -60.99611
+        },
+        {
+          "name": {
+            "en": "Waterworks"
+          },
+          "latitude": 14.00498,
+          "longitude": -60.97635
+        },
+        {
+          "name": {
+            "en": "Wilton'S Yard/Grave Yard"
+          },
+          "latitude": 14.00968,
+          "longitude": -60.98639
+        },
+        {
+          "name": {
+            "en": "Yorke Hill"
+          },
+          "latitude": 14.01694,
+          "longitude": -60.97919
+        }
+      ]
+    },
+    {
+      "code": "LC-03",
+      "name": {
+        "en": "Choiseul"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Belle Vue"
+          },
+          "latitude": 13.8051,
+          "longitude": -61.03615
+        },
+        {
+          "name": {
+            "en": "Bois Dinde"
+          },
+          "latitude": 13.80463,
+          "longitude": -61.04952
+        },
+        {
+          "name": {
+            "en": "Caffiere"
+          },
+          "latitude": 13.78409,
+          "longitude": -61.03554
+        },
+        {
+          "name": {
+            "en": "Cedars/Chu Tigre"
+          },
+          "latitude": 13.76995,
+          "longitude": -61.04716
+        },
+        {
+          "name": {
+            "en": "Choiseul"
+          },
+          "latitude": 13.77273,
+          "longitude": -61.04931
+        },
+        {
+          "name": {
+            "en": "Christian Hill"
+          },
+          "latitude": 13.77354,
+          "longitude": -61.04694
+        },
+        {
+          "name": {
+            "en": "Dacretin"
+          },
+          "latitude": 13.79617,
+          "longitude": -61.03574
+        },
+        {
+          "name": {
+            "en": "Debreuil"
+          },
+          "latitude": 13.79033,
+          "longitude": -61.02585
+        },
+        {
+          "name": {
+            "en": "Delcer"
+          },
+          "latitude": 13.80121,
+          "longitude": -61.05892
+        },
+        {
+          "name": {
+            "en": "Derriere Morne"
+          },
+          "latitude": 13.80916,
+          "longitude": -61.05101
+        },
+        {
+          "name": {
+            "en": "Dugard"
+          },
+          "latitude": 13.80386,
+          "longitude": -61.02831
+        },
+        {
+          "name": {
+            "en": "Dupre"
+          },
+          "latitude": 13.79435,
+          "longitude": -61.02947
+        },
+        {
+          "name": {
+            "en": "Esperance"
+          },
+          "latitude": 13.80775,
+          "longitude": -61.05331
+        },
+        {
+          "name": {
+            "en": "Franciou"
+          },
+          "latitude": 13.804,
+          "longitude": -61.05448
+        },
+        {
+          "name": {
+            "en": "Industry"
+          },
+          "latitude": 13.79127,
+          "longitude": -61.05992
+        },
+        {
+          "name": {
+            "en": "La Fargue"
+          },
+          "latitude": 13.77197,
+          "longitude": -61.04124
+        },
+        {
+          "name": {
+            "en": "La Pointe"
+          },
+          "latitude": 13.79443,
+          "longitude": -61.06497
+        },
+        {
+          "name": {
+            "en": "Lamaze"
+          },
+          "latitude": 13.80649,
+          "longitude": -61.01906
+        },
+        {
+          "name": {
+            "en": "Le Riche"
+          },
+          "latitude": 13.78365,
+          "longitude": -61.04815
+        },
+        {
+          "name": {
+            "en": "Mailly Motete"
+          },
+          "latitude": 13.81788,
+          "longitude": -61.02772
+        },
+        {
+          "name": {
+            "en": "Martin"
+          },
+          "latitude": 13.78941,
+          "longitude": -61.04542
+        },
+        {
+          "name": {
+            "en": "Mongouge"
+          },
+          "latitude": 13.80301,
+          "longitude": -61.04524
+        },
+        {
+          "name": {
+            "en": "Monzie"
+          },
+          "latitude": 13.80669,
+          "longitude": -61.02297
+        },
+        {
+          "name": {
+            "en": "Morne Jacques"
+          },
+          "latitude": 13.81162,
+          "longitude": -61.03165
+        },
+        {
+          "name": {
+            "en": "Morne Sion"
+          },
+          "latitude": 13.79246,
+          "longitude": -61.05467
+        },
+        {
+          "name": {
+            "en": "Motete"
+          },
+          "latitude": 13.81325,
+          "longitude": -61.0232
+        },
+        {
+          "name": {
+            "en": "New Field/Fiette"
+          },
+          "latitude": 13.78815,
+          "longitude": -61.05216
+        },
+        {
+          "name": {
+            "en": "Ponyon"
+          },
+          "latitude": 13.79639,
+          "longitude": -61.0436
+        },
+        {
+          "name": {
+            "en": "Raveneau"
+          },
+          "latitude": 13.81018,
+          "longitude": -61.04642
+        },
+        {
+          "name": {
+            "en": "Reunion"
+          },
+          "latitude": 13.77861,
+          "longitude": -61.04531
+        },
+        {
+          "name": {
+            "en": "River Doree"
+          },
+          "latitude": 13.76769,
+          "longitude": -61.03646
+        },
+        {
+          "name": {
+            "en": "Roblot"
+          },
+          "latitude": 13.80323,
+          "longitude": -61.02297
+        },
+        {
+          "name": {
+            "en": "Sauzay"
+          },
+          "latitude": 13.77743,
+          "longitude": -61.03368
+        },
+        {
+          "name": {
+            "en": "Savannesgeorge/Constitution"
+          },
+          "latitude": 13.77855,
+          "longitude": -61.05139
+        },
+        {
+          "name": {
+            "en": "Victoria"
+          },
+          "latitude": 13.81116,
+          "longitude": -61.03963
+        },
+        {
+          "name": {
+            "en": "Village"
+          },
+          "latitude": 13.77464,
+          "longitude": -61.0502
+        }
+      ]
+    },
+    {
+      "code": "LC-05",
+      "name": {
+        "en": "Dennery"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Anse Canot"
+          },
+          "latitude": 13.90871,
+          "longitude": -60.9044
+        },
+        {
+          "name": {
+            "en": "Athens"
+          },
+          "latitude": 13.90574,
+          "longitude": -60.89184
+        },
+        {
+          "name": {
+            "en": "Au Leon"
+          },
+          "latitude": 13.95245,
+          "longitude": -60.90456
+        },
+        {
+          "name": {
+            "en": "Bara Bara"
+          },
+          "latitude": 13.95911,
+          "longitude": -60.93414
+        },
+        {
+          "name": {
+            "en": "Bazile"
+          },
+          "latitude": 13.91082,
+          "longitude": -60.9243
+        },
+        {
+          "name": {
+            "en": "Belmont"
+          },
+          "latitude": 13.95044,
+          "longitude": -60.93276
+        },
+        {
+          "name": {
+            "en": "Bois Joli"
+          },
+          "latitude": 13.9202,
+          "longitude": -60.91409
+        },
+        {
+          "name": {
+            "en": "Bordelais"
+          },
+          "latitude": 13.89552,
+          "longitude": -60.90092
+        },
+        {
+          "name": {
+            "en": "Bosquet D'Or"
+          },
+          "latitude": 13.92886,
+          "longitude": -60.91127
+        },
+        {
+          "name": {
+            "en": "Delaide"
+          },
+          "latitude": 13.92993,
+          "longitude": -60.90584
+        },
+        {
+          "name": {
+            "en": "Dennery"
+          },
+          "latitude": 13.91409,
+          "longitude": -60.89132
+        },
+        {
+          "name": {
+            "en": "Dennery By Pass"
+          },
+          "latitude": 13.91164,
+          "longitude": -60.89454
+        },
+        {
+          "name": {
+            "en": "Dennery By Pass/Green Mountain"
+          },
+          "latitude": 13.91094,
+          "longitude": -60.8981
+        },
+        {
+          "name": {
+            "en": "Dennery By Pass/Rocky Lane"
+          },
+          "latitude": 13.91443,
+          "longitude": -60.90017
+        },
+        {
+          "name": {
+            "en": "Dennery By Pass/White Rock Gardens"
+          },
+          "latitude": 13.91424,
+          "longitude": -60.89333
+        },
+        {
+          "name": {
+            "en": "Derniere Riviere"
+          },
+          "latitude": 13.95679,
+          "longitude": -60.92578
+        },
+        {
+          "name": {
+            "en": "Derniere Riviere/Fond Maricient"
+          },
+          "latitude": 13.9513,
+          "longitude": -60.92218
+        },
+        {
+          "name": {
+            "en": "Derniere Riviere/Mardi Gras/Morne Caca Cochon"
+          },
+          "latitude": 13.96288,
+          "longitude": -60.92029
+        },
+        {
+          "name": {
+            "en": "Derniere Riviere/Morne Panache"
+          },
+          "latitude": 13.95252,
+          "longitude": -60.92919
+        },
+        {
+          "name": {
+            "en": "Despinoze"
+          },
+          "latitude": 13.94971,
+          "longitude": -60.91182
+        },
+        {
+          "name": {
+            "en": "Dubonnaire"
+          },
+          "latitude": 13.92808,
+          "longitude": -60.92336
+        },
+        {
+          "name": {
+            "en": "Gadette"
+          },
+          "latitude": 13.95937,
+          "longitude": -60.91029
+        },
+        {
+          "name": {
+            "en": "Grande Ravine"
+          },
+          "latitude": 13.94263,
+          "longitude": -60.93404
+        },
+        {
+          "name": {
+            "en": "Grande Riviere"
+          },
+          "latitude": 13.93306,
+          "longitude": -60.93239
+        },
+        {
+          "name": {
+            "en": "Grande Riviere/Des Branch"
+          },
+          "latitude": 13.93383,
+          "longitude": -60.93499
+        },
+        {
+          "name": {
+            "en": "Grande Riviere/En Leur Morne/Discompere"
+          },
+          "latitude": 13.93223,
+          "longitude": -60.93461
+        },
+        {
+          "name": {
+            "en": "Grande Riviere/Funier"
+          },
+          "latitude": 13.9324,
+          "longitude": -60.93305
+        },
+        {
+          "name": {
+            "en": "Grande Riviere/Morne Caca Cochon"
+          },
+          "latitude": 13.9296,
+          "longitude": -60.93794
+        },
+        {
+          "name": {
+            "en": "La Caye"
+          },
+          "latitude": 13.9329,
+          "longitude": -60.90434
+        },
+        {
+          "name": {
+            "en": "La Pelle"
+          },
+          "latitude": 13.94096,
+          "longitude": -60.90569
+        },
+        {
+          "name": {
+            "en": "La Pointe"
+          },
+          "latitude": 13.91525,
+          "longitude": -60.8883
+        },
+        {
+          "name": {
+            "en": "La Ressource"
+          },
+          "latitude": 13.94293,
+          "longitude": -60.91585
+        },
+        {
+          "name": {
+            "en": "Lumiere"
+          },
+          "latitude": 13.93928,
+          "longitude": -60.88889
+        },
+        {
+          "name": {
+            "en": "Morne Panache"
+          },
+          "latitude": 13.92167,
+          "longitude": -60.93654
+        },
+        {
+          "name": {
+            "en": "Riche Fond"
+          },
+          "latitude": 13.93644,
+          "longitude": -60.92026
+        },
+        {
+          "name": {
+            "en": "Riche Fond/La Belle Vie"
+          },
+          "latitude": 13.93782,
+          "longitude": -60.92908
+        },
+        {
+          "name": {
+            "en": "Riche Fond/New Village"
+          },
+          "latitude": 13.93648,
+          "longitude": -60.92394
+        },
+        {
+          "name": {
+            "en": "St. Joseph Estate"
+          },
+          "latitude": 13.90066,
+          "longitude": -60.91444
+        },
+        {
+          "name": {
+            "en": "Thamazo"
+          },
+          "latitude": 13.93245,
+          "longitude": -60.94786
+        }
+      ]
+    },
+    {
+      "code": "LC-06",
+      "name": {
+        "en": "Gros Islet"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Beausejour"
+          },
+          "latitude": 14.07647,
+          "longitude": -60.9378
+        },
+        {
+          "name": {
+            "en": "Beausejour/Fostin'S Development"
+          },
+          "latitude": 14.07445,
+          "longitude": -60.92929
+        },
+        {
+          "name": {
+            "en": "Beausejour/Ndc"
+          },
+          "latitude": 14.07733,
+          "longitude": -60.92683
+        },
+        {
+          "name": {
+            "en": "Bella Rosa"
+          },
+          "latitude": 14.07711,
+          "longitude": -60.94568
+        },
+        {
+          "name": {
+            "en": "Belle Vue"
+          },
+          "latitude": 14.0847,
+          "longitude": -60.94342
+        },
+        {
+          "name": {
+            "en": "Belle Vue Estate"
+          },
+          "latitude": 14.0884,
+          "longitude": -60.94613
+        },
+        {
+          "name": {
+            "en": "Boguis"
+          },
+          "latitude": 14.01548,
+          "longitude": -60.92089
+        },
+        {
+          "name": {
+            "en": "Boguis/Desa Blond"
+          },
+          "latitude": 14.01057,
+          "longitude": -60.92565
+        },
+        {
+          "name": {
+            "en": "Bois D'Orange"
+          },
+          "latitude": 14.05803,
+          "longitude": -60.95992
+        },
+        {
+          "name": {
+            "en": "Bois D'Ornange/Trouya"
+          },
+          "latitude": 14.06198,
+          "longitude": -60.96914
+        },
+        {
+          "name": {
+            "en": "Bonneterre"
+          },
+          "latitude": 14.06994,
+          "longitude": -60.94146
+        },
+        {
+          "name": {
+            "en": "Bonneterre Gardens"
+          },
+          "latitude": 14.06737,
+          "longitude": -60.93393
+        },
+        {
+          "name": {
+            "en": "Cap Estate"
+          },
+          "latitude": 14.0941,
+          "longitude": -60.93592
+        },
+        {
+          "name": {
+            "en": "Cap Estate/Becune Point"
+          },
+          "latitude": 14.0927,
+          "longitude": -60.95161
+        },
+        {
+          "name": {
+            "en": "Cap Estate/Caribbean Park"
+          },
+          "latitude": 14.10019,
+          "longitude": -60.92446
+        },
+        {
+          "name": {
+            "en": "Cap Estate/Golf Park"
+          },
+          "latitude": 14.09998,
+          "longitude": -60.93705
+        },
+        {
+          "name": {
+            "en": "Cap Estate/Lower Saline Point"
+          },
+          "latitude": 14.10515,
+          "longitude": -60.9431
+        },
+        {
+          "name": {
+            "en": "Cap Estate/Mon Du Cap"
+          },
+          "latitude": 14.10554,
+          "longitude": -60.93758
+        },
+        {
+          "name": {
+            "en": "Cap Estate/Ranch Site"
+          },
+          "latitude": 14.10437,
+          "longitude": -60.9336
+        },
+        {
+          "name": {
+            "en": "Cap Estate/Saddlec Back"
+          },
+          "latitude": 14.10023,
+          "longitude": -60.94246
+        },
+        {
+          "name": {
+            "en": "Cap Estate/Upper Saline Point"
+          },
+          "latitude": 14.1074,
+          "longitude": -60.94487
+        },
+        {
+          "name": {
+            "en": "Cas En Bas"
+          },
+          "latitude": 14.08328,
+          "longitude": -60.93209
+        },
+        {
+          "name": {
+            "en": "Caye Manje'"
+          },
+          "latitude": 14.06629,
+          "longitude": -60.9356
+        },
+        {
+          "name": {
+            "en": "Corinth"
+          },
+          "latitude": 14.0471,
+          "longitude": -60.96046
+        },
+        {
+          "name": {
+            "en": "Corinth Estate"
+          },
+          "latitude": 14.04336,
+          "longitude": -60.95388
+        },
+        {
+          "name": {
+            "en": "Corinth/La Bel Lair"
+          },
+          "latitude": 14.04469,
+          "longitude": -60.94484
+        },
+        {
+          "name": {
+            "en": "Dauphin"
+          },
+          "latitude": 14.05647,
+          "longitude": -60.90188
+        },
+        {
+          "name": {
+            "en": "Des Barras"
+          },
+          "latitude": 13.99949,
+          "longitude": -60.90166
+        },
+        {
+          "name": {
+            "en": "Des Barras/Cacolie"
+          },
+          "latitude": 14.01687,
+          "longitude": -60.90097
+        },
+        {
+          "name": {
+            "en": "Desrameaux"
+          },
+          "latitude": 14.03681,
+          "longitude": -60.92697
+        },
+        {
+          "name": {
+            "en": "Garrand"
+          },
+          "latitude": 14.00424,
+          "longitude": -60.9327
+        },
+        {
+          "name": {
+            "en": "Grand Riviere"
+          },
+          "latitude": 14.03546,
+          "longitude": -60.95152
+        },
+        {
+          "name": {
+            "en": "Grande Riviere/Assou Canal"
+          },
+          "latitude": 14.03975,
+          "longitude": -60.95121
+        },
+        {
+          "name": {
+            "en": "Grande Riviere/Ingle Woods"
+          },
+          "latitude": 14.03091,
+          "longitude": -60.95592
+        },
+        {
+          "name": {
+            "en": "Grande Riviere/Morne Serpent"
+          },
+          "latitude": 14.03509,
+          "longitude": -60.9606
+        },
+        {
+          "name": {
+            "en": "Grande Riviere/Norbert"
+          },
+          "latitude": 14.04317,
+          "longitude": -60.94933
+        },
+        {
+          "name": {
+            "en": "Grande Riviere/Piat"
+          },
+          "latitude": 14.03926,
+          "longitude": -60.94361
+        },
+        {
+          "name": {
+            "en": "Grande Riviere/White Rock"
+          },
+          "latitude": 14.03618,
+          "longitude": -60.95556
+        },
+        {
+          "name": {
+            "en": "Gros Islet"
+          },
+          "latitude": 14.06667,
+          "longitude": -60.95
+        },
+        {
+          "name": {
+            "en": "Gros Islet/Edge Water"
+          },
+          "latitude": 14.07912,
+          "longitude": -60.94973
+        },
+        {
+          "name": {
+            "en": "L'Hermitage"
+          },
+          "latitude": 14.06521,
+          "longitude": -60.93967
+        },
+        {
+          "name": {
+            "en": "La Croix Chabourgh"
+          },
+          "latitude": 14.01147,
+          "longitude": -60.94025
+        },
+        {
+          "name": {
+            "en": "La Guerre"
+          },
+          "latitude": 14.02191,
+          "longitude": -60.92491
+        },
+        {
+          "name": {
+            "en": "La Guerre/Chicken Back Street"
+          },
+          "latitude": 14.02387,
+          "longitude": -60.93108
+        },
+        {
+          "name": {
+            "en": "Marisule"
+          },
+          "latitude": 14.04621,
+          "longitude": -60.97063
+        },
+        {
+          "name": {
+            "en": "Marisule/Bon Air"
+          },
+          "latitude": 14.05062,
+          "longitude": -60.97124
+        },
+        {
+          "name": {
+            "en": "Marisule/East Winds"
+          },
+          "latitude": 14.05407,
+          "longitude": -60.96849
+        },
+        {
+          "name": {
+            "en": "Marisule/La Brellotte"
+          },
+          "latitude": 14.0571,
+          "longitude": -60.97183
+        },
+        {
+          "name": {
+            "en": "Marisule/Top Of The World"
+          },
+          "latitude": 14.04385,
+          "longitude": -60.96885
+        },
+        {
+          "name": {
+            "en": "Marquis Estate"
+          },
+          "latitude": 14.0296,
+          "longitude": -60.90732
+        },
+        {
+          "name": {
+            "en": "Massade"
+          },
+          "latitude": 14.08292,
+          "longitude": -60.94946
+        },
+        {
+          "name": {
+            "en": "Monchy"
+          },
+          "latitude": 14.05502,
+          "longitude": -60.92623
+        },
+        {
+          "name": {
+            "en": "Monchy/Careffe"
+          },
+          "latitude": 14.0593,
+          "longitude": -60.95069
+        },
+        {
+          "name": {
+            "en": "Monchy/Cletus Village"
+          },
+          "latitude": 14.05137,
+          "longitude": -60.9238
+        },
+        {
+          "name": {
+            "en": "Monchy/La Borne"
+          },
+          "latitude": 14.04628,
+          "longitude": -60.91961
+        },
+        {
+          "name": {
+            "en": "Monchy/La Borne/Sans Souci"
+          },
+          "latitude": 14.04504,
+          "longitude": -60.89961
+        },
+        {
+          "name": {
+            "en": "Monchy/La Retraite"
+          },
+          "latitude": 14.06421,
+          "longitude": -60.94564
+        },
+        {
+          "name": {
+            "en": "Monchy/Lafeuillee"
+          },
+          "latitude": 14.0595,
+          "longitude": -60.94086
+        },
+        {
+          "name": {
+            "en": "Monchy/Lawi Fwen"
+          },
+          "latitude": 14.05802,
+          "longitude": -60.92906
+        },
+        {
+          "name": {
+            "en": "Monchy/Malgretoute"
+          },
+          "latitude": 14.04108,
+          "longitude": -60.91912
+        },
+        {
+          "name": {
+            "en": "Monchy/Moulin A Vent"
+          },
+          "latitude": 14.06283,
+          "longitude": -60.95025
+        },
+        {
+          "name": {
+            "en": "Monchy/Ravine Macock"
+          },
+          "latitude": 14.04789,
+          "longitude": -60.92511
+        },
+        {
+          "name": {
+            "en": "Monchy/Riviere Mitan"
+          },
+          "latitude": 14.04987,
+          "longitude": -60.94029
+        },
+        {
+          "name": {
+            "en": "Monchy/Ti Dauphin"
+          },
+          "latitude": 14.04081,
+          "longitude": -60.93225
+        },
+        {
+          "name": {
+            "en": "Monchy/Vieux Sucreic"
+          },
+          "latitude": 14.04996,
+          "longitude": -60.94992
+        },
+        {
+          "name": {
+            "en": "Monchy/Vieux Sucreic/Bois D'Inde"
+          },
+          "latitude": 14.05613,
+          "longitude": -60.95151
+        },
+        {
+          "name": {
+            "en": "Monchy/Vieux Sucreic/Careffe"
+          },
+          "latitude": 14.05652,
+          "longitude": -60.94948
+        },
+        {
+          "name": {
+            "en": "Mongiraud"
+          },
+          "latitude": 14.06287,
+          "longitude": -60.95722
+        },
+        {
+          "name": {
+            "en": "Monier"
+          },
+          "latitude": 14.02951,
+          "longitude": -60.94098
+        },
+        {
+          "name": {
+            "en": "Morne Citon"
+          },
+          "latitude": 14.03004,
+          "longitude": -60.92813
+        },
+        {
+          "name": {
+            "en": "Paix Bouche"
+          },
+          "latitude": 14.01755,
+          "longitude": -60.93852
+        },
+        {
+          "name": {
+            "en": "Pigeon Island"
+          },
+          "latitude": 14.08965,
+          "longitude": -60.95724
+        },
+        {
+          "name": {
+            "en": "Plateau"
+          },
+          "latitude": 14.02612,
+          "longitude": -60.93474
+        },
+        {
+          "name": {
+            "en": "Reduit"
+          },
+          "latitude": 14.06829,
+          "longitude": -60.96145
+        },
+        {
+          "name": {
+            "en": "Reduit Orchard"
+          },
+          "latitude": 14.06594,
+          "longitude": -60.9534
+        },
+        {
+          "name": {
+            "en": "Reduit Park"
+          },
+          "latitude": 14.06622,
+          "longitude": -60.9556
+        },
+        {
+          "name": {
+            "en": "Rodney Bay"
+          },
+          "latitude": 14.07292,
+          "longitude": -60.95443
+        },
+        {
+          "name": {
+            "en": "Rodney Heights"
+          },
+          "latitude": 14.06731,
+          "longitude": -60.94906
+        },
+        {
+          "name": {
+            "en": "Union"
+          },
+          "latitude": 14.02907,
+          "longitude": -60.9648
+        },
+        {
+          "name": {
+            "en": "Union Terrace"
+          },
+          "latitude": 14.02654,
+          "longitude": -60.9571
+        },
+        {
+          "name": {
+            "en": "Union/Ti Morne"
+          },
+          "latitude": 14.02283,
+          "longitude": -60.95272
+        }
+      ]
+    },
+    {
+      "code": "LC-07",
+      "name": {
+        "en": "Laborie"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Annus"
+          },
+          "latitude": 13.77449,
+          "longitude": -61.00511
+        },
+        {
+          "name": {
+            "en": "Balca"
+          },
+          "latitude": 13.77117,
+          "longitude": -61.02389
+        },
+        {
+          "name": {
+            "en": "Balca/En Leur Ba"
+          },
+          "latitude": 13.77638,
+          "longitude": -61.01931
+        },
+        {
+          "name": {
+            "en": "Balembouche"
+          },
+          "latitude": 13.75992,
+          "longitude": -61.0284
+        },
+        {
+          "name": {
+            "en": "Banse"
+          },
+          "latitude": 13.79211,
+          "longitude": -60.99282
+        },
+        {
+          "name": {
+            "en": "Banse La Grace"
+          },
+          "latitude": 13.7815,
+          "longitude": -60.9984
+        },
+        {
+          "name": {
+            "en": "Bongalo"
+          },
+          "latitude": 13.76666,
+          "longitude": -61.02991
+        },
+        {
+          "name": {
+            "en": "Daban"
+          },
+          "latitude": 13.8049,
+          "longitude": -61.00435
+        },
+        {
+          "name": {
+            "en": "Fond Berange"
+          },
+          "latitude": 13.78238,
+          "longitude": -61.00346
+        },
+        {
+          "name": {
+            "en": "Gayabois"
+          },
+          "latitude": 13.78643,
+          "longitude": -61.01835
+        },
+        {
+          "name": {
+            "en": "Gentil"
+          },
+          "latitude": 13.76816,
+          "longitude": -60.98877
+        },
+        {
+          "name": {
+            "en": "Getrine"
+          },
+          "latitude": 13.78192,
+          "longitude": -61.00741
+        },
+        {
+          "name": {
+            "en": "Giraud"
+          },
+          "latitude": 13.79254,
+          "longitude": -61.00843
+        },
+        {
+          "name": {
+            "en": "H'Erelle"
+          },
+          "latitude": 13.75599,
+          "longitude": -60.98698
+        },
+        {
+          "name": {
+            "en": "Kennedy Highway/Laborie Bypass"
+          },
+          "latitude": 13.7538,
+          "longitude": -60.99594
+        },
+        {
+          "name": {
+            "en": "La Haut"
+          },
+          "latitude": 13.79207,
+          "longitude": -61.00014
+        },
+        {
+          "name": {
+            "en": "La Perle"
+          },
+          "latitude": 13.76483,
+          "longitude": -61.02088
+        },
+        {
+          "name": {
+            "en": "Laborie"
+          },
+          "latitude": 13.75,
+          "longitude": -60.98333
+        },
+        {
+          "name": {
+            "en": "Londonderry"
+          },
+          "latitude": 13.77623,
+          "longitude": -61.01362
+        },
+        {
+          "name": {
+            "en": "Macdomel"
+          },
+          "latitude": 13.77497,
+          "longitude": -60.98508
+        },
+        {
+          "name": {
+            "en": "Morne Gomier"
+          },
+          "latitude": 13.76552,
+          "longitude": -60.99524
+        },
+        {
+          "name": {
+            "en": "Morne Le Blanc"
+          },
+          "latitude": 13.75868,
+          "longitude": -60.99913
+        },
+        {
+          "name": {
+            "en": "Olibo"
+          },
+          "latitude": 13.77628,
+          "longitude": -60.99931
+        },
+        {
+          "name": {
+            "en": "Parc Estate"
+          },
+          "latitude": 13.79639,
+          "longitude": -61.01613
+        },
+        {
+          "name": {
+            "en": "Piaye"
+          },
+          "latitude": 13.75628,
+          "longitude": -61.02279
+        },
+        {
+          "name": {
+            "en": "Saltibus"
+          },
+          "latitude": 13.81211,
+          "longitude": -61.00982
+        },
+        {
+          "name": {
+            "en": "Saphire"
+          },
+          "latitude": 13.7567,
+          "longitude": -61.01209
+        },
+        {
+          "name": {
+            "en": "Tete Morne"
+          },
+          "latitude": 13.7616,
+          "longitude": -61.03397
+        },
+        {
+          "name": {
+            "en": "Village"
+          },
+          "latitude": 13.74927,
+          "longitude": -60.99375
+        },
+        {
+          "name": {
+            "en": "Warwick/Daban"
+          },
+          "latitude": 13.81084,
+          "longitude": -61.00047
+        }
+      ]
+    },
+    {
+      "code": "LC-08",
+      "name": {
+        "en": "Micoud"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Anse Ger"
+          },
+          "latitude": 13.79567,
+          "longitude": -60.91567
+        },
+        {
+          "name": {
+            "en": "Beauchamp"
+          },
+          "latitude": 13.81778,
+          "longitude": -60.91528
+        },
+        {
+          "name": {
+            "en": "Blanchard"
+          },
+          "latitude": 13.80616,
+          "longitude": -60.9463
+        },
+        {
+          "name": {
+            "en": "Canelles"
+          },
+          "latitude": 13.78515,
+          "longitude": -60.91789
+        },
+        {
+          "name": {
+            "en": "Cazuca"
+          },
+          "latitude": 13.80002,
+          "longitude": -60.90481
+        },
+        {
+          "name": {
+            "en": "Chique/Blanchard"
+          },
+          "latitude": 13.8012,
+          "longitude": -60.9497
+        },
+        {
+          "name": {
+            "en": "Coolie Town"
+          },
+          "latitude": 13.85429,
+          "longitude": -60.9138
+        },
+        {
+          "name": {
+            "en": "Delomel"
+          },
+          "latitude": 13.80338,
+          "longitude": -60.92927
+        },
+        {
+          "name": {
+            "en": "Des Blanchard"
+          },
+          "latitude": 13.81155,
+          "longitude": -60.93423
+        },
+        {
+          "name": {
+            "en": "Desruisseaux"
+          },
+          "latitude": 13.7964,
+          "longitude": -60.9354
+        },
+        {
+          "name": {
+            "en": "Dugard"
+          },
+          "latitude": 13.8109,
+          "longitude": -60.91415
+        },
+        {
+          "name": {
+            "en": "Escap"
+          },
+          "latitude": 13.83031,
+          "longitude": -60.89673
+        },
+        {
+          "name": {
+            "en": "Fond D'Lor/Dugard"
+          },
+          "latitude": 13.81069,
+          "longitude": -60.92119
+        },
+        {
+          "name": {
+            "en": "Fond Estate"
+          },
+          "latitude": 13.84243,
+          "longitude": -60.91862
+        },
+        {
+          "name": {
+            "en": "Fond/Desruisseaux"
+          },
+          "latitude": 13.79421,
+          "longitude": -60.94128
+        },
+        {
+          "name": {
+            "en": "Gomier"
+          },
+          "latitude": 13.81485,
+          "longitude": -60.95252
+        },
+        {
+          "name": {
+            "en": "Gouette"
+          },
+          "latitude": 13.8065,
+          "longitude": -60.93964
+        },
+        {
+          "name": {
+            "en": "Honeymoon Beach"
+          },
+          "latitude": 13.77746,
+          "longitude": -60.90493
+        },
+        {
+          "name": {
+            "en": "L'Eau Mineau"
+          },
+          "latitude": 13.80672,
+          "longitude": -60.92103
+        },
+        {
+          "name": {
+            "en": "La Courville"
+          },
+          "latitude": 13.81056,
+          "longitude": -60.92766
+        },
+        {
+          "name": {
+            "en": "La Pointe"
+          },
+          "latitude": 13.84593,
+          "longitude": -60.89332
+        },
+        {
+          "name": {
+            "en": "La Tille"
+          },
+          "latitude": 13.82744,
+          "longitude": -60.91716
+        },
+        {
+          "name": {
+            "en": "Lezy"
+          },
+          "latitude": 13.80372,
+          "longitude": -60.93906
+        },
+        {
+          "name": {
+            "en": "Lombard"
+          },
+          "latitude": 13.85772,
+          "longitude": -60.9151
+        },
+        {
+          "name": {
+            "en": "Mahaut"
+          },
+          "latitude": 13.84391,
+          "longitude": -60.95397
+        },
+        {
+          "name": {
+            "en": "Malgretoute"
+          },
+          "latitude": 13.84199,
+          "longitude": -60.90411
+        },
+        {
+          "name": {
+            "en": "Mamiku"
+          },
+          "latitude": 13.86744,
+          "longitude": -60.90184
+        },
+        {
+          "name": {
+            "en": "Micoud"
+          },
+          "latitude": 13.81667,
+          "longitude": -60.9
+        },
+        {
+          "name": {
+            "en": "Mon Repos"
+          },
+          "latitude": 13.85865,
+          "longitude": -60.89591
+        },
+        {
+          "name": {
+            "en": "Moreau"
+          },
+          "latitude": 13.82676,
+          "longitude": -60.94238
+        },
+        {
+          "name": {
+            "en": "Morne Vient"
+          },
+          "latitude": 13.80646,
+          "longitude": -60.95241
+        },
+        {
+          "name": {
+            "en": "Myette Gardens"
+          },
+          "latitude": 13.81862,
+          "longitude": -60.9044
+        },
+        {
+          "name": {
+            "en": "New Village"
+          },
+          "latitude": 13.82446,
+          "longitude": -60.89864
+        },
+        {
+          "name": {
+            "en": "Paix Bouche"
+          },
+          "latitude": 13.81556,
+          "longitude": -60.94073
+        },
+        {
+          "name": {
+            "en": "Palmiste Estate"
+          },
+          "latitude": 13.85377,
+          "longitude": -60.96007
+        },
+        {
+          "name": {
+            "en": "Patience"
+          },
+          "latitude": 13.85,
+          "longitude": -60.90874
+        },
+        {
+          "name": {
+            "en": "Planard"
+          },
+          "latitude": 13.80521,
+          "longitude": -60.9154
+        },
+        {
+          "name": {
+            "en": "Praslin"
+          },
+          "latitude": 13.87545,
+          "longitude": -60.89717
+        },
+        {
+          "name": {
+            "en": "Rameau"
+          },
+          "latitude": 13.83055,
+          "longitude": -60.92375
+        },
+        {
+          "name": {
+            "en": "Saint Marie Road"
+          },
+          "latitude": 13.85444,
+          "longitude": -60.91803
+        },
+        {
+          "name": {
+            "en": "Saut"
+          },
+          "latitude": 13.81272,
+          "longitude": -60.94375
+        },
+        {
+          "name": {
+            "en": "Savannes"
+          },
+          "latitude": 13.77098,
+          "longitude": -60.92017
+        },
+        {
+          "name": {
+            "en": "St Helen Estate"
+          },
+          "latitude": 13.78735,
+          "longitude": -60.90726
+        },
+        {
+          "name": {
+            "en": "Ti Riviere"
+          },
+          "latitude": 13.83006,
+          "longitude": -60.93774
+        },
+        {
+          "name": {
+            "en": "Ti Rocher"
+          },
+          "latitude": 13.81734,
+          "longitude": -60.92858
+        },
+        {
+          "name": {
+            "en": "Troumassee"
+          },
+          "latitude": 13.80892,
+          "longitude": -60.90341
+        },
+        {
+          "name": {
+            "en": "Village"
+          },
+          "latitude": 13.81904,
+          "longitude": -60.89692
+        },
+        {
+          "name": {
+            "en": "Volet"
+          },
+          "latitude": 13.82626,
+          "longitude": -60.90789
+        }
+      ]
+    },
+    {
+      "code": "LC-10",
+      "name": {
+        "en": "Soufrière"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Anse Chastanet"
+          },
+          "latitude": 13.86426,
+          "longitude": -61.07016
+        },
+        {
+          "name": {
+            "en": "Barons Drive/Coin De L'Anse"
+          },
+          "latitude": 13.85138,
+          "longitude": -61.05939
+        },
+        {
+          "name": {
+            "en": "Beasejour/Myers Bridge"
+          },
+          "latitude": 13.82147,
+          "longitude": -61.03396
+        },
+        {
+          "name": {
+            "en": "Belle Plaine"
+          },
+          "latitude": 13.827,
+          "longitude": -61.03127
+        },
+        {
+          "name": {
+            "en": "Bellefond"
+          },
+          "latitude": 13.82753,
+          "longitude": -61.04269
+        },
+        {
+          "name": {
+            "en": "Belvedere"
+          },
+          "latitude": 13.8344,
+          "longitude": -61.01771
+        },
+        {
+          "name": {
+            "en": "Bois D'Inde"
+          },
+          "latitude": 13.8365,
+          "longitude": -61.03491
+        },
+        {
+          "name": {
+            "en": "Bouton"
+          },
+          "latitude": 13.87936,
+          "longitude": -61.06449
+        },
+        {
+          "name": {
+            "en": "Calvary/Calvaire"
+          },
+          "latitude": 13.85035,
+          "longitude": -61.0562
+        },
+        {
+          "name": {
+            "en": "Cenac"
+          },
+          "latitude": 13.87207,
+          "longitude": -61.04243
+        },
+        {
+          "name": {
+            "en": "Chateau Belair"
+          },
+          "latitude": 13.8183,
+          "longitude": -61.0535
+        },
+        {
+          "name": {
+            "en": "Colombette"
+          },
+          "latitude": 13.86861,
+          "longitude": -61.0499
+        },
+        {
+          "name": {
+            "en": "Compar"
+          },
+          "latitude": 13.83586,
+          "longitude": -61.05934
+        },
+        {
+          "name": {
+            "en": "Cresslands"
+          },
+          "latitude": 13.85999,
+          "longitude": -61.04032
+        },
+        {
+          "name": {
+            "en": "Deville"
+          },
+          "latitude": 13.81372,
+          "longitude": -61.05049
+        },
+        {
+          "name": {
+            "en": "Diamond/Diamond Estate"
+          },
+          "latitude": 13.85168,
+          "longitude": -61.04352
+        },
+        {
+          "name": {
+            "en": "Esperance"
+          },
+          "latitude": 13.84562,
+          "longitude": -61.03713
+        },
+        {
+          "name": {
+            "en": "Etangs"
+          },
+          "latitude": 13.81902,
+          "longitude": -61.04056
+        },
+        {
+          "name": {
+            "en": "Fond Bernier"
+          },
+          "latitude": 13.85845,
+          "longitude": -61.05949
+        },
+        {
+          "name": {
+            "en": "Fond Cacoa"
+          },
+          "latitude": 13.85442,
+          "longitude": -61.05077
+        },
+        {
+          "name": {
+            "en": "Fond Doux"
+          },
+          "latitude": 13.82096,
+          "longitude": -61.04952
+        },
+        {
+          "name": {
+            "en": "Fond Gens Libre"
+          },
+          "latitude": 13.80791,
+          "longitude": -61.06259
+        },
+        {
+          "name": {
+            "en": "Jalousie"
+          },
+          "latitude": 13.82811,
+          "longitude": -61.05891
+        },
+        {
+          "name": {
+            "en": "La Haut"
+          },
+          "latitude": 13.86276,
+          "longitude": -61.05584
+        },
+        {
+          "name": {
+            "en": "La Pearle"
+          },
+          "latitude": 13.8574,
+          "longitude": -61.0476
+        },
+        {
+          "name": {
+            "en": "Lenny Hill"
+          },
+          "latitude": 13.85059,
+          "longitude": -61.05906
+        },
+        {
+          "name": {
+            "en": "Malgretoute"
+          },
+          "latitude": 13.84233,
+          "longitude": -61.05998
+        },
+        {
+          "name": {
+            "en": "Migny"
+          },
+          "latitude": 13.84166,
+          "longitude": -61.01808
+        },
+        {
+          "name": {
+            "en": "Mocha"
+          },
+          "latitude": 13.83117,
+          "longitude": -61.02503
+        },
+        {
+          "name": {
+            "en": "Morne Bonin"
+          },
+          "latitude": 13.83174,
+          "longitude": -61.03285
+        },
+        {
+          "name": {
+            "en": "Morne La Croix"
+          },
+          "latitude": 13.81762,
+          "longitude": -61.06146
+        },
+        {
+          "name": {
+            "en": "Morne Lastic/Desruisseaux"
+          },
+          "latitude": 13.86628,
+          "longitude": -61.05894
+        },
+        {
+          "name": {
+            "en": "New Development"
+          },
+          "latitude": 13.86176,
+          "longitude": -61.04791
+        },
+        {
+          "name": {
+            "en": "Palmiste"
+          },
+          "latitude": 13.85843,
+          "longitude": -61.05575
+        },
+        {
+          "name": {
+            "en": "Plat Pays"
+          },
+          "latitude": 13.84085,
+          "longitude": -61.05571
+        },
+        {
+          "name": {
+            "en": "Rabot"
+          },
+          "latitude": 13.8338,
+          "longitude": -61.0454
+        },
+        {
+          "name": {
+            "en": "Ravine Claire"
+          },
+          "latitude": 13.85262,
+          "longitude": -61.02892
+        },
+        {
+          "name": {
+            "en": "Ruby Estate"
+          },
+          "latitude": 13.85812,
+          "longitude": -61.04983
+        },
+        {
+          "name": {
+            "en": "Soufrière"
+          },
+          "latitude": 13.85616,
+          "longitude": -61.0566
+        },
+        {
+          "name": {
+            "en": "Soufriere Estate"
+          },
+          "latitude": 13.85174,
+          "longitude": -61.0542
+        },
+        {
+          "name": {
+            "en": "St Phillip"
+          },
+          "latitude": 13.84432,
+          "longitude": -61.02766
+        },
+        {
+          "name": {
+            "en": "Stonefield"
+          },
+          "latitude": 13.84513,
+          "longitude": -61.0599
+        },
+        {
+          "name": {
+            "en": "Sulphur Springs"
+          },
+          "latitude": 13.84002,
+          "longitude": -61.04512
+        },
+        {
+          "name": {
+            "en": "Ti Boug"
+          },
+          "latitude": 13.83744,
+          "longitude": -61.0246
+        },
+        {
+          "name": {
+            "en": "Ti Delcer"
+          },
+          "latitude": 13.83386,
+          "longitude": -61.0641
+        },
+        {
+          "name": {
+            "en": "Toraille"
+          },
+          "latitude": 13.85704,
+          "longitude": -61.03296
+        },
+        {
+          "name": {
+            "en": "Town"
+          },
+          "latitude": 13.85491,
+          "longitude": -61.05764
+        },
+        {
+          "name": {
+            "en": "Union Vale"
+          },
+          "latitude": 13.81103,
+          "longitude": -61.05686
+        },
+        {
+          "name": {
+            "en": "Zenon"
+          },
+          "latitude": 13.85953,
+          "longitude": -61.03394
+        }
+      ]
+    },
+    {
+      "code": "LC-11",
+      "name": {
+        "en": "Vieux Fort"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Augier"
+          },
+          "latitude": 13.76669,
+          "longitude": -60.98063
+        },
+        {
+          "name": {
+            "en": "Beane Field"
+          },
+          "latitude": 13.73976,
+          "longitude": -60.94741
+        },
+        {
+          "name": {
+            "en": "Beausejour"
+          },
+          "latitude": 13.75229,
+          "longitude": -60.95519
+        },
+        {
+          "name": {
+            "en": "Belle Vue"
+          },
+          "latitude": 13.79218,
+          "longitude": -60.95379
+        },
+        {
+          "name": {
+            "en": "Black Bay"
+          },
+          "latitude": 13.7433,
+          "longitude": -60.98272
+        },
+        {
+          "name": {
+            "en": "Bruceville/Shanty Town"
+          },
+          "latitude": 13.72558,
+          "longitude": -60.94907
+        },
+        {
+          "name": {
+            "en": "Cacoa"
+          },
+          "latitude": 13.77889,
+          "longitude": -60.93862
+        },
+        {
+          "name": {
+            "en": "Cantonement"
+          },
+          "latitude": 13.75665,
+          "longitude": -60.97662
+        },
+        {
+          "name": {
+            "en": "Carierre"
+          },
+          "latitude": 13.78514,
+          "longitude": -60.96721
+        },
+        {
+          "name": {
+            "en": "Catin"
+          },
+          "latitude": 13.77694,
+          "longitude": -60.97973
+        },
+        {
+          "name": {
+            "en": "Cocoa Dan"
+          },
+          "latitude": 13.73087,
+          "longitude": -60.97195
+        },
+        {
+          "name": {
+            "en": "Coolie Town"
+          },
+          "latitude": 13.76911,
+          "longitude": -60.9668
+        },
+        {
+          "name": {
+            "en": "De Mailly"
+          },
+          "latitude": 13.79649,
+          "longitude": -60.94938
+        },
+        {
+          "name": {
+            "en": "Derierre Bois"
+          },
+          "latitude": 13.76807,
+          "longitude": -60.97725
+        },
+        {
+          "name": {
+            "en": "Derierre Morne"
+          },
+          "latitude": 13.74126,
+          "longitude": -60.96057
+        },
+        {
+          "name": {
+            "en": "Docamel/La Resource"
+          },
+          "latitude": 13.74202,
+          "longitude": -60.95604
+        },
+        {
+          "name": {
+            "en": "Eau Piquant/St Urbain"
+          },
+          "latitude": 13.76025,
+          "longitude": -60.94012
+        },
+        {
+          "name": {
+            "en": "En Bamboo"
+          },
+          "latitude": 13.78155,
+          "longitude": -60.94763
+        },
+        {
+          "name": {
+            "en": "Esperance"
+          },
+          "latitude": 13.78854,
+          "longitude": -60.96108
+        },
+        {
+          "name": {
+            "en": "Fond Capeche"
+          },
+          "latitude": 13.77449,
+          "longitude": -60.94835
+        },
+        {
+          "name": {
+            "en": "Fond Sabot"
+          },
+          "latitude": 13.77659,
+          "longitude": -60.95546
+        },
+        {
+          "name": {
+            "en": "Grace"
+          },
+          "latitude": 13.77678,
+          "longitude": -60.96637
+        },
+        {
+          "name": {
+            "en": "Hewanorra Orchard"
+          },
+          "latitude": 13.74486,
+          "longitude": -60.97284
+        },
+        {
+          "name": {
+            "en": "Hope Estate"
+          },
+          "latitude": 13.76477,
+          "longitude": -60.95831
+        },
+        {
+          "name": {
+            "en": "Industrial Estate"
+          },
+          "latitude": 13.74096,
+          "longitude": -60.97393
+        },
+        {
+          "name": {
+            "en": "Joyeux"
+          },
+          "latitude": 13.78313,
+          "longitude": -60.96068
+        },
+        {
+          "name": {
+            "en": "La Resource"
+          },
+          "latitude": 13.74799,
+          "longitude": -60.96237
+        },
+        {
+          "name": {
+            "en": "La Retraite"
+          },
+          "latitude": 13.75944,
+          "longitude": -60.96632
+        },
+        {
+          "name": {
+            "en": "La Tourney/Cedar Heights"
+          },
+          "latitude": 13.74114,
+          "longitude": -60.96517
+        },
+        {
+          "name": {
+            "en": "Maganier"
+          },
+          "latitude": 13.7945,
+          "longitude": -60.98513
+        },
+        {
+          "name": {
+            "en": "Morne Cayenne"
+          },
+          "latitude": 13.78349,
+          "longitude": -60.95506
+        },
+        {
+          "name": {
+            "en": "Morne Vert"
+          },
+          "latitude": 13.77899,
+          "longitude": -60.97617
+        },
+        {
+          "name": {
+            "en": "Moule A Chique"
+          },
+          "latitude": 13.71458,
+          "longitude": -60.94835
+        },
+        {
+          "name": {
+            "en": "Obrier"
+          },
+          "latitude": 13.76831,
+          "longitude": -60.97313
+        },
+        {
+          "name": {
+            "en": "Pierrot"
+          },
+          "latitude": 13.76857,
+          "longitude": -60.94381
+        },
+        {
+          "name": {
+            "en": "Plut"
+          },
+          "latitude": 13.77417,
+          "longitude": -60.96076
+        },
+        {
+          "name": {
+            "en": "Pomme"
+          },
+          "latitude": 13.75792,
+          "longitude": -60.98147
+        },
+        {
+          "name": {
+            "en": "St Jude'S Highway"
+          },
+          "latitude": 13.75867,
+          "longitude": -60.9736
+        },
+        {
+          "name": {
+            "en": "Tete Morne/Morne Andrew"
+          },
+          "latitude": 13.77114,
+          "longitude": -60.95194
+        },
+        {
+          "name": {
+            "en": "Town"
+          },
+          "latitude": 13.72835,
+          "longitude": -60.95408
+        },
+        {
+          "name": {
+            "en": "Vieux Fort"
+          },
+          "latitude": 13.71667,
+          "longitude": -60.95
+        },
+        {
+          "name": {
+            "en": "Vieux Fort/Laborie Highway"
+          },
+          "latitude": 13.73197,
+          "longitude": -60.95477
+        },
+        {
+          "name": {
+            "en": "Vige'"
+          },
+          "latitude": 13.78692,
+          "longitude": -60.9355
+        },
+        {
+          "name": {
+            "en": "Westall Group/The Mangue"
+          },
+          "latitude": 13.72707,
+          "longitude": -60.95312
+        }
+      ]
+    }
+  ]
+}

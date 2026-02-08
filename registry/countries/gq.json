@@ -1,0 +1,278 @@
+{
+  "code": "GQ",
+  "iso3": "GNQ",
+  "name": {
+    "en": "Equatorial Guinea",
+    "ar": "غينيا الاستوائية",
+    "de": "Äquatorial-Guinea",
+    "es": "Guinea Ecuatorial",
+    "fr": "Guinée-Équatoriale",
+    "hi": "इक्वेटोरियल गिनी",
+    "it": "Guinea Equatoriale",
+    "ja": "赤道ギニア",
+    "ko": "적도 기니",
+    "nl": "Equatoriaal-Guinea",
+    "pl": "Gwinea Równikowa",
+    "pt": "Guiné Equatorial",
+    "pt-BR": "Guiné Equatorial",
+    "ru": "Экваториальная Гвинея",
+    "tr": "Ekvator Ginesi",
+    "uk": "Екваторіальна Гвінея",
+    "zh": "赤道几内亚"
+  },
+  "phone": "+240",
+  "currency": "XAF",
+  "timezone": "Africa/Malabo",
+  "flag": "🇬🇶",
+  "regions": [
+    {
+      "code": "GQ-AN",
+      "name": {
+        "en": "Annobón"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "San Antonio de Palé"
+          },
+          "latitude": -1.4068,
+          "longitude": 5.63178
+        }
+      ]
+    },
+    {
+      "code": "GQ-BN",
+      "name": {
+        "en": "Bioko Norte"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Malabo",
+            "ar": "مالابو"
+          },
+          "latitude": 3.75578,
+          "longitude": 8.78166
+        },
+        {
+          "name": {
+            "en": "Rebola"
+          },
+          "latitude": 3.71667,
+          "longitude": 8.83333
+        },
+        {
+          "name": {
+            "en": "Santiago de Baney"
+          },
+          "latitude": 3.6992,
+          "longitude": 8.9084
+        }
+      ]
+    },
+    {
+      "code": "GQ-BS",
+      "name": {
+        "en": "Bioko Sur"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Luba"
+          },
+          "latitude": 3.45683,
+          "longitude": 8.55465
+        }
+      ]
+    },
+    {
+      "code": "GQ-CS",
+      "name": {
+        "en": "Centro Sur"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Acurenam"
+          },
+          "latitude": 1.03225,
+          "longitude": 10.64882
+        },
+        {
+          "name": {
+            "en": "Bicurga"
+          },
+          "latitude": 1.58113,
+          "longitude": 10.46716
+        },
+        {
+          "name": {
+            "en": "Evinayong"
+          },
+          "latitude": 1.43677,
+          "longitude": 10.55124
+        }
+      ]
+    },
+    {
+      "code": "GQ-DJ",
+      "name": {
+        "en": "Djibloho"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ciudad de la Paz",
+            "ar": "سيوداد دي لا باز"
+          },
+          "latitude": 1.58888889,
+          "longitude": 10.8225
+        },
+        {
+          "name": {
+            "en": "Mengomeyén"
+          },
+          "latitude": 1.68,
+          "longitude": 10.9
+        }
+      ]
+    },
+    {
+      "code": "GQ-KN",
+      "name": {
+        "en": "Kié-Ntem"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ebebiyin"
+          },
+          "latitude": 2.15106,
+          "longitude": 11.33528
+        },
+        {
+          "name": {
+            "en": "Mikomeseng"
+          },
+          "latitude": 2.13609,
+          "longitude": 10.61322
+        },
+        {
+          "name": {
+            "en": "Ncue"
+          },
+          "latitude": 2.01643,
+          "longitude": 10.47066
+        },
+        {
+          "name": {
+            "en": "Nsang"
+          },
+          "latitude": 2.02475,
+          "longitude": 10.94599
+        }
+      ]
+    },
+    {
+      "code": "GQ-LI",
+      "name": {
+        "en": "Litoral"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bata",
+            "ar": "باتا"
+          },
+          "latitude": 1.86391,
+          "longitude": 9.76582
+        },
+        {
+          "name": {
+            "en": "Bitica"
+          },
+          "latitude": 1.4261,
+          "longitude": 9.62316
+        },
+        {
+          "name": {
+            "en": "Cogo"
+          },
+          "latitude": 1.08425,
+          "longitude": 9.693
+        },
+        {
+          "name": {
+            "en": "Machinda"
+          },
+          "latitude": 1.88262,
+          "longitude": 9.95133
+        },
+        {
+          "name": {
+            "en": "Mbini"
+          },
+          "latitude": 1.58267,
+          "longitude": 9.61478
+        },
+        {
+          "name": {
+            "en": "Río Campo"
+          },
+          "latitude": 2.33812,
+          "longitude": 9.82212
+        }
+      ]
+    },
+    {
+      "code": "GQ-WN",
+      "name": {
+        "en": "Wele-Nzas"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Aconibe"
+          },
+          "latitude": 1.29683,
+          "longitude": 10.93691
+        },
+        {
+          "name": {
+            "en": "Añisoc"
+          },
+          "latitude": 1.8658,
+          "longitude": 10.76892
+        },
+        {
+          "name": {
+            "en": "Ayene"
+          },
+          "latitude": 1.85592,
+          "longitude": 10.68994
+        },
+        {
+          "name": {
+            "en": "Mengomeyén"
+          },
+          "latitude": 1.69439,
+          "longitude": 11.03422
+        },
+        {
+          "name": {
+            "en": "Mongomo"
+          },
+          "latitude": 1.62742,
+          "longitude": 11.31346
+        },
+        {
+          "name": {
+            "en": "Nsok"
+          },
+          "latitude": 1.12985,
+          "longitude": 11.26603
+        }
+      ]
+    }
+  ]
+}

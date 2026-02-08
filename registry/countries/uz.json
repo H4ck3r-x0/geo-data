@@ -1,0 +1,1098 @@
+{
+  "code": "UZ",
+  "iso3": "UZB",
+  "name": {
+    "en": "Uzbekistan",
+    "ar": "أوزبكستان",
+    "de": "Usbekistan",
+    "es": "Uzbekistán",
+    "fr": "Ouzbékistan",
+    "hi": "उज़्बेकिस्तान",
+    "it": "Uzbekistan",
+    "ja": "ウズベキスタン",
+    "ko": "우즈베키스탄",
+    "nl": "Oezbekistan",
+    "pl": "Uzbekistan",
+    "pt": "Usbequistão",
+    "pt-BR": "Uzbequistão",
+    "ru": "Узбекистан",
+    "tr": "Özbekistan",
+    "uk": "Узбекистан",
+    "zh": "乌兹别克斯坦"
+  },
+  "phone": "+998",
+  "currency": "UZS",
+  "timezone": "Asia/Samarkand",
+  "flag": "🇺🇿",
+  "regions": [
+    {
+      "code": "UZ-AN",
+      "name": {
+        "en": "Andijan"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Andijon"
+          },
+          "latitude": 40.78206,
+          "longitude": 72.34424
+        },
+        {
+          "name": {
+            "en": "Andijon Tumani"
+          },
+          "latitude": 40.8,
+          "longitude": 72.41667
+        },
+        {
+          "name": {
+            "en": "Asaka"
+          },
+          "latitude": 40.64153,
+          "longitude": 72.23868
+        },
+        {
+          "name": {
+            "en": "Asaka Tumani"
+          },
+          "latitude": 40.66667,
+          "longitude": 72.25
+        },
+        {
+          "name": {
+            "en": "Baliqchi Tumani"
+          },
+          "latitude": 40.86667,
+          "longitude": 72
+        },
+        {
+          "name": {
+            "en": "Bo‘z Tumani"
+          },
+          "latitude": 40.66667,
+          "longitude": 71.91667
+        },
+        {
+          "name": {
+            "en": "Buloqboshi Tumani"
+          },
+          "latitude": 40.61667,
+          "longitude": 72.46667
+        },
+        {
+          "name": {
+            "en": "Izboskan Tumani"
+          },
+          "latitude": 40.91667,
+          "longitude": 72.25
+        },
+        {
+          "name": {
+            "en": "Jalolkuduk Tumani"
+          },
+          "latitude": 40.75,
+          "longitude": 72.66667
+        },
+        {
+          "name": {
+            "en": "Khŭjaobod Tumani"
+          },
+          "latitude": 40.66667,
+          "longitude": 72.58333
+        },
+        {
+          "name": {
+            "en": "Marhamat"
+          },
+          "latitude": 40.48048,
+          "longitude": 72.31388
+        },
+        {
+          "name": {
+            "en": "Marhamat Tumani"
+          },
+          "latitude": 40.5,
+          "longitude": 72.31667
+        },
+        {
+          "name": {
+            "en": "Oltinkŭl Tumani"
+          },
+          "latitude": 40.8,
+          "longitude": 72.16667
+        },
+        {
+          "name": {
+            "en": "Pakhtaobod Tumani"
+          },
+          "latitude": 40.93333,
+          "longitude": 72.5
+        },
+        {
+          "name": {
+            "en": "Paxtaobod"
+          },
+          "latitude": 40.92936,
+          "longitude": 72.49687
+        },
+        {
+          "name": {
+            "en": "Qo‘rg‘ontepa"
+          },
+          "latitude": 40.73192,
+          "longitude": 72.76177
+        },
+        {
+          "name": {
+            "en": "Qŭrghontepa Tumani"
+          },
+          "latitude": 40.75,
+          "longitude": 72.83333
+        },
+        {
+          "name": {
+            "en": "Shahrikhon Tumani"
+          },
+          "latitude": 40.71667,
+          "longitude": 72.06667
+        },
+        {
+          "name": {
+            "en": "Shahrixon"
+          },
+          "latitude": 40.71331,
+          "longitude": 72.05706
+        },
+        {
+          "name": {
+            "en": "Ulug‘nor Tumani"
+          },
+          "latitude": 40.75,
+          "longitude": 71.7
+        },
+        {
+          "name": {
+            "en": "Xo‘jaobod"
+          },
+          "latitude": 40.66886,
+          "longitude": 72.56002
+        }
+      ]
+    },
+    {
+      "code": "UZ-BU",
+      "name": {
+        "en": "Bukhara"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bukhara",
+            "ar": "بخارى"
+          },
+          "latitude": 39.77472,
+          "longitude": 64.42861
+        },
+        {
+          "name": {
+            "en": "Galaosiyo"
+          },
+          "latitude": 39.85778,
+          "longitude": 64.44833
+        },
+        {
+          "name": {
+            "en": "Gazli"
+          },
+          "latitude": 40.13333,
+          "longitude": 63.45
+        },
+        {
+          "name": {
+            "en": "Ghijduwon"
+          },
+          "latitude": 40.1,
+          "longitude": 64.68333
+        },
+        {
+          "name": {
+            "en": "Karakul’"
+          },
+          "latitude": 39.53333,
+          "longitude": 63.83333
+        },
+        {
+          "name": {
+            "en": "Kogon"
+          },
+          "latitude": 39.72278,
+          "longitude": 64.55167
+        },
+        {
+          "name": {
+            "en": "Olot"
+          },
+          "latitude": 39.415,
+          "longitude": 63.80333
+        },
+        {
+          "name": {
+            "en": "Peshku Tumani"
+          },
+          "latitude": 40.41667,
+          "longitude": 63.83333
+        },
+        {
+          "name": {
+            "en": "Qorako’l"
+          },
+          "latitude": 39.49944,
+          "longitude": 63.85389
+        },
+        {
+          "name": {
+            "en": "Qorovulbozor"
+          },
+          "latitude": 39.50056,
+          "longitude": 64.79361
+        },
+        {
+          "name": {
+            "en": "Romiton"
+          },
+          "latitude": 39.92944,
+          "longitude": 64.37944
+        },
+        {
+          "name": {
+            "en": "Shofirkon"
+          },
+          "latitude": 40.12,
+          "longitude": 64.50139
+        },
+        {
+          "name": {
+            "en": "Wobkent"
+          },
+          "latitude": 40.03028,
+          "longitude": 64.515
+        },
+        {
+          "name": {
+            "en": "Wobkent Tumani"
+          },
+          "latitude": 40,
+          "longitude": 64.5
+        }
+      ]
+    },
+    {
+      "code": "UZ-FA",
+      "name": {
+        "en": "Fergana"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Beshariq"
+          },
+          "latitude": 40.43583,
+          "longitude": 70.61028
+        },
+        {
+          "name": {
+            "en": "Fergana",
+            "ar": "فرغانة"
+          },
+          "latitude": 40.38421,
+          "longitude": 71.78432
+        },
+        {
+          "name": {
+            "en": "Hamza"
+          },
+          "latitude": 40.42762,
+          "longitude": 71.50534
+        },
+        {
+          "name": {
+            "en": "Kirguli"
+          },
+          "latitude": 40.43553,
+          "longitude": 71.76721
+        },
+        {
+          "name": {
+            "en": "Marg‘ilon"
+          },
+          "latitude": 40.47237,
+          "longitude": 71.72463
+        },
+        {
+          "name": {
+            "en": "Oltiariq"
+          },
+          "latitude": 40.39194,
+          "longitude": 71.47417
+        },
+        {
+          "name": {
+            "en": "Qo‘qon"
+          },
+          "latitude": 40.52861,
+          "longitude": 70.9425
+        },
+        {
+          "name": {
+            "en": "Quva"
+          },
+          "latitude": 40.52204,
+          "longitude": 72.07292
+        },
+        {
+          "name": {
+            "en": "Quvasoy"
+          },
+          "latitude": 40.29721,
+          "longitude": 71.98026
+        },
+        {
+          "name": {
+            "en": "Rishton"
+          },
+          "latitude": 40.35667,
+          "longitude": 71.28472
+        },
+        {
+          "name": {
+            "en": "Shohimardon"
+          },
+          "latitude": 39.98322,
+          "longitude": 71.80512
+        },
+        {
+          "name": {
+            "en": "So‘x Tumani"
+          },
+          "latitude": 40.04417,
+          "longitude": 71.09417
+        },
+        {
+          "name": {
+            "en": "Toshloq"
+          },
+          "latitude": 40.47722,
+          "longitude": 71.76778
+        },
+        {
+          "name": {
+            "en": "Yangi Marg‘ilon"
+          },
+          "latitude": 40.42722,
+          "longitude": 71.71889
+        },
+        {
+          "name": {
+            "en": "Yaypan"
+          },
+          "latitude": 40.37583,
+          "longitude": 70.81556
+        }
+      ]
+    },
+    {
+      "code": "UZ-JI",
+      "name": {
+        "en": "Jizzakh"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Dashtobod"
+          },
+          "latitude": 40.12694,
+          "longitude": 68.49444
+        },
+        {
+          "name": {
+            "en": "Dŭstlik"
+          },
+          "latitude": 40.52472,
+          "longitude": 68.03583
+        },
+        {
+          "name": {
+            "en": "Gagarin"
+          },
+          "latitude": 40.66194,
+          "longitude": 68.17222
+        },
+        {
+          "name": {
+            "en": "Jizzax"
+          },
+          "latitude": 40.11583,
+          "longitude": 67.84222
+        },
+        {
+          "name": {
+            "en": "Paxtakor"
+          },
+          "latitude": 40.31528,
+          "longitude": 67.95444
+        },
+        {
+          "name": {
+            "en": "Zomin"
+          },
+          "latitude": 39.96056,
+          "longitude": 68.39583
+        }
+      ]
+    },
+    {
+      "code": "UZ-QR",
+      "name": {
+        "en": "Karakalpakstan"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Beruniy"
+          },
+          "latitude": 41.69111,
+          "longitude": 60.7525
+        },
+        {
+          "name": {
+            "en": "Kegeyli Shahar"
+          },
+          "latitude": 42.77667,
+          "longitude": 59.60778
+        },
+        {
+          "name": {
+            "en": "Khŭjayli"
+          },
+          "latitude": 42.40043,
+          "longitude": 59.46005
+        },
+        {
+          "name": {
+            "en": "Manghit"
+          },
+          "latitude": 42.11556,
+          "longitude": 60.05972
+        },
+        {
+          "name": {
+            "en": "Mŭynoq"
+          },
+          "latitude": 43.76833,
+          "longitude": 59.02139
+        },
+        {
+          "name": {
+            "en": "Novyy Turtkul’"
+          },
+          "latitude": 41.55,
+          "longitude": 61.01667
+        },
+        {
+          "name": {
+            "en": "Nukus"
+          },
+          "latitude": 42.45306,
+          "longitude": 59.61028
+        },
+        {
+          "name": {
+            "en": "Oltinko‘l"
+          },
+          "latitude": 43.06874,
+          "longitude": 58.90372
+        }
+      ]
+    },
+    {
+      "code": "UZ-NG",
+      "name": {
+        "en": "Namangan"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Chortoq"
+          },
+          "latitude": 41.06924,
+          "longitude": 71.82372
+        },
+        {
+          "name": {
+            "en": "Chust"
+          },
+          "latitude": 41.00329,
+          "longitude": 71.23791
+        },
+        {
+          "name": {
+            "en": "Haqqulobod"
+          },
+          "latitude": 40.91667,
+          "longitude": 72.11667
+        },
+        {
+          "name": {
+            "en": "Kosonsoy"
+          },
+          "latitude": 41.24944,
+          "longitude": 71.54738
+        },
+        {
+          "name": {
+            "en": "Namangan",
+            "ar": "نمنكان"
+          },
+          "latitude": 40.9983,
+          "longitude": 71.67257
+        },
+        {
+          "name": {
+            "en": "Pop"
+          },
+          "latitude": 40.87361,
+          "longitude": 71.10889
+        },
+        {
+          "name": {
+            "en": "To‘rqao‘rg‘on"
+          },
+          "latitude": 40.99984,
+          "longitude": 71.51162
+        },
+        {
+          "name": {
+            "en": "Toshbuloq"
+          },
+          "latitude": 40.91617,
+          "longitude": 71.57819
+        },
+        {
+          "name": {
+            "en": "Uchqŭrghon Shahri"
+          },
+          "latitude": 41.11371,
+          "longitude": 72.07915
+        },
+        {
+          "name": {
+            "en": "Uychi"
+          },
+          "latitude": 41.08073,
+          "longitude": 71.92331
+        },
+        {
+          "name": {
+            "en": "Yangiqo‘rg‘on"
+          },
+          "latitude": 41.19474,
+          "longitude": 71.72385
+        }
+      ]
+    },
+    {
+      "code": "UZ-NW",
+      "name": {
+        "en": "Navoiy"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Navoiy",
+            "ar": "نواوي"
+          },
+          "latitude": 40.08444,
+          "longitude": 65.37917
+        },
+        {
+          "name": {
+            "en": "Nurota"
+          },
+          "latitude": 40.56139,
+          "longitude": 65.68861
+        },
+        {
+          "name": {
+            "en": "Qiziltepa"
+          },
+          "latitude": 40.03306,
+          "longitude": 64.85
+        },
+        {
+          "name": {
+            "en": "Yangirabot"
+          },
+          "latitude": 40.02539,
+          "longitude": 65.96095
+        }
+      ]
+    },
+    {
+      "code": "UZ-QA",
+      "name": {
+        "en": "Qashqadaryo"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Beshkent"
+          },
+          "latitude": 38.82139,
+          "longitude": 65.65306
+        },
+        {
+          "name": {
+            "en": "Chiroqchi"
+          },
+          "latitude": 39.03361,
+          "longitude": 66.57222
+        },
+        {
+          "name": {
+            "en": "G‘uzor"
+          },
+          "latitude": 38.62083,
+          "longitude": 66.24806
+        },
+        {
+          "name": {
+            "en": "Kitob"
+          },
+          "latitude": 39.08425,
+          "longitude": 66.83318
+        },
+        {
+          "name": {
+            "en": "Koson"
+          },
+          "latitude": 39.0375,
+          "longitude": 65.585
+        },
+        {
+          "name": {
+            "en": "Muborak"
+          },
+          "latitude": 39.25528,
+          "longitude": 65.15278
+        },
+        {
+          "name": {
+            "en": "Nishon Tumani"
+          },
+          "latitude": 38.69395,
+          "longitude": 65.67512
+        },
+        {
+          "name": {
+            "en": "Qarshi",
+            "ar": "قرشي"
+          },
+          "latitude": 38.86056,
+          "longitude": 65.78905
+        },
+        {
+          "name": {
+            "en": "Shahrisabz",
+            "ar": "شهرسبز"
+          },
+          "latitude": 39.05778,
+          "longitude": 66.83417
+        }
+      ]
+    },
+    {
+      "code": "UZ-SA",
+      "name": {
+        "en": "Samarqand"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bulung’ur"
+          },
+          "latitude": 39.76472,
+          "longitude": 67.27139
+        },
+        {
+          "name": {
+            "en": "Charxin"
+          },
+          "latitude": 39.69667,
+          "longitude": 66.76861
+        },
+        {
+          "name": {
+            "en": "Chelak"
+          },
+          "latitude": 39.92028,
+          "longitude": 66.86111
+        },
+        {
+          "name": {
+            "en": "Daxbet"
+          },
+          "latitude": 39.76389,
+          "longitude": 66.9125
+        },
+        {
+          "name": {
+            "en": "Ishtixon"
+          },
+          "latitude": 39.96639,
+          "longitude": 66.48611
+        },
+        {
+          "name": {
+            "en": "Jomboy"
+          },
+          "latitude": 39.69889,
+          "longitude": 67.09333
+        },
+        {
+          "name": {
+            "en": "Juma"
+          },
+          "latitude": 39.71611,
+          "longitude": 66.66417
+        },
+        {
+          "name": {
+            "en": "Kattaqo‘rg‘on"
+          },
+          "latitude": 39.89889,
+          "longitude": 66.25611
+        },
+        {
+          "name": {
+            "en": "Oqtosh"
+          },
+          "latitude": 39.92139,
+          "longitude": 65.92528
+        },
+        {
+          "name": {
+            "en": "Payshanba"
+          },
+          "latitude": 40.00778,
+          "longitude": 66.23694
+        },
+        {
+          "name": {
+            "en": "Samarkand",
+            "ar": "سمرقند"
+          },
+          "latitude": 39.65417,
+          "longitude": 66.95972
+        },
+        {
+          "name": {
+            "en": "Urgut"
+          },
+          "latitude": 39.40222,
+          "longitude": 67.24306
+        }
+      ]
+    },
+    {
+      "code": "UZ-SI",
+      "name": {
+        "en": "Sirdaryo"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Guliston"
+          },
+          "latitude": 40.48972,
+          "longitude": 68.78417
+        },
+        {
+          "name": {
+            "en": "Sirdaryo",
+            "ar": "سيحون"
+          },
+          "latitude": 40.84361,
+          "longitude": 68.66167
+        },
+        {
+          "name": {
+            "en": "Yangiyer"
+          },
+          "latitude": 40.275,
+          "longitude": 68.8225
+        }
+      ]
+    },
+    {
+      "code": "UZ-SU",
+      "name": {
+        "en": "Surxondaryo"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Boysun",
+            "ar": "بايسون"
+          },
+          "latitude": 38.20835,
+          "longitude": 67.20664
+        },
+        {
+          "name": {
+            "en": "Denov"
+          },
+          "latitude": 38.26746,
+          "longitude": 67.89886
+        },
+        {
+          "name": {
+            "en": "Sho‘rchi"
+          },
+          "latitude": 37.99944,
+          "longitude": 67.7875
+        },
+        {
+          "name": {
+            "en": "Tirmiz"
+          },
+          "latitude": 37.22417,
+          "longitude": 67.27833
+        }
+      ]
+    },
+    {
+      "code": "UZ-TK",
+      "name": {
+        "en": "Tashkent"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bektemir"
+          },
+          "latitude": 41.20972,
+          "longitude": 69.33417
+        },
+        {
+          "name": {
+            "en": "Tashkent",
+            "ar": "طشقند"
+          },
+          "latitude": 41.26465,
+          "longitude": 69.21627
+        }
+      ]
+    },
+    {
+      "code": "UZ-TO",
+      "name": {
+        "en": "Tashkent"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Angren"
+          },
+          "latitude": 41.01667,
+          "longitude": 70.14361
+        },
+        {
+          "name": {
+            "en": "Bekobod"
+          },
+          "latitude": 40.22083,
+          "longitude": 69.26972
+        },
+        {
+          "name": {
+            "en": "Bo‘ka"
+          },
+          "latitude": 40.81108,
+          "longitude": 69.19417
+        },
+        {
+          "name": {
+            "en": "Chinoz"
+          },
+          "latitude": 40.93633,
+          "longitude": 68.76128
+        },
+        {
+          "name": {
+            "en": "Chirchiq",
+            "ar": "تشيرتشيق"
+          },
+          "latitude": 41.46889,
+          "longitude": 69.58222
+        },
+        {
+          "name": {
+            "en": "G‘azalkent"
+          },
+          "latitude": 41.55806,
+          "longitude": 69.77083
+        },
+        {
+          "name": {
+            "en": "Iskandar"
+          },
+          "latitude": 41.55389,
+          "longitude": 69.70083
+        },
+        {
+          "name": {
+            "en": "Kyzyldzhar"
+          },
+          "latitude": 41.56667,
+          "longitude": 70.01667
+        },
+        {
+          "name": {
+            "en": "Ohangaron"
+          },
+          "latitude": 40.90639,
+          "longitude": 69.63833
+        },
+        {
+          "name": {
+            "en": "Olmaliq"
+          },
+          "latitude": 40.84472,
+          "longitude": 69.59833
+        },
+        {
+          "name": {
+            "en": "Parkent"
+          },
+          "latitude": 41.29444,
+          "longitude": 69.67639
+        },
+        {
+          "name": {
+            "en": "Piskent",
+            "ar": "بشقند"
+          },
+          "latitude": 40.89722,
+          "longitude": 69.35056
+        },
+        {
+          "name": {
+            "en": "Qibray"
+          },
+          "latitude": 41.38972,
+          "longitude": 69.465
+        },
+        {
+          "name": {
+            "en": "Salor"
+          },
+          "latitude": 41.37222,
+          "longitude": 69.38167
+        },
+        {
+          "name": {
+            "en": "Tŭytepa"
+          },
+          "latitude": 41.0321,
+          "longitude": 69.36253
+        },
+        {
+          "name": {
+            "en": "Ŭrtaowul"
+          },
+          "latitude": 41.18667,
+          "longitude": 69.14528
+        },
+        {
+          "name": {
+            "en": "Yangiobod"
+          },
+          "latitude": 41.11919,
+          "longitude": 70.09406
+        },
+        {
+          "name": {
+            "en": "Yangiyŭl"
+          },
+          "latitude": 41.11202,
+          "longitude": 69.0471
+        },
+        {
+          "name": {
+            "en": "Zafar"
+          },
+          "latitude": 40.98333,
+          "longitude": 68.9
+        }
+      ]
+    },
+    {
+      "code": "UZ-XO",
+      "name": {
+        "en": "Xorazm"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Boghot Tumani"
+          },
+          "latitude": 41.31495,
+          "longitude": 60.85327
+        },
+        {
+          "name": {
+            "en": "Gurlan"
+          },
+          "latitude": 41.84472,
+          "longitude": 60.39194
+        },
+        {
+          "name": {
+            "en": "Hazorasp"
+          },
+          "latitude": 41.31944,
+          "longitude": 61.07417
+        },
+        {
+          "name": {
+            "en": "Khiwa"
+          },
+          "latitude": 41.37833,
+          "longitude": 60.36389
+        },
+        {
+          "name": {
+            "en": "Qŭshkŭpir"
+          },
+          "latitude": 41.535,
+          "longitude": 60.34556
+        },
+        {
+          "name": {
+            "en": "Showot"
+          },
+          "latitude": 41.65583,
+          "longitude": 60.3025
+        },
+        {
+          "name": {
+            "en": "Urganch"
+          },
+          "latitude": 41.55,
+          "longitude": 60.63333
+        }
+      ]
+    }
+  ]
+}

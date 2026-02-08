@@ -1,0 +1,1860 @@
+{
+  "code": "AZ",
+  "iso3": "AZE",
+  "name": {
+    "en": "Azerbaijan",
+    "ar": "أذربيجان",
+    "de": "Aserbaidschan",
+    "es": "Azerbaiyán",
+    "fr": "Azerbaïdjan",
+    "hi": "आज़रबाइजान",
+    "it": "Azerbaijan",
+    "ja": "アゼルバイジャン",
+    "ko": "아제르바이잔",
+    "nl": "Azerbeidzjan",
+    "pl": "Azerbejdżan",
+    "pt": "Azerbaijão",
+    "pt-BR": "Azerbaijão",
+    "ru": "Азербайджан",
+    "tr": "Azerbaycan",
+    "uk": "Азербайджан",
+    "zh": "阿塞拜疆"
+  },
+  "phone": "+994",
+  "currency": "AZN",
+  "timezone": "Asia/Baku",
+  "flag": "🇦🇿",
+  "regions": [
+    {
+      "code": "AZ-ABS",
+      "name": {
+        "en": "Absheron"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ceyranbatan"
+          },
+          "latitude": 40.54194,
+          "longitude": 49.66073
+        },
+        {
+          "name": {
+            "en": "Digah"
+          },
+          "latitude": 40.49257,
+          "longitude": 49.87477
+        },
+        {
+          "name": {
+            "en": "Gyuzdek"
+          },
+          "latitude": 40.37444,
+          "longitude": 49.68194
+        },
+        {
+          "name": {
+            "en": "Khirdalan"
+          },
+          "latitude": 40.44808,
+          "longitude": 49.75502
+        },
+        {
+          "name": {
+            "en": "Qobu"
+          },
+          "latitude": 40.40472,
+          "longitude": 49.71306
+        },
+        {
+          "name": {
+            "en": "Saray"
+          },
+          "latitude": 40.53299,
+          "longitude": 49.71681
+        }
+      ]
+    },
+    {
+      "code": "AZ-AGM",
+      "name": {
+        "en": "Agdam"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ağdam",
+            "ar": "آغدام"
+          },
+          "latitude": 39.99096,
+          "longitude": 46.92736
+        }
+      ]
+    },
+    {
+      "code": "AZ-AGS",
+      "name": {
+        "en": "Agdash"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ağdaş"
+          },
+          "latitude": 40.64699,
+          "longitude": 47.4738
+        }
+      ]
+    },
+    {
+      "code": "AZ-AGC",
+      "name": {
+        "en": "Aghjabadi"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Agdzhabedy"
+          },
+          "latitude": 40.05015,
+          "longitude": 47.45937
+        },
+        {
+          "name": {
+            "en": "Avşar"
+          },
+          "latitude": 39.97389,
+          "longitude": 47.42389
+        }
+      ]
+    },
+    {
+      "code": "AZ-AGA",
+      "name": {
+        "en": "Agstafa"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Aghstafa"
+          },
+          "latitude": 41.11889,
+          "longitude": 45.45389
+        },
+        {
+          "name": {
+            "en": "Saloğlu"
+          },
+          "latitude": 41.27524,
+          "longitude": 45.35293
+        },
+        {
+          "name": {
+            "en": "Vurğun"
+          },
+          "latitude": 41.09524,
+          "longitude": 45.47111
+        }
+      ]
+    },
+    {
+      "code": "AZ-AGU",
+      "name": {
+        "en": "Agsu"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Aghsu"
+          },
+          "latitude": 40.57028,
+          "longitude": 48.40087
+        }
+      ]
+    },
+    {
+      "code": "AZ-AST",
+      "name": {
+        "en": "Astara"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Astara"
+          },
+          "latitude": 38.45598,
+          "longitude": 48.87498
+        },
+        {
+          "name": {
+            "en": "Kizhaba"
+          },
+          "latitude": 38.53461,
+          "longitude": 48.80546
+        }
+      ]
+    },
+    {
+      "code": "AZ-BA",
+      "name": {
+        "en": "Baku"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Amirdzhan"
+          },
+          "latitude": 40.42639,
+          "longitude": 49.98361
+        },
+        {
+          "name": {
+            "en": "Badamdar"
+          },
+          "latitude": 40.34024,
+          "longitude": 49.8045
+        },
+        {
+          "name": {
+            "en": "Bakıxanov",
+            "ar": "باكيسنوف"
+          },
+          "latitude": 40.41894,
+          "longitude": 49.96693
+        },
+        {
+          "name": {
+            "en": "Baku",
+            "ar": "باكو"
+          },
+          "latitude": 40.37767,
+          "longitude": 49.89201
+        },
+        {
+          "name": {
+            "en": "Balakhani"
+          },
+          "latitude": 40.46344,
+          "longitude": 49.91893
+        },
+        {
+          "name": {
+            "en": "Bilajari"
+          },
+          "latitude": 40.4444,
+          "longitude": 49.80566
+        },
+        {
+          "name": {
+            "en": "Bilajer"
+          },
+          "latitude": 40.56441,
+          "longitude": 50.04002
+        },
+        {
+          "name": {
+            "en": "Binagadi"
+          },
+          "latitude": 40.46602,
+          "longitude": 49.82783
+        },
+        {
+          "name": {
+            "en": "Biny Selo"
+          },
+          "latitude": 40.45076,
+          "longitude": 50.08686
+        },
+        {
+          "name": {
+            "en": "Buzovna"
+          },
+          "latitude": 40.51903,
+          "longitude": 50.11438
+        },
+        {
+          "name": {
+            "en": "Hövsan",
+            "ar": "هوسان"
+          },
+          "latitude": 40.37444,
+          "longitude": 50.08528
+        },
+        {
+          "name": {
+            "en": "Khodzhi-Gasan"
+          },
+          "latitude": 40.41293,
+          "longitude": 49.76904
+        },
+        {
+          "name": {
+            "en": "Korgöz"
+          },
+          "latitude": 40.30446,
+          "longitude": 49.6236
+        },
+        {
+          "name": {
+            "en": "Lökbatan"
+          },
+          "latitude": 40.3256,
+          "longitude": 49.73376
+        },
+        {
+          "name": {
+            "en": "Mardakan"
+          },
+          "latitude": 40.49182,
+          "longitude": 50.14292
+        },
+        {
+          "name": {
+            "en": "Maştağa"
+          },
+          "latitude": 40.52983,
+          "longitude": 50.00616
+        },
+        {
+          "name": {
+            "en": "Nardaran"
+          },
+          "latitude": 40.55611,
+          "longitude": 50.00556
+        },
+        {
+          "name": {
+            "en": "Nizami Rayonu"
+          },
+          "latitude": 40.4097,
+          "longitude": 49.91926
+        },
+        {
+          "name": {
+            "en": "Pirallahı"
+          },
+          "latitude": 40.47013,
+          "longitude": 50.32476
+        },
+        {
+          "name": {
+            "en": "Puta"
+          },
+          "latitude": 40.29667,
+          "longitude": 49.66028
+        },
+        {
+          "name": {
+            "en": "Qala"
+          },
+          "latitude": 40.44256,
+          "longitude": 50.16759
+        },
+        {
+          "name": {
+            "en": "Qaraçuxur"
+          },
+          "latitude": 40.39667,
+          "longitude": 49.97361
+        },
+        {
+          "name": {
+            "en": "Qobustan"
+          },
+          "latitude": 40.08238,
+          "longitude": 49.41205
+        },
+        {
+          "name": {
+            "en": "Ramana"
+          },
+          "latitude": 40.44222,
+          "longitude": 49.98056
+        },
+        {
+          "name": {
+            "en": "Sabunçu"
+          },
+          "latitude": 40.4425,
+          "longitude": 49.94806
+        },
+        {
+          "name": {
+            "en": "Sanqaçal"
+          },
+          "latitude": 40.16991,
+          "longitude": 49.46394
+        },
+        {
+          "name": {
+            "en": "Türkan"
+          },
+          "latitude": 40.3646,
+          "longitude": 50.22075
+        },
+        {
+          "name": {
+            "en": "Yeni Suraxanı"
+          },
+          "latitude": 40.43026,
+          "longitude": 50.03598
+        },
+        {
+          "name": {
+            "en": "Zabrat"
+          },
+          "latitude": 40.47746,
+          "longitude": 49.94174
+        },
+        {
+          "name": {
+            "en": "Zyrya"
+          },
+          "latitude": 40.36613,
+          "longitude": 50.29198
+        }
+      ]
+    },
+    {
+      "code": "AZ-BAL",
+      "name": {
+        "en": "Balakan"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Belokany"
+          },
+          "latitude": 41.72626,
+          "longitude": 46.40478
+        },
+        {
+          "name": {
+            "en": "Qabaqçöl"
+          },
+          "latitude": 41.75259,
+          "longitude": 46.27052
+        }
+      ]
+    },
+    {
+      "code": "AZ-BAR",
+      "name": {
+        "en": "Barda"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Barda",
+            "ar": "بردع"
+          },
+          "latitude": 40.37577,
+          "longitude": 47.12619
+        },
+        {
+          "name": {
+            "en": "Samuxlu"
+          },
+          "latitude": 40.50833,
+          "longitude": 47.16917
+        }
+      ]
+    },
+    {
+      "code": "AZ-BEY",
+      "name": {
+        "en": "Beylagan"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Beylagan"
+          },
+          "latitude": 39.77556,
+          "longitude": 47.61861
+        },
+        {
+          "name": {
+            "en": "Birinci Aşıqlı"
+          },
+          "latitude": 39.81917,
+          "longitude": 47.67944
+        },
+        {
+          "name": {
+            "en": "Dünyamalılar"
+          },
+          "latitude": 39.77278,
+          "longitude": 47.75889
+        },
+        {
+          "name": {
+            "en": "Orjonikidze"
+          },
+          "latitude": 39.63571,
+          "longitude": 47.71199
+        },
+        {
+          "name": {
+            "en": "Yuxarı Aran"
+          },
+          "latitude": 39.73361,
+          "longitude": 47.655
+        }
+      ]
+    },
+    {
+      "code": "AZ-BIL",
+      "name": {
+        "en": "Bilasuvar"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Pushkino"
+          },
+          "latitude": 39.45833,
+          "longitude": 48.545
+        }
+      ]
+    },
+    {
+      "code": "AZ-DAS",
+      "name": {
+        "en": "Dashkasan"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Verkhniy Dashkesan"
+          },
+          "latitude": 40.49357,
+          "longitude": 46.07175
+        },
+        {
+          "name": {
+            "en": "Yukhary-Dashkesan"
+          },
+          "latitude": 40.52393,
+          "longitude": 46.08186
+        }
+      ]
+    },
+    {
+      "code": "AZ-FUZ",
+      "name": {
+        "en": "Fizuli"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Fizuli"
+          },
+          "latitude": 39.60094,
+          "longitude": 47.14529
+        },
+        {
+          "name": {
+            "en": "Horadiz"
+          },
+          "latitude": 39.45015,
+          "longitude": 47.33496
+        }
+      ]
+    },
+    {
+      "code": "AZ-GA",
+      "name": {
+        "en": "Ganja"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ganja",
+            "ar": "كنجه"
+          },
+          "latitude": 40.68278,
+          "longitude": 46.36056
+        }
+      ]
+    },
+    {
+      "code": "AZ-GAD",
+      "name": {
+        "en": "Gədəbəy"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Arıqdam"
+          },
+          "latitude": 40.59313,
+          "longitude": 45.799
+        },
+        {
+          "name": {
+            "en": "Arıqıran"
+          },
+          "latitude": 40.53971,
+          "longitude": 45.61414
+        },
+        {
+          "name": {
+            "en": "Böyük Qaramurad"
+          },
+          "latitude": 40.57626,
+          "longitude": 45.63727
+        },
+        {
+          "name": {
+            "en": "Kyadabek"
+          },
+          "latitude": 40.57055,
+          "longitude": 45.81229
+        },
+        {
+          "name": {
+            "en": "Novosaratovka"
+          },
+          "latitude": 40.59811,
+          "longitude": 45.60079
+        }
+      ]
+    },
+    {
+      "code": "AZ-QOB",
+      "name": {
+        "en": "Gobustan"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Qobustan"
+          },
+          "latitude": 40.5336,
+          "longitude": 48.92819
+        }
+      ]
+    },
+    {
+      "code": "AZ-GOR",
+      "name": {
+        "en": "Goranboy"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Goranboy"
+          },
+          "latitude": 40.61028,
+          "longitude": 46.78972
+        },
+        {
+          "name": {
+            "en": "Qızılhacılı"
+          },
+          "latitude": 40.57362,
+          "longitude": 46.849
+        }
+      ]
+    },
+    {
+      "code": "AZ-GOY",
+      "name": {
+        "en": "Goychay"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Geoktschai"
+          },
+          "latitude": 40.65055,
+          "longitude": 47.74219
+        }
+      ]
+    },
+    {
+      "code": "AZ-GYG",
+      "name": {
+        "en": "Goygol"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Yelenendorf"
+          },
+          "latitude": 40.58584,
+          "longitude": 46.3189
+        }
+      ]
+    },
+    {
+      "code": "AZ-HAC",
+      "name": {
+        "en": "Hajigabul"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Hacıqabul"
+          },
+          "latitude": 40.03874,
+          "longitude": 48.94286
+        },
+        {
+          "name": {
+            "en": "Mughan"
+          },
+          "latitude": 40.09902,
+          "longitude": 48.81886
+        }
+      ]
+    },
+    {
+      "code": "AZ-IMI",
+      "name": {
+        "en": "Imishli"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Imishli"
+          },
+          "latitude": 39.87095,
+          "longitude": 48.05995
+        }
+      ]
+    },
+    {
+      "code": "AZ-ISM",
+      "name": {
+        "en": "Ismailli"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Basqal"
+          },
+          "latitude": 40.7552,
+          "longitude": 48.39104
+        },
+        {
+          "name": {
+            "en": "İsmayıllı"
+          },
+          "latitude": 40.78485,
+          "longitude": 48.15141
+        }
+      ]
+    },
+    {
+      "code": "AZ-CAB",
+      "name": {
+        "en": "Jabrayil"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Jebrail"
+          },
+          "latitude": 39.39917,
+          "longitude": 47.02835
+        }
+      ]
+    },
+    {
+      "code": "AZ-CAL",
+      "name": {
+        "en": "Jalilabad"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Jalilabad"
+          },
+          "latitude": 39.20963,
+          "longitude": 48.49186
+        },
+        {
+          "name": {
+            "en": "Prishibinskoye"
+          },
+          "latitude": 39.11998,
+          "longitude": 48.59383
+        }
+      ]
+    },
+    {
+      "code": "AZ-KAL",
+      "name": {
+        "en": "Kalbajar"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Kerbakhiar"
+          },
+          "latitude": 40.10984,
+          "longitude": 46.04446
+        },
+        {
+          "name": {
+            "en": "Vank"
+          },
+          "latitude": 40.05275,
+          "longitude": 46.54419
+        }
+      ]
+    },
+    {
+      "code": "AZ-XAC",
+      "name": {
+        "en": "Khachmaz"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Xaçmaz",
+            "ar": "خاشماز"
+          },
+          "latitude": 41.46426,
+          "longitude": 48.80565
+        },
+        {
+          "name": {
+            "en": "Xudat"
+          },
+          "latitude": 41.63052,
+          "longitude": 48.68161
+        }
+      ]
+    },
+    {
+      "code": "AZ-XA",
+      "name": {
+        "en": "Khankendi"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Khankendi"
+          },
+          "latitude": 39.8266,
+          "longitude": 46.7556
+        }
+      ]
+    },
+    {
+      "code": "AZ-XIZ",
+      "name": {
+        "en": "Khizi"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Altıağac"
+          },
+          "latitude": 40.85785,
+          "longitude": 48.9354
+        },
+        {
+          "name": {
+            "en": "Khyzy"
+          },
+          "latitude": 40.90847,
+          "longitude": 49.07481
+        },
+        {
+          "name": {
+            "en": "Kilyazi"
+          },
+          "latitude": 40.87392,
+          "longitude": 49.34376
+        },
+        {
+          "name": {
+            "en": "Şuraabad"
+          },
+          "latitude": 40.8199,
+          "longitude": 49.46774
+        }
+      ]
+    },
+    {
+      "code": "AZ-XCI",
+      "name": {
+        "en": "Khojali"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Askyaran"
+          },
+          "latitude": 39.9391,
+          "longitude": 46.83161
+        },
+        {
+          "name": {
+            "en": "Xocalı"
+          },
+          "latitude": 39.91297,
+          "longitude": 46.79028
+        }
+      ]
+    },
+    {
+      "code": "AZ-KUR",
+      "name": {
+        "en": "Kurdamir"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Kyurdarmir"
+          },
+          "latitude": 40.34257,
+          "longitude": 48.15649
+        }
+      ]
+    },
+    {
+      "code": "AZ-LAC",
+      "name": {
+        "en": "Lachin"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Laçın"
+          },
+          "latitude": 39.59881,
+          "longitude": 46.55045
+        }
+      ]
+    },
+    {
+      "code": "AZ-LA",
+      "name": {
+        "en": "Lankaran"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Haftoni"
+          },
+          "latitude": 38.76325,
+          "longitude": 48.76223
+        },
+        {
+          "name": {
+            "en": "Lankaran"
+          },
+          "latitude": 38.75428,
+          "longitude": 48.85062
+        }
+      ]
+    },
+    {
+      "code": "AZ-LER",
+      "name": {
+        "en": "Lerik"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Lerik",
+            "ar": "لريك"
+          },
+          "latitude": 38.77388,
+          "longitude": 48.41497
+        }
+      ]
+    },
+    {
+      "code": "AZ-XVD",
+      "name": {
+        "en": "Martuni"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Hadrut"
+          },
+          "latitude": 39.52003,
+          "longitude": 47.0319
+        },
+        {
+          "name": {
+            "en": "Novyy Karanlug"
+          },
+          "latitude": 39.79496,
+          "longitude": 47.1117
+        },
+        {
+          "name": {
+            "en": "Qırmızı Bazar"
+          },
+          "latitude": 39.67669,
+          "longitude": 46.95123
+        }
+      ]
+    },
+    {
+      "code": "AZ-MAS",
+      "name": {
+        "en": "Masally"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Boradigah"
+          },
+          "latitude": 38.93013,
+          "longitude": 48.7092
+        },
+        {
+          "name": {
+            "en": "Masally"
+          },
+          "latitude": 39.03532,
+          "longitude": 48.6654
+        }
+      ]
+    },
+    {
+      "code": "AZ-MI",
+      "name": {
+        "en": "Mingachevir"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Mingelchaur",
+            "ar": "مينغاشوير"
+          },
+          "latitude": 40.76395,
+          "longitude": 47.05953
+        }
+      ]
+    },
+    {
+      "code": "AZ-NA",
+      "name": {
+        "en": "Naftalan"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Naftalan"
+          },
+          "latitude": 40.5061,
+          "longitude": 46.8244
+        }
+      ]
+    },
+    {
+      "code": "AZ-NV",
+      "name": {
+        "en": "Nakhchivan"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Nakhchivan"
+          },
+          "latitude": 39.20889,
+          "longitude": 45.41222
+        }
+      ]
+    },
+    {
+      "code": "AZ-NX",
+      "name": {
+        "en": "Nakhchivan"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Cahri"
+          },
+          "latitude": 39.34837,
+          "longitude": 45.41557
+        },
+        {
+          "name": {
+            "en": "Çalxanqala"
+          },
+          "latitude": 39.44167,
+          "longitude": 45.28333
+        },
+        {
+          "name": {
+            "en": "Culfa"
+          },
+          "latitude": 38.95397,
+          "longitude": 45.62961
+        },
+        {
+          "name": {
+            "en": "Deste"
+          },
+          "latitude": 38.88375,
+          "longitude": 45.90963
+        },
+        {
+          "name": {
+            "en": "Heydarabad"
+          },
+          "latitude": 39.72286,
+          "longitude": 44.84846
+        },
+        {
+          "name": {
+            "en": "Julfa Rayon"
+          },
+          "latitude": 39.16667,
+          "longitude": 45.66667
+        },
+        {
+          "name": {
+            "en": "Oğlanqala"
+          },
+          "latitude": 39.58694,
+          "longitude": 45.04611
+        },
+        {
+          "name": {
+            "en": "Ordubad"
+          },
+          "latitude": 38.90961,
+          "longitude": 46.02274
+        },
+        {
+          "name": {
+            "en": "Ordubad Rayon"
+          },
+          "latitude": 39.08333,
+          "longitude": 45.91667
+        },
+        {
+          "name": {
+            "en": "Qıvraq"
+          },
+          "latitude": 39.39939,
+          "longitude": 45.11513
+        },
+        {
+          "name": {
+            "en": "Şahbuz"
+          },
+          "latitude": 39.40722,
+          "longitude": 45.57389
+        },
+        {
+          "name": {
+            "en": "Sedarak"
+          },
+          "latitude": 39.71427,
+          "longitude": 44.88455
+        },
+        {
+          "name": {
+            "en": "Shahbuz Rayon"
+          },
+          "latitude": 39.41667,
+          "longitude": 45.58333
+        },
+        {
+          "name": {
+            "en": "Sharur City"
+          },
+          "latitude": 39.55298,
+          "longitude": 44.97993
+        },
+        {
+          "name": {
+            "en": "Sumbatan-diza"
+          },
+          "latitude": 38.94804,
+          "longitude": 45.82572
+        },
+        {
+          "name": {
+            "en": "Tazakend"
+          },
+          "latitude": 39.15459,
+          "longitude": 45.44282
+        },
+        {
+          "name": {
+            "en": "Yaycı"
+          },
+          "latitude": 38.94052,
+          "longitude": 45.73244
+        }
+      ]
+    },
+    {
+      "code": "AZ-NEF",
+      "name": {
+        "en": "Neftchala"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Neftçala"
+          },
+          "latitude": 39.3768,
+          "longitude": 49.247
+        },
+        {
+          "name": {
+            "en": "Severo-Vostotchnyi Bank"
+          },
+          "latitude": 39.41117,
+          "longitude": 49.24792
+        },
+        {
+          "name": {
+            "en": "Sovetabad"
+          },
+          "latitude": 39.33667,
+          "longitude": 49.21414
+        },
+        {
+          "name": {
+            "en": "Xıllı"
+          },
+          "latitude": 39.43012,
+          "longitude": 49.10166
+        }
+      ]
+    },
+    {
+      "code": "AZ-OGU",
+      "name": {
+        "en": "Oghuz"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Oğuz"
+          },
+          "latitude": 41.07128,
+          "longitude": 47.46528
+        }
+      ]
+    },
+    {
+      "code": "AZ-QAB",
+      "name": {
+        "en": "Qabala"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Qutqashen"
+          },
+          "latitude": 40.98247,
+          "longitude": 47.84909
+        }
+      ]
+    },
+    {
+      "code": "AZ-QAX",
+      "name": {
+        "en": "Qakh"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Çinarlı"
+          },
+          "latitude": 41.46965,
+          "longitude": 46.91582
+        },
+        {
+          "name": {
+            "en": "Qax"
+          },
+          "latitude": 41.41826,
+          "longitude": 46.92043
+        },
+        {
+          "name": {
+            "en": "Qax İngiloy"
+          },
+          "latitude": 41.42412,
+          "longitude": 46.93859
+        },
+        {
+          "name": {
+            "en": "Qaxbaş"
+          },
+          "latitude": 41.43254,
+          "longitude": 46.9646
+        }
+      ]
+    },
+    {
+      "code": "AZ-QAZ",
+      "name": {
+        "en": "Qazakh"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Qazax"
+          },
+          "latitude": 41.09246,
+          "longitude": 45.36561
+        }
+      ]
+    },
+    {
+      "code": "AZ-QBA",
+      "name": {
+        "en": "Quba"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Hacıhüseynli"
+          },
+          "latitude": 41.45639,
+          "longitude": 48.64889
+        },
+        {
+          "name": {
+            "en": "Quba",
+            "ar": "مدينة قوبا"
+          },
+          "latitude": 41.36108,
+          "longitude": 48.51341
+        }
+      ]
+    },
+    {
+      "code": "AZ-QBI",
+      "name": {
+        "en": "Qubadli"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Qubadlı"
+          },
+          "latitude": 39.34441,
+          "longitude": 46.58183
+        }
+      ]
+    },
+    {
+      "code": "AZ-QUS",
+      "name": {
+        "en": "Qusar"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Qusar"
+          },
+          "latitude": 41.4275,
+          "longitude": 48.4302
+        },
+        {
+          "name": {
+            "en": "Samur"
+          },
+          "latitude": 41.63671,
+          "longitude": 48.43028
+        }
+      ]
+    },
+    {
+      "code": "AZ-SAT",
+      "name": {
+        "en": "Saatly"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Əhmədbəyli"
+          },
+          "latitude": 39.88074,
+          "longitude": 48.39158
+        },
+        {
+          "name": {
+            "en": "Saatlı"
+          },
+          "latitude": 39.93214,
+          "longitude": 48.36892
+        }
+      ]
+    },
+    {
+      "code": "AZ-SAB",
+      "name": {
+        "en": "Sabirabad"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Sabirabad"
+          },
+          "latitude": 40.00869,
+          "longitude": 48.47701
+        }
+      ]
+    },
+    {
+      "code": "AZ-SAL",
+      "name": {
+        "en": "Salyan"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Qaraçala"
+          },
+          "latitude": 39.81614,
+          "longitude": 48.93792
+        },
+        {
+          "name": {
+            "en": "Salyan"
+          },
+          "latitude": 39.59621,
+          "longitude": 48.98479
+        }
+      ]
+    },
+    {
+      "code": "AZ-SMX",
+      "name": {
+        "en": "Samukh"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Qarayeri"
+          },
+          "latitude": 40.78674,
+          "longitude": 46.31365
+        },
+        {
+          "name": {
+            "en": "Qırmızı Samux"
+          },
+          "latitude": 40.93972,
+          "longitude": 46.37889
+        },
+        {
+          "name": {
+            "en": "Samux"
+          },
+          "latitude": 40.76485,
+          "longitude": 46.40868
+        }
+      ]
+    },
+    {
+      "code": "AZ-SBN",
+      "name": {
+        "en": "Shabran"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Divichibazar"
+          },
+          "latitude": 41.20117,
+          "longitude": 48.98712
+        }
+      ]
+    },
+    {
+      "code": "AZ-SA",
+      "name": {
+        "en": "Shaki"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Sheki"
+          },
+          "latitude": 41.19194,
+          "longitude": 47.17056
+        }
+      ]
+    },
+    {
+      "code": "AZ-SAK",
+      "name": {
+        "en": "Shaki"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Baş Göynük"
+          },
+          "latitude": 41.32582,
+          "longitude": 47.11357
+        }
+      ]
+    },
+    {
+      "code": "AZ-SMI",
+      "name": {
+        "en": "Shamakhi"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Shamakhi"
+          },
+          "latitude": 40.63141,
+          "longitude": 48.64137
+        }
+      ]
+    },
+    {
+      "code": "AZ-SKR",
+      "name": {
+        "en": "Shamkir"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Dolyar"
+          },
+          "latitude": 40.86278,
+          "longitude": 46.03493
+        },
+        {
+          "name": {
+            "en": "Dzagam"
+          },
+          "latitude": 40.9033,
+          "longitude": 45.88564
+        },
+        {
+          "name": {
+            "en": "Qasım İsmayılov"
+          },
+          "latitude": 40.81243,
+          "longitude": 46.25938
+        },
+        {
+          "name": {
+            "en": "Shamkhor",
+            "ar": "شمكير"
+          },
+          "latitude": 40.82975,
+          "longitude": 46.0178
+        }
+      ]
+    },
+    {
+      "code": "AZ-SR",
+      "name": {
+        "en": "Shirvan"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Şirvan"
+          },
+          "latitude": 39.93778,
+          "longitude": 48.929
+        }
+      ]
+    },
+    {
+      "code": "AZ-SUS",
+      "name": {
+        "en": "Shusha"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Shushi"
+          },
+          "latitude": 39.76006,
+          "longitude": 46.74989
+        }
+      ]
+    },
+    {
+      "code": "AZ-SIY",
+      "name": {
+        "en": "Siazan"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Gilgilçay"
+          },
+          "latitude": 41.13932,
+          "longitude": 49.09038
+        },
+        {
+          "name": {
+            "en": "Kyzyl-Burun"
+          },
+          "latitude": 41.07811,
+          "longitude": 49.11564
+        }
+      ]
+    },
+    {
+      "code": "AZ-SM",
+      "name": {
+        "en": "Sumqayit"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Corat"
+          },
+          "latitude": 40.57176,
+          "longitude": 49.70509
+        },
+        {
+          "name": {
+            "en": "Hacı Zeynalabdin"
+          },
+          "latitude": 40.62333,
+          "longitude": 49.55861
+        },
+        {
+          "name": {
+            "en": "Sumqayıt"
+          },
+          "latitude": 40.58972,
+          "longitude": 49.66861
+        }
+      ]
+    },
+    {
+      "code": "AZ-TAR",
+      "name": {
+        "en": "Tartar"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Martakert"
+          },
+          "latitude": 40.21127,
+          "longitude": 46.82135
+        },
+        {
+          "name": {
+            "en": "Terter"
+          },
+          "latitude": 40.34201,
+          "longitude": 46.93161
+        }
+      ]
+    },
+    {
+      "code": "AZ-TOV",
+      "name": {
+        "en": "Tovuz"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Çatax"
+          },
+          "latitude": 40.72622,
+          "longitude": 45.55919
+        },
+        {
+          "name": {
+            "en": "Çobansığnaq"
+          },
+          "latitude": 40.75244,
+          "longitude": 45.70645
+        },
+        {
+          "name": {
+            "en": "Dondar Quşçu"
+          },
+          "latitude": 40.9539,
+          "longitude": 45.61942
+        },
+        {
+          "name": {
+            "en": "Qaraxanlı"
+          },
+          "latitude": 41.04358,
+          "longitude": 45.65527
+        },
+        {
+          "name": {
+            "en": "Tovuz"
+          },
+          "latitude": 40.99249,
+          "longitude": 45.62838
+        },
+        {
+          "name": {
+            "en": "Yanıqlı"
+          },
+          "latitude": 40.8432,
+          "longitude": 45.6803
+        }
+      ]
+    },
+    {
+      "code": "AZ-UCA",
+      "name": {
+        "en": "Ujar"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ujar"
+          },
+          "latitude": 40.51902,
+          "longitude": 47.65423
+        }
+      ]
+    },
+    {
+      "code": "AZ-YAR",
+      "name": {
+        "en": "Yardymli"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Yardımlı"
+          },
+          "latitude": 38.90771,
+          "longitude": 48.24052
+        }
+      ]
+    },
+    {
+      "code": "AZ-YEV",
+      "name": {
+        "en": "Yevlakh"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Aran"
+          },
+          "latitude": 40.62528,
+          "longitude": 46.97556
+        },
+        {
+          "name": {
+            "en": "Qaramanlı"
+          },
+          "latitude": 40.48135,
+          "longitude": 46.99339
+        }
+      ]
+    },
+    {
+      "code": "AZ-YE",
+      "name": {
+        "en": "Yevlakh"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Yevlakh"
+          },
+          "latitude": 40.61832,
+          "longitude": 47.15014
+        }
+      ]
+    },
+    {
+      "code": "AZ-ZAN",
+      "name": {
+        "en": "Zangilan"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Mincivan"
+          },
+          "latitude": 39.03023,
+          "longitude": 46.72329
+        },
+        {
+          "name": {
+            "en": "Zangilan"
+          },
+          "latitude": 39.08371,
+          "longitude": 46.65988
+        }
+      ]
+    },
+    {
+      "code": "AZ-ZAQ",
+      "name": {
+        "en": "Zaqatala"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Aliabad"
+          },
+          "latitude": 41.4829,
+          "longitude": 46.63483
+        },
+        {
+          "name": {
+            "en": "Faldarlı"
+          },
+          "latitude": 41.46868,
+          "longitude": 46.51579
+        },
+        {
+          "name": {
+            "en": "Mamrux"
+          },
+          "latitude": 41.54243,
+          "longitude": 46.767
+        },
+        {
+          "name": {
+            "en": "Qandax"
+          },
+          "latitude": 41.47546,
+          "longitude": 46.54128
+        },
+        {
+          "name": {
+            "en": "Zaqatala"
+          },
+          "latitude": 41.6316,
+          "longitude": 46.64479
+        }
+      ]
+    },
+    {
+      "code": "AZ-ZAR",
+      "name": {
+        "en": "Zardab"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Zardob"
+          },
+          "latitude": 40.2184,
+          "longitude": 47.71214
+        }
+      ]
+    }
+  ]
+}

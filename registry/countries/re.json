@@ -1,0 +1,229 @@
+{
+  "code": "RE",
+  "iso3": "REU",
+  "name": {
+    "en": "Reunion",
+    "ar": "جمع شمل",
+    "de": "Réunion",
+    "es": "Reunión",
+    "fr": "Réunion",
+    "hi": "रीयूनियन",
+    "it": "Riunione",
+    "ja": "レユニオン",
+    "ko": "레위니옹",
+    "nl": "Réunion",
+    "pl": "Reunion",
+    "pt": "Reunião",
+    "pt-BR": "Reunião",
+    "ru": "Воссоединение",
+    "tr": "Réunion",
+    "uk": "Возз'єднання",
+    "zh": "留尼汪岛"
+  },
+  "phone": "+262",
+  "currency": "EUR",
+  "timezone": "Indian/Reunion",
+  "flag": "🇷🇪",
+  "regions": [
+    {
+      "code": "RE-01",
+      "name": {
+        "en": "Saint-Benoît"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bras-Panon"
+          },
+          "latitude": -21.0315816,
+          "longitude": 55.5441634
+        },
+        {
+          "name": {
+            "en": "La Plaine-des-Palmistes"
+          },
+          "latitude": -21.1529507,
+          "longitude": 55.5618014
+        },
+        {
+          "name": {
+            "en": "Saint-André"
+          },
+          "latitude": -20.9567727,
+          "longitude": 55.5548674
+        },
+        {
+          "name": {
+            "en": "Saint-Benoît"
+          },
+          "latitude": -21.0885946,
+          "longitude": 55.4664076
+        },
+        {
+          "name": {
+            "en": "Sainte-Rose"
+          },
+          "latitude": -21.1778289,
+          "longitude": 55.6593981
+        },
+        {
+          "name": {
+            "en": "Salazie"
+          },
+          "latitude": -21.0524097,
+          "longitude": 55.4321337
+        }
+      ]
+    },
+    {
+      "code": "RE-02",
+      "name": {
+        "en": "Saint-Denis"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Saint-Denis"
+          },
+          "latitude": -20.9645672,
+          "longitude": 55.418353
+        },
+        {
+          "name": {
+            "en": "Sainte-Marie"
+          },
+          "latitude": -20.9462842,
+          "longitude": 55.4409587
+        },
+        {
+          "name": {
+            "en": "Sainte-Suzanne"
+          },
+          "latitude": -20.9506379,
+          "longitude": 55.5111475
+        }
+      ]
+    },
+    {
+      "code": "RE-03",
+      "name": {
+        "en": "Saint-Paul"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "La Possession"
+          },
+          "latitude": -20.9966715,
+          "longitude": 55.3094196
+        },
+        {
+          "name": {
+            "en": "Le Port"
+          },
+          "latitude": -20.9459981,
+          "longitude": 55.2625839
+        },
+        {
+          "name": {
+            "en": "Les Trois-Bassins"
+          },
+          "latitude": -21.1138065,
+          "longitude": 55.2553467
+        },
+        {
+          "name": {
+            "en": "Saint-Leu"
+          },
+          "latitude": -21.1815374,
+          "longitude": 55.2607553
+        },
+        {
+          "name": {
+            "en": "Saint-Paul"
+          },
+          "latitude": -21.0365634,
+          "longitude": 55.1754223
+        }
+      ]
+    },
+    {
+      "code": "RE-04",
+      "name": {
+        "en": "Saint-Pierre"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Cilaos"
+          },
+          "latitude": -21.1402675,
+          "longitude": 55.3731415
+        },
+        {
+          "name": {
+            "en": "Entre-Deux"
+          },
+          "latitude": -21.2107387,
+          "longitude": 55.4112594
+        },
+        {
+          "name": {
+            "en": "L'Étang-Salé"
+          },
+          "latitude": -21.2347408,
+          "longitude": 55.3163686
+        },
+        {
+          "name": {
+            "en": "Le Tampon"
+          },
+          "latitude": -21.2250092,
+          "longitude": 55.4876541
+        },
+        {
+          "name": {
+            "en": "Les Avirons"
+          },
+          "latitude": -21.2018683,
+          "longitude": 55.3216609
+        },
+        {
+          "name": {
+            "en": "Petite-Île"
+          },
+          "latitude": -21.3329678,
+          "longitude": 55.5294205
+        },
+        {
+          "name": {
+            "en": "Saint-Joseph"
+          },
+          "latitude": -21.2921186,
+          "longitude": 55.5616173
+        },
+        {
+          "name": {
+            "en": "Saint-Louis"
+          },
+          "latitude": -21.2254829,
+          "longitude": 55.340044
+        },
+        {
+          "name": {
+            "en": "Saint-Philippe"
+          },
+          "latitude": -21.308375,
+          "longitude": 55.6611834
+        },
+        {
+          "name": {
+            "en": "Saint-Pierre"
+          },
+          "latitude": -21.3089303,
+          "longitude": 55.3395313
+        }
+      ]
+    }
+  ]
+}

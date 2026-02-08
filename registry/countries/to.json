@@ -1,0 +1,125 @@
+{
+  "code": "TO",
+  "iso3": "TON",
+  "name": {
+    "en": "Tonga",
+    "ar": "تونغا",
+    "de": "Tonga",
+    "es": "Tonga",
+    "fr": "Tonga",
+    "hi": "टोंगा",
+    "it": "Tonga",
+    "ja": "トンガ",
+    "ko": "통가",
+    "nl": "Tonga",
+    "pl": "Tonga",
+    "pt": "Tonga",
+    "pt-BR": "Tonga",
+    "ru": "Тонга",
+    "tr": "Tonga",
+    "uk": "Тонга",
+    "zh": "汤加"
+  },
+  "phone": "+676",
+  "currency": "TOP",
+  "timezone": "Pacific/Tongatapu",
+  "flag": "🇹🇴",
+  "regions": [
+    {
+      "code": "TO-02",
+      "name": {
+        "en": "Haʻapai"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Pangai"
+          },
+          "latitude": -19.81468,
+          "longitude": -174.35423
+        }
+      ]
+    },
+    {
+      "code": "TO-01",
+      "name": {
+        "en": "ʻEua"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "‘Ohonua"
+          },
+          "latitude": -21.33333,
+          "longitude": -174.95
+        }
+      ]
+    },
+    {
+      "code": "TO-03",
+      "name": {
+        "en": "Niuas"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Hihifo"
+          },
+          "latitude": -15.9544,
+          "longitude": -173.79616
+        }
+      ]
+    },
+    {
+      "code": "TO-04",
+      "name": {
+        "en": "Tongatapu"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Haveluloto"
+          },
+          "latitude": -21.15216,
+          "longitude": -175.21333
+        },
+        {
+          "name": {
+            "en": "Kolonga"
+          },
+          "latitude": -21.13333,
+          "longitude": -175.06667
+        },
+        {
+          "name": {
+            "en": "Nuku‘alofa"
+          },
+          "latitude": -21.13938,
+          "longitude": -175.2018
+        },
+        {
+          "name": {
+            "en": "Vaini"
+          },
+          "latitude": -21.19292,
+          "longitude": -175.17678
+        }
+      ]
+    },
+    {
+      "code": "TO-05",
+      "name": {
+        "en": "Vavaʻu"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Neiafu"
+          },
+          "latitude": -18.6506,
+          "longitude": -173.98404
+        }
+      ]
+    }
+  ]
+}

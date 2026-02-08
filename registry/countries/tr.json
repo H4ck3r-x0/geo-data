@@ -1,0 +1,7590 @@
+{
+  "code": "TR",
+  "iso3": "TUR",
+  "name": {
+    "en": "Turkey",
+    "ar": "ديك رومى",
+    "de": "Türkei",
+    "es": "Turquía",
+    "fr": "Turquie",
+    "hi": "टर्की",
+    "it": "Turchia",
+    "ja": "トルコ",
+    "ko": "터키",
+    "nl": "Turkije",
+    "pl": "Turcja",
+    "pt": "Turquia",
+    "pt-BR": "Turquia",
+    "ru": "Турция",
+    "tr": "Türkiye",
+    "uk": "Туреччина",
+    "zh": "土耳其"
+  },
+  "phone": "+90",
+  "currency": "TRY",
+  "timezone": "Europe/Istanbul",
+  "flag": "🇹🇷",
+  "regions": [
+    {
+      "code": "TR-01",
+      "name": {
+        "en": "Adana"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Adana"
+          },
+          "latitude": 36.9975753,
+          "longitude": 35.1232526
+        },
+        {
+          "name": {
+            "en": "Aladağ"
+          },
+          "latitude": 37.55854,
+          "longitude": 35.40196
+        },
+        {
+          "name": {
+            "en": "Ceyhan",
+            "ar": "جيهان"
+          },
+          "latitude": 37.02472,
+          "longitude": 35.8175
+        },
+        {
+          "name": {
+            "en": "Çukurova"
+          },
+          "latitude": 37.05627,
+          "longitude": 35.13119
+        },
+        {
+          "name": {
+            "en": "Feke"
+          },
+          "latitude": 37.82405,
+          "longitude": 35.91826
+        },
+        {
+          "name": {
+            "en": "İmamoğlu"
+          },
+          "latitude": 37.275,
+          "longitude": 35.66649
+        },
+        {
+          "name": {
+            "en": "Karaisalı"
+          },
+          "latitude": 37.26655,
+          "longitude": 35.05033
+        },
+        {
+          "name": {
+            "en": "Karataş"
+          },
+          "latitude": 36.57186,
+          "longitude": 35.36784
+        },
+        {
+          "name": {
+            "en": "Kozan"
+          },
+          "latitude": 37.5,
+          "longitude": 35.75
+        },
+        {
+          "name": {
+            "en": "Pozantı"
+          },
+          "latitude": 37.43671,
+          "longitude": 34.88057
+        },
+        {
+          "name": {
+            "en": "Saimbeyli"
+          },
+          "latitude": 37.99615,
+          "longitude": 36.09909
+        },
+        {
+          "name": {
+            "en": "Sarıçam"
+          },
+          "latitude": 37.14971,
+          "longitude": 35.50949
+        },
+        {
+          "name": {
+            "en": "Seyhan"
+          },
+          "latitude": 36.9554,
+          "longitude": 35.21637
+        },
+        {
+          "name": {
+            "en": "Tufanbeyli"
+          },
+          "latitude": 38.27343,
+          "longitude": 36.22731
+        },
+        {
+          "name": {
+            "en": "Yumurtalık"
+          },
+          "latitude": 36.78245,
+          "longitude": 35.79949
+        },
+        {
+          "name": {
+            "en": "Yüreğir"
+          },
+          "latitude": 36.99205,
+          "longitude": 35.45402
+        }
+      ]
+    },
+    {
+      "code": "TR-02",
+      "name": {
+        "en": "Adıyaman"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Besni"
+          },
+          "latitude": 37.69278,
+          "longitude": 37.86111
+        },
+        {
+          "name": {
+            "en": "Çelikhan"
+          },
+          "latitude": 38.0256,
+          "longitude": 38.23665
+        },
+        {
+          "name": {
+            "en": "Gerger"
+          },
+          "latitude": 37.95,
+          "longitude": 39.01667
+        },
+        {
+          "name": {
+            "en": "Gölbaşı"
+          },
+          "latitude": 37.78361,
+          "longitude": 37.63667
+        },
+        {
+          "name": {
+            "en": "Kâhta",
+            "ar": "كاهتا"
+          },
+          "latitude": 37.78552,
+          "longitude": 38.6237
+        },
+        {
+          "name": {
+            "en": "Merkez"
+          },
+          "latitude": 37.74454,
+          "longitude": 38.26801
+        },
+        {
+          "name": {
+            "en": "Samsat"
+          },
+          "latitude": 37.58194,
+          "longitude": 38.47417
+        },
+        {
+          "name": {
+            "en": "Sincik"
+          },
+          "latitude": 38.03645,
+          "longitude": 38.61257
+        },
+        {
+          "name": {
+            "en": "Tut"
+          },
+          "latitude": 37.79529,
+          "longitude": 37.9161
+        }
+      ]
+    },
+    {
+      "code": "TR-03",
+      "name": {
+        "en": "Afyonkarahisar"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Başmakçı"
+          },
+          "latitude": 37.89722,
+          "longitude": 30.01167
+        },
+        {
+          "name": {
+            "en": "Bayat"
+          },
+          "latitude": 38.98306,
+          "longitude": 30.92472
+        },
+        {
+          "name": {
+            "en": "Bolvadin"
+          },
+          "latitude": 38.71111,
+          "longitude": 31.04861
+        },
+        {
+          "name": {
+            "en": "Çay"
+          },
+          "latitude": 38.59167,
+          "longitude": 31.02861
+        },
+        {
+          "name": {
+            "en": "Çobanlar"
+          },
+          "latitude": 38.71085,
+          "longitude": 30.78874
+        },
+        {
+          "name": {
+            "en": "Dazkırı"
+          },
+          "latitude": 37.91861,
+          "longitude": 29.86056
+        },
+        {
+          "name": {
+            "en": "Dinar"
+          },
+          "latitude": 38.065,
+          "longitude": 30.16557
+        },
+        {
+          "name": {
+            "en": "Emirdağ"
+          },
+          "latitude": 39.01972,
+          "longitude": 31.15
+        },
+        {
+          "name": {
+            "en": "Evciler"
+          },
+          "latitude": 38.04139,
+          "longitude": 29.88667
+        },
+        {
+          "name": {
+            "en": "Hocalar"
+          },
+          "latitude": 38.57824,
+          "longitude": 29.96768
+        },
+        {
+          "name": {
+            "en": "İhsaniye"
+          },
+          "latitude": 39.02916,
+          "longitude": 30.41639
+        },
+        {
+          "name": {
+            "en": "İscehisar"
+          },
+          "latitude": 38.939,
+          "longitude": 30.75002
+        },
+        {
+          "name": {
+            "en": "Kızılören"
+          },
+          "latitude": 38.25806,
+          "longitude": 30.15167
+        },
+        {
+          "name": {
+            "en": "Merkez"
+          },
+          "latitude": 38.79698,
+          "longitude": 30.51951
+        },
+        {
+          "name": {
+            "en": "Sandıklı"
+          },
+          "latitude": 38.46472,
+          "longitude": 30.26946
+        },
+        {
+          "name": {
+            "en": "Sinanpaşa"
+          },
+          "latitude": 38.74444,
+          "longitude": 30.24278
+        },
+        {
+          "name": {
+            "en": "Şuhut"
+          },
+          "latitude": 38.53111,
+          "longitude": 30.54583
+        },
+        {
+          "name": {
+            "en": "Sultandağı"
+          },
+          "latitude": 38.53111,
+          "longitude": 31.22806
+        }
+      ]
+    },
+    {
+      "code": "TR-04",
+      "name": {
+        "en": "Ağrı"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Diyadin"
+          },
+          "latitude": 39.54056,
+          "longitude": 43.67135
+        },
+        {
+          "name": {
+            "en": "Doğubayazıt"
+          },
+          "latitude": 39.54694,
+          "longitude": 44.08417
+        },
+        {
+          "name": {
+            "en": "Eleşkirt"
+          },
+          "latitude": 39.79803,
+          "longitude": 42.67574
+        },
+        {
+          "name": {
+            "en": "Hamur"
+          },
+          "latitude": 39.60561,
+          "longitude": 42.985
+        },
+        {
+          "name": {
+            "en": "Merkez"
+          },
+          "latitude": 39.71944,
+          "longitude": 43.05139
+        },
+        {
+          "name": {
+            "en": "Patnos"
+          },
+          "latitude": 39.22493,
+          "longitude": 42.85693
+        },
+        {
+          "name": {
+            "en": "Taşlıçay"
+          },
+          "latitude": 39.62966,
+          "longitude": 43.36878
+        },
+        {
+          "name": {
+            "en": "Tutak"
+          },
+          "latitude": 39.55042,
+          "longitude": 42.77572
+        }
+      ]
+    },
+    {
+      "code": "TR-68",
+      "name": {
+        "en": "Aksaray"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ağaçören"
+          },
+          "latitude": 38.87484,
+          "longitude": 33.91674
+        },
+        {
+          "name": {
+            "en": "Eskil"
+          },
+          "latitude": 38.41158,
+          "longitude": 33.41994
+        },
+        {
+          "name": {
+            "en": "Gülağaç"
+          },
+          "latitude": 38.40641,
+          "longitude": 34.35071
+        },
+        {
+          "name": {
+            "en": "Güzelyurt"
+          },
+          "latitude": 38.27722,
+          "longitude": 34.37194
+        },
+        {
+          "name": {
+            "en": "Merkez",
+            "ar": "آق سراي"
+          },
+          "latitude": 38.3706,
+          "longitude": 34.02843
+        },
+        {
+          "name": {
+            "en": "Ortaköy"
+          },
+          "latitude": 38.73728,
+          "longitude": 34.03866
+        },
+        {
+          "name": {
+            "en": "Sarıyahşi"
+          },
+          "latitude": 38.98349,
+          "longitude": 33.84136
+        },
+        {
+          "name": {
+            "en": "Sultanhanı"
+          },
+          "latitude": 38.2471,
+          "longitude": 33.54961
+        }
+      ]
+    },
+    {
+      "code": "TR-05",
+      "name": {
+        "en": "Amasya"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Göynücek"
+          },
+          "latitude": 40.39917,
+          "longitude": 35.525
+        },
+        {
+          "name": {
+            "en": "Gümüşhacıköy"
+          },
+          "latitude": 40.87306,
+          "longitude": 35.21472
+        },
+        {
+          "name": {
+            "en": "Hamamözü"
+          },
+          "latitude": 40.79539,
+          "longitude": 35.03367
+        },
+        {
+          "name": {
+            "en": "Merkez"
+          },
+          "latitude": 40.61939,
+          "longitude": 35.87016
+        },
+        {
+          "name": {
+            "en": "Merzifon"
+          },
+          "latitude": 40.88348,
+          "longitude": 35.47116
+        },
+        {
+          "name": {
+            "en": "Suluova"
+          },
+          "latitude": 40.83129,
+          "longitude": 35.64788
+        },
+        {
+          "name": {
+            "en": "Taşova"
+          },
+          "latitude": 40.75972,
+          "longitude": 36.3225
+        }
+      ]
+    },
+    {
+      "code": "TR-06",
+      "name": {
+        "en": "Ankara"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Akyurt"
+          },
+          "latitude": 40.13512,
+          "longitude": 33.08614
+        },
+        {
+          "name": {
+            "en": "Altındağ"
+          },
+          "latitude": 40.0011,
+          "longitude": 32.97022
+        },
+        {
+          "name": {
+            "en": "Ankara"
+          },
+          "latitude": 39.9034367,
+          "longitude": 32.4331003
+        },
+        {
+          "name": {
+            "en": "Ayaş"
+          },
+          "latitude": 40.01933,
+          "longitude": 32.33221
+        },
+        {
+          "name": {
+            "en": "Bala"
+          },
+          "latitude": 39.56374,
+          "longitude": 33.12962
+        },
+        {
+          "name": {
+            "en": "Beypazarı"
+          },
+          "latitude": 40.1675,
+          "longitude": 31.92111
+        },
+        {
+          "name": {
+            "en": "Çamlıdere"
+          },
+          "latitude": 40.48958,
+          "longitude": 32.47499
+        },
+        {
+          "name": {
+            "en": "Çankaya"
+          },
+          "latitude": 39.9179,
+          "longitude": 32.86268
+        },
+        {
+          "name": {
+            "en": "Çubuk"
+          },
+          "latitude": 40.23861,
+          "longitude": 33.03222
+        },
+        {
+          "name": {
+            "en": "Elmadağ"
+          },
+          "latitude": 39.92083,
+          "longitude": 33.23083
+        },
+        {
+          "name": {
+            "en": "Etimesgut"
+          },
+          "latitude": 39.96335,
+          "longitude": 32.63744
+        },
+        {
+          "name": {
+            "en": "Evren"
+          },
+          "latitude": 39.02402,
+          "longitude": 33.80626
+        },
+        {
+          "name": {
+            "en": "Gölbaşı"
+          },
+          "latitude": 39.79043,
+          "longitude": 32.80903
+        },
+        {
+          "name": {
+            "en": "Güdül"
+          },
+          "latitude": 40.21051,
+          "longitude": 32.24552
+        },
+        {
+          "name": {
+            "en": "Haymana"
+          },
+          "latitude": 39.43212,
+          "longitude": 32.49732
+        },
+        {
+          "name": {
+            "en": "Kahramankazan"
+          },
+          "latitude": 40.16502,
+          "longitude": 32.63904
+        },
+        {
+          "name": {
+            "en": "Kalecik"
+          },
+          "latitude": 40.09722,
+          "longitude": 33.40833
+        },
+        {
+          "name": {
+            "en": "Keçiören"
+          },
+          "latitude": 40.02106,
+          "longitude": 32.83102
+        },
+        {
+          "name": {
+            "en": "Kızılcahamam"
+          },
+          "latitude": 40.46972,
+          "longitude": 32.65056
+        },
+        {
+          "name": {
+            "en": "Mamak"
+          },
+          "latitude": 39.94587,
+          "longitude": 32.90811
+        },
+        {
+          "name": {
+            "en": "Nallıhan"
+          },
+          "latitude": 40.18593,
+          "longitude": 31.35179
+        },
+        {
+          "name": {
+            "en": "Polatlı"
+          },
+          "latitude": 39.57715,
+          "longitude": 32.14132
+        },
+        {
+          "name": {
+            "en": "Pursaklar"
+          },
+          "latitude": 40.03961,
+          "longitude": 32.90139
+        },
+        {
+          "name": {
+            "en": "Şereflikoçhisar"
+          },
+          "latitude": 38.93925,
+          "longitude": 33.5386
+        },
+        {
+          "name": {
+            "en": "Sincan"
+          },
+          "latitude": 39.95943,
+          "longitude": 32.49567
+        },
+        {
+          "name": {
+            "en": "Yenimahalle"
+          },
+          "latitude": 39.99043,
+          "longitude": 32.69555
+        }
+      ]
+    },
+    {
+      "code": "TR-07",
+      "name": {
+        "en": "Antalya"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Akseki"
+          },
+          "latitude": 37.04861,
+          "longitude": 31.79
+        },
+        {
+          "name": {
+            "en": "Aksu"
+          },
+          "latitude": 36.95389,
+          "longitude": 30.84778
+        },
+        {
+          "name": {
+            "en": "Alanya",
+            "ar": "ألانيا"
+          },
+          "latitude": 36.54375,
+          "longitude": 31.99982
+        },
+        {
+          "name": {
+            "en": "Antalya"
+          },
+          "latitude": 36.8980983,
+          "longitude": 30.5532907
+        },
+        {
+          "name": {
+            "en": "Demre"
+          },
+          "latitude": 36.24444,
+          "longitude": 29.985
+        },
+        {
+          "name": {
+            "en": "Döşemealtı"
+          },
+          "latitude": 37.02366,
+          "longitude": 30.5904
+        },
+        {
+          "name": {
+            "en": "Elmalı"
+          },
+          "latitude": 36.73583,
+          "longitude": 29.91775
+        },
+        {
+          "name": {
+            "en": "Finike"
+          },
+          "latitude": 36.42355,
+          "longitude": 30.06645
+        },
+        {
+          "name": {
+            "en": "Gazipaşa"
+          },
+          "latitude": 36.26942,
+          "longitude": 32.31792
+        },
+        {
+          "name": {
+            "en": "Gündoğmuş"
+          },
+          "latitude": 36.82446,
+          "longitude": 32.00679
+        },
+        {
+          "name": {
+            "en": "İbradı"
+          },
+          "latitude": 37.09694,
+          "longitude": 31.59917
+        },
+        {
+          "name": {
+            "en": "Kaş"
+          },
+          "latitude": 36.20176,
+          "longitude": 29.63766
+        },
+        {
+          "name": {
+            "en": "Kemer"
+          },
+          "latitude": 36.59778,
+          "longitude": 30.56056
+        },
+        {
+          "name": {
+            "en": "Kepez"
+          },
+          "latitude": 37.01187,
+          "longitude": 30.75966
+        },
+        {
+          "name": {
+            "en": "Konyaaltı"
+          },
+          "latitude": 36.86424,
+          "longitude": 30.62714
+        },
+        {
+          "name": {
+            "en": "Korkuteli"
+          },
+          "latitude": 37.06498,
+          "longitude": 30.19565
+        },
+        {
+          "name": {
+            "en": "Kumluca"
+          },
+          "latitude": 36.58,
+          "longitude": 30.3
+        },
+        {
+          "name": {
+            "en": "Manavgat"
+          },
+          "latitude": 36.78667,
+          "longitude": 31.44306
+        },
+        {
+          "name": {
+            "en": "Muratpaşa"
+          },
+          "latitude": 36.89157,
+          "longitude": 30.76498
+        },
+        {
+          "name": {
+            "en": "Serik"
+          },
+          "latitude": 37.07743,
+          "longitude": 31.00677
+        }
+      ]
+    },
+    {
+      "code": "TR-75",
+      "name": {
+        "en": "Ardahan"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Çıldır"
+          },
+          "latitude": 41.13783,
+          "longitude": 43.14169
+        },
+        {
+          "name": {
+            "en": "Damal"
+          },
+          "latitude": 41.34145,
+          "longitude": 42.8368
+        },
+        {
+          "name": {
+            "en": "Göle"
+          },
+          "latitude": 40.78746,
+          "longitude": 42.60603
+        },
+        {
+          "name": {
+            "en": "Hanak"
+          },
+          "latitude": 41.23344,
+          "longitude": 42.84037
+        },
+        {
+          "name": {
+            "en": "Merkez",
+            "ar": "أرداهان"
+          },
+          "latitude": 41.10871,
+          "longitude": 42.70222
+        },
+        {
+          "name": {
+            "en": "Posof"
+          },
+          "latitude": 41.51111,
+          "longitude": 42.72917
+        }
+      ]
+    },
+    {
+      "code": "TR-08",
+      "name": {
+        "en": "Artvin"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ardanuç"
+          },
+          "latitude": 41.12738,
+          "longitude": 42.06292
+        },
+        {
+          "name": {
+            "en": "Arhavi"
+          },
+          "latitude": 41.35121,
+          "longitude": 41.30456
+        },
+        {
+          "name": {
+            "en": "Borçka"
+          },
+          "latitude": 41.35792,
+          "longitude": 41.66579
+        },
+        {
+          "name": {
+            "en": "Hopa"
+          },
+          "latitude": 41.39046,
+          "longitude": 41.41966
+        },
+        {
+          "name": {
+            "en": "Kemalpaşa"
+          },
+          "latitude": 41.48336,
+          "longitude": 41.5275
+        },
+        {
+          "name": {
+            "en": "Merkez",
+            "ar": "أرتوين"
+          },
+          "latitude": 41.18161,
+          "longitude": 41.82172
+        },
+        {
+          "name": {
+            "en": "Murgul"
+          },
+          "latitude": 41.27937,
+          "longitude": 41.55514
+        },
+        {
+          "name": {
+            "en": "Şavşat"
+          },
+          "latitude": 41.24027,
+          "longitude": 42.36109
+        },
+        {
+          "name": {
+            "en": "Yusufeli"
+          },
+          "latitude": 40.82042,
+          "longitude": 41.53743
+        }
+      ]
+    },
+    {
+      "code": "TR-09",
+      "name": {
+        "en": "Aydın"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bozdoğan"
+          },
+          "latitude": 37.67134,
+          "longitude": 28.31395
+        },
+        {
+          "name": {
+            "en": "Buharkent"
+          },
+          "latitude": 37.96397,
+          "longitude": 28.7427
+        },
+        {
+          "name": {
+            "en": "Çine"
+          },
+          "latitude": 37.61266,
+          "longitude": 28.05912
+        },
+        {
+          "name": {
+            "en": "Didim"
+          },
+          "latitude": 37.39305,
+          "longitude": 27.29357
+        },
+        {
+          "name": {
+            "en": "Efeler"
+          },
+          "latitude": 37.83835,
+          "longitude": 27.84557
+        },
+        {
+          "name": {
+            "en": "Germencik"
+          },
+          "latitude": 37.87056,
+          "longitude": 27.60283
+        },
+        {
+          "name": {
+            "en": "İncirliova"
+          },
+          "latitude": 37.85222,
+          "longitude": 27.72361
+        },
+        {
+          "name": {
+            "en": "Karacasu"
+          },
+          "latitude": 37.74731,
+          "longitude": 28.59402
+        },
+        {
+          "name": {
+            "en": "Karpuzlu"
+          },
+          "latitude": 37.55861,
+          "longitude": 27.83528
+        },
+        {
+          "name": {
+            "en": "Koçarlı"
+          },
+          "latitude": 37.76113,
+          "longitude": 27.70583
+        },
+        {
+          "name": {
+            "en": "Köşk"
+          },
+          "latitude": 37.85333,
+          "longitude": 28.05167
+        },
+        {
+          "name": {
+            "en": "Kuşadası"
+          },
+          "latitude": 37.86014,
+          "longitude": 27.25713
+        },
+        {
+          "name": {
+            "en": "Kuyucak"
+          },
+          "latitude": 37.9133,
+          "longitude": 28.45917
+        },
+        {
+          "name": {
+            "en": "Nazilli"
+          },
+          "latitude": 37.9357,
+          "longitude": 28.30609
+        },
+        {
+          "name": {
+            "en": "Söke"
+          },
+          "latitude": 37.7482,
+          "longitude": 27.40614
+        },
+        {
+          "name": {
+            "en": "Sultanhisar"
+          },
+          "latitude": 37.88989,
+          "longitude": 28.15436
+        },
+        {
+          "name": {
+            "en": "Yenipazar"
+          },
+          "latitude": 37.82332,
+          "longitude": 28.19573
+        }
+      ]
+    },
+    {
+      "code": "TR-10",
+      "name": {
+        "en": "Balıkesir"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Altıeylül"
+          },
+          "latitude": 39.64099,
+          "longitude": 27.88639
+        },
+        {
+          "name": {
+            "en": "Ayvalık"
+          },
+          "latitude": 39.31927,
+          "longitude": 26.69341
+        },
+        {
+          "name": {
+            "en": "Balya"
+          },
+          "latitude": 39.74861,
+          "longitude": 27.57889
+        },
+        {
+          "name": {
+            "en": "Bandırma"
+          },
+          "latitude": 40.35222,
+          "longitude": 27.97667
+        },
+        {
+          "name": {
+            "en": "Bigadiç"
+          },
+          "latitude": 39.3925,
+          "longitude": 28.13111
+        },
+        {
+          "name": {
+            "en": "Burhaniye"
+          },
+          "latitude": 39.50041,
+          "longitude": 26.97269
+        },
+        {
+          "name": {
+            "en": "Dursunbey"
+          },
+          "latitude": 39.58596,
+          "longitude": 28.62568
+        },
+        {
+          "name": {
+            "en": "Edremit",
+            "ar": "إدرميت"
+          },
+          "latitude": 39.59611,
+          "longitude": 27.02444
+        },
+        {
+          "name": {
+            "en": "Erdek"
+          },
+          "latitude": 40.3996,
+          "longitude": 27.79348
+        },
+        {
+          "name": {
+            "en": "Gömeç"
+          },
+          "latitude": 39.39016,
+          "longitude": 26.84127
+        },
+        {
+          "name": {
+            "en": "Gönen"
+          },
+          "latitude": 40.1049,
+          "longitude": 27.65399
+        },
+        {
+          "name": {
+            "en": "Havran"
+          },
+          "latitude": 39.55833,
+          "longitude": 27.09833
+        },
+        {
+          "name": {
+            "en": "İvrindi"
+          },
+          "latitude": 39.58389,
+          "longitude": 27.48639
+        },
+        {
+          "name": {
+            "en": "Karesi"
+          },
+          "latitude": 39.648333,
+          "longitude": 27.8825
+        },
+        {
+          "name": {
+            "en": "Kepsut"
+          },
+          "latitude": 39.68889,
+          "longitude": 28.15222
+        },
+        {
+          "name": {
+            "en": "Manyas"
+          },
+          "latitude": 40.04639,
+          "longitude": 27.97
+        },
+        {
+          "name": {
+            "en": "Marmara"
+          },
+          "latitude": 40.58633,
+          "longitude": 27.55541
+        },
+        {
+          "name": {
+            "en": "Savaştepe"
+          },
+          "latitude": 39.38319,
+          "longitude": 27.65612
+        },
+        {
+          "name": {
+            "en": "Sındırgı"
+          },
+          "latitude": 39.24128,
+          "longitude": 28.17842
+        },
+        {
+          "name": {
+            "en": "Susurluk"
+          },
+          "latitude": 39.91361,
+          "longitude": 28.15778
+        }
+      ]
+    },
+    {
+      "code": "TR-74",
+      "name": {
+        "en": "Bartın"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Amasra"
+          },
+          "latitude": 41.74633,
+          "longitude": 32.38633
+        },
+        {
+          "name": {
+            "en": "Kurucaşile"
+          },
+          "latitude": 41.83781,
+          "longitude": 32.71621
+        },
+        {
+          "name": {
+            "en": "Merkez",
+            "ar": "بارتين"
+          },
+          "latitude": 41.63583,
+          "longitude": 32.3375
+        },
+        {
+          "name": {
+            "en": "Ulus"
+          },
+          "latitude": 41.59373,
+          "longitude": 32.65066
+        }
+      ]
+    },
+    {
+      "code": "TR-72",
+      "name": {
+        "en": "Batman"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Beşiri"
+          },
+          "latitude": 37.91573,
+          "longitude": 41.2865
+        },
+        {
+          "name": {
+            "en": "Gercüş"
+          },
+          "latitude": 37.59139,
+          "longitude": 41.33278
+        },
+        {
+          "name": {
+            "en": "Hasankeyf"
+          },
+          "latitude": 37.70612,
+          "longitude": 41.4048
+        },
+        {
+          "name": {
+            "en": "Kozluk"
+          },
+          "latitude": 38.19249,
+          "longitude": 41.48705
+        },
+        {
+          "name": {
+            "en": "Merkez"
+          },
+          "latitude": 37.84362,
+          "longitude": 41.18341
+        },
+        {
+          "name": {
+            "en": "Sason"
+          },
+          "latitude": 38.32767,
+          "longitude": 41.41377
+        }
+      ]
+    },
+    {
+      "code": "TR-69",
+      "name": {
+        "en": "Bayburt"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Aydıntepe"
+          },
+          "latitude": 40.38325,
+          "longitude": 40.14272
+        },
+        {
+          "name": {
+            "en": "Demirözü"
+          },
+          "latitude": 40.1656,
+          "longitude": 39.89343
+        },
+        {
+          "name": {
+            "en": "Merkez",
+            "ar": "بايبورت"
+          },
+          "latitude": 40.25631,
+          "longitude": 40.22289
+        }
+      ]
+    },
+    {
+      "code": "TR-11",
+      "name": {
+        "en": "Bilecik"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bozüyük"
+          },
+          "latitude": 39.90778,
+          "longitude": 30.03667
+        },
+        {
+          "name": {
+            "en": "Gölpazarı"
+          },
+          "latitude": 40.28472,
+          "longitude": 30.31722
+        },
+        {
+          "name": {
+            "en": "İnhisar"
+          },
+          "latitude": 40.04932,
+          "longitude": 30.38521
+        },
+        {
+          "name": {
+            "en": "Merkez",
+            "ar": "بيله جك"
+          },
+          "latitude": 40.14192,
+          "longitude": 29.97932
+        },
+        {
+          "name": {
+            "en": "Osmaneli"
+          },
+          "latitude": 40.35722,
+          "longitude": 30.01417
+        },
+        {
+          "name": {
+            "en": "Pazaryeri"
+          },
+          "latitude": 39.99395,
+          "longitude": 29.90424
+        },
+        {
+          "name": {
+            "en": "Söğüt"
+          },
+          "latitude": 40.02479,
+          "longitude": 30.173
+        },
+        {
+          "name": {
+            "en": "Yenipazar"
+          },
+          "latitude": 40.17833,
+          "longitude": 30.52
+        }
+      ]
+    },
+    {
+      "code": "TR-12",
+      "name": {
+        "en": "Bingöl"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Adaklı"
+          },
+          "latitude": 39.2287,
+          "longitude": 40.48252
+        },
+        {
+          "name": {
+            "en": "Genç"
+          },
+          "latitude": 38.74773,
+          "longitude": 40.55343
+        },
+        {
+          "name": {
+            "en": "Karlıova"
+          },
+          "latitude": 39.29044,
+          "longitude": 41.00594
+        },
+        {
+          "name": {
+            "en": "Kiğı"
+          },
+          "latitude": 39.30894,
+          "longitude": 40.34995
+        },
+        {
+          "name": {
+            "en": "Merkez"
+          },
+          "latitude": 38.95025,
+          "longitude": 40.52802
+        },
+        {
+          "name": {
+            "en": "Solhan"
+          },
+          "latitude": 38.96525,
+          "longitude": 41.05443
+        },
+        {
+          "name": {
+            "en": "Yayladere"
+          },
+          "latitude": 39.22614,
+          "longitude": 40.0695
+        },
+        {
+          "name": {
+            "en": "Yedisu"
+          },
+          "latitude": 39.43277,
+          "longitude": 40.53368
+        }
+      ]
+    },
+    {
+      "code": "TR-13",
+      "name": {
+        "en": "Bitlis"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Adilcevaz"
+          },
+          "latitude": 38.79911,
+          "longitude": 42.73159
+        },
+        {
+          "name": {
+            "en": "Ahlat"
+          },
+          "latitude": 38.7489,
+          "longitude": 42.48007
+        },
+        {
+          "name": {
+            "en": "Güroymak"
+          },
+          "latitude": 38.5758,
+          "longitude": 42.01558
+        },
+        {
+          "name": {
+            "en": "Hizan"
+          },
+          "latitude": 38.22498,
+          "longitude": 42.4183
+        },
+        {
+          "name": {
+            "en": "Merkez"
+          },
+          "latitude": 38.31702,
+          "longitude": 42.10065
+        },
+        {
+          "name": {
+            "en": "Mutki"
+          },
+          "latitude": 38.40624,
+          "longitude": 41.92018
+        },
+        {
+          "name": {
+            "en": "Tatvan"
+          },
+          "latitude": 38.49221,
+          "longitude": 42.28269
+        }
+      ]
+    },
+    {
+      "code": "TR-14",
+      "name": {
+        "en": "Bolu"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Dörtdivan"
+          },
+          "latitude": 40.72052,
+          "longitude": 32.06314
+        },
+        {
+          "name": {
+            "en": "Gerede"
+          },
+          "latitude": 40.71364,
+          "longitude": 32.31263
+        },
+        {
+          "name": {
+            "en": "Göynük"
+          },
+          "latitude": 40.40028,
+          "longitude": 30.78833
+        },
+        {
+          "name": {
+            "en": "Kıbrıscık"
+          },
+          "latitude": 40.40778,
+          "longitude": 31.85194
+        },
+        {
+          "name": {
+            "en": "Mengen"
+          },
+          "latitude": 40.93877,
+          "longitude": 32.07642
+        },
+        {
+          "name": {
+            "en": "Merkez",
+            "ar": "بولو"
+          },
+          "latitude": 40.73583,
+          "longitude": 31.60611
+        },
+        {
+          "name": {
+            "en": "Mudurnu"
+          },
+          "latitude": 40.473,
+          "longitude": 31.20755
+        },
+        {
+          "name": {
+            "en": "Seben"
+          },
+          "latitude": 40.41134,
+          "longitude": 31.57359
+        },
+        {
+          "name": {
+            "en": "Yeniçağa"
+          },
+          "latitude": 40.77115,
+          "longitude": 32.03375
+        }
+      ]
+    },
+    {
+      "code": "TR-15",
+      "name": {
+        "en": "Burdur"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ağlasun"
+          },
+          "latitude": 37.64944,
+          "longitude": 30.53417
+        },
+        {
+          "name": {
+            "en": "Altınyayla"
+          },
+          "latitude": 36.99722,
+          "longitude": 29.54579
+        },
+        {
+          "name": {
+            "en": "Bucak"
+          },
+          "latitude": 37.45917,
+          "longitude": 30.595
+        },
+        {
+          "name": {
+            "en": "Çavdır"
+          },
+          "latitude": 37.16483,
+          "longitude": 29.69937
+        },
+        {
+          "name": {
+            "en": "Çeltikçi"
+          },
+          "latitude": 37.53885,
+          "longitude": 30.46823
+        },
+        {
+          "name": {
+            "en": "Gölhisar"
+          },
+          "latitude": 37.1459,
+          "longitude": 29.50876
+        },
+        {
+          "name": {
+            "en": "Karamanlı"
+          },
+          "latitude": 37.37301,
+          "longitude": 29.82308
+        },
+        {
+          "name": {
+            "en": "Kemer"
+          },
+          "latitude": 37.35222,
+          "longitude": 30.06306
+        },
+        {
+          "name": {
+            "en": "Merkez"
+          },
+          "latitude": 37.62762,
+          "longitude": 30.20408
+        },
+        {
+          "name": {
+            "en": "Tefenni"
+          },
+          "latitude": 37.30968,
+          "longitude": 29.77538
+        },
+        {
+          "name": {
+            "en": "Yeşilova"
+          },
+          "latitude": 37.50806,
+          "longitude": 29.75472
+        }
+      ]
+    },
+    {
+      "code": "TR-16",
+      "name": {
+        "en": "Bursa"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Büyükorhan"
+          },
+          "latitude": 39.78223,
+          "longitude": 28.89338
+        },
+        {
+          "name": {
+            "en": "Gemlik"
+          },
+          "latitude": 40.4351,
+          "longitude": 29.14943
+        },
+        {
+          "name": {
+            "en": "Gürsu"
+          },
+          "latitude": 40.25498,
+          "longitude": 29.21183
+        },
+        {
+          "name": {
+            "en": "Harmancık"
+          },
+          "latitude": 39.67743,
+          "longitude": 29.15523
+        },
+        {
+          "name": {
+            "en": "İnegöl"
+          },
+          "latitude": 40.07806,
+          "longitude": 29.51333
+        },
+        {
+          "name": {
+            "en": "İznik"
+          },
+          "latitude": 40.42861,
+          "longitude": 29.72111
+        },
+        {
+          "name": {
+            "en": "Karacabey"
+          },
+          "latitude": 40.21323,
+          "longitude": 28.3612
+        },
+        {
+          "name": {
+            "en": "Keles"
+          },
+          "latitude": 39.91361,
+          "longitude": 29.22944
+        },
+        {
+          "name": {
+            "en": "Kestel"
+          },
+          "latitude": 40.19828,
+          "longitude": 29.21237
+        },
+        {
+          "name": {
+            "en": "Mudanya"
+          },
+          "latitude": 40.33342,
+          "longitude": 28.77218
+        },
+        {
+          "name": {
+            "en": "Mustafakemalpaşa"
+          },
+          "latitude": 40.03815,
+          "longitude": 28.40866
+        },
+        {
+          "name": {
+            "en": "Nilüfer"
+          },
+          "latitude": 40.21375,
+          "longitude": 28.98464
+        },
+        {
+          "name": {
+            "en": "Orhaneli"
+          },
+          "latitude": 39.90333,
+          "longitude": 28.99056
+        },
+        {
+          "name": {
+            "en": "Orhangazi"
+          },
+          "latitude": 40.48917,
+          "longitude": 29.30889
+        },
+        {
+          "name": {
+            "en": "Osmangazi"
+          },
+          "latitude": 40.15644,
+          "longitude": 29.08753
+        },
+        {
+          "name": {
+            "en": "Yenişehir"
+          },
+          "latitude": 40.26444,
+          "longitude": 29.65306
+        },
+        {
+          "name": {
+            "en": "Yıldırım"
+          },
+          "latitude": 40.19567,
+          "longitude": 29.0364
+        }
+      ]
+    },
+    {
+      "code": "TR-17",
+      "name": {
+        "en": "Çanakkale"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ayvacık"
+          },
+          "latitude": 39.60111,
+          "longitude": 26.40472
+        },
+        {
+          "name": {
+            "en": "Bayramiç"
+          },
+          "latitude": 39.81951,
+          "longitude": 26.6249
+        },
+        {
+          "name": {
+            "en": "Biga"
+          },
+          "latitude": 40.26921,
+          "longitude": 27.20841
+        },
+        {
+          "name": {
+            "en": "Bozcaada"
+          },
+          "latitude": 39.82409,
+          "longitude": 26.04069
+        },
+        {
+          "name": {
+            "en": "Çan"
+          },
+          "latitude": 40.03328,
+          "longitude": 27.05236
+        },
+        {
+          "name": {
+            "en": "Eceabat"
+          },
+          "latitude": 40.18416,
+          "longitude": 26.3574
+        },
+        {
+          "name": {
+            "en": "Ezine"
+          },
+          "latitude": 39.78561,
+          "longitude": 26.34083
+        },
+        {
+          "name": {
+            "en": "Gelibolu"
+          },
+          "latitude": 40.41028,
+          "longitude": 26.67083
+        },
+        {
+          "name": {
+            "en": "Gökçeada"
+          },
+          "latitude": 40.16523,
+          "longitude": 25.85907
+        },
+        {
+          "name": {
+            "en": "Lapseki"
+          },
+          "latitude": 40.34417,
+          "longitude": 26.68556
+        },
+        {
+          "name": {
+            "en": "Merkez"
+          },
+          "latitude": 40.05093,
+          "longitude": 26.49489
+        },
+        {
+          "name": {
+            "en": "Yenice"
+          },
+          "latitude": 39.93083,
+          "longitude": 27.25806
+        }
+      ]
+    },
+    {
+      "code": "TR-18",
+      "name": {
+        "en": "Çankırı"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Atkaracalar"
+          },
+          "latitude": 40.81593,
+          "longitude": 33.07556
+        },
+        {
+          "name": {
+            "en": "Bayramören"
+          },
+          "latitude": 40.94329,
+          "longitude": 33.203
+        },
+        {
+          "name": {
+            "en": "Çerkeş"
+          },
+          "latitude": 40.81164,
+          "longitude": 32.89358
+        },
+        {
+          "name": {
+            "en": "Eldivan"
+          },
+          "latitude": 40.52975,
+          "longitude": 33.49903
+        },
+        {
+          "name": {
+            "en": "Ilgaz"
+          },
+          "latitude": 40.92511,
+          "longitude": 33.62586
+        },
+        {
+          "name": {
+            "en": "Kızılırmak"
+          },
+          "latitude": 40.34556,
+          "longitude": 33.98639
+        },
+        {
+          "name": {
+            "en": "Korgun"
+          },
+          "latitude": 40.73479,
+          "longitude": 33.51844
+        },
+        {
+          "name": {
+            "en": "Kurşunlu"
+          },
+          "latitude": 40.84101,
+          "longitude": 33.26028
+        },
+        {
+          "name": {
+            "en": "Merkez"
+          },
+          "latitude": 40.6,
+          "longitude": 33.616667
+        },
+        {
+          "name": {
+            "en": "Orta"
+          },
+          "latitude": 40.6242,
+          "longitude": 33.10928
+        },
+        {
+          "name": {
+            "en": "Şabanözü"
+          },
+          "latitude": 40.48333,
+          "longitude": 33.28333
+        },
+        {
+          "name": {
+            "en": "Yapraklı"
+          },
+          "latitude": 40.75785,
+          "longitude": 33.77819
+        }
+      ]
+    },
+    {
+      "code": "TR-19",
+      "name": {
+        "en": "Çorum"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Alaca"
+          },
+          "latitude": 40.16833,
+          "longitude": 34.8425
+        },
+        {
+          "name": {
+            "en": "Bayat"
+          },
+          "latitude": 40.64583,
+          "longitude": 34.26139
+        },
+        {
+          "name": {
+            "en": "Boğazkale"
+          },
+          "latitude": 40.03031,
+          "longitude": 34.61745
+        },
+        {
+          "name": {
+            "en": "Dodurga"
+          },
+          "latitude": 40.85489,
+          "longitude": 34.80703
+        },
+        {
+          "name": {
+            "en": "İskilip"
+          },
+          "latitude": 40.73528,
+          "longitude": 34.47389
+        },
+        {
+          "name": {
+            "en": "Kargı"
+          },
+          "latitude": 41.14377,
+          "longitude": 34.49342
+        },
+        {
+          "name": {
+            "en": "Laçin"
+          },
+          "latitude": 40.77486,
+          "longitude": 34.88068
+        },
+        {
+          "name": {
+            "en": "Mecitözü"
+          },
+          "latitude": 40.52,
+          "longitude": 35.29528
+        },
+        {
+          "name": {
+            "en": "Merkez"
+          },
+          "latitude": 40.50905,
+          "longitude": 34.85791
+        },
+        {
+          "name": {
+            "en": "Oğuzlar"
+          },
+          "latitude": 40.76323,
+          "longitude": 34.70813
+        },
+        {
+          "name": {
+            "en": "Ortaköy"
+          },
+          "latitude": 40.27352,
+          "longitude": 35.25175
+        },
+        {
+          "name": {
+            "en": "Osmancık"
+          },
+          "latitude": 41.0024,
+          "longitude": 34.78243
+        },
+        {
+          "name": {
+            "en": "Sungurlu"
+          },
+          "latitude": 40.18213,
+          "longitude": 34.28217
+        },
+        {
+          "name": {
+            "en": "Uğurludağ"
+          },
+          "latitude": 40.44631,
+          "longitude": 34.45259
+        }
+      ]
+    },
+    {
+      "code": "TR-20",
+      "name": {
+        "en": "Denizli"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Acıpayam"
+          },
+          "latitude": 37.42385,
+          "longitude": 29.34941
+        },
+        {
+          "name": {
+            "en": "Babadağ"
+          },
+          "latitude": 37.80764,
+          "longitude": 28.85665
+        },
+        {
+          "name": {
+            "en": "Baklan"
+          },
+          "latitude": 37.97694,
+          "longitude": 29.60861
+        },
+        {
+          "name": {
+            "en": "Bekilli"
+          },
+          "latitude": 38.24027,
+          "longitude": 29.42559
+        },
+        {
+          "name": {
+            "en": "Beyağaç"
+          },
+          "latitude": 37.24546,
+          "longitude": 28.90041
+        },
+        {
+          "name": {
+            "en": "Bozkurt"
+          },
+          "latitude": 37.77583,
+          "longitude": 29.60811
+        },
+        {
+          "name": {
+            "en": "Buldan"
+          },
+          "latitude": 38.045,
+          "longitude": 28.83056
+        },
+        {
+          "name": {
+            "en": "Çal"
+          },
+          "latitude": 38.09371,
+          "longitude": 29.40467
+        },
+        {
+          "name": {
+            "en": "Çameli"
+          },
+          "latitude": 37.0866,
+          "longitude": 29.35225
+        },
+        {
+          "name": {
+            "en": "Çardak"
+          },
+          "latitude": 37.77485,
+          "longitude": 29.70593
+        },
+        {
+          "name": {
+            "en": "Çivril"
+          },
+          "latitude": 38.30139,
+          "longitude": 29.73861
+        },
+        {
+          "name": {
+            "en": "Güney"
+          },
+          "latitude": 38.16454,
+          "longitude": 29.07324
+        },
+        {
+          "name": {
+            "en": "Honaz"
+          },
+          "latitude": 37.77146,
+          "longitude": 29.34466
+        },
+        {
+          "name": {
+            "en": "Kale"
+          },
+          "latitude": 37.43917,
+          "longitude": 28.84528
+        },
+        {
+          "name": {
+            "en": "Merkezefendi"
+          },
+          "latitude": 37.80544,
+          "longitude": 29.04236
+        },
+        {
+          "name": {
+            "en": "Pamukkale"
+          },
+          "latitude": 37.91644,
+          "longitude": 29.11729
+        },
+        {
+          "name": {
+            "en": "Sarayköy"
+          },
+          "latitude": 37.9158,
+          "longitude": 28.87999
+        },
+        {
+          "name": {
+            "en": "Serinhisar"
+          },
+          "latitude": 37.58105,
+          "longitude": 29.26639
+        },
+        {
+          "name": {
+            "en": "Tavas"
+          },
+          "latitude": 37.57351,
+          "longitude": 29.07058
+        }
+      ]
+    },
+    {
+      "code": "TR-21",
+      "name": {
+        "en": "Diyarbakır"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bağlar"
+          },
+          "latitude": 37.91068,
+          "longitude": 40.22627
+        },
+        {
+          "name": {
+            "en": "Bismil"
+          },
+          "latitude": 37.84514,
+          "longitude": 40.65931
+        },
+        {
+          "name": {
+            "en": "Çermik"
+          },
+          "latitude": 38.13538,
+          "longitude": 39.445
+        },
+        {
+          "name": {
+            "en": "Çınar"
+          },
+          "latitude": 37.72562,
+          "longitude": 40.41484
+        },
+        {
+          "name": {
+            "en": "Çüngüş"
+          },
+          "latitude": 38.20798,
+          "longitude": 39.28554
+        },
+        {
+          "name": {
+            "en": "Dicle"
+          },
+          "latitude": 38.36571,
+          "longitude": 40.0645
+        },
+        {
+          "name": {
+            "en": "Eğil"
+          },
+          "latitude": 38.25748,
+          "longitude": 40.07435
+        },
+        {
+          "name": {
+            "en": "Ergani"
+          },
+          "latitude": 38.26899,
+          "longitude": 39.75446
+        },
+        {
+          "name": {
+            "en": "Hani"
+          },
+          "latitude": 38.40741,
+          "longitude": 40.38578
+        },
+        {
+          "name": {
+            "en": "Hazro"
+          },
+          "latitude": 38.24903,
+          "longitude": 40.77129
+        },
+        {
+          "name": {
+            "en": "Kayapınar"
+          },
+          "latitude": 37.938,
+          "longitude": 40.1731
+        },
+        {
+          "name": {
+            "en": "Kocaköy"
+          },
+          "latitude": 38.28889,
+          "longitude": 40.49786
+        },
+        {
+          "name": {
+            "en": "Kulp"
+          },
+          "latitude": 38.49754,
+          "longitude": 41.00668
+        },
+        {
+          "name": {
+            "en": "Lice"
+          },
+          "latitude": 38.45821,
+          "longitude": 40.63888
+        },
+        {
+          "name": {
+            "en": "Silvan",
+            "ar": "ميافارقين"
+          },
+          "latitude": 38.13708,
+          "longitude": 41.00817
+        },
+        {
+          "name": {
+            "en": "Sur"
+          },
+          "latitude": 37.91356,
+          "longitude": 40.23743
+        },
+        {
+          "name": {
+            "en": "Yenişehir"
+          },
+          "latitude": 37.91373,
+          "longitude": 40.2061
+        }
+      ]
+    },
+    {
+      "code": "TR-81",
+      "name": {
+        "en": "Düzce"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Akçakoca"
+          },
+          "latitude": 41.08663,
+          "longitude": 31.11623
+        },
+        {
+          "name": {
+            "en": "Çilimli"
+          },
+          "latitude": 40.90267,
+          "longitude": 31.05913
+        },
+        {
+          "name": {
+            "en": "Cumayeri"
+          },
+          "latitude": 40.88176,
+          "longitude": 30.94094
+        },
+        {
+          "name": {
+            "en": "Gölyaka"
+          },
+          "latitude": 40.78644,
+          "longitude": 31.00276
+        },
+        {
+          "name": {
+            "en": "Gümüşova"
+          },
+          "latitude": 40.8564,
+          "longitude": 30.94935
+        },
+        {
+          "name": {
+            "en": "Kaynaşlı"
+          },
+          "latitude": 40.77908,
+          "longitude": 31.31135
+        },
+        {
+          "name": {
+            "en": "Merkez"
+          },
+          "latitude": 40.83889,
+          "longitude": 31.16389
+        },
+        {
+          "name": {
+            "en": "Yığılca"
+          },
+          "latitude": 40.96497,
+          "longitude": 31.45672
+        }
+      ]
+    },
+    {
+      "code": "TR-22",
+      "name": {
+        "en": "Edirne"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Enez"
+          },
+          "latitude": 40.72472,
+          "longitude": 26.0825
+        },
+        {
+          "name": {
+            "en": "Havsa"
+          },
+          "latitude": 41.54898,
+          "longitude": 26.82207
+        },
+        {
+          "name": {
+            "en": "İpsala"
+          },
+          "latitude": 40.92115,
+          "longitude": 26.38273
+        },
+        {
+          "name": {
+            "en": "Keşan"
+          },
+          "latitude": 40.85583,
+          "longitude": 26.63028
+        },
+        {
+          "name": {
+            "en": "Lâlapaşa"
+          },
+          "latitude": 41.83951,
+          "longitude": 26.73561
+        },
+        {
+          "name": {
+            "en": "Meriç"
+          },
+          "latitude": 41.19183,
+          "longitude": 26.42097
+        },
+        {
+          "name": {
+            "en": "Merkez",
+            "ar": "أدرنة"
+          },
+          "latitude": 41.67719,
+          "longitude": 26.55597
+        },
+        {
+          "name": {
+            "en": "Süloğlu"
+          },
+          "latitude": 41.77956,
+          "longitude": 26.92602
+        },
+        {
+          "name": {
+            "en": "Uzunköprü"
+          },
+          "latitude": 41.26597,
+          "longitude": 26.6885
+        }
+      ]
+    },
+    {
+      "code": "TR-23",
+      "name": {
+        "en": "Elazığ"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ağın"
+          },
+          "latitude": 38.93792,
+          "longitude": 38.71155
+        },
+        {
+          "name": {
+            "en": "Alacakaya"
+          },
+          "latitude": 38.462698,
+          "longitude": 39.862758
+        },
+        {
+          "name": {
+            "en": "Arıcak"
+          },
+          "latitude": 38.5634,
+          "longitude": 40.1248
+        },
+        {
+          "name": {
+            "en": "Baskil"
+          },
+          "latitude": 38.56866,
+          "longitude": 38.81634
+        },
+        {
+          "name": {
+            "en": "Karakoçan"
+          },
+          "latitude": 38.95178,
+          "longitude": 40.02706
+        },
+        {
+          "name": {
+            "en": "Keban"
+          },
+          "latitude": 38.7938,
+          "longitude": 38.73517
+        },
+        {
+          "name": {
+            "en": "Kovancılar"
+          },
+          "latitude": 38.71882,
+          "longitude": 39.86268
+        },
+        {
+          "name": {
+            "en": "Maden"
+          },
+          "latitude": 38.39354,
+          "longitude": 39.67252
+        },
+        {
+          "name": {
+            "en": "Merkez",
+            "ar": "معمورة العزيز"
+          },
+          "latitude": 38.6679,
+          "longitude": 39.21567
+        },
+        {
+          "name": {
+            "en": "Palu"
+          },
+          "latitude": 38.69135,
+          "longitude": 39.91984
+        },
+        {
+          "name": {
+            "en": "Sivrice"
+          },
+          "latitude": 38.44223,
+          "longitude": 39.30938
+        }
+      ]
+    },
+    {
+      "code": "TR-24",
+      "name": {
+        "en": "Erzincan"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Çayırlı"
+          },
+          "latitude": 39.80454,
+          "longitude": 40.03724
+        },
+        {
+          "name": {
+            "en": "İliç"
+          },
+          "latitude": 39.45587,
+          "longitude": 38.56409
+        },
+        {
+          "name": {
+            "en": "Kemah"
+          },
+          "latitude": 39.59606,
+          "longitude": 39.02329
+        },
+        {
+          "name": {
+            "en": "Kemaliye"
+          },
+          "latitude": 39.26288,
+          "longitude": 38.49674
+        },
+        {
+          "name": {
+            "en": "Merkez",
+            "ar": "أرزينجان"
+          },
+          "latitude": 39.73919,
+          "longitude": 39.49015
+        },
+        {
+          "name": {
+            "en": "Otlukbeli"
+          },
+          "latitude": 39.97,
+          "longitude": 40.01872
+        },
+        {
+          "name": {
+            "en": "Refahiye"
+          },
+          "latitude": 39.89315,
+          "longitude": 38.76607
+        },
+        {
+          "name": {
+            "en": "Tercan"
+          },
+          "latitude": 39.77709,
+          "longitude": 40.37783
+        },
+        {
+          "name": {
+            "en": "Üzümlü"
+          },
+          "latitude": 39.70943,
+          "longitude": 39.70125
+        }
+      ]
+    },
+    {
+      "code": "TR-25",
+      "name": {
+        "en": "Erzurum"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Aşkale"
+          },
+          "latitude": 39.92083,
+          "longitude": 40.695
+        },
+        {
+          "name": {
+            "en": "Aziziye"
+          },
+          "latitude": 39.94028,
+          "longitude": 41.11153
+        },
+        {
+          "name": {
+            "en": "Çat"
+          },
+          "latitude": 39.61055,
+          "longitude": 40.97851
+        },
+        {
+          "name": {
+            "en": "Hınıs"
+          },
+          "latitude": 39.35766,
+          "longitude": 41.69253
+        },
+        {
+          "name": {
+            "en": "Horasan"
+          },
+          "latitude": 40.03885,
+          "longitude": 42.16366
+        },
+        {
+          "name": {
+            "en": "İspir"
+          },
+          "latitude": 40.47981,
+          "longitude": 40.99373
+        },
+        {
+          "name": {
+            "en": "Karaçoban"
+          },
+          "latitude": 39.34364,
+          "longitude": 42.09918
+        },
+        {
+          "name": {
+            "en": "Karayazı"
+          },
+          "latitude": 39.69604,
+          "longitude": 42.14277
+        },
+        {
+          "name": {
+            "en": "Köprüköy"
+          },
+          "latitude": 39.97178,
+          "longitude": 41.86804
+        },
+        {
+          "name": {
+            "en": "Narman"
+          },
+          "latitude": 40.34449,
+          "longitude": 41.86088
+        },
+        {
+          "name": {
+            "en": "Oltu"
+          },
+          "latitude": 40.53945,
+          "longitude": 41.98722
+        },
+        {
+          "name": {
+            "en": "Olur"
+          },
+          "latitude": 40.82165,
+          "longitude": 42.13055
+        },
+        {
+          "name": {
+            "en": "Palandöken"
+          },
+          "latitude": 39.8556,
+          "longitude": 41.27975
+        },
+        {
+          "name": {
+            "en": "Pasinler"
+          },
+          "latitude": 39.97975,
+          "longitude": 41.66997
+        },
+        {
+          "name": {
+            "en": "Pazaryolu"
+          },
+          "latitude": 40.41142,
+          "longitude": 40.7678
+        },
+        {
+          "name": {
+            "en": "Şenkaya"
+          },
+          "latitude": 40.55652,
+          "longitude": 42.34266
+        },
+        {
+          "name": {
+            "en": "Tekman"
+          },
+          "latitude": 39.64111,
+          "longitude": 41.50542
+        },
+        {
+          "name": {
+            "en": "Tortum"
+          },
+          "latitude": 40.28892,
+          "longitude": 41.54096
+        },
+        {
+          "name": {
+            "en": "Uzundere"
+          },
+          "latitude": 40.53218,
+          "longitude": 41.53832
+        },
+        {
+          "name": {
+            "en": "Yakutiye"
+          },
+          "latitude": 40.00132,
+          "longitude": 41.30997
+        }
+      ]
+    },
+    {
+      "code": "TR-26",
+      "name": {
+        "en": "Eskişehir"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Alpu"
+          },
+          "latitude": 39.76903,
+          "longitude": 30.9606
+        },
+        {
+          "name": {
+            "en": "Beylikova"
+          },
+          "latitude": 39.68694,
+          "longitude": 31.20556
+        },
+        {
+          "name": {
+            "en": "Çifteler"
+          },
+          "latitude": 39.38306,
+          "longitude": 31.03917
+        },
+        {
+          "name": {
+            "en": "Günyüzü"
+          },
+          "latitude": 39.3941,
+          "longitude": 31.814
+        },
+        {
+          "name": {
+            "en": "Han"
+          },
+          "latitude": 39.15917,
+          "longitude": 30.86139
+        },
+        {
+          "name": {
+            "en": "İnönü"
+          },
+          "latitude": 39.81534,
+          "longitude": 30.14549
+        },
+        {
+          "name": {
+            "en": "Mahmudiye"
+          },
+          "latitude": 39.50724,
+          "longitude": 30.99247
+        },
+        {
+          "name": {
+            "en": "Mihalgazi"
+          },
+          "latitude": 40.02621,
+          "longitude": 30.57707
+        },
+        {
+          "name": {
+            "en": "Mihalıççık"
+          },
+          "latitude": 39.87564,
+          "longitude": 31.50091
+        },
+        {
+          "name": {
+            "en": "Odunpazarı"
+          },
+          "latitude": 39.76699,
+          "longitude": 30.54113
+        },
+        {
+          "name": {
+            "en": "Sarıcakaya"
+          },
+          "latitude": 40.04671,
+          "longitude": 30.61994
+        },
+        {
+          "name": {
+            "en": "Seyitgazi"
+          },
+          "latitude": 39.44472,
+          "longitude": 30.69472
+        },
+        {
+          "name": {
+            "en": "Sivrihisar"
+          },
+          "latitude": 39.45037,
+          "longitude": 31.53409
+        },
+        {
+          "name": {
+            "en": "Tepebaşı"
+          },
+          "latitude": 39.7843,
+          "longitude": 30.50206
+        }
+      ]
+    },
+    {
+      "code": "TR-27",
+      "name": {
+        "en": "Gaziantep"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Araban"
+          },
+          "latitude": 37.42559,
+          "longitude": 37.78175
+        },
+        {
+          "name": {
+            "en": "İslahiye"
+          },
+          "latitude": 36.96528,
+          "longitude": 36.70972
+        },
+        {
+          "name": {
+            "en": "Karkamış"
+          },
+          "latitude": 36.83452,
+          "longitude": 37.9983
+        },
+        {
+          "name": {
+            "en": "Nizip"
+          },
+          "latitude": 37.00972,
+          "longitude": 37.79417
+        },
+        {
+          "name": {
+            "en": "Nurdağı"
+          },
+          "latitude": 37.16821,
+          "longitude": 36.73623
+        },
+        {
+          "name": {
+            "en": "Oğuzeli"
+          },
+          "latitude": 36.96572,
+          "longitude": 37.51339
+        },
+        {
+          "name": {
+            "en": "Şahinbey"
+          },
+          "latitude": 37.03741,
+          "longitude": 37.37822
+        },
+        {
+          "name": {
+            "en": "Şehitkamil"
+          },
+          "latitude": 37.17217,
+          "longitude": 37.36974
+        },
+        {
+          "name": {
+            "en": "Yavuzeli"
+          },
+          "latitude": 37.31772,
+          "longitude": 37.56824
+        }
+      ]
+    },
+    {
+      "code": "TR-28",
+      "name": {
+        "en": "Giresun"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Alucra"
+          },
+          "latitude": 40.31924,
+          "longitude": 38.76528
+        },
+        {
+          "name": {
+            "en": "Bulancak"
+          },
+          "latitude": 40.93805,
+          "longitude": 38.23148
+        },
+        {
+          "name": {
+            "en": "Çamoluk"
+          },
+          "latitude": 40.13418,
+          "longitude": 38.73389
+        },
+        {
+          "name": {
+            "en": "Çanakçı"
+          },
+          "latitude": 40.86,
+          "longitude": 39.05
+        },
+        {
+          "name": {
+            "en": "Dereli"
+          },
+          "latitude": 40.613,
+          "longitude": 38.39
+        },
+        {
+          "name": {
+            "en": "Doğankent"
+          },
+          "latitude": 40.8075,
+          "longitude": 38.91722
+        },
+        {
+          "name": {
+            "en": "Espiye"
+          },
+          "latitude": 40.94705,
+          "longitude": 38.70299
+        },
+        {
+          "name": {
+            "en": "Eynesil"
+          },
+          "latitude": 41.06436,
+          "longitude": 39.14274
+        },
+        {
+          "name": {
+            "en": "Görele"
+          },
+          "latitude": 41.03083,
+          "longitude": 39.00306
+        },
+        {
+          "name": {
+            "en": "Güce"
+          },
+          "latitude": 40.89368,
+          "longitude": 38.80855
+        },
+        {
+          "name": {
+            "en": "Keşap"
+          },
+          "latitude": 40.91387,
+          "longitude": 38.51442
+        },
+        {
+          "name": {
+            "en": "Merkez"
+          },
+          "latitude": 40.8266,
+          "longitude": 38.36085
+        },
+        {
+          "name": {
+            "en": "Piraziz"
+          },
+          "latitude": 40.92244,
+          "longitude": 38.12458
+        },
+        {
+          "name": {
+            "en": "Şebinkarahisar"
+          },
+          "latitude": 40.28833,
+          "longitude": 38.42361
+        },
+        {
+          "name": {
+            "en": "Tirebolu"
+          },
+          "latitude": 41.00633,
+          "longitude": 38.8498
+        },
+        {
+          "name": {
+            "en": "Yağlıdere"
+          },
+          "latitude": 40.85711,
+          "longitude": 38.63242
+        }
+      ]
+    },
+    {
+      "code": "TR-29",
+      "name": {
+        "en": "Gümüşhane"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Kelkit"
+          },
+          "latitude": 40.12682,
+          "longitude": 39.43424
+        },
+        {
+          "name": {
+            "en": "Köse"
+          },
+          "latitude": 40.20692,
+          "longitude": 39.64626
+        },
+        {
+          "name": {
+            "en": "Kürtün"
+          },
+          "latitude": 40.69516,
+          "longitude": 39.09468
+        },
+        {
+          "name": {
+            "en": "Merkez"
+          },
+          "latitude": 40.46843,
+          "longitude": 39.67441
+        },
+        {
+          "name": {
+            "en": "Şiran"
+          },
+          "latitude": 40.19064,
+          "longitude": 39.11747
+        },
+        {
+          "name": {
+            "en": "Torul"
+          },
+          "latitude": 40.55071,
+          "longitude": 39.28344
+        }
+      ]
+    },
+    {
+      "code": "TR-30",
+      "name": {
+        "en": "Hakkâri"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Çukurca"
+          },
+          "latitude": 37.24806,
+          "longitude": 43.61361
+        },
+        {
+          "name": {
+            "en": "Derecik"
+          },
+          "latitude": 37.072423,
+          "longitude": 44.324348
+        },
+        {
+          "name": {
+            "en": "Merkez"
+          },
+          "latitude": 37.57444,
+          "longitude": 43.74083
+        },
+        {
+          "name": {
+            "en": "Şemdinli",
+            "ar": "شمدينلي"
+          },
+          "latitude": 37.30514,
+          "longitude": 44.5742
+        },
+        {
+          "name": {
+            "en": "Yüksekova"
+          },
+          "latitude": 37.54627,
+          "longitude": 44.25827
+        }
+      ]
+    },
+    {
+      "code": "TR-31",
+      "name": {
+        "en": "Hatay"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Altınözü"
+          },
+          "latitude": 36.11244,
+          "longitude": 36.24488
+        },
+        {
+          "name": {
+            "en": "Antakya",
+            "ar": "نتاكيّة"
+          },
+          "latitude": 36.20655,
+          "longitude": 36.15722
+        },
+        {
+          "name": {
+            "en": "Arsuz"
+          },
+          "latitude": 36.41305,
+          "longitude": 35.89033
+        },
+        {
+          "name": {
+            "en": "Belen"
+          },
+          "latitude": 36.48866,
+          "longitude": 36.19489
+        },
+        {
+          "name": {
+            "en": "Defne"
+          },
+          "latitude": 36.23739,
+          "longitude": 36.16364
+        },
+        {
+          "name": {
+            "en": "Dörtyol"
+          },
+          "latitude": 36.83917,
+          "longitude": 36.23025
+        },
+        {
+          "name": {
+            "en": "Erzin"
+          },
+          "latitude": 36.95348,
+          "longitude": 36.19839
+        },
+        {
+          "name": {
+            "en": "Hassa"
+          },
+          "latitude": 36.79944,
+          "longitude": 36.51778
+        },
+        {
+          "name": {
+            "en": "İskenderun",
+            "ar": "إسكندرونة"
+          },
+          "latitude": 36.58718,
+          "longitude": 36.17347
+        },
+        {
+          "name": {
+            "en": "Kırıkhan",
+            "ar": "قري خان"
+          },
+          "latitude": 36.49939,
+          "longitude": 36.35755
+        },
+        {
+          "name": {
+            "en": "Kumlu"
+          },
+          "latitude": 36.36508,
+          "longitude": 36.45526
+        },
+        {
+          "name": {
+            "en": "Payas"
+          },
+          "latitude": 36.756,
+          "longitude": 36.21432
+        },
+        {
+          "name": {
+            "en": "Reyhanlı",
+            "ar": "الريحانية"
+          },
+          "latitude": 36.26791,
+          "longitude": 36.56747
+        },
+        {
+          "name": {
+            "en": "Samandağ"
+          },
+          "latitude": 36.085,
+          "longitude": 35.980556
+        },
+        {
+          "name": {
+            "en": "Yayladağı"
+          },
+          "latitude": 35.9025,
+          "longitude": 36.06272
+        }
+      ]
+    },
+    {
+      "code": "TR-76",
+      "name": {
+        "en": "Iğdır"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Aralık"
+          },
+          "latitude": 39.872778,
+          "longitude": 44.519167
+        },
+        {
+          "name": {
+            "en": "Karakoyunlu"
+          },
+          "latitude": 39.87036,
+          "longitude": 43.63014
+        },
+        {
+          "name": {
+            "en": "Merkez",
+            "ar": "اغدير"
+          },
+          "latitude": 39.92371,
+          "longitude": 44.045
+        },
+        {
+          "name": {
+            "en": "Tuzluca"
+          },
+          "latitude": 40.03863,
+          "longitude": 43.65212
+        }
+      ]
+    },
+    {
+      "code": "TR-32",
+      "name": {
+        "en": "Isparta"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Aksu"
+          },
+          "latitude": 37.79889,
+          "longitude": 31.07111
+        },
+        {
+          "name": {
+            "en": "Atabey"
+          },
+          "latitude": 37.95083,
+          "longitude": 30.63861
+        },
+        {
+          "name": {
+            "en": "Eğirdir"
+          },
+          "latitude": 37.87462,
+          "longitude": 30.85042
+        },
+        {
+          "name": {
+            "en": "Gelendost"
+          },
+          "latitude": 38.12083,
+          "longitude": 31.01528
+        },
+        {
+          "name": {
+            "en": "Gönen"
+          },
+          "latitude": 37.95639,
+          "longitude": 30.5114
+        },
+        {
+          "name": {
+            "en": "Keçiborlu"
+          },
+          "latitude": 37.9425,
+          "longitude": 30.30222
+        },
+        {
+          "name": {
+            "en": "Merkez",
+            "ar": "إسبرطة"
+          },
+          "latitude": 37.76444,
+          "longitude": 30.55222
+        },
+        {
+          "name": {
+            "en": "Şarkikaraağaç"
+          },
+          "latitude": 38.07944,
+          "longitude": 31.36639
+        },
+        {
+          "name": {
+            "en": "Senirkent"
+          },
+          "latitude": 38.10444,
+          "longitude": 30.54861
+        },
+        {
+          "name": {
+            "en": "Sütçüler"
+          },
+          "latitude": 37.5112,
+          "longitude": 30.95661
+        },
+        {
+          "name": {
+            "en": "Uluborlu"
+          },
+          "latitude": 38.07825,
+          "longitude": 30.45019
+        },
+        {
+          "name": {
+            "en": "Yalvaç"
+          },
+          "latitude": 38.29556,
+          "longitude": 31.17778
+        },
+        {
+          "name": {
+            "en": "Yenişarbademli"
+          },
+          "latitude": 37.70778,
+          "longitude": 31.38639
+        }
+      ]
+    },
+    {
+      "code": "TR-34",
+      "name": {
+        "en": "İstanbul"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Adalar"
+          },
+          "latitude": 40.86913,
+          "longitude": 29.12064
+        },
+        {
+          "name": {
+            "en": "Arnavutköy"
+          },
+          "latitude": 41.19674,
+          "longitude": 28.73405
+        },
+        {
+          "name": {
+            "en": "Ataşehir"
+          },
+          "latitude": 40.99104,
+          "longitude": 29.13471
+        },
+        {
+          "name": {
+            "en": "Avcılar"
+          },
+          "latitude": 41.02355,
+          "longitude": 28.7186
+        },
+        {
+          "name": {
+            "en": "Bağcılar"
+          },
+          "latitude": 41.04275,
+          "longitude": 28.83625
+        },
+        {
+          "name": {
+            "en": "Bahçelievler"
+          },
+          "latitude": 41.00652,
+          "longitude": 28.84099
+        },
+        {
+          "name": {
+            "en": "Bakırköy"
+          },
+          "latitude": 40.98388,
+          "longitude": 28.83541
+        },
+        {
+          "name": {
+            "en": "Başakşehir"
+          },
+          "latitude": 41.09203,
+          "longitude": 28.80203
+        },
+        {
+          "name": {
+            "en": "Bayrampaşa"
+          },
+          "latitude": 41.04691,
+          "longitude": 28.90278
+        },
+        {
+          "name": {
+            "en": "Beşiktaş"
+          },
+          "latitude": 41.07122,
+          "longitude": 29.02321
+        },
+        {
+          "name": {
+            "en": "Beykoz"
+          },
+          "latitude": 41.13774,
+          "longitude": 29.16932
+        },
+        {
+          "name": {
+            "en": "Beylikdüzü"
+          },
+          "latitude": 41.00322,
+          "longitude": 28.64067
+        },
+        {
+          "name": {
+            "en": "Beyoğlu"
+          },
+          "latitude": 41.03786,
+          "longitude": 28.96767
+        },
+        {
+          "name": {
+            "en": "Büyükçekmece"
+          },
+          "latitude": 41.04521,
+          "longitude": 28.59573
+        },
+        {
+          "name": {
+            "en": "Çatalca"
+          },
+          "latitude": 41.29651,
+          "longitude": 28.45419
+        },
+        {
+          "name": {
+            "en": "Çekmeköy"
+          },
+          "latitude": 41.03819,
+          "longitude": 29.20029
+        },
+        {
+          "name": {
+            "en": "Esenler"
+          },
+          "latitude": 41.07925,
+          "longitude": 28.85235
+        },
+        {
+          "name": {
+            "en": "Esenyurt"
+          },
+          "latitude": 41.04,
+          "longitude": 28.66161
+        },
+        {
+          "name": {
+            "en": "Eyüpsultan"
+          },
+          "latitude": 41.19904,
+          "longitude": 28.88667
+        },
+        {
+          "name": {
+            "en": "Fatih"
+          },
+          "latitude": 41.01746,
+          "longitude": 28.94053
+        },
+        {
+          "name": {
+            "en": "Gaziosmanpaşa"
+          },
+          "latitude": 41.07857,
+          "longitude": 28.89679
+        },
+        {
+          "name": {
+            "en": "Güngören"
+          },
+          "latitude": 41.01787,
+          "longitude": 28.87882
+        },
+        {
+          "name": {
+            "en": "Istanbul"
+          },
+          "latitude": 41.0053702,
+          "longitude": 28.6825162
+        },
+        {
+          "name": {
+            "en": "Kadıköy"
+          },
+          "latitude": 40.98229,
+          "longitude": 29.09032
+        },
+        {
+          "name": {
+            "en": "Kâğıthane"
+          },
+          "latitude": 41.08319,
+          "longitude": 28.97826
+        },
+        {
+          "name": {
+            "en": "Kartal"
+          },
+          "latitude": 40.91197,
+          "longitude": 29.2119
+        },
+        {
+          "name": {
+            "en": "Küçükçekmece"
+          },
+          "latitude": 41.06947,
+          "longitude": 28.76983
+        },
+        {
+          "name": {
+            "en": "Maltepe"
+          },
+          "latitude": 40.9589,
+          "longitude": 29.17866
+        },
+        {
+          "name": {
+            "en": "Pendik"
+          },
+          "latitude": 40.94577,
+          "longitude": 29.33019
+        },
+        {
+          "name": {
+            "en": "Sancaktepe"
+          },
+          "latitude": 40.98949,
+          "longitude": 29.2432
+        },
+        {
+          "name": {
+            "en": "Sarıyer"
+          },
+          "latitude": 41.21482,
+          "longitude": 29.05678
+        },
+        {
+          "name": {
+            "en": "Şile"
+          },
+          "latitude": 41.12902,
+          "longitude": 29.61845
+        },
+        {
+          "name": {
+            "en": "Silivri"
+          },
+          "latitude": 41.18116,
+          "longitude": 28.1989
+        },
+        {
+          "name": {
+            "en": "Şişli"
+          },
+          "latitude": 41.12514,
+          "longitude": 29.00013
+        },
+        {
+          "name": {
+            "en": "Sultanbeyli"
+          },
+          "latitude": 40.95264,
+          "longitude": 29.26797
+        },
+        {
+          "name": {
+            "en": "Sultangazi"
+          },
+          "latitude": 41.21792,
+          "longitude": 28.7174
+        },
+        {
+          "name": {
+            "en": "Tuzla"
+          },
+          "latitude": 40.86368,
+          "longitude": 29.31942
+        },
+        {
+          "name": {
+            "en": "Ümraniye"
+          },
+          "latitude": 41.01643,
+          "longitude": 29.12476
+        },
+        {
+          "name": {
+            "en": "Üsküdar"
+          },
+          "latitude": 41.02274,
+          "longitude": 29.01366
+        },
+        {
+          "name": {
+            "en": "Zeytinburnu"
+          },
+          "latitude": 41.00824,
+          "longitude": 28.90952
+        }
+      ]
+    },
+    {
+      "code": "TR-35",
+      "name": {
+        "en": "İzmir"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Aliağa"
+          },
+          "latitude": 38.80078,
+          "longitude": 27.04375
+        },
+        {
+          "name": {
+            "en": "Balçova"
+          },
+          "latitude": 38.37302,
+          "longitude": 27.08714
+        },
+        {
+          "name": {
+            "en": "Bayındır"
+          },
+          "latitude": 38.21741,
+          "longitude": 27.64744
+        },
+        {
+          "name": {
+            "en": "Bayraklı"
+          },
+          "latitude": 38.46222,
+          "longitude": 27.16667
+        },
+        {
+          "name": {
+            "en": "Bergama"
+          },
+          "latitude": 39.17088,
+          "longitude": 27.18918
+        },
+        {
+          "name": {
+            "en": "Beydağ"
+          },
+          "latitude": 38.08241,
+          "longitude": 28.21609
+        },
+        {
+          "name": {
+            "en": "Bornova"
+          },
+          "latitude": 38.48492,
+          "longitude": 27.25235
+        },
+        {
+          "name": {
+            "en": "Buca"
+          },
+          "latitude": 38.34813,
+          "longitude": 27.25053
+        },
+        {
+          "name": {
+            "en": "Çeşme"
+          },
+          "latitude": 38.32614,
+          "longitude": 26.30574
+        },
+        {
+          "name": {
+            "en": "Çiğli"
+          },
+          "latitude": 38.48802,
+          "longitude": 26.96596
+        },
+        {
+          "name": {
+            "en": "Dikili"
+          },
+          "latitude": 39.071,
+          "longitude": 26.89017
+        },
+        {
+          "name": {
+            "en": "Foça"
+          },
+          "latitude": 38.6703,
+          "longitude": 26.75656
+        },
+        {
+          "name": {
+            "en": "Gaziemir"
+          },
+          "latitude": 38.31098,
+          "longitude": 27.15178
+        },
+        {
+          "name": {
+            "en": "Güzelbahçe"
+          },
+          "latitude": 38.37046,
+          "longitude": 26.8693
+        },
+        {
+          "name": {
+            "en": "İzmir"
+          },
+          "latitude": 38.4178287,
+          "longitude": 26.914903
+        },
+        {
+          "name": {
+            "en": "Karabağlar"
+          },
+          "latitude": 38.36912,
+          "longitude": 27.12696
+        },
+        {
+          "name": {
+            "en": "Karaburun"
+          },
+          "latitude": 38.6364,
+          "longitude": 26.51094
+        },
+        {
+          "name": {
+            "en": "Karşıyaka"
+          },
+          "latitude": 38.46775,
+          "longitude": 27.11502
+        },
+        {
+          "name": {
+            "en": "Kemalpaşa"
+          },
+          "latitude": 38.40883,
+          "longitude": 27.491
+        },
+        {
+          "name": {
+            "en": "Kiraz"
+          },
+          "latitude": 38.23056,
+          "longitude": 28.20444
+        },
+        {
+          "name": {
+            "en": "Kınık"
+          },
+          "latitude": 39.08722,
+          "longitude": 27.38333
+        },
+        {
+          "name": {
+            "en": "Konak",
+            "ar": "إزمير"
+          },
+          "latitude": 38.41448,
+          "longitude": 27.14412
+        },
+        {
+          "name": {
+            "en": "Menderes"
+          },
+          "latitude": 38.24963,
+          "longitude": 27.13429
+        },
+        {
+          "name": {
+            "en": "Menemen"
+          },
+          "latitude": 38.61608,
+          "longitude": 27.06315
+        },
+        {
+          "name": {
+            "en": "Narlıdere"
+          },
+          "latitude": 38.38957,
+          "longitude": 27.02431
+        },
+        {
+          "name": {
+            "en": "Ödemiş"
+          },
+          "latitude": 38.2278,
+          "longitude": 27.96955
+        },
+        {
+          "name": {
+            "en": "Seferihisar"
+          },
+          "latitude": 38.18144,
+          "longitude": 26.88877
+        },
+        {
+          "name": {
+            "en": "Selçuk"
+          },
+          "latitude": 37.95137,
+          "longitude": 27.36849
+        },
+        {
+          "name": {
+            "en": "Tire"
+          },
+          "latitude": 38.06582,
+          "longitude": 27.7273
+        },
+        {
+          "name": {
+            "en": "Torbalı"
+          },
+          "latitude": 38.17603,
+          "longitude": 27.37182
+        },
+        {
+          "name": {
+            "en": "Urla"
+          },
+          "latitude": 38.32292,
+          "longitude": 26.76403
+        }
+      ]
+    },
+    {
+      "code": "TR-46",
+      "name": {
+        "en": "Kahramanmaraş"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Afşin"
+          },
+          "latitude": 38.24769,
+          "longitude": 36.91399
+        },
+        {
+          "name": {
+            "en": "Andırın"
+          },
+          "latitude": 37.57757,
+          "longitude": 36.35492
+        },
+        {
+          "name": {
+            "en": "Çağlayancerit"
+          },
+          "latitude": 37.74523,
+          "longitude": 37.28618
+        },
+        {
+          "name": {
+            "en": "Dulkadiroğlu"
+          },
+          "latitude": 37.58254,
+          "longitude": 36.91973
+        },
+        {
+          "name": {
+            "en": "Ekinözü"
+          },
+          "latitude": 38.07007,
+          "longitude": 37.19414
+        },
+        {
+          "name": {
+            "en": "Elbistan"
+          },
+          "latitude": 38.20591,
+          "longitude": 37.1983
+        },
+        {
+          "name": {
+            "en": "Göksun"
+          },
+          "latitude": 38.02096,
+          "longitude": 36.4973
+        },
+        {
+          "name": {
+            "en": "Nurhak"
+          },
+          "latitude": 37.96366,
+          "longitude": 37.44047
+        },
+        {
+          "name": {
+            "en": "Onikişubat"
+          },
+          "latitude": 37.59002,
+          "longitude": 36.90548
+        },
+        {
+          "name": {
+            "en": "Pazarcık"
+          },
+          "latitude": 37.48685,
+          "longitude": 37.29961
+        },
+        {
+          "name": {
+            "en": "Türkoğlu"
+          },
+          "latitude": 37.38417,
+          "longitude": 36.84626
+        }
+      ]
+    },
+    {
+      "code": "TR-78",
+      "name": {
+        "en": "Karabük"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Eflani"
+          },
+          "latitude": 41.42289,
+          "longitude": 32.95761
+        },
+        {
+          "name": {
+            "en": "Eskipazar"
+          },
+          "latitude": 40.95207,
+          "longitude": 32.54604
+        },
+        {
+          "name": {
+            "en": "Merkez",
+            "ar": "كارابوك"
+          },
+          "latitude": 41.20488,
+          "longitude": 32.62768
+        },
+        {
+          "name": {
+            "en": "Ovacık"
+          },
+          "latitude": 41.08029,
+          "longitude": 32.93224
+        },
+        {
+          "name": {
+            "en": "Safranbolu"
+          },
+          "latitude": 41.25083,
+          "longitude": 32.69417
+        },
+        {
+          "name": {
+            "en": "Yenice"
+          },
+          "latitude": 41.19962,
+          "longitude": 32.33133
+        }
+      ]
+    },
+    {
+      "code": "TR-70",
+      "name": {
+        "en": "Karaman"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ayrancı"
+          },
+          "latitude": 37.37111,
+          "longitude": 33.69291
+        },
+        {
+          "name": {
+            "en": "Başyayla"
+          },
+          "latitude": 36.75337,
+          "longitude": 32.68018
+        },
+        {
+          "name": {
+            "en": "Ermenek"
+          },
+          "latitude": 36.64043,
+          "longitude": 32.89179
+        },
+        {
+          "name": {
+            "en": "Kazımkarabekir"
+          },
+          "latitude": 37.23028,
+          "longitude": 32.95889
+        },
+        {
+          "name": {
+            "en": "Merkez",
+            "ar": "كارامان"
+          },
+          "latitude": 37.18111,
+          "longitude": 33.215
+        },
+        {
+          "name": {
+            "en": "Sarıveliler"
+          },
+          "latitude": 36.69705,
+          "longitude": 32.61203
+        }
+      ]
+    },
+    {
+      "code": "TR-36",
+      "name": {
+        "en": "Kars"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Akyaka"
+          },
+          "latitude": 40.74093,
+          "longitude": 43.61432
+        },
+        {
+          "name": {
+            "en": "Arpaçay"
+          },
+          "latitude": 40.84522,
+          "longitude": 43.32747
+        },
+        {
+          "name": {
+            "en": "Digor"
+          },
+          "latitude": 40.37515,
+          "longitude": 43.41361
+        },
+        {
+          "name": {
+            "en": "Kağızman"
+          },
+          "latitude": 40.15669,
+          "longitude": 43.13424
+        },
+        {
+          "name": {
+            "en": "Merkez",
+            "ar": "قارص"
+          },
+          "latitude": 40.59825,
+          "longitude": 43.08548
+        },
+        {
+          "name": {
+            "en": "Sarıkamış"
+          },
+          "latitude": 40.32769,
+          "longitude": 42.58705
+        },
+        {
+          "name": {
+            "en": "Selim"
+          },
+          "latitude": 40.45772,
+          "longitude": 42.78287
+        },
+        {
+          "name": {
+            "en": "Susuz"
+          },
+          "latitude": 40.7791,
+          "longitude": 43.12769
+        }
+      ]
+    },
+    {
+      "code": "TR-37",
+      "name": {
+        "en": "Kastamonu"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Abana"
+          },
+          "latitude": 41.97858,
+          "longitude": 34.011
+        },
+        {
+          "name": {
+            "en": "Ağlı"
+          },
+          "latitude": 41.69283,
+          "longitude": 33.54487
+        },
+        {
+          "name": {
+            "en": "Araç"
+          },
+          "latitude": 41.24222,
+          "longitude": 33.32767
+        },
+        {
+          "name": {
+            "en": "Azdavay"
+          },
+          "latitude": 41.64267,
+          "longitude": 33.3
+        },
+        {
+          "name": {
+            "en": "Bozkurt"
+          },
+          "latitude": 41.95769,
+          "longitude": 34.01087
+        },
+        {
+          "name": {
+            "en": "Çatalzeytin"
+          },
+          "latitude": 41.93795,
+          "longitude": 34.20285
+        },
+        {
+          "name": {
+            "en": "Cide"
+          },
+          "latitude": 41.85583,
+          "longitude": 33.03977
+        },
+        {
+          "name": {
+            "en": "Daday"
+          },
+          "latitude": 41.47866,
+          "longitude": 33.46667
+        },
+        {
+          "name": {
+            "en": "Devrekani"
+          },
+          "latitude": 41.60303,
+          "longitude": 33.83922
+        },
+        {
+          "name": {
+            "en": "Doğanyurt"
+          },
+          "latitude": 42.00457,
+          "longitude": 33.46029
+        },
+        {
+          "name": {
+            "en": "Hanönü"
+          },
+          "latitude": 41.62705,
+          "longitude": 34.46667
+        },
+        {
+          "name": {
+            "en": "İhsangazi"
+          },
+          "latitude": 41.20432,
+          "longitude": 33.55455
+        },
+        {
+          "name": {
+            "en": "İnebolu"
+          },
+          "latitude": 41.97472,
+          "longitude": 33.76083
+        },
+        {
+          "name": {
+            "en": "Küre"
+          },
+          "latitude": 41.80578,
+          "longitude": 33.71161
+        },
+        {
+          "name": {
+            "en": "Merkez",
+            "ar": "قسطموني"
+          },
+          "latitude": 41.37805,
+          "longitude": 33.77528
+        },
+        {
+          "name": {
+            "en": "Pınarbaşı"
+          },
+          "latitude": 41.60388,
+          "longitude": 33.11099
+        },
+        {
+          "name": {
+            "en": "Şenpazar"
+          },
+          "latitude": 41.81651,
+          "longitude": 33.21766
+        },
+        {
+          "name": {
+            "en": "Seydiler"
+          },
+          "latitude": 41.62005,
+          "longitude": 33.71815
+        },
+        {
+          "name": {
+            "en": "Taşköprü"
+          },
+          "latitude": 41.5098,
+          "longitude": 34.21414
+        },
+        {
+          "name": {
+            "en": "Tosya"
+          },
+          "latitude": 41.01545,
+          "longitude": 34.04013
+        }
+      ]
+    },
+    {
+      "code": "TR-38",
+      "name": {
+        "en": "Kayseri"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Akkışla"
+          },
+          "latitude": 39.00222,
+          "longitude": 36.17381
+        },
+        {
+          "name": {
+            "en": "Bünyan"
+          },
+          "latitude": 38.8463,
+          "longitude": 35.86033
+        },
+        {
+          "name": {
+            "en": "Develi"
+          },
+          "latitude": 38.26789,
+          "longitude": 35.59161
+        },
+        {
+          "name": {
+            "en": "Felahiye"
+          },
+          "latitude": 39.09056,
+          "longitude": 35.56722
+        },
+        {
+          "name": {
+            "en": "Hacılar"
+          },
+          "latitude": 38.64631,
+          "longitude": 35.44937
+        },
+        {
+          "name": {
+            "en": "İncesu"
+          },
+          "latitude": 38.63789,
+          "longitude": 35.19394
+        },
+        {
+          "name": {
+            "en": "Kayseri"
+          },
+          "latitude": 38.7235532,
+          "longitude": 35.3053732
+        },
+        {
+          "name": {
+            "en": "Kocasinan"
+          },
+          "latitude": 38.87959,
+          "longitude": 35.3554
+        },
+        {
+          "name": {
+            "en": "Melikgazi"
+          },
+          "latitude": 38.77933,
+          "longitude": 35.66076
+        },
+        {
+          "name": {
+            "en": "Özvatan"
+          },
+          "latitude": 39.11737,
+          "longitude": 35.71149
+        },
+        {
+          "name": {
+            "en": "Pınarbaşı"
+          },
+          "latitude": 38.72285,
+          "longitude": 36.39314
+        },
+        {
+          "name": {
+            "en": "Sarıoğlan"
+          },
+          "latitude": 39.07694,
+          "longitude": 35.96671
+        },
+        {
+          "name": {
+            "en": "Sarız"
+          },
+          "latitude": 38.47917,
+          "longitude": 36.49898
+        },
+        {
+          "name": {
+            "en": "Talas"
+          },
+          "latitude": 38.6908,
+          "longitude": 35.5538
+        },
+        {
+          "name": {
+            "en": "Tomarza"
+          },
+          "latitude": 38.44722,
+          "longitude": 35.79917
+        },
+        {
+          "name": {
+            "en": "Yahyalı"
+          },
+          "latitude": 38.10228,
+          "longitude": 35.35704
+        },
+        {
+          "name": {
+            "en": "Yeşilhisar"
+          },
+          "latitude": 38.33475,
+          "longitude": 35.11795
+        }
+      ]
+    },
+    {
+      "code": "TR-79",
+      "name": {
+        "en": "Kilis"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Elbeyli"
+          },
+          "latitude": 36.67417,
+          "longitude": 37.46667
+        },
+        {
+          "name": {
+            "en": "Merkez",
+            "ar": "كلس"
+          },
+          "latitude": 36.71611,
+          "longitude": 37.115
+        },
+        {
+          "name": {
+            "en": "Musabeyli"
+          },
+          "latitude": 36.88639,
+          "longitude": 36.91861
+        },
+        {
+          "name": {
+            "en": "Polateli"
+          },
+          "latitude": 36.83694,
+          "longitude": 37.15083
+        }
+      ]
+    },
+    {
+      "code": "TR-71",
+      "name": {
+        "en": "Kırıkkale"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bahşılı"
+          },
+          "latitude": 39.80979,
+          "longitude": 33.4408
+        },
+        {
+          "name": {
+            "en": "Balışeyh"
+          },
+          "latitude": 39.91411,
+          "longitude": 33.72333
+        },
+        {
+          "name": {
+            "en": "Çelebi"
+          },
+          "latitude": 39.4747,
+          "longitude": 33.52895
+        },
+        {
+          "name": {
+            "en": "Delice"
+          },
+          "latitude": 39.95371,
+          "longitude": 34.02587
+        },
+        {
+          "name": {
+            "en": "Karakeçili"
+          },
+          "latitude": 39.59417,
+          "longitude": 33.37778
+        },
+        {
+          "name": {
+            "en": "Keskin"
+          },
+          "latitude": 39.67306,
+          "longitude": 33.61361
+        },
+        {
+          "name": {
+            "en": "Merkez",
+            "ar": "كيركالي"
+          },
+          "latitude": 39.84528,
+          "longitude": 33.50639
+        },
+        {
+          "name": {
+            "en": "Sulakyurt"
+          },
+          "latitude": 40.15733,
+          "longitude": 33.716
+        },
+        {
+          "name": {
+            "en": "Yahşihan"
+          },
+          "latitude": 39.85992,
+          "longitude": 33.45615
+        }
+      ]
+    },
+    {
+      "code": "TR-39",
+      "name": {
+        "en": "Kırklareli"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Babaeski"
+          },
+          "latitude": 41.4325,
+          "longitude": 27.09306
+        },
+        {
+          "name": {
+            "en": "Demirköy"
+          },
+          "latitude": 41.83567,
+          "longitude": 27.77137
+        },
+        {
+          "name": {
+            "en": "Kofçaz"
+          },
+          "latitude": 41.94481,
+          "longitude": 27.15829
+        },
+        {
+          "name": {
+            "en": "Lüleburgaz"
+          },
+          "latitude": 41.41495,
+          "longitude": 27.37325
+        },
+        {
+          "name": {
+            "en": "Merkez",
+            "ar": "قرقلر ايلي"
+          },
+          "latitude": 41.73508,
+          "longitude": 27.22521
+        },
+        {
+          "name": {
+            "en": "Pehlivanköy"
+          },
+          "latitude": 41.34812,
+          "longitude": 26.92522
+        },
+        {
+          "name": {
+            "en": "Pınarhisar"
+          },
+          "latitude": 41.62417,
+          "longitude": 27.52
+        },
+        {
+          "name": {
+            "en": "Vize"
+          },
+          "latitude": 41.5725,
+          "longitude": 27.76583
+        }
+      ]
+    },
+    {
+      "code": "TR-40",
+      "name": {
+        "en": "Kırşehir"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Akçakent"
+          },
+          "latitude": 39.63184,
+          "longitude": 34.08468
+        },
+        {
+          "name": {
+            "en": "Akpınar"
+          },
+          "latitude": 39.45005,
+          "longitude": 33.96484
+        },
+        {
+          "name": {
+            "en": "Boztepe"
+          },
+          "latitude": 39.27979,
+          "longitude": 34.26657
+        },
+        {
+          "name": {
+            "en": "Çiçekdağı"
+          },
+          "latitude": 39.60694,
+          "longitude": 34.40861
+        },
+        {
+          "name": {
+            "en": "Kaman"
+          },
+          "latitude": 39.3575,
+          "longitude": 33.72389
+        },
+        {
+          "name": {
+            "en": "Merkez",
+            "ar": "قرشهر"
+          },
+          "latitude": 39.14583,
+          "longitude": 34.16389
+        },
+        {
+          "name": {
+            "en": "Mucur"
+          },
+          "latitude": 39.06147,
+          "longitude": 34.38286
+        }
+      ]
+    },
+    {
+      "code": "TR-41",
+      "name": {
+        "en": "Kocaeli"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Başiskele"
+          },
+          "latitude": 40.64574,
+          "longitude": 29.90015
+        },
+        {
+          "name": {
+            "en": "Çayırova"
+          },
+          "latitude": 40.82784,
+          "longitude": 29.39014
+        },
+        {
+          "name": {
+            "en": "Darıca"
+          },
+          "latitude": 40.7678,
+          "longitude": 29.37126
+        },
+        {
+          "name": {
+            "en": "Derince"
+          },
+          "latitude": 40.75694,
+          "longitude": 29.81472
+        },
+        {
+          "name": {
+            "en": "Dilovası"
+          },
+          "latitude": 40.77972,
+          "longitude": 29.535
+        },
+        {
+          "name": {
+            "en": "Gebze"
+          },
+          "latitude": 40.80276,
+          "longitude": 29.43068
+        },
+        {
+          "name": {
+            "en": "Gölcük"
+          },
+          "latitude": 40.70323,
+          "longitude": 29.87216
+        },
+        {
+          "name": {
+            "en": "İzmit"
+          },
+          "latitude": 40.77521,
+          "longitude": 29.94624
+        },
+        {
+          "name": {
+            "en": "Kandıra"
+          },
+          "latitude": 41.07,
+          "longitude": 30.15262
+        },
+        {
+          "name": {
+            "en": "Karamürsel"
+          },
+          "latitude": 40.69129,
+          "longitude": 29.61649
+        },
+        {
+          "name": {
+            "en": "Kartepe"
+          },
+          "latitude": 40.75246,
+          "longitude": 30.02787
+        },
+        {
+          "name": {
+            "en": "Körfez"
+          },
+          "latitude": 40.76704,
+          "longitude": 29.78275
+        }
+      ]
+    },
+    {
+      "code": "TR-42",
+      "name": {
+        "en": "Konya"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ahırlı"
+          },
+          "latitude": 37.24828,
+          "longitude": 32.12419
+        },
+        {
+          "name": {
+            "en": "Akören"
+          },
+          "latitude": 37.46265,
+          "longitude": 32.37489
+        },
+        {
+          "name": {
+            "en": "Akşehir"
+          },
+          "latitude": 38.3575,
+          "longitude": 31.41639
+        },
+        {
+          "name": {
+            "en": "Altınekin"
+          },
+          "latitude": 38.30778,
+          "longitude": 32.86861
+        },
+        {
+          "name": {
+            "en": "Beyşehir"
+          },
+          "latitude": 37.67735,
+          "longitude": 31.72458
+        },
+        {
+          "name": {
+            "en": "Bozkır"
+          },
+          "latitude": 37.18963,
+          "longitude": 32.24736
+        },
+        {
+          "name": {
+            "en": "Çeltik"
+          },
+          "latitude": 39.03388,
+          "longitude": 31.79408
+        },
+        {
+          "name": {
+            "en": "Cihanbeyli"
+          },
+          "latitude": 38.66072,
+          "longitude": 32.92437
+        },
+        {
+          "name": {
+            "en": "Çumra"
+          },
+          "latitude": 37.5732,
+          "longitude": 32.77446
+        },
+        {
+          "name": {
+            "en": "Derbent"
+          },
+          "latitude": 38.01422,
+          "longitude": 32.01639
+        },
+        {
+          "name": {
+            "en": "Derebucak"
+          },
+          "latitude": 37.39179,
+          "longitude": 31.50918
+        },
+        {
+          "name": {
+            "en": "Doğanhisar"
+          },
+          "latitude": 38.1463,
+          "longitude": 31.67648
+        },
+        {
+          "name": {
+            "en": "Emirgazi"
+          },
+          "latitude": 37.90222,
+          "longitude": 33.83722
+        },
+        {
+          "name": {
+            "en": "Ereğli"
+          },
+          "latitude": 37.51333,
+          "longitude": 34.04672
+        },
+        {
+          "name": {
+            "en": "Güneysınır"
+          },
+          "latitude": 37.27977,
+          "longitude": 32.73735
+        },
+        {
+          "name": {
+            "en": "Hadim"
+          },
+          "latitude": 36.98776,
+          "longitude": 32.45674
+        },
+        {
+          "name": {
+            "en": "Halkapınar"
+          },
+          "latitude": 37.43394,
+          "longitude": 34.18743
+        },
+        {
+          "name": {
+            "en": "Hüyük"
+          },
+          "latitude": 37.95388,
+          "longitude": 31.59639
+        },
+        {
+          "name": {
+            "en": "Ilgın"
+          },
+          "latitude": 38.27917,
+          "longitude": 31.91389
+        },
+        {
+          "name": {
+            "en": "Kadınhanı"
+          },
+          "latitude": 38.23972,
+          "longitude": 32.21139
+        },
+        {
+          "name": {
+            "en": "Karapınar"
+          },
+          "latitude": 37.71596,
+          "longitude": 33.55064
+        },
+        {
+          "name": {
+            "en": "Karatay"
+          },
+          "latitude": 37.94001,
+          "longitude": 32.99828
+        },
+        {
+          "name": {
+            "en": "Kulu"
+          },
+          "latitude": 39.09513,
+          "longitude": 33.07989
+        },
+        {
+          "name": {
+            "en": "Meram"
+          },
+          "latitude": 37.83984,
+          "longitude": 32.47111
+        },
+        {
+          "name": {
+            "en": "Sarayönü"
+          },
+          "latitude": 38.26201,
+          "longitude": 32.40457
+        },
+        {
+          "name": {
+            "en": "Selçuklu"
+          },
+          "latitude": 38.05761,
+          "longitude": 32.54088
+        },
+        {
+          "name": {
+            "en": "Seydişehir"
+          },
+          "latitude": 37.41926,
+          "longitude": 31.84527
+        },
+        {
+          "name": {
+            "en": "Taşkent"
+          },
+          "latitude": 36.9243,
+          "longitude": 32.49131
+        },
+        {
+          "name": {
+            "en": "Tuzlukçu"
+          },
+          "latitude": 38.47778,
+          "longitude": 31.62639
+        },
+        {
+          "name": {
+            "en": "Yalıhüyük"
+          },
+          "latitude": 37.30077,
+          "longitude": 32.08548
+        },
+        {
+          "name": {
+            "en": "Yunak"
+          },
+          "latitude": 38.81418,
+          "longitude": 31.73223
+        }
+      ]
+    },
+    {
+      "code": "TR-43",
+      "name": {
+        "en": "Kütahya"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Altıntaş"
+          },
+          "latitude": 39.06932,
+          "longitude": 30.12048
+        },
+        {
+          "name": {
+            "en": "Aslanapa"
+          },
+          "latitude": 39.21581,
+          "longitude": 29.8699
+        },
+        {
+          "name": {
+            "en": "Çavdarhisar"
+          },
+          "latitude": 39.20333,
+          "longitude": 29.63094
+        },
+        {
+          "name": {
+            "en": "Domaniç"
+          },
+          "latitude": 39.80194,
+          "longitude": 29.60918
+        },
+        {
+          "name": {
+            "en": "Dumlupınar"
+          },
+          "latitude": 38.85408,
+          "longitude": 29.9772
+        },
+        {
+          "name": {
+            "en": "Emet"
+          },
+          "latitude": 39.343,
+          "longitude": 29.25847
+        },
+        {
+          "name": {
+            "en": "Gediz"
+          },
+          "latitude": 38.99389,
+          "longitude": 29.39131
+        },
+        {
+          "name": {
+            "en": "Hisarcık"
+          },
+          "latitude": 39.25987,
+          "longitude": 29.24134
+        },
+        {
+          "name": {
+            "en": "Merkez",
+            "ar": "كوتاهية"
+          },
+          "latitude": 39.42417,
+          "longitude": 29.98333
+        },
+        {
+          "name": {
+            "en": "Pazarlar"
+          },
+          "latitude": 38.995,
+          "longitude": 29.12583
+        },
+        {
+          "name": {
+            "en": "Şaphane"
+          },
+          "latitude": 39.0273,
+          "longitude": 29.22218
+        },
+        {
+          "name": {
+            "en": "Simav"
+          },
+          "latitude": 39.0882,
+          "longitude": 28.97767
+        },
+        {
+          "name": {
+            "en": "Tavşanlı"
+          },
+          "latitude": 39.54237,
+          "longitude": 29.49866
+        }
+      ]
+    },
+    {
+      "code": "TR-44",
+      "name": {
+        "en": "Malatya"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Akçadağ"
+          },
+          "latitude": 38.33899,
+          "longitude": 37.97021
+        },
+        {
+          "name": {
+            "en": "Arapgir"
+          },
+          "latitude": 39.04117,
+          "longitude": 38.49516
+        },
+        {
+          "name": {
+            "en": "Arguvan"
+          },
+          "latitude": 38.78172,
+          "longitude": 38.26349
+        },
+        {
+          "name": {
+            "en": "Battalgazi"
+          },
+          "latitude": 38.43932,
+          "longitude": 38.45764
+        },
+        {
+          "name": {
+            "en": "Darende"
+          },
+          "latitude": 38.54583,
+          "longitude": 37.50583
+        },
+        {
+          "name": {
+            "en": "Doğanşehir"
+          },
+          "latitude": 38.08574,
+          "longitude": 37.87116
+        },
+        {
+          "name": {
+            "en": "Doğanyol"
+          },
+          "latitude": 38.30746,
+          "longitude": 39.03431
+        },
+        {
+          "name": {
+            "en": "Hekimhan"
+          },
+          "latitude": 38.81622,
+          "longitude": 37.92882
+        },
+        {
+          "name": {
+            "en": "Kale"
+          },
+          "latitude": 39.03333,
+          "longitude": 38
+        },
+        {
+          "name": {
+            "en": "Kuluncak"
+          },
+          "latitude": 38.87656,
+          "longitude": 37.66279
+        },
+        {
+          "name": {
+            "en": "Pütürge"
+          },
+          "latitude": 38.1963,
+          "longitude": 38.87418
+        },
+        {
+          "name": {
+            "en": "Yazıhan"
+          },
+          "latitude": 38.59292,
+          "longitude": 38.17327
+        },
+        {
+          "name": {
+            "en": "Yeşilyurt"
+          },
+          "latitude": 38.29602,
+          "longitude": 38.24526
+        }
+      ]
+    },
+    {
+      "code": "TR-45",
+      "name": {
+        "en": "Manisa"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ahmetli"
+          },
+          "latitude": 38.5196,
+          "longitude": 27.93865
+        },
+        {
+          "name": {
+            "en": "Akhisar"
+          },
+          "latitude": 38.91852,
+          "longitude": 27.84006
+        },
+        {
+          "name": {
+            "en": "Alaşehir",
+            "ar": "آلاشهر"
+          },
+          "latitude": 38.35083,
+          "longitude": 28.51718
+        },
+        {
+          "name": {
+            "en": "Demirci"
+          },
+          "latitude": 39.04607,
+          "longitude": 28.65889
+        },
+        {
+          "name": {
+            "en": "Gölmarmara"
+          },
+          "latitude": 38.71389,
+          "longitude": 27.91417
+        },
+        {
+          "name": {
+            "en": "Gördes"
+          },
+          "latitude": 38.93278,
+          "longitude": 28.28942
+        },
+        {
+          "name": {
+            "en": "Kırkağaç"
+          },
+          "latitude": 39.10638,
+          "longitude": 27.66925
+        },
+        {
+          "name": {
+            "en": "Köprübaşı"
+          },
+          "latitude": 38.74972,
+          "longitude": 28.40472
+        },
+        {
+          "name": {
+            "en": "Kula"
+          },
+          "latitude": 38.56775,
+          "longitude": 28.64146
+        },
+        {
+          "name": {
+            "en": "Salihli"
+          },
+          "latitude": 38.49254,
+          "longitude": 28.15264
+        },
+        {
+          "name": {
+            "en": "Sarıgöl"
+          },
+          "latitude": 38.23953,
+          "longitude": 28.69663
+        },
+        {
+          "name": {
+            "en": "Saruhanlı"
+          },
+          "latitude": 38.76778,
+          "longitude": 27.64714
+        },
+        {
+          "name": {
+            "en": "Şehzadeler"
+          },
+          "latitude": 38.6166,
+          "longitude": 27.43861
+        },
+        {
+          "name": {
+            "en": "Selendi"
+          },
+          "latitude": 38.74444,
+          "longitude": 28.86778
+        },
+        {
+          "name": {
+            "en": "Soma"
+          },
+          "latitude": 39.18554,
+          "longitude": 27.60945
+        },
+        {
+          "name": {
+            "en": "Turgutlu"
+          },
+          "latitude": 38.51515,
+          "longitude": 27.73515
+        },
+        {
+          "name": {
+            "en": "Yunusemre"
+          },
+          "latitude": 38.62063,
+          "longitude": 27.40806
+        }
+      ]
+    },
+    {
+      "code": "TR-47",
+      "name": {
+        "en": "Mardin"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Artuklu"
+          },
+          "latitude": 37.31714,
+          "longitude": 40.72473
+        },
+        {
+          "name": {
+            "en": "Dargeçit"
+          },
+          "latitude": 37.54616,
+          "longitude": 41.71652
+        },
+        {
+          "name": {
+            "en": "Derik"
+          },
+          "latitude": 37.36431,
+          "longitude": 40.26883
+        },
+        {
+          "name": {
+            "en": "Kızıltepe"
+          },
+          "latitude": 37.18836,
+          "longitude": 40.57723
+        },
+        {
+          "name": {
+            "en": "Mazıdağı"
+          },
+          "latitude": 37.47801,
+          "longitude": 40.48152
+        },
+        {
+          "name": {
+            "en": "Midyat",
+            "ar": "مديات"
+          },
+          "latitude": 37.41908,
+          "longitude": 41.33909
+        },
+        {
+          "name": {
+            "en": "Nusaybin",
+            "ar": "نصيبين"
+          },
+          "latitude": 37.07028,
+          "longitude": 41.21465
+        },
+        {
+          "name": {
+            "en": "Ömerli"
+          },
+          "latitude": 37.39903,
+          "longitude": 40.95442
+        },
+        {
+          "name": {
+            "en": "Savur"
+          },
+          "latitude": 37.53544,
+          "longitude": 40.87876
+        },
+        {
+          "name": {
+            "en": "Yeşilli"
+          },
+          "latitude": 37.33813,
+          "longitude": 40.81739
+        }
+      ]
+    },
+    {
+      "code": "TR-33",
+      "name": {
+        "en": "Mersin"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Akdeniz"
+          },
+          "latitude": 36.86424,
+          "longitude": 34.67731
+        },
+        {
+          "name": {
+            "en": "Anamur",
+            "ar": "أنامور"
+          },
+          "latitude": 36.07508,
+          "longitude": 32.83691
+        },
+        {
+          "name": {
+            "en": "Aydıncık"
+          },
+          "latitude": 36.1437,
+          "longitude": 33.32016
+        },
+        {
+          "name": {
+            "en": "Bozyazı"
+          },
+          "latitude": 36.1082,
+          "longitude": 32.96113
+        },
+        {
+          "name": {
+            "en": "Çamlıyayla"
+          },
+          "latitude": 37.18,
+          "longitude": 34.60678
+        },
+        {
+          "name": {
+            "en": "Erdemli",
+            "ar": "إيرديملي"
+          },
+          "latitude": 36.60498,
+          "longitude": 34.30836
+        },
+        {
+          "name": {
+            "en": "Gülnar"
+          },
+          "latitude": 36.34148,
+          "longitude": 33.39921
+        },
+        {
+          "name": {
+            "en": "Mersin"
+          },
+          "latitude": 36.7428767,
+          "longitude": 34.3640915
+        },
+        {
+          "name": {
+            "en": "Mezitli"
+          },
+          "latitude": 36.894,
+          "longitude": 34.42987
+        },
+        {
+          "name": {
+            "en": "Mut"
+          },
+          "latitude": 36.71842,
+          "longitude": 33.38718
+        },
+        {
+          "name": {
+            "en": "Silifke",
+            "ar": "سيليفكى"
+          },
+          "latitude": 36.37778,
+          "longitude": 33.93444
+        },
+        {
+          "name": {
+            "en": "Tarsus",
+            "ar": "طرسوس"
+          },
+          "latitude": 36.91766,
+          "longitude": 34.89277
+        },
+        {
+          "name": {
+            "en": "Toroslar"
+          },
+          "latitude": 36.87083,
+          "longitude": 34.60299
+        },
+        {
+          "name": {
+            "en": "Yenişehir"
+          },
+          "latitude": 36.81602,
+          "longitude": 34.57621
+        }
+      ]
+    },
+    {
+      "code": "TR-48",
+      "name": {
+        "en": "Muğla"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bodrum"
+          },
+          "latitude": 37.065,
+          "longitude": 27.49819
+        },
+        {
+          "name": {
+            "en": "Dalaman"
+          },
+          "latitude": 36.81691,
+          "longitude": 28.87815
+        },
+        {
+          "name": {
+            "en": "Datça"
+          },
+          "latitude": 36.73778,
+          "longitude": 27.68417
+        },
+        {
+          "name": {
+            "en": "Fethiye",
+            "ar": "فتحية"
+          },
+          "latitude": 36.64038,
+          "longitude": 29.12758
+        },
+        {
+          "name": {
+            "en": "Kavaklıdere"
+          },
+          "latitude": 37.43929,
+          "longitude": 28.38402
+        },
+        {
+          "name": {
+            "en": "Köyceğiz"
+          },
+          "latitude": 36.97798,
+          "longitude": 28.72418
+        },
+        {
+          "name": {
+            "en": "Marmaris",
+            "ar": "مرماريس"
+          },
+          "latitude": 36.855,
+          "longitude": 28.27417
+        },
+        {
+          "name": {
+            "en": "Menteşe"
+          },
+          "latitude": 37.21447,
+          "longitude": 28.36168
+        },
+        {
+          "name": {
+            "en": "Milas"
+          },
+          "latitude": 37.31639,
+          "longitude": 27.78389
+        },
+        {
+          "name": {
+            "en": "Ortaca"
+          },
+          "latitude": 36.83915,
+          "longitude": 28.76457
+        },
+        {
+          "name": {
+            "en": "Seydikemer"
+          },
+          "latitude": 36.64308,
+          "longitude": 29.34929
+        },
+        {
+          "name": {
+            "en": "Ula"
+          },
+          "latitude": 37.10491,
+          "longitude": 28.41667
+        },
+        {
+          "name": {
+            "en": "Yatağan"
+          },
+          "latitude": 37.35864,
+          "longitude": 28.11441
+        }
+      ]
+    },
+    {
+      "code": "TR-49",
+      "name": {
+        "en": "Muş"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bulanık"
+          },
+          "latitude": 39.08656,
+          "longitude": 42.27158
+        },
+        {
+          "name": {
+            "en": "Hasköy"
+          },
+          "latitude": 38.68231,
+          "longitude": 41.67851
+        },
+        {
+          "name": {
+            "en": "Korkut"
+          },
+          "latitude": 38.7339,
+          "longitude": 41.78396
+        },
+        {
+          "name": {
+            "en": "Malazgirt"
+          },
+          "latitude": 39.1465,
+          "longitude": 42.53536
+        },
+        {
+          "name": {
+            "en": "Merkez"
+          },
+          "latitude": 38.83793,
+          "longitude": 41.48332
+        },
+        {
+          "name": {
+            "en": "Varto"
+          },
+          "latitude": 39.17375,
+          "longitude": 41.45402
+        }
+      ]
+    },
+    {
+      "code": "TR-50",
+      "name": {
+        "en": "Nevşehir"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Acıgöl"
+          },
+          "latitude": 38.55028,
+          "longitude": 34.50917
+        },
+        {
+          "name": {
+            "en": "Avanos"
+          },
+          "latitude": 38.715,
+          "longitude": 34.84667
+        },
+        {
+          "name": {
+            "en": "Derinkuyu"
+          },
+          "latitude": 38.3751,
+          "longitude": 34.73419
+        },
+        {
+          "name": {
+            "en": "Gülşehir"
+          },
+          "latitude": 38.74594,
+          "longitude": 34.62524
+        },
+        {
+          "name": {
+            "en": "Hacıbektaş"
+          },
+          "latitude": 38.94077,
+          "longitude": 34.5577
+        },
+        {
+          "name": {
+            "en": "Kozaklı"
+          },
+          "latitude": 39.23204,
+          "longitude": 34.85585
+        },
+        {
+          "name": {
+            "en": "Merkez"
+          },
+          "latitude": 38.60039,
+          "longitude": 34.68537
+        },
+        {
+          "name": {
+            "en": "Ürgüp"
+          },
+          "latitude": 38.57342,
+          "longitude": 34.9402
+        }
+      ]
+    },
+    {
+      "code": "TR-51",
+      "name": {
+        "en": "Niğde"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Altunhisar"
+          },
+          "latitude": 37.99159,
+          "longitude": 34.37334
+        },
+        {
+          "name": {
+            "en": "Bor"
+          },
+          "latitude": 37.89056,
+          "longitude": 34.55889
+        },
+        {
+          "name": {
+            "en": "Çamardı"
+          },
+          "latitude": 37.84157,
+          "longitude": 34.99005
+        },
+        {
+          "name": {
+            "en": "Çiftlik"
+          },
+          "latitude": 38.1758,
+          "longitude": 34.48535
+        },
+        {
+          "name": {
+            "en": "Merkez",
+            "ar": "نيغدة"
+          },
+          "latitude": 37.96583,
+          "longitude": 34.67935
+        },
+        {
+          "name": {
+            "en": "Ulukışla"
+          },
+          "latitude": 37.54592,
+          "longitude": 34.58737
+        }
+      ]
+    },
+    {
+      "code": "TR-52",
+      "name": {
+        "en": "Ordu"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Akkuş"
+          },
+          "latitude": 40.81,
+          "longitude": 36.96
+        },
+        {
+          "name": {
+            "en": "Altınordu"
+          },
+          "latitude": 40.94879,
+          "longitude": 37.79572
+        },
+        {
+          "name": {
+            "en": "Aybastı"
+          },
+          "latitude": 40.6969,
+          "longitude": 37.40794
+        },
+        {
+          "name": {
+            "en": "Çamaş"
+          },
+          "latitude": 40.902,
+          "longitude": 37.52786
+        },
+        {
+          "name": {
+            "en": "Çatalpınar"
+          },
+          "latitude": 40.88678,
+          "longitude": 37.44329
+        },
+        {
+          "name": {
+            "en": "Çaybaşı"
+          },
+          "latitude": 41.02532,
+          "longitude": 37.10867
+        },
+        {
+          "name": {
+            "en": "Fatsa"
+          },
+          "latitude": 41.02778,
+          "longitude": 37.50139
+        },
+        {
+          "name": {
+            "en": "Gölköy"
+          },
+          "latitude": 40.68726,
+          "longitude": 37.6166
+        },
+        {
+          "name": {
+            "en": "Gülyalı"
+          },
+          "latitude": 40.96682,
+          "longitude": 38.05679
+        },
+        {
+          "name": {
+            "en": "Gürgentepe"
+          },
+          "latitude": 40.78567,
+          "longitude": 37.58969
+        },
+        {
+          "name": {
+            "en": "İkizce"
+          },
+          "latitude": 41.05833,
+          "longitude": 37.08028
+        },
+        {
+          "name": {
+            "en": "Kabadüz"
+          },
+          "latitude": 40.86096,
+          "longitude": 37.8847
+        },
+        {
+          "name": {
+            "en": "Kabataş"
+          },
+          "latitude": 40.75,
+          "longitude": 37.45
+        },
+        {
+          "name": {
+            "en": "Korgan"
+          },
+          "latitude": 40.82472,
+          "longitude": 37.34667
+        },
+        {
+          "name": {
+            "en": "Kumru"
+          },
+          "latitude": 40.87444,
+          "longitude": 37.26389
+        },
+        {
+          "name": {
+            "en": "Mesudiye"
+          },
+          "latitude": 40.45446,
+          "longitude": 37.77353
+        },
+        {
+          "name": {
+            "en": "Perşembe"
+          },
+          "latitude": 41.06556,
+          "longitude": 37.77139
+        },
+        {
+          "name": {
+            "en": "Ulubey"
+          },
+          "latitude": 40.86863,
+          "longitude": 37.75405
+        },
+        {
+          "name": {
+            "en": "Ünye"
+          },
+          "latitude": 41.13921,
+          "longitude": 37.27246
+        }
+      ]
+    },
+    {
+      "code": "TR-80",
+      "name": {
+        "en": "Osmaniye"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bahçe"
+          },
+          "latitude": 37.20105,
+          "longitude": 36.57687
+        },
+        {
+          "name": {
+            "en": "Düziçi"
+          },
+          "latitude": 37.25062,
+          "longitude": 36.47051
+        },
+        {
+          "name": {
+            "en": "Hasanbeyli"
+          },
+          "latitude": 37.12838,
+          "longitude": 36.54608
+        },
+        {
+          "name": {
+            "en": "Kadirli"
+          },
+          "latitude": 37.37389,
+          "longitude": 36.09611
+        },
+        {
+          "name": {
+            "en": "Merkez",
+            "ar": "عثمانية"
+          },
+          "latitude": 37.07417,
+          "longitude": 36.24778
+        },
+        {
+          "name": {
+            "en": "Sumbas"
+          },
+          "latitude": 37.46169,
+          "longitude": 36.02914
+        },
+        {
+          "name": {
+            "en": "Toprakkale"
+          },
+          "latitude": 37.06855,
+          "longitude": 36.14661
+        }
+      ]
+    },
+    {
+      "code": "TR-53",
+      "name": {
+        "en": "Rize"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ardeşen"
+          },
+          "latitude": 41.19111,
+          "longitude": 40.9875
+        },
+        {
+          "name": {
+            "en": "Çamlıhemşin"
+          },
+          "latitude": 41.045938,
+          "longitude": 41.005275
+        },
+        {
+          "name": {
+            "en": "Çayeli"
+          },
+          "latitude": 41.08941,
+          "longitude": 40.73696
+        },
+        {
+          "name": {
+            "en": "Derepazarı"
+          },
+          "latitude": 41.024722,
+          "longitude": 40.425556
+        },
+        {
+          "name": {
+            "en": "Fındıklı"
+          },
+          "latitude": 41.2711,
+          "longitude": 41.14449
+        },
+        {
+          "name": {
+            "en": "Güneysu"
+          },
+          "latitude": 40.9813,
+          "longitude": 40.60465
+        },
+        {
+          "name": {
+            "en": "Hemşin"
+          },
+          "latitude": 41.05922,
+          "longitude": 40.9014
+        },
+        {
+          "name": {
+            "en": "İkizdere"
+          },
+          "latitude": 40.77713,
+          "longitude": 40.56076
+        },
+        {
+          "name": {
+            "en": "İyidere"
+          },
+          "latitude": 41.00905,
+          "longitude": 40.37776
+        },
+        {
+          "name": {
+            "en": "Kalkandere"
+          },
+          "latitude": 40.92143,
+          "longitude": 40.43999
+        },
+        {
+          "name": {
+            "en": "Merkez",
+            "ar": "ريزه"
+          },
+          "latitude": 41.02083,
+          "longitude": 40.52194
+        },
+        {
+          "name": {
+            "en": "Pazar"
+          },
+          "latitude": 41.17917,
+          "longitude": 40.88417
+        }
+      ]
+    },
+    {
+      "code": "TR-54",
+      "name": {
+        "en": "Sakarya"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Adapazarı",
+            "ar": "آدابازاري"
+          },
+          "latitude": 40.78056,
+          "longitude": 30.40333
+        },
+        {
+          "name": {
+            "en": "Akyazı"
+          },
+          "latitude": 40.685,
+          "longitude": 30.62222
+        },
+        {
+          "name": {
+            "en": "Arifiye"
+          },
+          "latitude": 40.71327,
+          "longitude": 30.36128
+        },
+        {
+          "name": {
+            "en": "Erenler"
+          },
+          "latitude": 40.75564,
+          "longitude": 30.41453
+        },
+        {
+          "name": {
+            "en": "Ferizli"
+          },
+          "latitude": 40.94082,
+          "longitude": 30.48583
+        },
+        {
+          "name": {
+            "en": "Geyve"
+          },
+          "latitude": 40.5075,
+          "longitude": 30.2925
+        },
+        {
+          "name": {
+            "en": "Hendek"
+          },
+          "latitude": 40.79944,
+          "longitude": 30.74806
+        },
+        {
+          "name": {
+            "en": "Karapürçek"
+          },
+          "latitude": 40.64194,
+          "longitude": 30.53944
+        },
+        {
+          "name": {
+            "en": "Karasu"
+          },
+          "latitude": 41.09983,
+          "longitude": 30.68241
+        },
+        {
+          "name": {
+            "en": "Kaynarca"
+          },
+          "latitude": 41.03083,
+          "longitude": 30.3075
+        },
+        {
+          "name": {
+            "en": "Kocaali"
+          },
+          "latitude": 41.05336,
+          "longitude": 30.85278
+        },
+        {
+          "name": {
+            "en": "Pamukova"
+          },
+          "latitude": 40.5081,
+          "longitude": 30.16732
+        },
+        {
+          "name": {
+            "en": "Sapanca"
+          },
+          "latitude": 40.69141,
+          "longitude": 30.26738
+        },
+        {
+          "name": {
+            "en": "Serdivan"
+          },
+          "latitude": 40.76371,
+          "longitude": 30.36784
+        },
+        {
+          "name": {
+            "en": "Söğütlü"
+          },
+          "latitude": 40.9059,
+          "longitude": 30.47448
+        },
+        {
+          "name": {
+            "en": "Taraklı"
+          },
+          "latitude": 40.39694,
+          "longitude": 30.49278
+        }
+      ]
+    },
+    {
+      "code": "TR-55",
+      "name": {
+        "en": "Samsun"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Alaçam"
+          },
+          "latitude": 41.61563,
+          "longitude": 35.60632
+        },
+        {
+          "name": {
+            "en": "Asarcık"
+          },
+          "latitude": 41.03556,
+          "longitude": 36.23556
+        },
+        {
+          "name": {
+            "en": "Atakum"
+          },
+          "latitude": 41.3473,
+          "longitude": 36.23051
+        },
+        {
+          "name": {
+            "en": "Ayvacık"
+          },
+          "latitude": 40.99111,
+          "longitude": 36.63139
+        },
+        {
+          "name": {
+            "en": "Bafra"
+          },
+          "latitude": 41.46082,
+          "longitude": 35.84435
+        },
+        {
+          "name": {
+            "en": "Canik"
+          },
+          "latitude": 41.23858,
+          "longitude": 36.33694
+        },
+        {
+          "name": {
+            "en": "Çarşamba"
+          },
+          "latitude": 41.19889,
+          "longitude": 36.72194
+        },
+        {
+          "name": {
+            "en": "Havza"
+          },
+          "latitude": 40.97056,
+          "longitude": 35.66222
+        },
+        {
+          "name": {
+            "en": "İlkadım"
+          },
+          "latitude": 41.29161,
+          "longitude": 36.30106
+        },
+        {
+          "name": {
+            "en": "Kavak"
+          },
+          "latitude": 41.07833,
+          "longitude": 36.0425
+        },
+        {
+          "name": {
+            "en": "Ladik"
+          },
+          "latitude": 40.91056,
+          "longitude": 35.89194
+        },
+        {
+          "name": {
+            "en": "Ondokuzmayıs"
+          },
+          "latitude": 41.51188,
+          "longitude": 36.07298
+        },
+        {
+          "name": {
+            "en": "Salıpazarı"
+          },
+          "latitude": 41.09352,
+          "longitude": 36.81718
+        },
+        {
+          "name": {
+            "en": "Tekkeköy"
+          },
+          "latitude": 41.14493,
+          "longitude": 36.46205
+        },
+        {
+          "name": {
+            "en": "Terme"
+          },
+          "latitude": 41.20917,
+          "longitude": 36.97389
+        },
+        {
+          "name": {
+            "en": "Vezirköprü"
+          },
+          "latitude": 41.14361,
+          "longitude": 35.45472
+        },
+        {
+          "name": {
+            "en": "Yakakent"
+          },
+          "latitude": 41.6325,
+          "longitude": 35.52889
+        }
+      ]
+    },
+    {
+      "code": "TR-63",
+      "name": {
+        "en": "Şanlıurfa"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Akçakale",
+            "ar": "أقجة قلعة"
+          },
+          "latitude": 36.71111,
+          "longitude": 38.9475
+        },
+        {
+          "name": {
+            "en": "Birecik"
+          },
+          "latitude": 37.02577,
+          "longitude": 37.97841
+        },
+        {
+          "name": {
+            "en": "Bozova"
+          },
+          "latitude": 37.3625,
+          "longitude": 38.52667
+        },
+        {
+          "name": {
+            "en": "Ceylanpınar"
+          },
+          "latitude": 36.84722,
+          "longitude": 40.05
+        },
+        {
+          "name": {
+            "en": "Eyyübiye"
+          },
+          "latitude": 37.21434,
+          "longitude": 38.79358
+        },
+        {
+          "name": {
+            "en": "Halfeti"
+          },
+          "latitude": 37.24529,
+          "longitude": 37.86874
+        },
+        {
+          "name": {
+            "en": "Haliliye"
+          },
+          "latitude": 37.14144,
+          "longitude": 38.79599
+        },
+        {
+          "name": {
+            "en": "Harran"
+          },
+          "latitude": 36.86,
+          "longitude": 39.03139
+        },
+        {
+          "name": {
+            "en": "Hilvan"
+          },
+          "latitude": 37.58687,
+          "longitude": 38.95505
+        },
+        {
+          "name": {
+            "en": "Karaköprü"
+          },
+          "latitude": 37.18029,
+          "longitude": 38.81109
+        },
+        {
+          "name": {
+            "en": "Siverek"
+          },
+          "latitude": 37.75503,
+          "longitude": 39.31667
+        },
+        {
+          "name": {
+            "en": "Suruç"
+          },
+          "latitude": 36.97612,
+          "longitude": 38.42533
+        },
+        {
+          "name": {
+            "en": "Viranşehir"
+          },
+          "latitude": 37.22349,
+          "longitude": 39.75519
+        }
+      ]
+    },
+    {
+      "code": "TR-56",
+      "name": {
+        "en": "Siirt"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Baykan"
+          },
+          "latitude": 38.15754,
+          "longitude": 41.7733
+        },
+        {
+          "name": {
+            "en": "Eruh"
+          },
+          "latitude": 37.74183,
+          "longitude": 42.17422
+        },
+        {
+          "name": {
+            "en": "Kurtalan"
+          },
+          "latitude": 37.92533,
+          "longitude": 41.68493
+        },
+        {
+          "name": {
+            "en": "Merkez",
+            "ar": "سعرد"
+          },
+          "latitude": 37.9293,
+          "longitude": 41.94134
+        },
+        {
+          "name": {
+            "en": "Pervari"
+          },
+          "latitude": 37.93573,
+          "longitude": 42.54927
+        },
+        {
+          "name": {
+            "en": "Şirvan"
+          },
+          "latitude": 38.06251,
+          "longitude": 42.02517
+        },
+        {
+          "name": {
+            "en": "Tillo"
+          },
+          "latitude": 37.94911,
+          "longitude": 42.0121
+        }
+      ]
+    },
+    {
+      "code": "TR-57",
+      "name": {
+        "en": "Sinop"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ayancık"
+          },
+          "latitude": 41.95,
+          "longitude": 34.583333
+        },
+        {
+          "name": {
+            "en": "Boyabat"
+          },
+          "latitude": 41.46889,
+          "longitude": 34.76667
+        },
+        {
+          "name": {
+            "en": "Dikmen"
+          },
+          "latitude": 41.66,
+          "longitude": 35.27055556
+        },
+        {
+          "name": {
+            "en": "Durağan"
+          },
+          "latitude": 41.42555556,
+          "longitude": 35.05777778
+        },
+        {
+          "name": {
+            "en": "Erfelek"
+          },
+          "latitude": 41.87926,
+          "longitude": 34.91838
+        },
+        {
+          "name": {
+            "en": "Gerze"
+          },
+          "latitude": 41.81,
+          "longitude": 35.19027778
+        },
+        {
+          "name": {
+            "en": "Merkez"
+          },
+          "latitude": 41.91835,
+          "longitude": 35.00687
+        },
+        {
+          "name": {
+            "en": "Saraydüzü"
+          },
+          "latitude": 41.33722222,
+          "longitude": 34.85361111
+        },
+        {
+          "name": {
+            "en": "Türkeli"
+          },
+          "latitude": 41.94777778,
+          "longitude": 34.33861111
+        }
+      ]
+    },
+    {
+      "code": "TR-58",
+      "name": {
+        "en": "Sivas"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Akıncılar"
+          },
+          "latitude": 40.07172,
+          "longitude": 38.3433
+        },
+        {
+          "name": {
+            "en": "Altınyayla"
+          },
+          "latitude": 39.27249,
+          "longitude": 36.75098
+        },
+        {
+          "name": {
+            "en": "Divriği"
+          },
+          "latitude": 39.371,
+          "longitude": 38.1137
+        },
+        {
+          "name": {
+            "en": "Doğanşar"
+          },
+          "latitude": 40.20841,
+          "longitude": 37.53123
+        },
+        {
+          "name": {
+            "en": "Gemerek"
+          },
+          "latitude": 39.18342,
+          "longitude": 36.07189
+        },
+        {
+          "name": {
+            "en": "Gölova"
+          },
+          "latitude": 40.06194,
+          "longitude": 38.60667
+        },
+        {
+          "name": {
+            "en": "Gürün"
+          },
+          "latitude": 38.72225,
+          "longitude": 37.27097
+        },
+        {
+          "name": {
+            "en": "Hafik"
+          },
+          "latitude": 39.85639,
+          "longitude": 37.38639
+        },
+        {
+          "name": {
+            "en": "İmranlı"
+          },
+          "latitude": 39.87544,
+          "longitude": 38.11358
+        },
+        {
+          "name": {
+            "en": "Kangal"
+          },
+          "latitude": 39.23354,
+          "longitude": 37.39111
+        },
+        {
+          "name": {
+            "en": "Koyulhisar"
+          },
+          "latitude": 40.30184,
+          "longitude": 37.82336
+        },
+        {
+          "name": {
+            "en": "Merkez"
+          },
+          "latitude": 39.71613,
+          "longitude": 36.97695
+        },
+        {
+          "name": {
+            "en": "Şarkışla"
+          },
+          "latitude": 39.35186,
+          "longitude": 36.40976
+        },
+        {
+          "name": {
+            "en": "Suşehri"
+          },
+          "latitude": 40.16005,
+          "longitude": 38.08413
+        },
+        {
+          "name": {
+            "en": "Ulaş"
+          },
+          "latitude": 39.44492,
+          "longitude": 37.039
+        },
+        {
+          "name": {
+            "en": "Yıldızeli"
+          },
+          "latitude": 39.87601,
+          "longitude": 36.60652
+        },
+        {
+          "name": {
+            "en": "Zara"
+          },
+          "latitude": 39.82406,
+          "longitude": 37.77499
+        }
+      ]
+    },
+    {
+      "code": "TR-73",
+      "name": {
+        "en": "Şırnak"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Beytüşşebap"
+          },
+          "latitude": 37.57144,
+          "longitude": 43.16515
+        },
+        {
+          "name": {
+            "en": "Cizre"
+          },
+          "latitude": 37.33024,
+          "longitude": 42.18484
+        },
+        {
+          "name": {
+            "en": "Güçlükonak"
+          },
+          "latitude": 37.47133,
+          "longitude": 41.91298
+        },
+        {
+          "name": {
+            "en": "İdil",
+            "ar": "إيدل"
+          },
+          "latitude": 37.33481,
+          "longitude": 41.88944
+        },
+        {
+          "name": {
+            "en": "Merkez"
+          },
+          "latitude": 37.51393,
+          "longitude": 42.45432
+        },
+        {
+          "name": {
+            "en": "Silopi"
+          },
+          "latitude": 37.24379,
+          "longitude": 42.46345
+        },
+        {
+          "name": {
+            "en": "Uludere"
+          },
+          "latitude": 37.44074,
+          "longitude": 42.85236
+        }
+      ]
+    },
+    {
+      "code": "TR-59",
+      "name": {
+        "en": "Tekirdağ"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Çerkezköy"
+          },
+          "latitude": 41.28616,
+          "longitude": 27.99969
+        },
+        {
+          "name": {
+            "en": "Çorlu",
+            "ar": "تشورلو"
+          },
+          "latitude": 41.15917,
+          "longitude": 27.8
+        },
+        {
+          "name": {
+            "en": "Ergene"
+          },
+          "latitude": 40.85953,
+          "longitude": 27.27081
+        },
+        {
+          "name": {
+            "en": "Hayrabolu"
+          },
+          "latitude": 41.21311,
+          "longitude": 27.10688
+        },
+        {
+          "name": {
+            "en": "Kapaklı"
+          },
+          "latitude": 41.32912,
+          "longitude": 27.98064
+        },
+        {
+          "name": {
+            "en": "Malkara"
+          },
+          "latitude": 40.89,
+          "longitude": 26.90111
+        },
+        {
+          "name": {
+            "en": "Marmaraereğlisi"
+          },
+          "latitude": 40.97003,
+          "longitude": 27.95528
+        },
+        {
+          "name": {
+            "en": "Muratlı"
+          },
+          "latitude": 41.18345,
+          "longitude": 27.51454
+        },
+        {
+          "name": {
+            "en": "Saray"
+          },
+          "latitude": 41.44431,
+          "longitude": 27.92194
+        },
+        {
+          "name": {
+            "en": "Şarköy"
+          },
+          "latitude": 40.62513,
+          "longitude": 27.10069
+        },
+        {
+          "name": {
+            "en": "Süleymanpaşa"
+          },
+          "latitude": 40.9799,
+          "longitude": 27.30377
+        }
+      ]
+    },
+    {
+      "code": "TR-60",
+      "name": {
+        "en": "Tokat"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Almus"
+          },
+          "latitude": 40.37583,
+          "longitude": 36.90444
+        },
+        {
+          "name": {
+            "en": "Artova"
+          },
+          "latitude": 40.11578,
+          "longitude": 36.3001
+        },
+        {
+          "name": {
+            "en": "Başçiftlik"
+          },
+          "latitude": 40.54694,
+          "longitude": 37.16917
+        },
+        {
+          "name": {
+            "en": "Erbaa"
+          },
+          "latitude": 40.7139,
+          "longitude": 36.59364
+        },
+        {
+          "name": {
+            "en": "Merkez",
+            "ar": "توقات"
+          },
+          "latitude": 40.31389,
+          "longitude": 36.55444
+        },
+        {
+          "name": {
+            "en": "Niksar"
+          },
+          "latitude": 40.60509,
+          "longitude": 36.97174
+        },
+        {
+          "name": {
+            "en": "Pazar"
+          },
+          "latitude": 40.27652,
+          "longitude": 36.28347
+        },
+        {
+          "name": {
+            "en": "Reşadiye"
+          },
+          "latitude": 40.43284,
+          "longitude": 37.37652
+        },
+        {
+          "name": {
+            "en": "Sulusaray"
+          },
+          "latitude": 39.99389,
+          "longitude": 36.08404
+        },
+        {
+          "name": {
+            "en": "Turhal"
+          },
+          "latitude": 40.3875,
+          "longitude": 36.08111
+        },
+        {
+          "name": {
+            "en": "Yeşilyurt"
+          },
+          "latitude": 39.99916,
+          "longitude": 36.23479
+        },
+        {
+          "name": {
+            "en": "Zile"
+          },
+          "latitude": 40.30306,
+          "longitude": 35.88639
+        }
+      ]
+    },
+    {
+      "code": "TR-61",
+      "name": {
+        "en": "Trabzon"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Akçaabat"
+          },
+          "latitude": 41.0197,
+          "longitude": 39.56293
+        },
+        {
+          "name": {
+            "en": "Araklı"
+          },
+          "latitude": 40.74,
+          "longitude": 39.96
+        },
+        {
+          "name": {
+            "en": "Arsin"
+          },
+          "latitude": 40.86743,
+          "longitude": 39.92938
+        },
+        {
+          "name": {
+            "en": "Beşikdüzü"
+          },
+          "latitude": 41.05202,
+          "longitude": 39.23294
+        },
+        {
+          "name": {
+            "en": "Çarşıbaşı"
+          },
+          "latitude": 41.04203,
+          "longitude": 39.40035
+        },
+        {
+          "name": {
+            "en": "Çaykara"
+          },
+          "latitude": 40.74267,
+          "longitude": 40.23175
+        },
+        {
+          "name": {
+            "en": "Dernekpazarı"
+          },
+          "latitude": 40.79658,
+          "longitude": 40.2446
+        },
+        {
+          "name": {
+            "en": "Düzköy"
+          },
+          "latitude": 40.87461,
+          "longitude": 39.41536
+        },
+        {
+          "name": {
+            "en": "Hayrat"
+          },
+          "latitude": 40.8853,
+          "longitude": 40.36495
+        },
+        {
+          "name": {
+            "en": "Köprübaşı"
+          },
+          "latitude": 40.80692,
+          "longitude": 40.11439
+        },
+        {
+          "name": {
+            "en": "Maçka"
+          },
+          "latitude": 40.72127,
+          "longitude": 39.59786
+        },
+        {
+          "name": {
+            "en": "Of"
+          },
+          "latitude": 40.94055,
+          "longitude": 40.25918
+        },
+        {
+          "name": {
+            "en": "Ortahisar"
+          },
+          "latitude": 40.88029,
+          "longitude": 39.88998
+        },
+        {
+          "name": {
+            "en": "Şalpazarı"
+          },
+          "latitude": 40.93826,
+          "longitude": 39.19006
+        },
+        {
+          "name": {
+            "en": "Sürmene"
+          },
+          "latitude": 40.90588,
+          "longitude": 40.12792
+        },
+        {
+          "name": {
+            "en": "Tonya"
+          },
+          "latitude": 40.88402,
+          "longitude": 39.28486
+        },
+        {
+          "name": {
+            "en": "Vakfıkebir"
+          },
+          "latitude": 41.04583,
+          "longitude": 39.27639
+        },
+        {
+          "name": {
+            "en": "Yomra"
+          },
+          "latitude": 40.95326,
+          "longitude": 39.85546
+        }
+      ]
+    },
+    {
+      "code": "TR-62",
+      "name": {
+        "en": "Tunceli"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Çemişgezek"
+          },
+          "latitude": 39.06234,
+          "longitude": 38.914
+        },
+        {
+          "name": {
+            "en": "Hozat"
+          },
+          "latitude": 39.10029,
+          "longitude": 39.20816
+        },
+        {
+          "name": {
+            "en": "Mazgirt"
+          },
+          "latitude": 39.01783,
+          "longitude": 39.60064
+        },
+        {
+          "name": {
+            "en": "Merkez"
+          },
+          "latitude": 39.17114,
+          "longitude": 39.5557
+        },
+        {
+          "name": {
+            "en": "Nazımiye"
+          },
+          "latitude": 39.17952,
+          "longitude": 39.82805
+        },
+        {
+          "name": {
+            "en": "Ovacık"
+          },
+          "latitude": 39.35259,
+          "longitude": 39.2089
+        },
+        {
+          "name": {
+            "en": "Pertek"
+          },
+          "latitude": 38.86574,
+          "longitude": 39.32273
+        },
+        {
+          "name": {
+            "en": "Pülümür"
+          },
+          "latitude": 39.48662,
+          "longitude": 39.89874
+        }
+      ]
+    },
+    {
+      "code": "TR-64",
+      "name": {
+        "en": "Uşak"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Banaz"
+          },
+          "latitude": 38.73707,
+          "longitude": 29.75194
+        },
+        {
+          "name": {
+            "en": "Eşme"
+          },
+          "latitude": 38.39976,
+          "longitude": 28.96905
+        },
+        {
+          "name": {
+            "en": "Karahallı"
+          },
+          "latitude": 38.32083,
+          "longitude": 29.53028
+        },
+        {
+          "name": {
+            "en": "Merkez"
+          },
+          "latitude": 38.68463,
+          "longitude": 29.29455
+        },
+        {
+          "name": {
+            "en": "Sivaslı"
+          },
+          "latitude": 38.49944,
+          "longitude": 29.68361
+        },
+        {
+          "name": {
+            "en": "Ulubey"
+          },
+          "latitude": 38.41987,
+          "longitude": 29.29129
+        }
+      ]
+    },
+    {
+      "code": "TR-65",
+      "name": {
+        "en": "Van"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bahçesaray"
+          },
+          "latitude": 38.1246,
+          "longitude": 42.79825
+        },
+        {
+          "name": {
+            "en": "Başkale"
+          },
+          "latitude": 38.04526,
+          "longitude": 44.01718
+        },
+        {
+          "name": {
+            "en": "Çaldıran"
+          },
+          "latitude": 39.14317,
+          "longitude": 43.91068
+        },
+        {
+          "name": {
+            "en": "Çatak"
+          },
+          "latitude": 38.0078,
+          "longitude": 43.06195
+        },
+        {
+          "name": {
+            "en": "Edremit"
+          },
+          "latitude": 38.37889,
+          "longitude": 43.29717
+        },
+        {
+          "name": {
+            "en": "Erciş"
+          },
+          "latitude": 39.15123,
+          "longitude": 43.33705
+        },
+        {
+          "name": {
+            "en": "Gevaş"
+          },
+          "latitude": 38.2921,
+          "longitude": 43.10189
+        },
+        {
+          "name": {
+            "en": "Gürpınar"
+          },
+          "latitude": 38.32372,
+          "longitude": 43.40991
+        },
+        {
+          "name": {
+            "en": "İpekyolu"
+          },
+          "latitude": 38.49041,
+          "longitude": 43.3469
+        },
+        {
+          "name": {
+            "en": "Muradiye"
+          },
+          "latitude": 38.97889,
+          "longitude": 43.75374
+        },
+        {
+          "name": {
+            "en": "Özalp"
+          },
+          "latitude": 38.65455,
+          "longitude": 43.98869
+        },
+        {
+          "name": {
+            "en": "Saray"
+          },
+          "latitude": 38.64691,
+          "longitude": 44.16116
+        },
+        {
+          "name": {
+            "en": "Tuşba"
+          },
+          "latitude": 38.521178,
+          "longitude": 43.349093
+        }
+      ]
+    },
+    {
+      "code": "TR-77",
+      "name": {
+        "en": "Yalova"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Altınova"
+          },
+          "latitude": 40.69495,
+          "longitude": 29.50986
+        },
+        {
+          "name": {
+            "en": "Armutlu"
+          },
+          "latitude": 40.52919,
+          "longitude": 28.83871
+        },
+        {
+          "name": {
+            "en": "Çiftlikköy"
+          },
+          "latitude": 40.66028,
+          "longitude": 29.32361
+        },
+        {
+          "name": {
+            "en": "Çınarcık"
+          },
+          "latitude": 40.64538,
+          "longitude": 29.1245
+        },
+        {
+          "name": {
+            "en": "Merkez",
+            "ar": "يالوفا"
+          },
+          "latitude": 40.65501,
+          "longitude": 29.27693
+        },
+        {
+          "name": {
+            "en": "Termal"
+          },
+          "latitude": 40.61381,
+          "longitude": 29.18049
+        }
+      ]
+    },
+    {
+      "code": "TR-66",
+      "name": {
+        "en": "Yozgat"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Akdağmadeni"
+          },
+          "latitude": 39.66028,
+          "longitude": 35.88361
+        },
+        {
+          "name": {
+            "en": "Aydıncık"
+          },
+          "latitude": 40.12727,
+          "longitude": 35.28765
+        },
+        {
+          "name": {
+            "en": "Boğazlıyan"
+          },
+          "latitude": 39.19627,
+          "longitude": 35.2542
+        },
+        {
+          "name": {
+            "en": "Çandır"
+          },
+          "latitude": 39.25445,
+          "longitude": 35.52284
+        },
+        {
+          "name": {
+            "en": "Çayıralan"
+          },
+          "latitude": 39.30278,
+          "longitude": 35.64389
+        },
+        {
+          "name": {
+            "en": "Çekerek"
+          },
+          "latitude": 40.07306,
+          "longitude": 35.49472
+        },
+        {
+          "name": {
+            "en": "Kadışehri"
+          },
+          "latitude": 39.99568,
+          "longitude": 35.79193
+        },
+        {
+          "name": {
+            "en": "Merkez",
+            "ar": "يوزغات"
+          },
+          "latitude": 39.82,
+          "longitude": 34.80444
+        },
+        {
+          "name": {
+            "en": "Saraykent"
+          },
+          "latitude": 39.69361,
+          "longitude": 35.51111
+        },
+        {
+          "name": {
+            "en": "Sarıkaya"
+          },
+          "latitude": 39.49361,
+          "longitude": 35.37694
+        },
+        {
+          "name": {
+            "en": "Şefaatli"
+          },
+          "latitude": 39.5008,
+          "longitude": 34.76388
+        },
+        {
+          "name": {
+            "en": "Sorgun"
+          },
+          "latitude": 39.81012,
+          "longitude": 35.18596
+        },
+        {
+          "name": {
+            "en": "Yenifakılı"
+          },
+          "latitude": 39.21142,
+          "longitude": 35.00036
+        },
+        {
+          "name": {
+            "en": "Yerköy"
+          },
+          "latitude": 39.63806,
+          "longitude": 34.46722
+        }
+      ]
+    },
+    {
+      "code": "TR-67",
+      "name": {
+        "en": "Zonguldak"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Alaplı"
+          },
+          "latitude": 41.1814,
+          "longitude": 31.38514
+        },
+        {
+          "name": {
+            "en": "Çaycuma"
+          },
+          "latitude": 41.42639,
+          "longitude": 32.07556
+        },
+        {
+          "name": {
+            "en": "Devrek"
+          },
+          "latitude": 41.21917,
+          "longitude": 31.95583
+        },
+        {
+          "name": {
+            "en": "Ereğli"
+          },
+          "latitude": 41.23807,
+          "longitude": 31.60581
+        },
+        {
+          "name": {
+            "en": "Gökçebey"
+          },
+          "latitude": 41.31339,
+          "longitude": 32.14981
+        },
+        {
+          "name": {
+            "en": "Kilimli"
+          },
+          "latitude": 41.49111,
+          "longitude": 31.83861
+        },
+        {
+          "name": {
+            "en": "Kozlu"
+          },
+          "latitude": 41.43194,
+          "longitude": 31.74583
+        },
+        {
+          "name": {
+            "en": "Merkez",
+            "ar": "زونغولداق"
+          },
+          "latitude": 41.45139,
+          "longitude": 31.79305
+        }
+      ]
+    }
+  ]
+}

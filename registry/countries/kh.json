@@ -1,0 +1,972 @@
+{
+  "code": "KH",
+  "iso3": "KHM",
+  "name": {
+    "en": "Cambodia",
+    "ar": "كمبوديا",
+    "de": "Kambodscha",
+    "es": "Camboya",
+    "fr": "Cambodge",
+    "hi": "कंबोडिया",
+    "it": "Cambogia",
+    "ja": "カンボジア",
+    "ko": "캄보디아",
+    "nl": "Cambodja",
+    "pl": "Kambodża",
+    "pt": "Camboja",
+    "pt-BR": "Camboja",
+    "ru": "Камбоджа",
+    "tr": "Kamboçya",
+    "uk": "Камбоджа",
+    "zh": "柬埔寨"
+  },
+  "phone": "+855",
+  "currency": "KHR",
+  "timezone": "Asia/Phnom_Penh",
+  "flag": "🇰🇭",
+  "regions": [
+    {
+      "code": "KH-1",
+      "name": {
+        "en": "Banteay Meanchey"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Mongkol Borei"
+          },
+          "latitude": 13.45531,
+          "longitude": 102.99186
+        },
+        {
+          "name": {
+            "en": "Paoy Paet"
+          },
+          "latitude": 13.65805,
+          "longitude": 102.56365
+        },
+        {
+          "name": {
+            "en": "Sisophon"
+          },
+          "latitude": 13.58588,
+          "longitude": 102.97369
+        },
+        {
+          "name": {
+            "en": "Srŏk Malai"
+          },
+          "latitude": 13.49902,
+          "longitude": 102.60164
+        },
+        {
+          "name": {
+            "en": "Srŏk Svay Chék"
+          },
+          "latitude": 13.81305,
+          "longitude": 102.95269
+        }
+      ]
+    },
+    {
+      "code": "KH-2",
+      "name": {
+        "en": "Battambang"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Battambang"
+          },
+          "latitude": 13.10271,
+          "longitude": 103.19822
+        },
+        {
+          "name": {
+            "en": "Srŏk Âk Phnŭm"
+          },
+          "latitude": 13.23621,
+          "longitude": 103.45894
+        },
+        {
+          "name": {
+            "en": "Srŏk Banăn"
+          },
+          "latitude": 12.97067,
+          "longitude": 103.04742
+        },
+        {
+          "name": {
+            "en": "Srŏk Bâvĭl"
+          },
+          "latitude": 13.23601,
+          "longitude": 102.8291
+        },
+        {
+          "name": {
+            "en": "Srŏk Rotanak Mondol"
+          },
+          "latitude": 12.84048,
+          "longitude": 102.887
+        }
+      ]
+    },
+    {
+      "code": "KH-3",
+      "name": {
+        "en": "Kampong Cham"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Cheung Prey"
+          },
+          "latitude": 12.1,
+          "longitude": 105.07
+        },
+        {
+          "name": {
+            "en": "Kampong Cham"
+          },
+          "latitude": 11.98,
+          "longitude": 105.445
+        },
+        {
+          "name": {
+            "en": "Srŏk Bathéay"
+          },
+          "latitude": 12.02986,
+          "longitude": 104.93171
+        }
+      ]
+    },
+    {
+      "code": "KH-4",
+      "name": {
+        "en": "Kampong Chhnang"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Baribour"
+          },
+          "latitude": 12.43,
+          "longitude": 104.47
+        },
+        {
+          "name": {
+            "en": "Kampong Chhnang"
+          },
+          "latitude": 12.26,
+          "longitude": 104.67
+        },
+        {
+          "name": {
+            "en": "Rolea B'ier"
+          },
+          "latitude": 12.21,
+          "longitude": 104.61
+        },
+        {
+          "name": {
+            "en": "Srŏk Chol Kiri"
+          },
+          "latitude": 12.15861,
+          "longitude": 104.82287
+        },
+        {
+          "name": {
+            "en": "Srŏk Sameakki Mean Chey"
+          },
+          "latitude": 11.86788,
+          "longitude": 104.55549
+        }
+      ]
+    },
+    {
+      "code": "KH-5",
+      "name": {
+        "en": "Kampong Speu"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Kampong Speu"
+          },
+          "latitude": 11.45332,
+          "longitude": 104.52085
+        },
+        {
+          "name": {
+            "en": "Krŏng Chbar Mon"
+          },
+          "latitude": 11.47091,
+          "longitude": 104.50655
+        },
+        {
+          "name": {
+            "en": "Srŏk Basedth"
+          },
+          "latitude": 11.18432,
+          "longitude": 104.53584
+        },
+        {
+          "name": {
+            "en": "Srŏk Kông Pĭsei"
+          },
+          "latitude": 11.31648,
+          "longitude": 104.65992
+        },
+        {
+          "name": {
+            "en": "Srŏk Ŏdŏngk"
+          },
+          "latitude": 11.66845,
+          "longitude": 104.61224
+        }
+      ]
+    },
+    {
+      "code": "KH-7",
+      "name": {
+        "en": "Kampot"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Angkor Chey"
+          },
+          "latitude": 10.76667,
+          "longitude": 104.65
+        },
+        {
+          "name": {
+            "en": "Banteay Meas"
+          },
+          "latitude": 10.61667,
+          "longitude": 104.53333
+        },
+        {
+          "name": {
+            "en": "Chhouk"
+          },
+          "latitude": 10.81667,
+          "longitude": 104.45
+        },
+        {
+          "name": {
+            "en": "Kampong Bay"
+          },
+          "latitude": 10.59554,
+          "longitude": 104.17136
+        },
+        {
+          "name": {
+            "en": "Kampong Tranch"
+          },
+          "latitude": 10.55,
+          "longitude": 104.46667
+        },
+        {
+          "name": {
+            "en": "Kampot"
+          },
+          "latitude": 10.61041,
+          "longitude": 104.18145
+        },
+        {
+          "name": {
+            "en": "Srŏk Chŭm Kiri"
+          },
+          "latitude": 11.0054,
+          "longitude": 104.44207
+        },
+        {
+          "name": {
+            "en": "Srŏk Dângtóng"
+          },
+          "latitude": 10.70733,
+          "longitude": 104.42229
+        },
+        {
+          "name": {
+            "en": "Srok Tuek Chhou"
+          },
+          "latitude": 10.74557,
+          "longitude": 104.11013
+        }
+      ]
+    },
+    {
+      "code": "KH-8",
+      "name": {
+        "en": "Kandal"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Krŏng Ta Khmau"
+          },
+          "latitude": 11.45474,
+          "longitude": 104.9435
+        },
+        {
+          "name": {
+            "en": "Srŏk Khsăch Kândal"
+          },
+          "latitude": 11.69224,
+          "longitude": 105.03732
+        },
+        {
+          "name": {
+            "en": "Ta Khmau"
+          },
+          "latitude": 11.48333,
+          "longitude": 104.95
+        }
+      ]
+    },
+    {
+      "code": "KH-23",
+      "name": {
+        "en": "Kep"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Krong Kep"
+          },
+          "latitude": 10.48291,
+          "longitude": 104.31672
+        },
+        {
+          "name": {
+            "en": "Srŏk Dâmnăk Châng’aeur"
+          },
+          "latitude": 10.53394,
+          "longitude": 104.34855
+        }
+      ]
+    },
+    {
+      "code": "KH-9",
+      "name": {
+        "en": "Koh Kong"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Koh Kong"
+          },
+          "latitude": 11.61531,
+          "longitude": 102.9838
+        },
+        {
+          "name": {
+            "en": "Smach Mean Chey"
+          },
+          "latitude": 11.54665,
+          "longitude": 103.03569
+        },
+        {
+          "name": {
+            "en": "Srae Ambel"
+          },
+          "latitude": 11.10968,
+          "longitude": 103.76226
+        },
+        {
+          "name": {
+            "en": "Srŏk Batum Sakôr"
+          },
+          "latitude": 11.11465,
+          "longitude": 103.38993
+        },
+        {
+          "name": {
+            "en": "Srŏk Môndôl Seima"
+          },
+          "latitude": 11.81292,
+          "longitude": 103.01159
+        }
+      ]
+    },
+    {
+      "code": "KH-10",
+      "name": {
+        "en": "Kratie"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Kracheh"
+          },
+          "latitude": 12.57,
+          "longitude": 106.2
+        },
+        {
+          "name": {
+            "en": "Kratié"
+          },
+          "latitude": 12.48811,
+          "longitude": 106.01879
+        },
+        {
+          "name": {
+            "en": "Snuol"
+          },
+          "latitude": 12.19373,
+          "longitude": 106.47361
+        }
+      ]
+    },
+    {
+      "code": "KH-11",
+      "name": {
+        "en": "Mondulkiri"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Krŏng Sênmônoŭrôm"
+          },
+          "latitude": 12.5048,
+          "longitude": 107.15525
+        },
+        {
+          "name": {
+            "en": "Sen Monorom"
+          },
+          "latitude": 12.45583,
+          "longitude": 107.18811
+        },
+        {
+          "name": {
+            "en": "Srŏk Kaev Seima"
+          },
+          "latitude": 12.41722,
+          "longitude": 106.77025
+        },
+        {
+          "name": {
+            "en": "Srŏk Pech Chreada"
+          },
+          "latitude": 12.7278,
+          "longitude": 107.0948
+        }
+      ]
+    },
+    {
+      "code": "KH-22",
+      "name": {
+        "en": "Oddar Meanchey"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Samraong"
+          },
+          "latitude": 14.18175,
+          "longitude": 103.51761
+        },
+        {
+          "name": {
+            "en": "Srŏk Bântéay Âmpĭl"
+          },
+          "latitude": 14.1859,
+          "longitude": 103.25925
+        },
+        {
+          "name": {
+            "en": "Srŏk Sâmraông"
+          },
+          "latitude": 14.25039,
+          "longitude": 103.62739
+        },
+        {
+          "name": {
+            "en": "Srŏk Trâpeăng Prasat"
+          },
+          "latitude": 14.25809,
+          "longitude": 104.30835
+        }
+      ]
+    },
+    {
+      "code": "KH-24",
+      "name": {
+        "en": "Pailin"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Khan Sala Krau"
+          },
+          "latitude": 12.97984,
+          "longitude": 102.63957
+        },
+        {
+          "name": {
+            "en": "Pailin"
+          },
+          "latitude": 12.84895,
+          "longitude": 102.60928
+        }
+      ]
+    },
+    {
+      "code": "KH-12",
+      "name": {
+        "en": "Phnom Penh"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Khan 7 Makara"
+          },
+          "latitude": 11.56254,
+          "longitude": 104.91405
+        },
+        {
+          "name": {
+            "en": "Khan Châmkar Mon"
+          },
+          "latitude": 11.5439,
+          "longitude": 104.92175
+        },
+        {
+          "name": {
+            "en": "Khan Dângkaô"
+          },
+          "latitude": 11.52457,
+          "longitude": 104.83944
+        },
+        {
+          "name": {
+            "en": "Khan Duŏn Pénh"
+          },
+          "latitude": 11.57561,
+          "longitude": 104.92025
+        },
+        {
+          "name": {
+            "en": "Khan Méan Chey"
+          },
+          "latitude": 11.51976,
+          "longitude": 104.95467
+        },
+        {
+          "name": {
+            "en": "Khan Russey Keo"
+          },
+          "latitude": 11.61946,
+          "longitude": 104.9099
+        },
+        {
+          "name": {
+            "en": "Khan Saen Sokh"
+          },
+          "latitude": 11.61289,
+          "longitude": 104.86078
+        },
+        {
+          "name": {
+            "en": "Phnom Penh",
+            "ar": "بنوم بنه"
+          },
+          "latitude": 11.56245,
+          "longitude": 104.91601
+        }
+      ]
+    },
+    {
+      "code": "KH-13",
+      "name": {
+        "en": "Preah Vihear"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Sangkom Thmei"
+          },
+          "latitude": 13.47395,
+          "longitude": 104.77051
+        },
+        {
+          "name": {
+            "en": "Srŏk Ch’êh Sên"
+          },
+          "latitude": 13.58215,
+          "longitude": 105.34533
+        },
+        {
+          "name": {
+            "en": "Srŏk Chhêb"
+          },
+          "latitude": 13.91077,
+          "longitude": 105.4618
+        },
+        {
+          "name": {
+            "en": "Srŏk Kulén"
+          },
+          "latitude": 13.78597,
+          "longitude": 104.61052
+        },
+        {
+          "name": {
+            "en": "Srŏk Rôviĕng"
+          },
+          "latitude": 13.35105,
+          "longitude": 105.09956
+        },
+        {
+          "name": {
+            "en": "Srŏk Tbêng Méanchey"
+          },
+          "latitude": 13.78622,
+          "longitude": 105.01586
+        },
+        {
+          "name": {
+            "en": "Tbeng Meanchey"
+          },
+          "latitude": 13.80731,
+          "longitude": 104.98046
+        }
+      ]
+    },
+    {
+      "code": "KH-14",
+      "name": {
+        "en": "Prey Veng"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Prey Veng"
+          },
+          "latitude": 11.48682,
+          "longitude": 105.32533
+        },
+        {
+          "name": {
+            "en": "Srŏk Kâmpóng Léav"
+          },
+          "latitude": 11.5097,
+          "longitude": 105.3011
+        },
+        {
+          "name": {
+            "en": "Srŏk Mésang"
+          },
+          "latitude": 11.35528,
+          "longitude": 105.57235
+        },
+        {
+          "name": {
+            "en": "Srŏk Preăh Sdéch"
+          },
+          "latitude": 11.0869,
+          "longitude": 105.37497
+        }
+      ]
+    },
+    {
+      "code": "KH-15",
+      "name": {
+        "en": "Pursat"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bakan"
+          },
+          "latitude": 12.78,
+          "longitude": 103.79
+        },
+        {
+          "name": {
+            "en": "Krakor"
+          },
+          "latitude": 12.48,
+          "longitude": 104.19
+        },
+        {
+          "name": {
+            "en": "Pursat"
+          },
+          "latitude": 12.53878,
+          "longitude": 103.9192
+        },
+        {
+          "name": {
+            "en": "Sampov Meas"
+          },
+          "latitude": 12.47055,
+          "longitude": 103.91817
+        },
+        {
+          "name": {
+            "en": "Srŏk Kândiĕng"
+          },
+          "latitude": 12.71245,
+          "longitude": 104.02592
+        },
+        {
+          "name": {
+            "en": "Srŏk Véal Vêng"
+          },
+          "latitude": 12.2423,
+          "longitude": 103.13444
+        }
+      ]
+    },
+    {
+      "code": "KH-16",
+      "name": {
+        "en": "Ratanakiri"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Banlung"
+          },
+          "latitude": 13.73939,
+          "longitude": 106.98727
+        },
+        {
+          "name": {
+            "en": "Lumphat"
+          },
+          "latitude": 13.49146,
+          "longitude": 106.98022
+        },
+        {
+          "name": {
+            "en": "Srŏk Ândong Méas"
+          },
+          "latitude": 13.93352,
+          "longitude": 107.31155
+        },
+        {
+          "name": {
+            "en": "Srŏk Bâ Kêv"
+          },
+          "latitude": 13.70749,
+          "longitude": 107.19442
+        },
+        {
+          "name": {
+            "en": "Srŏk Ban Lŭng"
+          },
+          "latitude": 13.682,
+          "longitude": 107.03025
+        },
+        {
+          "name": {
+            "en": "Srŏk Koun Mom"
+          },
+          "latitude": 13.51772,
+          "longitude": 106.75142
+        },
+        {
+          "name": {
+            "en": "Srŏk Ou Chum"
+          },
+          "latitude": 13.84069,
+          "longitude": 107.03469
+        },
+        {
+          "name": {
+            "en": "Srŏk Ou Ya Dav"
+          },
+          "latitude": 13.54328,
+          "longitude": 107.44636
+        },
+        {
+          "name": {
+            "en": "Srŏk Ta Vêng"
+          },
+          "latitude": 14.29192,
+          "longitude": 107.24031
+        }
+      ]
+    },
+    {
+      "code": "KH-17",
+      "name": {
+        "en": "Siem Reap"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Siem Reap",
+            "ar": "سيام ريب"
+          },
+          "latitude": 13.36179,
+          "longitude": 103.86056
+        },
+        {
+          "name": {
+            "en": "Srŏk Ângkôr Thum"
+          },
+          "latitude": 13.57881,
+          "longitude": 103.85645
+        },
+        {
+          "name": {
+            "en": "Srŏk Prasat Bakong"
+          },
+          "latitude": 13.21031,
+          "longitude": 103.97689
+        },
+        {
+          "name": {
+            "en": "Svay Leu"
+          },
+          "latitude": 13.69168,
+          "longitude": 104.27446
+        },
+        {
+          "name": {
+            "en": "Varin"
+          },
+          "latitude": 13.83574,
+          "longitude": 103.89968
+        }
+      ]
+    },
+    {
+      "code": "KH-18",
+      "name": {
+        "en": "Sihanoukville"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Sihanoukville"
+          },
+          "latitude": 10.60932,
+          "longitude": 103.52958
+        },
+        {
+          "name": {
+            "en": "Srok Stueng Hav"
+          },
+          "latitude": 10.85249,
+          "longitude": 103.74016
+        }
+      ]
+    },
+    {
+      "code": "KH-19",
+      "name": {
+        "en": "Stung Treng"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Srŏk Srêsén"
+          },
+          "latitude": 13.6053,
+          "longitude": 106.35819
+        },
+        {
+          "name": {
+            "en": "Stueng Traeng"
+          },
+          "latitude": 13.65,
+          "longitude": 106.07
+        },
+        {
+          "name": {
+            "en": "Stung Treng"
+          },
+          "latitude": 13.52586,
+          "longitude": 105.9683
+        }
+      ]
+    },
+    {
+      "code": "KH-20",
+      "name": {
+        "en": "Svay Rieng"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Srŏk Svay Chrŭm"
+          },
+          "latitude": 11.1116,
+          "longitude": 105.69814
+        },
+        {
+          "name": {
+            "en": "Svay Rieng"
+          },
+          "latitude": 11.08785,
+          "longitude": 105.79935
+        }
+      ]
+    },
+    {
+      "code": "KH-21",
+      "name": {
+        "en": "Takeo"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Krŏng Doun Kaev"
+          },
+          "latitude": 10.99459,
+          "longitude": 104.7955
+        },
+        {
+          "name": {
+            "en": "Phumĭ Véal Srê"
+          },
+          "latitude": 10.98081,
+          "longitude": 104.77828
+        },
+        {
+          "name": {
+            "en": "Srŏk Ângkôr Borei"
+          },
+          "latitude": 10.99291,
+          "longitude": 104.95177
+        },
+        {
+          "name": {
+            "en": "Srŏk Borei Cholsar"
+          },
+          "latitude": 10.81414,
+          "longitude": 104.98994
+        },
+        {
+          "name": {
+            "en": "Takeo"
+          },
+          "latitude": 10.99081,
+          "longitude": 104.78498
+        }
+      ]
+    },
+    {
+      "code": "KH-25",
+      "name": {
+        "en": "Tboung Khmum"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Suong"
+          },
+          "latitude": 11.91666667,
+          "longitude": 105.65
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4820 @@
+{
+  "code": "NO",
+  "iso3": "NOR",
+  "name": {
+    "en": "Norway",
+    "ar": "النرويج",
+    "de": "Norwegen",
+    "es": "Noruega",
+    "fr": "Norvège",
+    "hi": "नॉर्वे",
+    "it": "Norvegia",
+    "ja": "ノルウェー",
+    "ko": "노르웨이",
+    "nl": "Noorwegen",
+    "pl": "Norwegia",
+    "pt": "Noruega",
+    "pt-BR": "Noruega",
+    "ru": "Норвегия",
+    "tr": "Norveç",
+    "uk": "Норвегія",
+    "zh": "挪威"
+  },
+  "phone": "+47",
+  "currency": "NOK",
+  "timezone": "Europe/Oslo",
+  "flag": "🇳🇴",
+  "regions": [
+    {
+      "code": "NO-42",
+      "name": {
+        "en": "Agder"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Åseral"
+          },
+          "latitude": 58.6173,
+          "longitude": 7.41118
+        },
+        {
+          "name": {
+            "en": "Audnedal"
+          },
+          "latitude": 58.28378,
+          "longitude": 7.35487
+        },
+        {
+          "name": {
+            "en": "Farsund"
+          },
+          "latitude": 58.09538,
+          "longitude": 6.80403
+        },
+        {
+          "name": {
+            "en": "Flekkefjord"
+          },
+          "latitude": 58.29791,
+          "longitude": 6.66345
+        },
+        {
+          "name": {
+            "en": "Hægebostad"
+          },
+          "latitude": 58.37572,
+          "longitude": 7.21973
+        },
+        {
+          "name": {
+            "en": "Justvik"
+          },
+          "latitude": 58.19691,
+          "longitude": 8.03107
+        },
+        {
+          "name": {
+            "en": "Kristiansand"
+          },
+          "latitude": 58.14642,
+          "longitude": 7.99687
+        },
+        {
+          "name": {
+            "en": "Kvinesdal"
+          },
+          "latitude": 58.23894,
+          "longitude": 6.71445
+        },
+        {
+          "name": {
+            "en": "Liknes"
+          },
+          "latitude": 58.31216,
+          "longitude": 6.9618
+        },
+        {
+          "name": {
+            "en": "Lindesnes"
+          },
+          "latitude": 58.08435,
+          "longitude": 7.30162
+        },
+        {
+          "name": {
+            "en": "Lyngdal"
+          },
+          "latitude": 58.13829,
+          "longitude": 7.06836
+        },
+        {
+          "name": {
+            "en": "Mandal"
+          },
+          "latitude": 58.02633,
+          "longitude": 7.45014
+        },
+        {
+          "name": {
+            "en": "Marnardal"
+          },
+          "latitude": 58.19802,
+          "longitude": 7.52802
+        },
+        {
+          "name": {
+            "en": "Nodeland"
+          },
+          "latitude": 58.15517,
+          "longitude": 7.83576
+        },
+        {
+          "name": {
+            "en": "Sirdal"
+          },
+          "latitude": 58.6651,
+          "longitude": 6.71585
+        },
+        {
+          "name": {
+            "en": "Skålevik"
+          },
+          "latitude": 58.07955,
+          "longitude": 8.01602
+        },
+        {
+          "name": {
+            "en": "Songdalen"
+          },
+          "latitude": 58.15273,
+          "longitude": 7.83677
+        },
+        {
+          "name": {
+            "en": "Søgne"
+          },
+          "latitude": 58.09663,
+          "longitude": 7.81491
+        },
+        {
+          "name": {
+            "en": "Strai"
+          },
+          "latitude": 58.1893,
+          "longitude": 7.92826
+        },
+        {
+          "name": {
+            "en": "Tonstad"
+          },
+          "latitude": 58.66263,
+          "longitude": 6.71694
+        },
+        {
+          "name": {
+            "en": "Tveit"
+          },
+          "latitude": 58.23366,
+          "longitude": 8.12199
+        },
+        {
+          "name": {
+            "en": "Vanse"
+          },
+          "latitude": 58.09812,
+          "longitude": 6.69184
+        },
+        {
+          "name": {
+            "en": "Vennesla"
+          },
+          "latitude": 58.34271,
+          "longitude": 7.97596
+        },
+        {
+          "name": {
+            "en": "Vestbygd"
+          },
+          "latitude": 58.09991,
+          "longitude": 6.58696
+        },
+        {
+          "name": {
+            "en": "Vigeland"
+          },
+          "latitude": 58.08437,
+          "longitude": 7.30497
+        }
+      ]
+    },
+    {
+      "code": "NO-32",
+      "name": {
+        "en": "Akershus"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Åneby"
+          },
+          "latitude": 60.08926,
+          "longitude": 10.86998
+        },
+        {
+          "name": {
+            "en": "Årnes"
+          },
+          "latitude": 60.12237,
+          "longitude": 11.47005
+        },
+        {
+          "name": {
+            "en": "Ås"
+          },
+          "latitude": 59.66366,
+          "longitude": 10.79101
+        },
+        {
+          "name": {
+            "en": "Ask"
+          },
+          "latitude": 60.07131,
+          "longitude": 11.0362
+        },
+        {
+          "name": {
+            "en": "Asker"
+          },
+          "latitude": 59.83734,
+          "longitude": 10.43595
+        },
+        {
+          "name": {
+            "en": "Auli"
+          },
+          "latitude": 60.0345,
+          "longitude": 11.36046
+        },
+        {
+          "name": {
+            "en": "Aurskog-Høland"
+          },
+          "latitude": 59.88321,
+          "longitude": 11.56491
+        },
+        {
+          "name": {
+            "en": "Aursmoen"
+          },
+          "latitude": 59.92763,
+          "longitude": 11.44275
+        },
+        {
+          "name": {
+            "en": "Bærum"
+          },
+          "latitude": 59.88996,
+          "longitude": 10.52649
+        },
+        {
+          "name": {
+            "en": "Billingstad"
+          },
+          "latitude": 59.87548,
+          "longitude": 10.4823
+        },
+        {
+          "name": {
+            "en": "Bjørkelangen"
+          },
+          "latitude": 59.88357,
+          "longitude": 11.56396
+        },
+        {
+          "name": {
+            "en": "Blakstad"
+          },
+          "latitude": 59.8191,
+          "longitude": 10.4645
+        },
+        {
+          "name": {
+            "en": "Drøbak"
+          },
+          "latitude": 59.66333,
+          "longitude": 10.62975
+        },
+        {
+          "name": {
+            "en": "Eidsvoll"
+          },
+          "latitude": 60.32893,
+          "longitude": 11.26119
+        },
+        {
+          "name": {
+            "en": "Enebakk"
+          },
+          "latitude": 59.76452,
+          "longitude": 11.14492
+        },
+        {
+          "name": {
+            "en": "Fagerstrand"
+          },
+          "latitude": 59.73746,
+          "longitude": 10.59404
+        },
+        {
+          "name": {
+            "en": "Fet"
+          },
+          "latitude": 59.92216,
+          "longitude": 11.16778
+        },
+        {
+          "name": {
+            "en": "Fetsund"
+          },
+          "latitude": 59.92463,
+          "longitude": 11.15711
+        },
+        {
+          "name": {
+            "en": "Fjellfoten"
+          },
+          "latitude": 60.08967,
+          "longitude": 11.47222
+        },
+        {
+          "name": {
+            "en": "Flateby"
+          },
+          "latitude": 59.82951,
+          "longitude": 11.15345
+        },
+        {
+          "name": {
+            "en": "Frogn"
+          },
+          "latitude": 59.66665,
+          "longitude": 10.63566
+        },
+        {
+          "name": {
+            "en": "Frogner"
+          },
+          "latitude": 60.02463,
+          "longitude": 11.10284
+        },
+        {
+          "name": {
+            "en": "Gjerdrum"
+          },
+          "latitude": 60.07159,
+          "longitude": 11.03597
+        },
+        {
+          "name": {
+            "en": "Hurdal"
+          },
+          "latitude": 60.43518,
+          "longitude": 11.06707
+        },
+        {
+          "name": {
+            "en": "Jessheim"
+          },
+          "latitude": 60.14151,
+          "longitude": 11.17515
+        },
+        {
+          "name": {
+            "en": "Kløfta"
+          },
+          "latitude": 60.07407,
+          "longitude": 11.13805
+        },
+        {
+          "name": {
+            "en": "Leirsund"
+          },
+          "latitude": 59.99682,
+          "longitude": 11.08746
+        },
+        {
+          "name": {
+            "en": "Lillestrøm"
+          },
+          "latitude": 59.95597,
+          "longitude": 11.04918
+        },
+        {
+          "name": {
+            "en": "Lørenskog"
+          },
+          "latitude": 59.93209,
+          "longitude": 10.96079
+        },
+        {
+          "name": {
+            "en": "Lysaker"
+          },
+          "latitude": 59.90994,
+          "longitude": 10.63545
+        },
+        {
+          "name": {
+            "en": "Maura"
+          },
+          "latitude": 60.2583,
+          "longitude": 11.03192
+        },
+        {
+          "name": {
+            "en": "Nannestad"
+          },
+          "latitude": 60.21707,
+          "longitude": 11.012
+        },
+        {
+          "name": {
+            "en": "Nes"
+          },
+          "latitude": 60.12252,
+          "longitude": 11.4657
+        },
+        {
+          "name": {
+            "en": "Neskollen"
+          },
+          "latitude": 60.12159,
+          "longitude": 11.33926
+        },
+        {
+          "name": {
+            "en": "Nesodden"
+          },
+          "latitude": 59.8422,
+          "longitude": 10.6494
+        },
+        {
+          "name": {
+            "en": "Nesoddtangen"
+          },
+          "latitude": 59.86244,
+          "longitude": 10.66308
+        },
+        {
+          "name": {
+            "en": "Nittedal"
+          },
+          "latitude": 60.04278,
+          "longitude": 10.88167
+        },
+        {
+          "name": {
+            "en": "Oppegård"
+          },
+          "latitude": 59.81149,
+          "longitude": 10.79712
+        },
+        {
+          "name": {
+            "en": "Råholt"
+          },
+          "latitude": 60.27513,
+          "longitude": 11.17901
+        },
+        {
+          "name": {
+            "en": "Rælingen"
+          },
+          "latitude": 59.92626,
+          "longitude": 11.06527
+        },
+        {
+          "name": {
+            "en": "Rotnes"
+          },
+          "latitude": 60.05707,
+          "longitude": 10.86135
+        },
+        {
+          "name": {
+            "en": "Skedsmo"
+          },
+          "latitude": 59.95448,
+          "longitude": 11.03952
+        },
+        {
+          "name": {
+            "en": "Ski"
+          },
+          "latitude": 59.72049,
+          "longitude": 10.83882
+        },
+        {
+          "name": {
+            "en": "Skui"
+          },
+          "latitude": 59.92746,
+          "longitude": 10.4475
+        },
+        {
+          "name": {
+            "en": "Sørum"
+          },
+          "latitude": 59.98709,
+          "longitude": 11.24019
+        },
+        {
+          "name": {
+            "en": "Sørumsand"
+          },
+          "latitude": 59.98621,
+          "longitude": 11.24154
+        },
+        {
+          "name": {
+            "en": "Ullensaker"
+          },
+          "latitude": 60.14401,
+          "longitude": 11.17441
+        },
+        {
+          "name": {
+            "en": "Vestby"
+          },
+          "latitude": 59.60228,
+          "longitude": 10.74807
+        }
+      ]
+    },
+    {
+      "code": "NO-33",
+      "name": {
+        "en": "Buskerud"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ål"
+          },
+          "latitude": 60.63028,
+          "longitude": 8.56115
+        },
+        {
+          "name": {
+            "en": "Åros"
+          },
+          "latitude": 59.7061,
+          "longitude": 10.51092
+        },
+        {
+          "name": {
+            "en": "Drammen"
+          },
+          "latitude": 59.74389,
+          "longitude": 10.20449
+        },
+        {
+          "name": {
+            "en": "Flå"
+          },
+          "latitude": 60.4291,
+          "longitude": 9.46611
+        },
+        {
+          "name": {
+            "en": "Flesberg"
+          },
+          "latitude": 59.83283,
+          "longitude": 9.58308
+        },
+        {
+          "name": {
+            "en": "Geilo"
+          },
+          "latitude": 60.53369,
+          "longitude": 8.20539
+        },
+        {
+          "name": {
+            "en": "Gol"
+          },
+          "latitude": 60.69953,
+          "longitude": 8.95024
+        },
+        {
+          "name": {
+            "en": "Hemsedal"
+          },
+          "latitude": 60.86114,
+          "longitude": 8.56537
+        },
+        {
+          "name": {
+            "en": "Hol"
+          },
+          "latitude": 60.61528,
+          "longitude": 8.30194
+        },
+        {
+          "name": {
+            "en": "Hole"
+          },
+          "latitude": 60.08017,
+          "longitude": 10.2784
+        },
+        {
+          "name": {
+            "en": "Hønefoss"
+          },
+          "latitude": 60.16804,
+          "longitude": 10.25647
+        },
+        {
+          "name": {
+            "en": "Hurum"
+          },
+          "latitude": 59.61401,
+          "longitude": 10.45763
+        },
+        {
+          "name": {
+            "en": "Hvittingfoss"
+          },
+          "latitude": 59.48572,
+          "longitude": 10.01173
+        },
+        {
+          "name": {
+            "en": "Kongsberg"
+          },
+          "latitude": 59.66516,
+          "longitude": 9.64653
+        },
+        {
+          "name": {
+            "en": "Krødsherad"
+          },
+          "latitude": 60.17944,
+          "longitude": 9.62124
+        },
+        {
+          "name": {
+            "en": "Lier"
+          },
+          "latitude": 59.78663,
+          "longitude": 10.2459
+        },
+        {
+          "name": {
+            "en": "Modum"
+          },
+          "latitude": 59.97346,
+          "longitude": 10.00468
+        },
+        {
+          "name": {
+            "en": "Nedre Eiker"
+          },
+          "latitude": 59.75023,
+          "longitude": 10.00736
+        },
+        {
+          "name": {
+            "en": "Nesbyen"
+          },
+          "latitude": 60.56809,
+          "longitude": 9.10274
+        },
+        {
+          "name": {
+            "en": "Nore og Uvdal"
+          },
+          "latitude": 60.26706,
+          "longitude": 8.94635
+        },
+        {
+          "name": {
+            "en": "Noresund"
+          },
+          "latitude": 60.17985,
+          "longitude": 9.62411
+        },
+        {
+          "name": {
+            "en": "Øvre Eiker"
+          },
+          "latitude": 59.77111,
+          "longitude": 9.9084
+        },
+        {
+          "name": {
+            "en": "Prestfoss"
+          },
+          "latitude": 60.04343,
+          "longitude": 9.6352
+        },
+        {
+          "name": {
+            "en": "Ringerike"
+          },
+          "latitude": 60.16018,
+          "longitude": 10.2566
+        },
+        {
+          "name": {
+            "en": "Rollag"
+          },
+          "latitude": 59.98413,
+          "longitude": 9.29489
+        },
+        {
+          "name": {
+            "en": "Røyken"
+          },
+          "latitude": 59.74019,
+          "longitude": 10.41321
+        },
+        {
+          "name": {
+            "en": "Sætre"
+          },
+          "latitude": 59.68129,
+          "longitude": 10.52749
+        },
+        {
+          "name": {
+            "en": "Sigdal"
+          },
+          "latitude": 60.04592,
+          "longitude": 9.63673
+        },
+        {
+          "name": {
+            "en": "Skoger"
+          },
+          "latitude": 59.71327,
+          "longitude": 10.25356
+        },
+        {
+          "name": {
+            "en": "Tofte"
+          },
+          "latitude": 59.54275,
+          "longitude": 10.56138
+        },
+        {
+          "name": {
+            "en": "Tomter"
+          },
+          "latitude": 59.6591,
+          "longitude": 10.99487
+        },
+        {
+          "name": {
+            "en": "Tranby"
+          },
+          "latitude": 59.8085,
+          "longitude": 10.26114
+        },
+        {
+          "name": {
+            "en": "Vikersund"
+          },
+          "latitude": 59.96838,
+          "longitude": 9.99107
+        }
+      ]
+    },
+    {
+      "code": "NO-56",
+      "name": {
+        "en": "Finnmark"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Alta"
+          },
+          "latitude": 69.97675,
+          "longitude": 23.29634
+        },
+        {
+          "name": {
+            "en": "Ávanuorri"
+          },
+          "latitude": 70.99634,
+          "longitude": 24.66217
+        },
+        {
+          "name": {
+            "en": "Båtsfjord"
+          },
+          "latitude": 70.63428,
+          "longitude": 29.7175
+        },
+        {
+          "name": {
+            "en": "Berg"
+          },
+          "latitude": 69.44444,
+          "longitude": 17.2995
+        },
+        {
+          "name": {
+            "en": "Berlevåg"
+          },
+          "latitude": 70.85778,
+          "longitude": 29.08636
+        },
+        {
+          "name": {
+            "en": "Bjørnevatn"
+          },
+          "latitude": 69.66745,
+          "longitude": 29.98722
+        },
+        {
+          "name": {
+            "en": "Borkenes"
+          },
+          "latitude": 68.77261,
+          "longitude": 16.17115
+        },
+        {
+          "name": {
+            "en": "Evenskjer"
+          },
+          "latitude": 68.58283,
+          "longitude": 16.57203
+        },
+        {
+          "name": {
+            "en": "Finnsnes"
+          },
+          "latitude": 69.22959,
+          "longitude": 17.98114
+        },
+        {
+          "name": {
+            "en": "Gamvik"
+          },
+          "latitude": 71.04107,
+          "longitude": 27.85144
+        },
+        {
+          "name": {
+            "en": "Gryllefjord"
+          },
+          "latitude": 69.36304,
+          "longitude": 17.05284
+        },
+        {
+          "name": {
+            "en": "Hammerfest"
+          },
+          "latitude": 70.66257,
+          "longitude": 23.68295
+        },
+        {
+          "name": {
+            "en": "Hansnes"
+          },
+          "latitude": 69.96701,
+          "longitude": 19.62752
+        },
+        {
+          "name": {
+            "en": "Hasvik"
+          },
+          "latitude": 70.59164,
+          "longitude": 22.30272
+        },
+        {
+          "name": {
+            "en": "Honningsvåg"
+          },
+          "latitude": 70.98209,
+          "longitude": 25.97037
+        },
+        {
+          "name": {
+            "en": "Kåfjord"
+          },
+          "latitude": 69.604,
+          "longitude": 20.53456
+        },
+        {
+          "name": {
+            "en": "Kárášjohka"
+          },
+          "latitude": 69.47187,
+          "longitude": 25.51122
+        },
+        {
+          "name": {
+            "en": "Karasjok"
+          },
+          "latitude": 69.47224,
+          "longitude": 25.51885
+        },
+        {
+          "name": {
+            "en": "Kautokeino"
+          },
+          "latitude": 69.01151,
+          "longitude": 23.04151
+        },
+        {
+          "name": {
+            "en": "Kirkenes"
+          },
+          "latitude": 69.72706,
+          "longitude": 30.04578
+        },
+        {
+          "name": {
+            "en": "Kjøllefjord"
+          },
+          "latitude": 70.94574,
+          "longitude": 27.3465
+        },
+        {
+          "name": {
+            "en": "Kvalsund"
+          },
+          "latitude": 70.4991,
+          "longitude": 23.97393
+        },
+        {
+          "name": {
+            "en": "Lakselv"
+          },
+          "latitude": 70.05133,
+          "longitude": 24.97182
+        },
+        {
+          "name": {
+            "en": "Lebesby"
+          },
+          "latitude": 70.94535,
+          "longitude": 27.35134
+        },
+        {
+          "name": {
+            "en": "Lenvik"
+          },
+          "latitude": 69.23111,
+          "longitude": 17.98739
+        },
+        {
+          "name": {
+            "en": "Loppa"
+          },
+          "latitude": 70.23952,
+          "longitude": 22.35136
+        },
+        {
+          "name": {
+            "en": "Lyngseidet"
+          },
+          "latitude": 69.57629,
+          "longitude": 20.21887
+        },
+        {
+          "name": {
+            "en": "Måsøy"
+          },
+          "latitude": 70.99654,
+          "longitude": 24.66146
+        },
+        {
+          "name": {
+            "en": "Mehamn"
+          },
+          "latitude": 71.04137,
+          "longitude": 27.85133
+        },
+        {
+          "name": {
+            "en": "Moen"
+          },
+          "latitude": 69.13043,
+          "longitude": 18.61226
+        },
+        {
+          "name": {
+            "en": "Nesseby"
+          },
+          "latitude": 69.88541,
+          "longitude": 28.43368
+        },
+        {
+          "name": {
+            "en": "Nordkapp"
+          },
+          "latitude": 70.97808,
+          "longitude": 25.97473
+        },
+        {
+          "name": {
+            "en": "Olderdalen"
+          },
+          "latitude": 69.60407,
+          "longitude": 20.53272
+        },
+        {
+          "name": {
+            "en": "Øksfjord"
+          },
+          "latitude": 70.23936,
+          "longitude": 22.3507
+        },
+        {
+          "name": {
+            "en": "Porsanger"
+          },
+          "latitude": 70.05214,
+          "longitude": 24.95592
+        },
+        {
+          "name": {
+            "en": "Rypefjord"
+          },
+          "latitude": 70.64126,
+          "longitude": 23.67213
+        },
+        {
+          "name": {
+            "en": "Setermoen"
+          },
+          "latitude": 68.86099,
+          "longitude": 18.34857
+        },
+        {
+          "name": {
+            "en": "Sjøvegan"
+          },
+          "latitude": 68.87363,
+          "longitude": 17.84706
+        },
+        {
+          "name": {
+            "en": "Skånland"
+          },
+          "latitude": 68.58378,
+          "longitude": 16.57305
+        },
+        {
+          "name": {
+            "en": "Sør-Varanger"
+          },
+          "latitude": 69.72859,
+          "longitude": 30.04264
+        },
+        {
+          "name": {
+            "en": "Storslett"
+          },
+          "latitude": 69.76783,
+          "longitude": 21.02466
+        },
+        {
+          "name": {
+            "en": "Storsteinnes"
+          },
+          "latitude": 69.24081,
+          "longitude": 19.23437
+        },
+        {
+          "name": {
+            "en": "Tana"
+          },
+          "latitude": 70.19976,
+          "longitude": 28.18494
+        },
+        {
+          "name": {
+            "en": "Torsken"
+          },
+          "latitude": 69.36184,
+          "longitude": 17.05384
+        },
+        {
+          "name": {
+            "en": "Tranøy"
+          },
+          "latitude": 69.17022,
+          "longitude": 17.7348
+        },
+        {
+          "name": {
+            "en": "Vadsø"
+          },
+          "latitude": 70.07412,
+          "longitude": 29.74922
+        },
+        {
+          "name": {
+            "en": "Vardø"
+          },
+          "latitude": 70.3704,
+          "longitude": 31.10866
+        }
+      ]
+    },
+    {
+      "code": "NO-34",
+      "name": {
+        "en": "Innlandet"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Alvdal"
+          },
+          "latitude": 62.10854,
+          "longitude": 10.63483
+        },
+        {
+          "name": {
+            "en": "Åmot"
+          },
+          "latitude": 61.13199,
+          "longitude": 11.37328
+        },
+        {
+          "name": {
+            "en": "Åsnes"
+          },
+          "latitude": 60.61363,
+          "longitude": 12.012
+        },
+        {
+          "name": {
+            "en": "Bagn"
+          },
+          "latitude": 60.82249,
+          "longitude": 9.55207
+        },
+        {
+          "name": {
+            "en": "Brumunddal"
+          },
+          "latitude": 60.88095,
+          "longitude": 10.93948
+        },
+        {
+          "name": {
+            "en": "Dokka"
+          },
+          "latitude": 60.835,
+          "longitude": 10.07362
+        },
+        {
+          "name": {
+            "en": "Dombås"
+          },
+          "latitude": 62.07554,
+          "longitude": 9.12785
+        },
+        {
+          "name": {
+            "en": "Dovre"
+          },
+          "latitude": 61.98582,
+          "longitude": 9.24947
+        },
+        {
+          "name": {
+            "en": "Eidskog"
+          },
+          "latitude": 59.98556,
+          "longitude": 12.12502
+        },
+        {
+          "name": {
+            "en": "Elverum"
+          },
+          "latitude": 60.88159,
+          "longitude": 11.56314
+        },
+        {
+          "name": {
+            "en": "Engerdal"
+          },
+          "latitude": 61.75774,
+          "longitude": 11.95966
+        },
+        {
+          "name": {
+            "en": "Etnedal"
+          },
+          "latitude": 60.88872,
+          "longitude": 9.64031
+        },
+        {
+          "name": {
+            "en": "Fagernes"
+          },
+          "latitude": 60.98584,
+          "longitude": 9.23236
+        },
+        {
+          "name": {
+            "en": "Folldal"
+          },
+          "latitude": 62.13329,
+          "longitude": 9.9971
+        },
+        {
+          "name": {
+            "en": "Fossbergom"
+          },
+          "latitude": 61.83772,
+          "longitude": 8.56842
+        },
+        {
+          "name": {
+            "en": "Gausdal"
+          },
+          "latitude": 61.22685,
+          "longitude": 10.22145
+        },
+        {
+          "name": {
+            "en": "Gjøvik"
+          },
+          "latitude": 60.79472,
+          "longitude": 10.69287
+        },
+        {
+          "name": {
+            "en": "Gran"
+          },
+          "latitude": 60.39293,
+          "longitude": 10.56045
+        },
+        {
+          "name": {
+            "en": "Grua"
+          },
+          "latitude": 60.25701,
+          "longitude": 10.66222
+        },
+        {
+          "name": {
+            "en": "Grue"
+          },
+          "latitude": 60.45133,
+          "longitude": 12.05489
+        },
+        {
+          "name": {
+            "en": "Hamar"
+          },
+          "latitude": 60.7945,
+          "longitude": 11.06798
+        },
+        {
+          "name": {
+            "en": "Hov"
+          },
+          "latitude": 60.6987,
+          "longitude": 10.35193
+        },
+        {
+          "name": {
+            "en": "Hundorp"
+          },
+          "latitude": 61.55523,
+          "longitude": 9.94069
+        },
+        {
+          "name": {
+            "en": "Innbygda"
+          },
+          "latitude": 61.31484,
+          "longitude": 12.26374
+        },
+        {
+          "name": {
+            "en": "Jevnaker"
+          },
+          "latitude": 60.2406,
+          "longitude": 10.38587
+        },
+        {
+          "name": {
+            "en": "Kirkenær"
+          },
+          "latitude": 60.4579,
+          "longitude": 12.05855
+        },
+        {
+          "name": {
+            "en": "Kongsvinger"
+          },
+          "latitude": 60.19117,
+          "longitude": 11.99916
+        },
+        {
+          "name": {
+            "en": "Koppang"
+          },
+          "latitude": 61.57219,
+          "longitude": 11.04659
+        },
+        {
+          "name": {
+            "en": "Lena"
+          },
+          "latitude": 60.67391,
+          "longitude": 10.81317
+        },
+        {
+          "name": {
+            "en": "Lesja"
+          },
+          "latitude": 62.11785,
+          "longitude": 8.86262
+        },
+        {
+          "name": {
+            "en": "Lillehammer"
+          },
+          "latitude": 61.11464,
+          "longitude": 10.46743
+        },
+        {
+          "name": {
+            "en": "Lom"
+          },
+          "latitude": 61.83639,
+          "longitude": 8.56811
+        },
+        {
+          "name": {
+            "en": "Løten"
+          },
+          "latitude": 60.81771,
+          "longitude": 11.34373
+        },
+        {
+          "name": {
+            "en": "Lunner"
+          },
+          "latitude": 60.29462,
+          "longitude": 10.6086
+        },
+        {
+          "name": {
+            "en": "Moelv"
+          },
+          "latitude": 60.93333,
+          "longitude": 10.7
+        },
+        {
+          "name": {
+            "en": "Nord-Aurdal"
+          },
+          "latitude": 60.98531,
+          "longitude": 9.23661
+        },
+        {
+          "name": {
+            "en": "Nord-Fron"
+          },
+          "latitude": 61.59556,
+          "longitude": 9.7483
+        },
+        {
+          "name": {
+            "en": "Nord-Odal"
+          },
+          "latitude": 60.39195,
+          "longitude": 11.54151
+        },
+        {
+          "name": {
+            "en": "Nordre Land"
+          },
+          "latitude": 60.83471,
+          "longitude": 10.07543
+        },
+        {
+          "name": {
+            "en": "Os"
+          },
+          "latitude": 62.49536,
+          "longitude": 11.22807
+        },
+        {
+          "name": {
+            "en": "Otta"
+          },
+          "latitude": 61.7712,
+          "longitude": 9.53529
+        },
+        {
+          "name": {
+            "en": "Østre Toten"
+          },
+          "latitude": 60.67659,
+          "longitude": 10.81997
+        },
+        {
+          "name": {
+            "en": "Øyer"
+          },
+          "latitude": 61.26495,
+          "longitude": 10.41297
+        },
+        {
+          "name": {
+            "en": "Øystre Slidre"
+          },
+          "latitude": 61.13377,
+          "longitude": 9.07872
+        },
+        {
+          "name": {
+            "en": "Raufoss"
+          },
+          "latitude": 60.72604,
+          "longitude": 10.6133
+        },
+        {
+          "name": {
+            "en": "Reinsvoll"
+          },
+          "latitude": 60.67977,
+          "longitude": 10.62175
+        },
+        {
+          "name": {
+            "en": "Rena"
+          },
+          "latitude": 61.13222,
+          "longitude": 11.37156
+        },
+        {
+          "name": {
+            "en": "Rendalen"
+          },
+          "latitude": 61.89004,
+          "longitude": 11.07694
+        },
+        {
+          "name": {
+            "en": "Ringebu"
+          },
+          "latitude": 61.5298,
+          "longitude": 10.1418
+        },
+        {
+          "name": {
+            "en": "Ringsaker"
+          },
+          "latitude": 60.88216,
+          "longitude": 10.9503
+        },
+        {
+          "name": {
+            "en": "Sand"
+          },
+          "latitude": 60.3922,
+          "longitude": 11.5403
+        },
+        {
+          "name": {
+            "en": "Sel"
+          },
+          "latitude": 61.77278,
+          "longitude": 9.53415
+        },
+        {
+          "name": {
+            "en": "Skarnes"
+          },
+          "latitude": 60.25391,
+          "longitude": 11.68485
+        },
+        {
+          "name": {
+            "en": "Skjåk"
+          },
+          "latitude": 61.88349,
+          "longitude": 8.2649
+        },
+        {
+          "name": {
+            "en": "Skotterud"
+          },
+          "latitude": 59.98281,
+          "longitude": 12.12825
+        },
+        {
+          "name": {
+            "en": "Skreia"
+          },
+          "latitude": 60.65257,
+          "longitude": 10.93564
+        },
+        {
+          "name": {
+            "en": "Søndre Land"
+          },
+          "latitude": 60.69944,
+          "longitude": 10.35086
+        },
+        {
+          "name": {
+            "en": "Sør-Aurdal"
+          },
+          "latitude": 60.82242,
+          "longitude": 9.54836
+        },
+        {
+          "name": {
+            "en": "Sør-Fron"
+          },
+          "latitude": 61.55652,
+          "longitude": 9.93949
+        },
+        {
+          "name": {
+            "en": "Sør-Odal"
+          },
+          "latitude": 60.25455,
+          "longitude": 11.68246
+        },
+        {
+          "name": {
+            "en": "Spetalen"
+          },
+          "latitude": 60.18333,
+          "longitude": 11.9
+        },
+        {
+          "name": {
+            "en": "Stange"
+          },
+          "latitude": 60.71576,
+          "longitude": 11.19069
+        },
+        {
+          "name": {
+            "en": "Stor-Elvdal"
+          },
+          "latitude": 61.57198,
+          "longitude": 11.04759
+        },
+        {
+          "name": {
+            "en": "Tolga"
+          },
+          "latitude": 62.40984,
+          "longitude": 10.9977
+        },
+        {
+          "name": {
+            "en": "Tretten"
+          },
+          "latitude": 61.31423,
+          "longitude": 10.30066
+        },
+        {
+          "name": {
+            "en": "Trysil"
+          },
+          "latitude": 61.31549,
+          "longitude": 12.26422
+        },
+        {
+          "name": {
+            "en": "Tynset"
+          },
+          "latitude": 62.27387,
+          "longitude": 10.77626
+        },
+        {
+          "name": {
+            "en": "Vågå"
+          },
+          "latitude": 61.87565,
+          "longitude": 9.09572
+        },
+        {
+          "name": {
+            "en": "Vågåmo"
+          },
+          "latitude": 61.87505,
+          "longitude": 9.09671
+        },
+        {
+          "name": {
+            "en": "Våler"
+          },
+          "latitude": 60.67845,
+          "longitude": 11.83314
+        },
+        {
+          "name": {
+            "en": "Vang"
+          },
+          "latitude": 61.12564,
+          "longitude": 8.57167
+        },
+        {
+          "name": {
+            "en": "Vestre Slidre"
+          },
+          "latitude": 61.08842,
+          "longitude": 8.98196
+        },
+        {
+          "name": {
+            "en": "Vestre Toten"
+          },
+          "latitude": 60.72593,
+          "longitude": 10.60764
+        },
+        {
+          "name": {
+            "en": "Vinstra"
+          },
+          "latitude": 61.59496,
+          "longitude": 9.75134
+        }
+      ]
+    },
+    {
+      "code": "NO-15",
+      "name": {
+        "en": "Møre og Romsdal"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ålesund"
+          },
+          "latitude": 62.47225,
+          "longitude": 6.15492
+        },
+        {
+          "name": {
+            "en": "Åndalsnes"
+          },
+          "latitude": 62.56749,
+          "longitude": 7.68709
+        },
+        {
+          "name": {
+            "en": "Aukra"
+          },
+          "latitude": 62.805,
+          "longitude": 6.88722
+        },
+        {
+          "name": {
+            "en": "Aure"
+          },
+          "latitude": 63.2675,
+          "longitude": 8.52778
+        },
+        {
+          "name": {
+            "en": "Averøy"
+          },
+          "latitude": 63.05344,
+          "longitude": 7.63265
+        },
+        {
+          "name": {
+            "en": "Batnfjordsøra"
+          },
+          "latitude": 62.89463,
+          "longitude": 7.67251
+        },
+        {
+          "name": {
+            "en": "Brattvåg"
+          },
+          "latitude": 62.59991,
+          "longitude": 6.44426
+        },
+        {
+          "name": {
+            "en": "Eide"
+          },
+          "latitude": 62.9157,
+          "longitude": 7.44496
+        },
+        {
+          "name": {
+            "en": "Eidsvåg"
+          },
+          "latitude": 62.77656,
+          "longitude": 8.0655
+        },
+        {
+          "name": {
+            "en": "Elnesvågen"
+          },
+          "latitude": 62.85426,
+          "longitude": 7.13769
+        },
+        {
+          "name": {
+            "en": "Fræna"
+          },
+          "latitude": 62.85375,
+          "longitude": 7.1538
+        },
+        {
+          "name": {
+            "en": "Giske"
+          },
+          "latitude": 62.5007,
+          "longitude": 6.13472
+        },
+        {
+          "name": {
+            "en": "Gjemnes"
+          },
+          "latitude": 62.89379,
+          "longitude": 7.67714
+        },
+        {
+          "name": {
+            "en": "Halsa"
+          },
+          "latitude": 63.11855,
+          "longitude": 8.31536
+        },
+        {
+          "name": {
+            "en": "Haram"
+          },
+          "latitude": 62.59898,
+          "longitude": 6.44483
+        },
+        {
+          "name": {
+            "en": "Hareid"
+          },
+          "latitude": 62.36742,
+          "longitude": 6.02114
+        },
+        {
+          "name": {
+            "en": "Herøy"
+          },
+          "latitude": 62.33333,
+          "longitude": 5.63598
+        },
+        {
+          "name": {
+            "en": "Hjelset"
+          },
+          "latitude": 62.7805,
+          "longitude": 7.49277
+        },
+        {
+          "name": {
+            "en": "Hopen"
+          },
+          "latitude": 63.46539,
+          "longitude": 8.01437
+        },
+        {
+          "name": {
+            "en": "Kristiansund"
+          },
+          "latitude": 63.11152,
+          "longitude": 7.73198
+        },
+        {
+          "name": {
+            "en": "Larsnes"
+          },
+          "latitude": 62.20282,
+          "longitude": 5.57729
+        },
+        {
+          "name": {
+            "en": "Midsund"
+          },
+          "latitude": 62.67614,
+          "longitude": 6.67776
+        },
+        {
+          "name": {
+            "en": "Molde",
+            "ar": "مولده"
+          },
+          "latitude": 62.73807,
+          "longitude": 7.15882
+        },
+        {
+          "name": {
+            "en": "Nesset"
+          },
+          "latitude": 62.77619,
+          "longitude": 8.06623
+        },
+        {
+          "name": {
+            "en": "Norddal"
+          },
+          "latitude": 62.2991,
+          "longitude": 7.26145
+        },
+        {
+          "name": {
+            "en": "Nordstranda"
+          },
+          "latitude": 62.51384,
+          "longitude": 6.13166
+        },
+        {
+          "name": {
+            "en": "Ørskog"
+          },
+          "latitude": 62.4845,
+          "longitude": 6.82025
+        },
+        {
+          "name": {
+            "en": "Ørsta"
+          },
+          "latitude": 62.19937,
+          "longitude": 6.13084
+        },
+        {
+          "name": {
+            "en": "Rauma"
+          },
+          "latitude": 62.5681,
+          "longitude": 7.68612
+        },
+        {
+          "name": {
+            "en": "Rensvik"
+          },
+          "latitude": 63.09843,
+          "longitude": 7.82026
+        },
+        {
+          "name": {
+            "en": "Sande"
+          },
+          "latitude": 62.20455,
+          "longitude": 5.57971
+        },
+        {
+          "name": {
+            "en": "Sandøy"
+          },
+          "latitude": 62.78167,
+          "longitude": 6.46875
+        },
+        {
+          "name": {
+            "en": "Sjøholt"
+          },
+          "latitude": 62.48263,
+          "longitude": 6.81376
+        },
+        {
+          "name": {
+            "en": "Skodje"
+          },
+          "latitude": 62.50306,
+          "longitude": 6.69817
+        },
+        {
+          "name": {
+            "en": "Smøla"
+          },
+          "latitude": 63.46526,
+          "longitude": 8.01814
+        },
+        {
+          "name": {
+            "en": "Steinshamn"
+          },
+          "latitude": 62.78389,
+          "longitude": 6.47065
+        },
+        {
+          "name": {
+            "en": "Stordal"
+          },
+          "latitude": 62.38214,
+          "longitude": 6.98708
+        },
+        {
+          "name": {
+            "en": "Stranda"
+          },
+          "latitude": 62.31132,
+          "longitude": 6.93115
+        },
+        {
+          "name": {
+            "en": "Sula"
+          },
+          "latitude": 62.44447,
+          "longitude": 6.21229
+        },
+        {
+          "name": {
+            "en": "Sunndal"
+          },
+          "latitude": 62.67464,
+          "longitude": 8.56188
+        },
+        {
+          "name": {
+            "en": "Sunndalsøra"
+          },
+          "latitude": 62.67519,
+          "longitude": 8.56327
+        },
+        {
+          "name": {
+            "en": "Surnadal"
+          },
+          "latitude": 62.97533,
+          "longitude": 8.7249
+        },
+        {
+          "name": {
+            "en": "Sykkylven"
+          },
+          "latitude": 62.38962,
+          "longitude": 6.57825
+        },
+        {
+          "name": {
+            "en": "Tingvoll"
+          },
+          "latitude": 62.91194,
+          "longitude": 8.20673
+        },
+        {
+          "name": {
+            "en": "Tomra"
+          },
+          "latitude": 62.58118,
+          "longitude": 6.93106
+        },
+        {
+          "name": {
+            "en": "Ulstein"
+          },
+          "latitude": 62.34423,
+          "longitude": 5.85241
+        },
+        {
+          "name": {
+            "en": "Ulsteinvik"
+          },
+          "latitude": 62.34317,
+          "longitude": 5.84869
+        },
+        {
+          "name": {
+            "en": "Ulsteinvik weather pws station"
+          },
+          "latitude": 62.34338,
+          "longitude": 5.84385
+        },
+        {
+          "name": {
+            "en": "Vanylven"
+          },
+          "latitude": 62.10003,
+          "longitude": 5.55827
+        },
+        {
+          "name": {
+            "en": "Vatne"
+          },
+          "latitude": 62.55826,
+          "longitude": 6.61708
+        },
+        {
+          "name": {
+            "en": "Vestnes"
+          },
+          "latitude": 62.6213,
+          "longitude": 7.08966
+        },
+        {
+          "name": {
+            "en": "Volda"
+          },
+          "latitude": 62.14678,
+          "longitude": 6.068
+        }
+      ]
+    },
+    {
+      "code": "NO-18",
+      "name": {
+        "en": "Nordland"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Alstahaug"
+          },
+          "latitude": 65.97556,
+          "longitude": 12.56836
+        },
+        {
+          "name": {
+            "en": "Andenes"
+          },
+          "latitude": 69.31428,
+          "longitude": 16.11939
+        },
+        {
+          "name": {
+            "en": "Andøy"
+          },
+          "latitude": 69.08033,
+          "longitude": 15.77637
+        },
+        {
+          "name": {
+            "en": "Ballangen"
+          },
+          "latitude": 68.34365,
+          "longitude": 16.83317
+        },
+        {
+          "name": {
+            "en": "Beiarn"
+          },
+          "latitude": 67.00725,
+          "longitude": 14.57304
+        },
+        {
+          "name": {
+            "en": "Bindal"
+          },
+          "latitude": 65.0878,
+          "longitude": 12.37747
+        },
+        {
+          "name": {
+            "en": "Bjerkvik"
+          },
+          "latitude": 68.54917,
+          "longitude": 17.55709
+        },
+        {
+          "name": {
+            "en": "Bodø",
+            "ar": "بودو"
+          },
+          "latitude": 67.28325,
+          "longitude": 14.38319
+        },
+        {
+          "name": {
+            "en": "Bogen"
+          },
+          "latitude": 68.52647,
+          "longitude": 16.9928
+        },
+        {
+          "name": {
+            "en": "Bø"
+          },
+          "latitude": 68.68823,
+          "longitude": 14.47899
+        },
+        {
+          "name": {
+            "en": "Brønnøy"
+          },
+          "latitude": 65.46786,
+          "longitude": 12.20626
+        },
+        {
+          "name": {
+            "en": "Brønnøysund"
+          },
+          "latitude": 65.47487,
+          "longitude": 12.21285
+        },
+        {
+          "name": {
+            "en": "Dønna"
+          },
+          "latitude": 66.10606,
+          "longitude": 12.48189
+        },
+        {
+          "name": {
+            "en": "Evenes"
+          },
+          "latitude": 68.52334,
+          "longitude": 17.00888
+        },
+        {
+          "name": {
+            "en": "Evjen"
+          },
+          "latitude": 68.26667,
+          "longitude": 13.73333
+        },
+        {
+          "name": {
+            "en": "Fauske"
+          },
+          "latitude": 67.25963,
+          "longitude": 15.3941
+        },
+        {
+          "name": {
+            "en": "Flakstad"
+          },
+          "latitude": 68.09292,
+          "longitude": 13.2331
+        },
+        {
+          "name": {
+            "en": "Gildeskål"
+          },
+          "latitude": 67.03394,
+          "longitude": 14.02582
+        },
+        {
+          "name": {
+            "en": "Gladstad"
+          },
+          "latitude": 65.67683,
+          "longitude": 11.96218
+        },
+        {
+          "name": {
+            "en": "Glomfjord"
+          },
+          "latitude": 66.81663,
+          "longitude": 13.94404
+        },
+        {
+          "name": {
+            "en": "Grane"
+          },
+          "latitude": 65.53865,
+          "longitude": 13.38499
+        },
+        {
+          "name": {
+            "en": "Gravdal"
+          },
+          "latitude": 68.11832,
+          "longitude": 13.55339
+        },
+        {
+          "name": {
+            "en": "Hadsel"
+          },
+          "latitude": 68.56328,
+          "longitude": 14.90835
+        },
+        {
+          "name": {
+            "en": "Hamarøy"
+          },
+          "latitude": 68.08381,
+          "longitude": 15.61671
+        },
+        {
+          "name": {
+            "en": "Hattfjelldal"
+          },
+          "latitude": 65.59765,
+          "longitude": 13.98948
+        },
+        {
+          "name": {
+            "en": "Hauknes"
+          },
+          "latitude": 66.28333,
+          "longitude": 14.06667
+        },
+        {
+          "name": {
+            "en": "Hemnes"
+          },
+          "latitude": 66.07712,
+          "longitude": 13.8135
+        },
+        {
+          "name": {
+            "en": "Hemnesberget"
+          },
+          "latitude": 66.22489,
+          "longitude": 13.61643
+        },
+        {
+          "name": {
+            "en": "Herøy"
+          },
+          "latitude": 65.98427,
+          "longitude": 12.28916
+        },
+        {
+          "name": {
+            "en": "Inndyr"
+          },
+          "latitude": 67.03353,
+          "longitude": 14.02663
+        },
+        {
+          "name": {
+            "en": "Kabelvåg"
+          },
+          "latitude": 68.21066,
+          "longitude": 14.47554
+        },
+        {
+          "name": {
+            "en": "Kjøpsvik"
+          },
+          "latitude": 68.09696,
+          "longitude": 16.37416
+        },
+        {
+          "name": {
+            "en": "Korgen"
+          },
+          "latitude": 66.07662,
+          "longitude": 13.8216
+        },
+        {
+          "name": {
+            "en": "Leirfjord"
+          },
+          "latitude": 66.06348,
+          "longitude": 12.93667
+        },
+        {
+          "name": {
+            "en": "Leknes"
+          },
+          "latitude": 68.14746,
+          "longitude": 13.61151
+        },
+        {
+          "name": {
+            "en": "Leland"
+          },
+          "latitude": 66.06406,
+          "longitude": 12.94325
+        },
+        {
+          "name": {
+            "en": "Løding"
+          },
+          "latitude": 67.30055,
+          "longitude": 14.73852
+        },
+        {
+          "name": {
+            "en": "Lødingen"
+          },
+          "latitude": 68.40998,
+          "longitude": 15.99012
+        },
+        {
+          "name": {
+            "en": "Løpsmarka"
+          },
+          "latitude": 67.31343,
+          "longitude": 14.44934
+        },
+        {
+          "name": {
+            "en": "Lurøy"
+          },
+          "latitude": 66.41887,
+          "longitude": 12.84248
+        },
+        {
+          "name": {
+            "en": "Melbu"
+          },
+          "latitude": 68.50246,
+          "longitude": 14.79962
+        },
+        {
+          "name": {
+            "en": "Meløy"
+          },
+          "latitude": 66.87204,
+          "longitude": 13.70763
+        },
+        {
+          "name": {
+            "en": "Mo i Rana",
+            "ar": "مو إي رانا"
+          },
+          "latitude": 66.31278,
+          "longitude": 14.14278
+        },
+        {
+          "name": {
+            "en": "Mosjøen"
+          },
+          "latitude": 65.83599,
+          "longitude": 13.19076
+        },
+        {
+          "name": {
+            "en": "Moskenes"
+          },
+          "latitude": 67.93467,
+          "longitude": 13.09109
+        },
+        {
+          "name": {
+            "en": "Myre"
+          },
+          "latitude": 68.914,
+          "longitude": 15.07843
+        },
+        {
+          "name": {
+            "en": "Narvik"
+          },
+          "latitude": 68.43896,
+          "longitude": 17.42775
+        },
+        {
+          "name": {
+            "en": "Nesna"
+          },
+          "latitude": 66.19796,
+          "longitude": 13.02229
+        },
+        {
+          "name": {
+            "en": "Øksnes"
+          },
+          "latitude": 68.91463,
+          "longitude": 15.08703
+        },
+        {
+          "name": {
+            "en": "Ørnes"
+          },
+          "latitude": 66.86878,
+          "longitude": 13.70579
+        },
+        {
+          "name": {
+            "en": "Rana",
+            "ar": "مو إي رانا"
+          },
+          "latitude": 66.31122,
+          "longitude": 14.13996
+        },
+        {
+          "name": {
+            "en": "Reine"
+          },
+          "latitude": 67.93249,
+          "longitude": 13.08955
+        },
+        {
+          "name": {
+            "en": "Rognan"
+          },
+          "latitude": 67.10021,
+          "longitude": 15.39086
+        },
+        {
+          "name": {
+            "en": "Rødøy"
+          },
+          "latitude": 66.71195,
+          "longitude": 13.2853
+        },
+        {
+          "name": {
+            "en": "Røst"
+          },
+          "latitude": 67.51727,
+          "longitude": 12.11564
+        },
+        {
+          "name": {
+            "en": "Saltdal"
+          },
+          "latitude": 67.10144,
+          "longitude": 15.39458
+        },
+        {
+          "name": {
+            "en": "Sandnessjøen"
+          },
+          "latitude": 66.02166,
+          "longitude": 12.63158
+        },
+        {
+          "name": {
+            "en": "Sortland"
+          },
+          "latitude": 68.69618,
+          "longitude": 15.41174
+        },
+        {
+          "name": {
+            "en": "Sømna"
+          },
+          "latitude": 65.31379,
+          "longitude": 12.16729
+        },
+        {
+          "name": {
+            "en": "Sørfold"
+          },
+          "latitude": 67.34803,
+          "longitude": 15.59445
+        },
+        {
+          "name": {
+            "en": "Sørland"
+          },
+          "latitude": 67.66564,
+          "longitude": 12.69784
+        },
+        {
+          "name": {
+            "en": "Steigen"
+          },
+          "latitude": 67.77625,
+          "longitude": 15.01621
+        },
+        {
+          "name": {
+            "en": "Stokmarknes"
+          },
+          "latitude": 68.56462,
+          "longitude": 14.91075
+        },
+        {
+          "name": {
+            "en": "Straume"
+          },
+          "latitude": 68.6888,
+          "longitude": 14.47205
+        },
+        {
+          "name": {
+            "en": "Straumen"
+          },
+          "latitude": 67.34769,
+          "longitude": 15.60493
+        },
+        {
+          "name": {
+            "en": "Svolvær"
+          },
+          "latitude": 68.23417,
+          "longitude": 14.56834
+        },
+        {
+          "name": {
+            "en": "Terråk"
+          },
+          "latitude": 65.087,
+          "longitude": 12.37148
+        },
+        {
+          "name": {
+            "en": "Tjeldsund"
+          },
+          "latitude": 68.55557,
+          "longitude": 16.36172
+        },
+        {
+          "name": {
+            "en": "Træna"
+          },
+          "latitude": 66.50159,
+          "longitude": 12.09645
+        },
+        {
+          "name": {
+            "en": "Trofors"
+          },
+          "latitude": 65.53335,
+          "longitude": 13.40631
+        },
+        {
+          "name": {
+            "en": "Tysfjord"
+          },
+          "latitude": 68.09772,
+          "longitude": 16.37591
+        },
+        {
+          "name": {
+            "en": "Vågan"
+          },
+          "latitude": 68.2322,
+          "longitude": 14.56226
+        },
+        {
+          "name": {
+            "en": "Værøy"
+          },
+          "latitude": 67.66374,
+          "longitude": 12.69337
+        },
+        {
+          "name": {
+            "en": "Vefsn"
+          },
+          "latitude": 65.84109,
+          "longitude": 13.20024
+        },
+        {
+          "name": {
+            "en": "Vega"
+          },
+          "latitude": 65.67539,
+          "longitude": 11.96456
+        },
+        {
+          "name": {
+            "en": "Vestvågøy"
+          },
+          "latitude": 68.1483,
+          "longitude": 13.61119
+        },
+        {
+          "name": {
+            "en": "Vevelstad"
+          },
+          "latitude": 65.70002,
+          "longitude": 12.43921
+        },
+        {
+          "name": {
+            "en": "Vik"
+          },
+          "latitude": 65.31254,
+          "longitude": 12.16734
+        }
+      ]
+    },
+    {
+      "code": "NO-03",
+      "name": {
+        "en": "Oslo"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Oslo",
+            "ar": "أوسلو"
+          },
+          "latitude": 59.91273,
+          "longitude": 10.74609
+        },
+        {
+          "name": {
+            "en": "Sjølyststranda"
+          },
+          "latitude": 59.92105,
+          "longitude": 10.68017
+        }
+      ]
+    },
+    {
+      "code": "NO-31",
+      "name": {
+        "en": "Østfold"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Aremark"
+          },
+          "latitude": 59.22198,
+          "longitude": 11.69582
+        },
+        {
+          "name": {
+            "en": "Askim"
+          },
+          "latitude": 59.58464,
+          "longitude": 11.16084
+        },
+        {
+          "name": {
+            "en": "Eidsberg"
+          },
+          "latitude": 59.55148,
+          "longitude": 11.33587
+        },
+        {
+          "name": {
+            "en": "Fossby"
+          },
+          "latitude": 59.22218,
+          "longitude": 11.69928
+        },
+        {
+          "name": {
+            "en": "Fredrikstad"
+          },
+          "latitude": 59.21759,
+          "longitude": 10.93787
+        },
+        {
+          "name": {
+            "en": "Halden"
+          },
+          "latitude": 59.12258,
+          "longitude": 11.38709
+        },
+        {
+          "name": {
+            "en": "Hobøl"
+          },
+          "latitude": 59.62252,
+          "longitude": 10.94979
+        },
+        {
+          "name": {
+            "en": "Hvaler"
+          },
+          "latitude": 59.02809,
+          "longitude": 11.0311
+        },
+        {
+          "name": {
+            "en": "Karlshus"
+          },
+          "latitude": 59.35195,
+          "longitude": 10.87226
+        },
+        {
+          "name": {
+            "en": "Knappstad"
+          },
+          "latitude": 59.62424,
+          "longitude": 11.03274
+        },
+        {
+          "name": {
+            "en": "Larkollen"
+          },
+          "latitude": 59.33196,
+          "longitude": 10.66687
+        },
+        {
+          "name": {
+            "en": "Lervik"
+          },
+          "latitude": 59.27119,
+          "longitude": 10.7461
+        },
+        {
+          "name": {
+            "en": "Marker"
+          },
+          "latitude": 59.47952,
+          "longitude": 11.65917
+        },
+        {
+          "name": {
+            "en": "Moss",
+            "ar": "موس"
+          },
+          "latitude": 59.43436,
+          "longitude": 10.65968
+        },
+        {
+          "name": {
+            "en": "Mysen"
+          },
+          "latitude": 59.55354,
+          "longitude": 11.32578
+        },
+        {
+          "name": {
+            "en": "Ørje"
+          },
+          "latitude": 59.48023,
+          "longitude": 11.66016
+        },
+        {
+          "name": {
+            "en": "Råde"
+          },
+          "latitude": 59.35162,
+          "longitude": 10.87135
+        },
+        {
+          "name": {
+            "en": "Rakkestad"
+          },
+          "latitude": 59.42822,
+          "longitude": 11.3435
+        },
+        {
+          "name": {
+            "en": "Rømskog"
+          },
+          "latitude": 59.74968,
+          "longitude": 11.81122
+        },
+        {
+          "name": {
+            "en": "Rygge"
+          },
+          "latitude": 59.40629,
+          "longitude": 10.69298
+        },
+        {
+          "name": {
+            "en": "Ryggebyen"
+          },
+          "latitude": 59.375,
+          "longitude": 10.75
+        },
+        {
+          "name": {
+            "en": "Sarpsborg"
+          },
+          "latitude": 59.28148,
+          "longitude": 11.11167
+        },
+        {
+          "name": {
+            "en": "Skiptvet"
+          },
+          "latitude": 59.47751,
+          "longitude": 11.16171
+        },
+        {
+          "name": {
+            "en": "Skjærhalden"
+          },
+          "latitude": 59.02526,
+          "longitude": 11.03685
+        },
+        {
+          "name": {
+            "en": "Skjeberg"
+          },
+          "latitude": 59.21148,
+          "longitude": 11.19025
+        },
+        {
+          "name": {
+            "en": "Spydeberg"
+          },
+          "latitude": 59.62028,
+          "longitude": 11.08069
+        },
+        {
+          "name": {
+            "en": "Trøgstad"
+          },
+          "latitude": 59.64016,
+          "longitude": 11.3189
+        },
+        {
+          "name": {
+            "en": "Våler"
+          },
+          "latitude": 59.4887,
+          "longitude": 10.86551
+        }
+      ]
+    },
+    {
+      "code": "NO-11",
+      "name": {
+        "en": "Rogaland"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Åkrehamn"
+          },
+          "latitude": 59.26053,
+          "longitude": 5.18689
+        },
+        {
+          "name": {
+            "en": "Bjerkreim"
+          },
+          "latitude": 58.6305,
+          "longitude": 6.0813
+        },
+        {
+          "name": {
+            "en": "Bokn"
+          },
+          "latitude": 59.23062,
+          "longitude": 5.43524
+        },
+        {
+          "name": {
+            "en": "Bryne"
+          },
+          "latitude": 58.73536,
+          "longitude": 5.64766
+        },
+        {
+          "name": {
+            "en": "Egersund"
+          },
+          "latitude": 58.45133,
+          "longitude": 5.9997
+        },
+        {
+          "name": {
+            "en": "Eigersund"
+          },
+          "latitude": 58.45236,
+          "longitude": 6.00314
+        },
+        {
+          "name": {
+            "en": "Eike"
+          },
+          "latitude": 59.39833,
+          "longitude": 5.36389
+        },
+        {
+          "name": {
+            "en": "Finnøy"
+          },
+          "latitude": 59.17117,
+          "longitude": 5.87398
+        },
+        {
+          "name": {
+            "en": "Forsand"
+          },
+          "latitude": 58.89929,
+          "longitude": 6.09642
+        },
+        {
+          "name": {
+            "en": "Gjesdal"
+          },
+          "latitude": 58.76478,
+          "longitude": 5.855
+        },
+        {
+          "name": {
+            "en": "Hå"
+          },
+          "latitude": 58.6161,
+          "longitude": 5.64497
+        },
+        {
+          "name": {
+            "en": "Hauge i Dalane"
+          },
+          "latitude": 58.34361,
+          "longitude": 6.28121
+        },
+        {
+          "name": {
+            "en": "Haugesund"
+          },
+          "latitude": 59.41015,
+          "longitude": 5.27551
+        },
+        {
+          "name": {
+            "en": "Hjelmeland"
+          },
+          "latitude": 59.23668,
+          "longitude": 6.17912
+        },
+        {
+          "name": {
+            "en": "Hommersåk"
+          },
+          "latitude": 58.92556,
+          "longitude": 5.85104
+        },
+        {
+          "name": {
+            "en": "Jørpeland"
+          },
+          "latitude": 59.02251,
+          "longitude": 6.04078
+        },
+        {
+          "name": {
+            "en": "Judaberg"
+          },
+          "latitude": 59.17204,
+          "longitude": 5.87617
+        },
+        {
+          "name": {
+            "en": "Karmøy"
+          },
+          "latitude": 59.28079,
+          "longitude": 5.30529
+        },
+        {
+          "name": {
+            "en": "Klepp"
+          },
+          "latitude": 58.77655,
+          "longitude": 5.63009
+        },
+        {
+          "name": {
+            "en": "Kopervik"
+          },
+          "latitude": 59.28354,
+          "longitude": 5.30669
+        },
+        {
+          "name": {
+            "en": "Kvitsøy"
+          },
+          "latitude": 59.06471,
+          "longitude": 5.40537
+        },
+        {
+          "name": {
+            "en": "Lund"
+          },
+          "latitude": 58.45715,
+          "longitude": 6.54871
+        },
+        {
+          "name": {
+            "en": "Lyefjell"
+          },
+          "latitude": 58.73539,
+          "longitude": 5.73615
+        },
+        {
+          "name": {
+            "en": "Moi"
+          },
+          "latitude": 58.45674,
+          "longitude": 6.55184
+        },
+        {
+          "name": {
+            "en": "Nærbø"
+          },
+          "latitude": 58.66546,
+          "longitude": 5.63788
+        },
+        {
+          "name": {
+            "en": "Ølen"
+          },
+          "latitude": 59.60437,
+          "longitude": 5.80799
+        },
+        {
+          "name": {
+            "en": "Randaberg"
+          },
+          "latitude": 58.9987,
+          "longitude": 5.62055
+        },
+        {
+          "name": {
+            "en": "Rennesøy"
+          },
+          "latitude": 59.09899,
+          "longitude": 5.69966
+        },
+        {
+          "name": {
+            "en": "Sandnes"
+          },
+          "latitude": 58.8476,
+          "longitude": 5.72855
+        },
+        {
+          "name": {
+            "en": "Sauda"
+          },
+          "latitude": 59.65067,
+          "longitude": 6.35312
+        },
+        {
+          "name": {
+            "en": "Sæveland"
+          },
+          "latitude": 59.26667,
+          "longitude": 5.2
+        },
+        {
+          "name": {
+            "en": "Skudeneshavn"
+          },
+          "latitude": 59.14856,
+          "longitude": 5.25687
+        },
+        {
+          "name": {
+            "en": "Sokndal"
+          },
+          "latitude": 58.34256,
+          "longitude": 6.29425
+        },
+        {
+          "name": {
+            "en": "Sola"
+          },
+          "latitude": 58.88806,
+          "longitude": 5.64728
+        },
+        {
+          "name": {
+            "en": "Stavanger"
+          },
+          "latitude": 58.96941,
+          "longitude": 5.72856
+        },
+        {
+          "name": {
+            "en": "Strand"
+          },
+          "latitude": 59.02353,
+          "longitude": 6.04343
+        },
+        {
+          "name": {
+            "en": "Suldal"
+          },
+          "latitude": 59.48571,
+          "longitude": 6.25222
+        },
+        {
+          "name": {
+            "en": "Tananger"
+          },
+          "latitude": 58.93618,
+          "longitude": 5.5741
+        },
+        {
+          "name": {
+            "en": "Tau"
+          },
+          "latitude": 59.06481,
+          "longitude": 5.9225
+        },
+        {
+          "name": {
+            "en": "Time"
+          },
+          "latitude": 58.73636,
+          "longitude": 5.65297
+        },
+        {
+          "name": {
+            "en": "Tysvær"
+          },
+          "latitude": 59.42159,
+          "longitude": 5.44781
+        },
+        {
+          "name": {
+            "en": "Utsira"
+          },
+          "latitude": 59.30565,
+          "longitude": 4.88621
+        },
+        {
+          "name": {
+            "en": "Varhaug"
+          },
+          "latitude": 58.6181,
+          "longitude": 5.65702
+        },
+        {
+          "name": {
+            "en": "Vedavågen"
+          },
+          "latitude": 59.29483,
+          "longitude": 5.21874
+        },
+        {
+          "name": {
+            "en": "Vigrestad"
+          },
+          "latitude": 58.57103,
+          "longitude": 5.68182
+        },
+        {
+          "name": {
+            "en": "Vikeså"
+          },
+          "latitude": 58.63759,
+          "longitude": 6.09133
+        },
+        {
+          "name": {
+            "en": "Vikevåg"
+          },
+          "latitude": 59.09754,
+          "longitude": 5.6979
+        },
+        {
+          "name": {
+            "en": "Vindafjord"
+          },
+          "latitude": 59.60543,
+          "longitude": 5.80784
+        },
+        {
+          "name": {
+            "en": "Vormedal"
+          },
+          "latitude": 59.35607,
+          "longitude": 5.31962
+        }
+      ]
+    },
+    {
+      "code": "NO-40",
+      "name": {
+        "en": "Telemark"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bamble"
+          },
+          "latitude": 59.00146,
+          "longitude": 9.74573
+        },
+        {
+          "name": {
+            "en": "Bø"
+          },
+          "latitude": 59.41281,
+          "longitude": 9.06618
+        },
+        {
+          "name": {
+            "en": "Dalen"
+          },
+          "latitude": 59.44499,
+          "longitude": 8.00492
+        },
+        {
+          "name": {
+            "en": "Drangedal"
+          },
+          "latitude": 59.09655,
+          "longitude": 9.0596
+        },
+        {
+          "name": {
+            "en": "Fyresdal"
+          },
+          "latitude": 59.18651,
+          "longitude": 8.08953
+        },
+        {
+          "name": {
+            "en": "Gvarv"
+          },
+          "latitude": 59.38767,
+          "longitude": 9.1724
+        },
+        {
+          "name": {
+            "en": "Herre"
+          },
+          "latitude": 59.10351,
+          "longitude": 9.56195
+        },
+        {
+          "name": {
+            "en": "Hjartdal"
+          },
+          "latitude": 59.61276,
+          "longitude": 8.94942
+        },
+        {
+          "name": {
+            "en": "Kragerø"
+          },
+          "latitude": 58.86792,
+          "longitude": 9.41099
+        },
+        {
+          "name": {
+            "en": "Kviteseid"
+          },
+          "latitude": 59.40194,
+          "longitude": 8.49459
+        },
+        {
+          "name": {
+            "en": "Lunde"
+          },
+          "latitude": 59.29832,
+          "longitude": 9.10268
+        },
+        {
+          "name": {
+            "en": "Nissedal"
+          },
+          "latitude": 59.01958,
+          "longitude": 8.52127
+        },
+        {
+          "name": {
+            "en": "Nome"
+          },
+          "latitude": 59.28136,
+          "longitude": 9.25678
+        },
+        {
+          "name": {
+            "en": "Notodden"
+          },
+          "latitude": 59.55992,
+          "longitude": 9.26046
+        },
+        {
+          "name": {
+            "en": "Porsgrunn"
+          },
+          "latitude": 59.1419,
+          "longitude": 9.6568
+        },
+        {
+          "name": {
+            "en": "Prestestranda"
+          },
+          "latitude": 59.09773,
+          "longitude": 9.05866
+        },
+        {
+          "name": {
+            "en": "Re"
+          },
+          "latitude": 59.35056,
+          "longitude": 10.24763
+        },
+        {
+          "name": {
+            "en": "Rjukan"
+          },
+          "latitude": 59.87891,
+          "longitude": 8.59411
+        },
+        {
+          "name": {
+            "en": "Sande"
+          },
+          "latitude": 59.59362,
+          "longitude": 10.20757
+        },
+        {
+          "name": {
+            "en": "Sauherad"
+          },
+          "latitude": 59.39642,
+          "longitude": 9.2491
+        },
+        {
+          "name": {
+            "en": "Seljord"
+          },
+          "latitude": 59.48274,
+          "longitude": 8.62672
+        },
+        {
+          "name": {
+            "en": "Siljan"
+          },
+          "latitude": 59.28251,
+          "longitude": 9.73368
+        },
+        {
+          "name": {
+            "en": "Skien"
+          },
+          "latitude": 59.20748,
+          "longitude": 9.61052
+        },
+        {
+          "name": {
+            "en": "Tinn"
+          },
+          "latitude": 59.83486,
+          "longitude": 9.13528
+        },
+        {
+          "name": {
+            "en": "Tokke"
+          },
+          "latitude": 59.44569,
+          "longitude": 8.01388
+        },
+        {
+          "name": {
+            "en": "Ulefoss"
+          },
+          "latitude": 59.28245,
+          "longitude": 9.26548
+        },
+        {
+          "name": {
+            "en": "Vinje"
+          },
+          "latitude": 59.56924,
+          "longitude": 7.98896
+        }
+      ]
+    },
+    {
+      "code": "NO-55",
+      "name": {
+        "en": "Troms"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Balsfjord"
+          },
+          "latitude": 69.24024,
+          "longitude": 19.22653
+        },
+        {
+          "name": {
+            "en": "Bardu"
+          },
+          "latitude": 68.86058,
+          "longitude": 18.35052
+        },
+        {
+          "name": {
+            "en": "Dyrøy"
+          },
+          "latitude": 69.09154,
+          "longitude": 17.69094
+        },
+        {
+          "name": {
+            "en": "Gratangen"
+          },
+          "latitude": 68.69273,
+          "longitude": 17.53186
+        },
+        {
+          "name": {
+            "en": "Harstad"
+          },
+          "latitude": 68.79896,
+          "longitude": 16.5293
+        },
+        {
+          "name": {
+            "en": "Ibestad"
+          },
+          "latitude": 68.77866,
+          "longitude": 17.17661
+        },
+        {
+          "name": {
+            "en": "Karlsøy"
+          },
+          "latitude": 69.96185,
+          "longitude": 19.61811
+        },
+        {
+          "name": {
+            "en": "Kvæfjord"
+          },
+          "latitude": 68.77201,
+          "longitude": 16.17294
+        },
+        {
+          "name": {
+            "en": "Kvænangen"
+          },
+          "latitude": 69.9389,
+          "longitude": 22.04935
+        },
+        {
+          "name": {
+            "en": "Lavangen"
+          },
+          "latitude": 68.74722,
+          "longitude": 17.80558
+        },
+        {
+          "name": {
+            "en": "Lyngen"
+          },
+          "latitude": 69.57621,
+          "longitude": 20.21702
+        },
+        {
+          "name": {
+            "en": "Målselv"
+          },
+          "latitude": 69.12389,
+          "longitude": 18.61498
+        },
+        {
+          "name": {
+            "en": "Nordreisa"
+          },
+          "latitude": 69.76825,
+          "longitude": 21.02569
+        },
+        {
+          "name": {
+            "en": "Salangen"
+          },
+          "latitude": 68.87669,
+          "longitude": 17.83375
+        },
+        {
+          "name": {
+            "en": "Skjervøy"
+          },
+          "latitude": 70.03379,
+          "longitude": 20.97365
+        },
+        {
+          "name": {
+            "en": "Sørreisa"
+          },
+          "latitude": 69.14697,
+          "longitude": 18.15629
+        },
+        {
+          "name": {
+            "en": "Storfjord"
+          },
+          "latitude": 69.2686,
+          "longitude": 19.96089
+        },
+        {
+          "name": {
+            "en": "Tromsø",
+            "ar": "ترومسو"
+          },
+          "latitude": 69.64961,
+          "longitude": 18.95702
+        }
+      ]
+    },
+    {
+      "code": "NO-50",
+      "name": {
+        "en": "Trøndelag"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Å i Åfjord"
+          },
+          "latitude": 63.96068,
+          "longitude": 10.22468
+        },
+        {
+          "name": {
+            "en": "Åfjord"
+          },
+          "latitude": 63.96196,
+          "longitude": 10.22587
+        },
+        {
+          "name": {
+            "en": "Agdenes"
+          },
+          "latitude": 63.50575,
+          "longitude": 9.82623
+        },
+        {
+          "name": {
+            "en": "Berkåk"
+          },
+          "latitude": 62.82496,
+          "longitude": 10.01177
+        },
+        {
+          "name": {
+            "en": "Bjugn"
+          },
+          "latitude": 63.76522,
+          "longitude": 9.8094
+        },
+        {
+          "name": {
+            "en": "Botngård"
+          },
+          "latitude": 63.76484,
+          "longitude": 9.80863
+        },
+        {
+          "name": {
+            "en": "Brekstad"
+          },
+          "latitude": 63.68697,
+          "longitude": 9.66541
+        },
+        {
+          "name": {
+            "en": "Fillan"
+          },
+          "latitude": 63.60638,
+          "longitude": 8.96961
+        },
+        {
+          "name": {
+            "en": "Flatanger"
+          },
+          "latitude": 64.41282,
+          "longitude": 11.03285
+        },
+        {
+          "name": {
+            "en": "Fosnes"
+          },
+          "latitude": 64.6591,
+          "longitude": 11.26535
+        },
+        {
+          "name": {
+            "en": "Frosta"
+          },
+          "latitude": 63.5891,
+          "longitude": 10.7423
+        },
+        {
+          "name": {
+            "en": "Frøya"
+          },
+          "latitude": 63.73005,
+          "longitude": 8.82426
+        },
+        {
+          "name": {
+            "en": "Grong"
+          },
+          "latitude": 64.46397,
+          "longitude": 12.31114
+        },
+        {
+          "name": {
+            "en": "Hemne"
+          },
+          "latitude": 63.29095,
+          "longitude": 9.08893
+        },
+        {
+          "name": {
+            "en": "Hitra"
+          },
+          "latitude": 63.54528,
+          "longitude": 8.78029
+        },
+        {
+          "name": {
+            "en": "Holtålen"
+          },
+          "latitude": 62.84318,
+          "longitude": 11.29284
+        },
+        {
+          "name": {
+            "en": "Hommelvik"
+          },
+          "latitude": 63.41083,
+          "longitude": 10.79424
+        },
+        {
+          "name": {
+            "en": "Høylandet"
+          },
+          "latitude": 64.62759,
+          "longitude": 12.30041
+        },
+        {
+          "name": {
+            "en": "Inderøy"
+          },
+          "latitude": 63.87826,
+          "longitude": 11.28424
+        },
+        {
+          "name": {
+            "en": "Indre Fosen"
+          },
+          "latitude": 63.58897,
+          "longitude": 9.95847
+        },
+        {
+          "name": {
+            "en": "Klæbu"
+          },
+          "latitude": 63.3006,
+          "longitude": 10.48188
+        },
+        {
+          "name": {
+            "en": "Kolvereid"
+          },
+          "latitude": 64.86549,
+          "longitude": 11.60465
+        },
+        {
+          "name": {
+            "en": "Kyrksæterøra"
+          },
+          "latitude": 63.29057,
+          "longitude": 9.08909
+        },
+        {
+          "name": {
+            "en": "Lauvsnes"
+          },
+          "latitude": 64.50061,
+          "longitude": 10.89396
+        },
+        {
+          "name": {
+            "en": "Leka"
+          },
+          "latitude": 65.09244,
+          "longitude": 11.70513
+        },
+        {
+          "name": {
+            "en": "Levanger"
+          },
+          "latitude": 63.74585,
+          "longitude": 11.29991
+        },
+        {
+          "name": {
+            "en": "Lierne"
+          },
+          "latitude": 64.46413,
+          "longitude": 13.59249
+        },
+        {
+          "name": {
+            "en": "Lundamo"
+          },
+          "latitude": 63.15216,
+          "longitude": 10.28555
+        },
+        {
+          "name": {
+            "en": "Malm"
+          },
+          "latitude": 64.07534,
+          "longitude": 11.22398
+        },
+        {
+          "name": {
+            "en": "Malvik"
+          },
+          "latitude": 63.41057,
+          "longitude": 10.79382
+        },
+        {
+          "name": {
+            "en": "Meldal"
+          },
+          "latitude": 63.04598,
+          "longitude": 9.71088
+        },
+        {
+          "name": {
+            "en": "Melhus"
+          },
+          "latitude": 63.28755,
+          "longitude": 10.27686
+        },
+        {
+          "name": {
+            "en": "Meråker"
+          },
+          "latitude": 63.41423,
+          "longitude": 11.74558
+        },
+        {
+          "name": {
+            "en": "Midtre Gauldal"
+          },
+          "latitude": 63.03902,
+          "longitude": 10.28701
+        },
+        {
+          "name": {
+            "en": "Namdalseid"
+          },
+          "latitude": 64.10843,
+          "longitude": 10.91862
+        },
+        {
+          "name": {
+            "en": "Namsos"
+          },
+          "latitude": 64.47842,
+          "longitude": 11.54182
+        },
+        {
+          "name": {
+            "en": "Namsskogan"
+          },
+          "latitude": 64.92597,
+          "longitude": 13.15932
+        },
+        {
+          "name": {
+            "en": "Nærøy"
+          },
+          "latitude": 64.86298,
+          "longitude": 11.60505
+        },
+        {
+          "name": {
+            "en": "Oppdal"
+          },
+          "latitude": 62.59495,
+          "longitude": 9.68761
+        },
+        {
+          "name": {
+            "en": "Orkdal"
+          },
+          "latitude": 63.29989,
+          "longitude": 9.84365
+        },
+        {
+          "name": {
+            "en": "Osen"
+          },
+          "latitude": 64.29875,
+          "longitude": 10.51284
+        },
+        {
+          "name": {
+            "en": "Overhalla"
+          },
+          "latitude": 64.4938,
+          "longitude": 11.94753
+        },
+        {
+          "name": {
+            "en": "Ørland"
+          },
+          "latitude": 63.68574,
+          "longitude": 9.66633
+        },
+        {
+          "name": {
+            "en": "Raarvihke - Røyrvik"
+          },
+          "latitude": 64.8838,
+          "longitude": 13.5631
+        },
+        {
+          "name": {
+            "en": "Ranemsletta"
+          },
+          "latitude": 64.49447,
+          "longitude": 11.94912
+        },
+        {
+          "name": {
+            "en": "Rennebu"
+          },
+          "latitude": 62.82864,
+          "longitude": 10.00487
+        },
+        {
+          "name": {
+            "en": "Rindal"
+          },
+          "latitude": 63.05511,
+          "longitude": 9.21274
+        },
+        {
+          "name": {
+            "en": "Roan"
+          },
+          "latitude": 64.17281,
+          "longitude": 10.22511
+        },
+        {
+          "name": {
+            "en": "Røros"
+          },
+          "latitude": 62.57562,
+          "longitude": 11.3873
+        },
+        {
+          "name": {
+            "en": "Rørvik"
+          },
+          "latitude": 64.86185,
+          "longitude": 11.23969
+        },
+        {
+          "name": {
+            "en": "Røyrvik"
+          },
+          "latitude": 64.88394,
+          "longitude": 13.56256
+        },
+        {
+          "name": {
+            "en": "Selbu"
+          },
+          "latitude": 63.2177,
+          "longitude": 11.03938
+        },
+        {
+          "name": {
+            "en": "Sistranda"
+          },
+          "latitude": 63.72523,
+          "longitude": 8.83318
+        },
+        {
+          "name": {
+            "en": "Skaun"
+          },
+          "latitude": 63.32386,
+          "longitude": 10.06745
+        },
+        {
+          "name": {
+            "en": "Skogn"
+          },
+          "latitude": 63.70374,
+          "longitude": 11.19262
+        },
+        {
+          "name": {
+            "en": "Snåase"
+          },
+          "latitude": 64.2457,
+          "longitude": 12.37779
+        },
+        {
+          "name": {
+            "en": "Snåase - Snåsa"
+          },
+          "latitude": 64.24606,
+          "longitude": 12.38294
+        },
+        {
+          "name": {
+            "en": "Snillfjord"
+          },
+          "latitude": 63.39973,
+          "longitude": 9.50194
+        },
+        {
+          "name": {
+            "en": "Steinkjer"
+          },
+          "latitude": 64.19303,
+          "longitude": 11.38505
+        },
+        {
+          "name": {
+            "en": "Stjørdal"
+          },
+          "latitude": 63.56699,
+          "longitude": 11.0273
+        },
+        {
+          "name": {
+            "en": "Stjørdalshalsen"
+          },
+          "latitude": 63.4681,
+          "longitude": 10.92618
+        },
+        {
+          "name": {
+            "en": "Straumen"
+          },
+          "latitude": 63.87163,
+          "longitude": 11.29617
+        },
+        {
+          "name": {
+            "en": "Trondheim",
+            "ar": "تروندهايم"
+          },
+          "latitude": 63.42811,
+          "longitude": 10.39687
+        },
+        {
+          "name": {
+            "en": "Tydal"
+          },
+          "latitude": 63.04477,
+          "longitude": 11.65038
+        },
+        {
+          "name": {
+            "en": "Verdal"
+          },
+          "latitude": 63.90023,
+          "longitude": 11.72724
+        },
+        {
+          "name": {
+            "en": "Verran"
+          },
+          "latitude": 64.071,
+          "longitude": 11.21795
+        },
+        {
+          "name": {
+            "en": "Vikna"
+          },
+          "latitude": 64.86362,
+          "longitude": 11.24198
+        }
+      ]
+    },
+    {
+      "code": "NO-39",
+      "name": {
+        "en": "Vestfold"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Årøysund"
+          },
+          "latitude": 59.18321,
+          "longitude": 10.45743
+        },
+        {
+          "name": {
+            "en": "Åsgårdstrand"
+          },
+          "latitude": 59.34938,
+          "longitude": 10.46948
+        },
+        {
+          "name": {
+            "en": "Barkåker"
+          },
+          "latitude": 59.31859,
+          "longitude": 10.38963
+        },
+        {
+          "name": {
+            "en": "Berger"
+          },
+          "latitude": 59.54994,
+          "longitude": 10.38641
+        },
+        {
+          "name": {
+            "en": "Færder"
+          },
+          "latitude": 59.22791,
+          "longitude": 10.4153
+        },
+        {
+          "name": {
+            "en": "Gullhaug"
+          },
+          "latitude": 59.5013,
+          "longitude": 10.25224
+        },
+        {
+          "name": {
+            "en": "Holmestrand"
+          },
+          "latitude": 59.48976,
+          "longitude": 10.31515
+        },
+        {
+          "name": {
+            "en": "Horten"
+          },
+          "latitude": 59.41547,
+          "longitude": 10.48527
+        },
+        {
+          "name": {
+            "en": "Larvik"
+          },
+          "latitude": 59.05234,
+          "longitude": 10.02701
+        },
+        {
+          "name": {
+            "en": "Melsomvik"
+          },
+          "latitude": 59.22394,
+          "longitude": 10.33616
+        },
+        {
+          "name": {
+            "en": "Sandefjord"
+          },
+          "latitude": 59.12881,
+          "longitude": 10.21971
+        },
+        {
+          "name": {
+            "en": "Selvik"
+          },
+          "latitude": 59.56645,
+          "longitude": 10.26004
+        },
+        {
+          "name": {
+            "en": "Sem"
+          },
+          "latitude": 59.2823,
+          "longitude": 10.33004
+        },
+        {
+          "name": {
+            "en": "Skoppum"
+          },
+          "latitude": 59.38613,
+          "longitude": 10.41077
+        },
+        {
+          "name": {
+            "en": "Stavern"
+          },
+          "latitude": 59,
+          "longitude": 10.03333
+        },
+        {
+          "name": {
+            "en": "Stokke"
+          },
+          "latitude": 59.22255,
+          "longitude": 10.30055
+        },
+        {
+          "name": {
+            "en": "Svelvik"
+          },
+          "latitude": 59.60677,
+          "longitude": 10.40225
+        },
+        {
+          "name": {
+            "en": "Tjøme"
+          },
+          "latitude": 59.1109,
+          "longitude": 10.3933
+        },
+        {
+          "name": {
+            "en": "Tønsberg",
+            "ar": "تونسبيرغ"
+          },
+          "latitude": 59.26754,
+          "longitude": 10.40762
+        }
+      ]
+    },
+    {
+      "code": "NO-46",
+      "name": {
+        "en": "Vestland"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ågotnes"
+          },
+          "latitude": 60.40306,
+          "longitude": 5.01927
+        },
+        {
+          "name": {
+            "en": "Årdal"
+          },
+          "latitude": 61.23639,
+          "longitude": 7.70204
+        },
+        {
+          "name": {
+            "en": "Årdalstangen"
+          },
+          "latitude": 61.23581,
+          "longitude": 7.7037
+        },
+        {
+          "name": {
+            "en": "Askøy"
+          },
+          "latitude": 60.40916,
+          "longitude": 5.22599
+        },
+        {
+          "name": {
+            "en": "Askvoll"
+          },
+          "latitude": 61.3485,
+          "longitude": 5.05318
+        },
+        {
+          "name": {
+            "en": "Aurland"
+          },
+          "latitude": 60.90556,
+          "longitude": 7.18734
+        },
+        {
+          "name": {
+            "en": "Austevoll"
+          },
+          "latitude": 60.09578,
+          "longitude": 5.22722
+        },
+        {
+          "name": {
+            "en": "Austrheim"
+          },
+          "latitude": 60.77742,
+          "longitude": 4.93227
+        },
+        {
+          "name": {
+            "en": "Balestrand"
+          },
+          "latitude": 61.20809,
+          "longitude": 6.53551
+        },
+        {
+          "name": {
+            "en": "Bergen"
+          },
+          "latitude": 60.392,
+          "longitude": 5.328
+        },
+        {
+          "name": {
+            "en": "Bømlo"
+          },
+          "latitude": 59.79384,
+          "longitude": 5.17624
+        },
+        {
+          "name": {
+            "en": "Bremanger"
+          },
+          "latitude": 61.76862,
+          "longitude": 5.28907
+        },
+        {
+          "name": {
+            "en": "Dale"
+          },
+          "latitude": 60.58639,
+          "longitude": 5.81888
+        },
+        {
+          "name": {
+            "en": "Eid"
+          },
+          "latitude": 61.90684,
+          "longitude": 5.99321
+        },
+        {
+          "name": {
+            "en": "Eidfjord"
+          },
+          "latitude": 60.46741,
+          "longitude": 7.06971
+        },
+        {
+          "name": {
+            "en": "Eikelandsosen"
+          },
+          "latitude": 60.24175,
+          "longitude": 5.74433
+        },
+        {
+          "name": {
+            "en": "Eivindvik"
+          },
+          "latitude": 60.98133,
+          "longitude": 5.07497
+        },
+        {
+          "name": {
+            "en": "Espeland"
+          },
+          "latitude": 60.38249,
+          "longitude": 5.4657
+        },
+        {
+          "name": {
+            "en": "Etne"
+          },
+          "latitude": 59.66472,
+          "longitude": 5.93438
+        },
+        {
+          "name": {
+            "en": "Farnes"
+          },
+          "latitude": 61.3085,
+          "longitude": 7.79694
+        },
+        {
+          "name": {
+            "en": "Fedje"
+          },
+          "latitude": 60.77873,
+          "longitude": 4.71965
+        },
+        {
+          "name": {
+            "en": "Fitjar"
+          },
+          "latitude": 59.91742,
+          "longitude": 5.31637
+        },
+        {
+          "name": {
+            "en": "Fjaler"
+          },
+          "latitude": 61.36383,
+          "longitude": 5.39808
+        },
+        {
+          "name": {
+            "en": "Fjell"
+          },
+          "latitude": 60.36267,
+          "longitude": 5.12194
+        },
+        {
+          "name": {
+            "en": "Flora"
+          },
+          "latitude": 61.59994,
+          "longitude": 5.03144
+        },
+        {
+          "name": {
+            "en": "Florø"
+          },
+          "latitude": 61.59957,
+          "longitude": 5.0328
+        },
+        {
+          "name": {
+            "en": "Førde"
+          },
+          "latitude": 61.45045,
+          "longitude": 5.85397
+        },
+        {
+          "name": {
+            "en": "Frekhaug"
+          },
+          "latitude": 60.51321,
+          "longitude": 5.24252
+        },
+        {
+          "name": {
+            "en": "Fusa"
+          },
+          "latitude": 60.24072,
+          "longitude": 5.74458
+        },
+        {
+          "name": {
+            "en": "Gaular"
+          },
+          "latitude": 61.32564,
+          "longitude": 5.79523
+        },
+        {
+          "name": {
+            "en": "Gaupne"
+          },
+          "latitude": 61.40472,
+          "longitude": 7.29458
+        },
+        {
+          "name": {
+            "en": "Gloppen"
+          },
+          "latitude": 61.77728,
+          "longitude": 6.21561
+        },
+        {
+          "name": {
+            "en": "Granvin"
+          },
+          "latitude": 60.52629,
+          "longitude": 6.72178
+        },
+        {
+          "name": {
+            "en": "Gulen"
+          },
+          "latitude": 60.98192,
+          "longitude": 5.07408
+        },
+        {
+          "name": {
+            "en": "Hagavik"
+          },
+          "latitude": 60.18076,
+          "longitude": 5.40146
+        },
+        {
+          "name": {
+            "en": "Hardbakke"
+          },
+          "latitude": 61.07562,
+          "longitude": 4.84111
+        },
+        {
+          "name": {
+            "en": "Hermansverk"
+          },
+          "latitude": 61.18461,
+          "longitude": 6.85016
+        },
+        {
+          "name": {
+            "en": "Hornindal"
+          },
+          "latitude": 61.96925,
+          "longitude": 6.52249
+        },
+        {
+          "name": {
+            "en": "Høyanger"
+          },
+          "latitude": 61.2188,
+          "longitude": 6.07308
+        },
+        {
+          "name": {
+            "en": "Hylkje"
+          },
+          "latitude": 60.51028,
+          "longitude": 5.35444
+        },
+        {
+          "name": {
+            "en": "Hyllestad"
+          },
+          "latitude": 61.17036,
+          "longitude": 5.29614
+        },
+        {
+          "name": {
+            "en": "Indre Arna"
+          },
+          "latitude": 60.41768,
+          "longitude": 5.47087
+        },
+        {
+          "name": {
+            "en": "Jondal"
+          },
+          "latitude": 60.2762,
+          "longitude": 6.25257
+        },
+        {
+          "name": {
+            "en": "Jølster"
+          },
+          "latitude": 61.56923,
+          "longitude": 6.48351
+        },
+        {
+          "name": {
+            "en": "Kinsarvik"
+          },
+          "latitude": 60.37567,
+          "longitude": 6.71948
+        },
+        {
+          "name": {
+            "en": "Knappskog"
+          },
+          "latitude": 60.37906,
+          "longitude": 5.05602
+        },
+        {
+          "name": {
+            "en": "Knarvik"
+          },
+          "latitude": 60.5453,
+          "longitude": 5.28208
+        },
+        {
+          "name": {
+            "en": "Kvam"
+          },
+          "latitude": 60.36977,
+          "longitude": 6.14344
+        },
+        {
+          "name": {
+            "en": "Kvinnherad"
+          },
+          "latitude": 59.98421,
+          "longitude": 6.01227
+        },
+        {
+          "name": {
+            "en": "Lærdal"
+          },
+          "latitude": 61.09842,
+          "longitude": 7.48101
+        },
+        {
+          "name": {
+            "en": "Lærdalsøyri"
+          },
+          "latitude": 61.10001,
+          "longitude": 7.47374
+        },
+        {
+          "name": {
+            "en": "Leikanger"
+          },
+          "latitude": 61.18556,
+          "longitude": 6.82199
+        },
+        {
+          "name": {
+            "en": "Leirvik"
+          },
+          "latitude": 59.77977,
+          "longitude": 5.50051
+        },
+        {
+          "name": {
+            "en": "Lindås"
+          },
+          "latitude": 60.5491,
+          "longitude": 5.28559
+        },
+        {
+          "name": {
+            "en": "Lonevåg"
+          },
+          "latitude": 60.52556,
+          "longitude": 5.49563
+        },
+        {
+          "name": {
+            "en": "Luster"
+          },
+          "latitude": 61.4031,
+          "longitude": 7.29793
+        },
+        {
+          "name": {
+            "en": "Måløy"
+          },
+          "latitude": 61.93535,
+          "longitude": 5.11362
+        },
+        {
+          "name": {
+            "en": "Manger"
+          },
+          "latitude": 60.64145,
+          "longitude": 5.04136
+        },
+        {
+          "name": {
+            "en": "Masfjorden"
+          },
+          "latitude": 60.79947,
+          "longitude": 5.30035
+        },
+        {
+          "name": {
+            "en": "Meland"
+          },
+          "latitude": 60.51777,
+          "longitude": 5.24063
+        },
+        {
+          "name": {
+            "en": "Modalen"
+          },
+          "latitude": 60.81735,
+          "longitude": 5.8079
+        },
+        {
+          "name": {
+            "en": "Mosterhamn"
+          },
+          "latitude": 59.69919,
+          "longitude": 5.38585
+        },
+        {
+          "name": {
+            "en": "Naustdal"
+          },
+          "latitude": 61.51034,
+          "longitude": 5.71719
+        },
+        {
+          "name": {
+            "en": "Nordfjordeid"
+          },
+          "latitude": 61.9122,
+          "longitude": 5.98557
+        },
+        {
+          "name": {
+            "en": "Norheimsund"
+          },
+          "latitude": 60.37089,
+          "longitude": 6.14562
+        },
+        {
+          "name": {
+            "en": "Odda"
+          },
+          "latitude": 60.06697,
+          "longitude": 6.54541
+        },
+        {
+          "name": {
+            "en": "Os"
+          },
+          "latitude": 60.18547,
+          "longitude": 5.46962
+        },
+        {
+          "name": {
+            "en": "Osterøy"
+          },
+          "latitude": 60.52389,
+          "longitude": 5.50551
+        },
+        {
+          "name": {
+            "en": "Øygarden"
+          },
+          "latitude": 60.59041,
+          "longitude": 4.8389
+        },
+        {
+          "name": {
+            "en": "Øystese"
+          },
+          "latitude": 60.38825,
+          "longitude": 6.19251
+        },
+        {
+          "name": {
+            "en": "Radøy"
+          },
+          "latitude": 60.64187,
+          "longitude": 5.0411
+        },
+        {
+          "name": {
+            "en": "Rosendal"
+          },
+          "latitude": 59.98589,
+          "longitude": 6.01157
+        },
+        {
+          "name": {
+            "en": "Rubbestadneset"
+          },
+          "latitude": 59.81559,
+          "longitude": 5.26822
+        },
+        {
+          "name": {
+            "en": "Sagvåg"
+          },
+          "latitude": 59.78139,
+          "longitude": 5.38996
+        },
+        {
+          "name": {
+            "en": "Samnanger"
+          },
+          "latitude": 60.37745,
+          "longitude": 5.76219
+        },
+        {
+          "name": {
+            "en": "Sandane"
+          },
+          "latitude": 61.77277,
+          "longitude": 6.21496
+        },
+        {
+          "name": {
+            "en": "Sande"
+          },
+          "latitude": 61.32511,
+          "longitude": 5.79773
+        },
+        {
+          "name": {
+            "en": "Sandsli"
+          },
+          "latitude": 60.30323,
+          "longitude": 5.28554
+        },
+        {
+          "name": {
+            "en": "Selje"
+          },
+          "latitude": 62.04263,
+          "longitude": 5.34449
+        },
+        {
+          "name": {
+            "en": "Skogsvågen"
+          },
+          "latitude": 60.25512,
+          "longitude": 5.10161
+        },
+        {
+          "name": {
+            "en": "Sogndal"
+          },
+          "latitude": 61.23144,
+          "longitude": 7.10301
+        },
+        {
+          "name": {
+            "en": "Solund"
+          },
+          "latitude": 61.07394,
+          "longitude": 4.83876
+        },
+        {
+          "name": {
+            "en": "Stord"
+          },
+          "latitude": 59.78092,
+          "longitude": 5.4998
+        },
+        {
+          "name": {
+            "en": "Storebø"
+          },
+          "latitude": 60.09485,
+          "longitude": 5.22705
+        },
+        {
+          "name": {
+            "en": "Straume"
+          },
+          "latitude": 60.36131,
+          "longitude": 5.12199
+        },
+        {
+          "name": {
+            "en": "Stryn"
+          },
+          "latitude": 61.90406,
+          "longitude": 6.724
+        },
+        {
+          "name": {
+            "en": "Sund"
+          },
+          "latitude": 60.27019,
+          "longitude": 5.07225
+        },
+        {
+          "name": {
+            "en": "Sveio"
+          },
+          "latitude": 59.54303,
+          "longitude": 5.3541
+        },
+        {
+          "name": {
+            "en": "Svelgen"
+          },
+          "latitude": 61.76976,
+          "longitude": 5.29544
+        },
+        {
+          "name": {
+            "en": "Syfteland"
+          },
+          "latitude": 60.23803,
+          "longitude": 5.45285
+        },
+        {
+          "name": {
+            "en": "Tysnes"
+          },
+          "latitude": 60.04076,
+          "longitude": 5.53129
+        },
+        {
+          "name": {
+            "en": "Ullensvang"
+          },
+          "latitude": 60.37501,
+          "longitude": 6.72073
+        },
+        {
+          "name": {
+            "en": "Ulvik"
+          },
+          "latitude": 60.56719,
+          "longitude": 6.91871
+        },
+        {
+          "name": {
+            "en": "Vågsøy"
+          },
+          "latitude": 61.93544,
+          "longitude": 5.11402
+        },
+        {
+          "name": {
+            "en": "Vaksdal"
+          },
+          "latitude": 60.5903,
+          "longitude": 5.82272
+        },
+        {
+          "name": {
+            "en": "Vik"
+          },
+          "latitude": 61.08863,
+          "longitude": 6.58512
+        },
+        {
+          "name": {
+            "en": "Voss"
+          },
+          "latitude": 60.6278,
+          "longitude": 6.41831
+        },
+        {
+          "name": {
+            "en": "Ytre Arna"
+          },
+          "latitude": 60.46175,
+          "longitude": 5.43265
+        },
+        {
+          "name": {
+            "en": "Ytrebygda"
+          },
+          "latitude": 60.30504,
+          "longitude": 5.28236
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "code": "NR",
+  "iso3": "NRU",
+  "name": {
+    "en": "Nauru",
+    "ar": "ناورو",
+    "de": "Nauru",
+    "es": "Nauru",
+    "fr": "Nauru",
+    "hi": "नाउरू",
+    "it": "Nauru",
+    "ja": "ナウル",
+    "ko": "나우루",
+    "nl": "Nauru",
+    "pl": "Nauru",
+    "pt": "Nauru",
+    "pt-BR": "Nauru",
+    "ru": "Науру",
+    "tr": "Nauru",
+    "uk": "Науру",
+    "zh": "瑙鲁"
+  },
+  "phone": "+674",
+  "currency": "AUD",
+  "timezone": "Pacific/Nauru",
+  "flag": "🇳🇷",
+  "regions": [
+    {
+      "code": "NR-01",
+      "name": {
+        "en": "Aiwo"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Arijejen"
+          },
+          "latitude": -0.52545,
+          "longitude": 166.91247
+        }
+      ]
+    },
+    {
+      "code": "NR-02",
+      "name": {
+        "en": "Anabar"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Anabar"
+          },
+          "latitude": -0.50845,
+          "longitude": 166.95326
+        }
+      ]
+    },
+    {
+      "code": "NR-05",
+      "name": {
+        "en": "Baiti"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Baiti"
+          },
+          "latitude": -0.50803,
+          "longitude": 166.92945
+        }
+      ]
+    },
+    {
+      "code": "NR-10",
+      "name": {
+        "en": "Ijuw"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ijuw"
+          },
+          "latitude": -0.521,
+          "longitude": 166.95813
+        }
+      ]
+    },
+    {
+      "code": "NR-11",
+      "name": {
+        "en": "Meneng"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Menen"
+          },
+          "latitude": -0.54539,
+          "longitude": 166.94871
+        }
+      ]
+    },
+    {
+      "code": "NR-13",
+      "name": {
+        "en": "Uaboe"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Uaboe"
+          },
+          "latitude": -0.51393,
+          "longitude": 166.92384
+        }
+      ]
+    },
+    {
+      "code": "NR-14",
+      "name": {
+        "en": "Yaren"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Yaren",
+            "ar": "ضاحية يارين"
+          },
+          "latitude": -0.55085,
+          "longitude": 166.9252
+        }
+      ]
+    }
+  ]
+}

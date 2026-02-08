@@ -1,0 +1,60 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "geo-data Configuration",
+  "description": "Configuration file for geo-data CLI",
+  "type": "object",
+  "required": ["outputDir", "languages", "includeCoordinates", "typescript"],
+  "properties": {
+    "$schema": {
+      "type": "string",
+      "description": "Path to JSON schema"
+    },
+    "outputDir": {
+      "type": "string",
+      "description": "Directory where country data files will be placed",
+      "default": "./src/data/geo",
+      "examples": ["./src/data/geo", "./lib/geo", "./data"]
+    },
+    "languages": {
+      "type": "array",
+      "description": "Language codes to include in the data",
+      "items": {
+        "type": "string",
+        "enum": [
+          "en",
+          "ar",
+          "de",
+          "es",
+          "fr",
+          "hi",
+          "it",
+          "ja",
+          "ko",
+          "nl",
+          "pl",
+          "pt",
+          "pt-BR",
+          "ru",
+          "tr",
+          "uk",
+          "zh"
+        ]
+      },
+      "minItems": 1,
+      "uniqueItems": true,
+      "default": ["en"],
+      "examples": [["en"], ["en", "ar"], ["en", "ar", "fr"]]
+    },
+    "includeCoordinates": {
+      "type": "boolean",
+      "description": "Include latitude/longitude coordinates for cities",
+      "default": true
+    },
+    "typescript": {
+      "type": "boolean",
+      "description": "Generate TypeScript types and index.ts (false = index.js)",
+      "default": true
+    }
+  },
+  "additionalProperties": false
+}

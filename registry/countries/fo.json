@@ -1,0 +1,266 @@
+{
+  "code": "FO",
+  "iso3": "FRO",
+  "name": {
+    "en": "Faroe Islands",
+    "ar": "جزر فارو",
+    "de": "Färöer-Inseln",
+    "es": "Islas Faroe",
+    "fr": "Îles Féroé",
+    "hi": "फारो आइलैंड्स",
+    "it": "Isole Far Oer",
+    "ja": "フェロー諸島",
+    "ko": "페로 제도",
+    "nl": "Faeröer",
+    "pl": "Wyspy Owcze",
+    "pt": "Ilhas Faroé",
+    "pt-BR": "Ilhas Faroé",
+    "ru": "Фарерские острова",
+    "tr": "Faroe Adalari",
+    "uk": "Фарерські острови",
+    "zh": "法罗群岛"
+  },
+  "phone": "+298",
+  "currency": "DKK",
+  "timezone": "Atlantic/Faroe",
+  "flag": "🇫🇴",
+  "regions": [
+    {
+      "code": "FO-EY",
+      "name": {
+        "en": "Eysturoy"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Eiði"
+          },
+          "latitude": 62.2789,
+          "longitude": -7.0123
+        },
+        {
+          "name": {
+            "en": "Eystur"
+          },
+          "latitude": 62.1567,
+          "longitude": -6.8233
+        },
+        {
+          "name": {
+            "en": "Fuglafjørður"
+          },
+          "latitude": 62.2101,
+          "longitude": -6.8123
+        },
+        {
+          "name": {
+            "en": "Nes"
+          },
+          "latitude": 62.0987,
+          "longitude": -6.7654
+        },
+        {
+          "name": {
+            "en": "Runavík"
+          },
+          "latitude": 62.1323,
+          "longitude": -6.789
+        },
+        {
+          "name": {
+            "en": "Sjóvar"
+          },
+          "latitude": 62.1234,
+          "longitude": -6.8765
+        }
+      ]
+    },
+    {
+      "code": "FO-NO",
+      "name": {
+        "en": "Northern Isles"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Hvannasund"
+          },
+          "latitude": 62.3456,
+          "longitude": -6.789
+        },
+        {
+          "name": {
+            "en": "Klaksvík"
+          },
+          "latitude": 62.221,
+          "longitude": -6.58
+        },
+        {
+          "name": {
+            "en": "Kunoy"
+          },
+          "latitude": 62.3456,
+          "longitude": -6.8901
+        }
+      ]
+    },
+    {
+      "code": "FO-SA",
+      "name": {
+        "en": "Sandoy"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Húsavík"
+          },
+          "latitude": 61.8096495,
+          "longitude": -6.6794956
+        },
+        {
+          "name": {
+            "en": "Sandur"
+          },
+          "latitude": 61.8348155,
+          "longitude": -6.8175826
+        },
+        {
+          "name": {
+            "en": "Skálavík"
+          },
+          "latitude": 61.8302676,
+          "longitude": -6.664032
+        },
+        {
+          "name": {
+            "en": "Skopun"
+          },
+          "latitude": 62.0123,
+          "longitude": -6.9876
+        },
+        {
+          "name": {
+            "en": "Skúvoy"
+          },
+          "latitude": 61.7664432,
+          "longitude": -6.826962
+        }
+      ]
+    },
+    {
+      "code": "FO-ST",
+      "name": {
+        "en": "Streymoy"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Kvívík"
+          },
+          "latitude": 62.1456,
+          "longitude": -7.2098
+        },
+        {
+          "name": {
+            "en": "Sunda"
+          },
+          "latitude": 62.1345,
+          "longitude": -7.0987
+        },
+        {
+          "name": {
+            "en": "Tórshavn"
+          },
+          "latitude": 62,
+          "longitude": -7
+        },
+        {
+          "name": {
+            "en": "Vestmanna"
+          },
+          "latitude": 62.1567,
+          "longitude": -7.2345
+        }
+      ]
+    },
+    {
+      "code": "FO-SU",
+      "name": {
+        "en": "Suðuroy"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Fámjin"
+          },
+          "latitude": 61.5246866,
+          "longitude": -6.8792705
+        },
+        {
+          "name": {
+            "en": "Hov"
+          },
+          "latitude": 61.5069357,
+          "longitude": -6.7557422
+        },
+        {
+          "name": {
+            "en": "Hvalba"
+          },
+          "latitude": 61.5987,
+          "longitude": -6.9876
+        },
+        {
+          "name": {
+            "en": "Porkeri"
+          },
+          "latitude": 61.5432,
+          "longitude": -6.9876
+        },
+        {
+          "name": {
+            "en": "Sumba"
+          },
+          "latitude": 61.4033267,
+          "longitude": -6.7117361
+        },
+        {
+          "name": {
+            "en": "Tvøroyri"
+          },
+          "latitude": 61.5623,
+          "longitude": -6.778
+        },
+        {
+          "name": {
+            "en": "Vágur"
+          },
+          "latitude": 61.4789,
+          "longitude": -6.8101
+        }
+      ]
+    },
+    {
+      "code": "FO-VA",
+      "name": {
+        "en": "Vágar"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Sørvágur"
+          },
+          "latitude": 62.0654,
+          "longitude": -7.3787
+        },
+        {
+          "name": {
+            "en": "Vágar"
+          },
+          "latitude": 62.0667,
+          "longitude": -7.1
+        }
+      ]
+    }
+  ]
+}

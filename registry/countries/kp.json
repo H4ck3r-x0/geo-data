@@ -1,0 +1,678 @@
+{
+  "code": "KP",
+  "iso3": "PRK",
+  "name": {
+    "en": "North Korea",
+    "ar": "كوريا الشمالية",
+    "de": "Nordkorea",
+    "es": "Corea del Norte",
+    "fr": "Corée du Nord",
+    "hi": "उत्तर कोरिया",
+    "it": "Corea del Nord",
+    "ja": "朝鮮民主主義人民共和国",
+    "ko": "조선민주주의인민공화국",
+    "nl": "Noord-Korea",
+    "pl": "Korea Północna",
+    "pt": "Coreia do Norte",
+    "pt-BR": "Coreia do Norte",
+    "ru": "Северная Корея",
+    "tr": "Kuzey Kore",
+    "uk": "Північна Корея",
+    "zh": "朝鲜"
+  },
+  "phone": "+850",
+  "currency": "KPW",
+  "timezone": "Asia/Pyongyang",
+  "flag": "🇰🇵",
+  "regions": [
+    {
+      "code": "KP-04",
+      "name": {
+        "en": "Chagang"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Changgang-gun"
+          },
+          "latitude": 41.06333,
+          "longitude": 126.72556
+        },
+        {
+          "name": {
+            "en": "Chasŏng"
+          },
+          "latitude": 41.46083,
+          "longitude": 126.64139
+        },
+        {
+          "name": {
+            "en": "Kanggye"
+          },
+          "latitude": 40.96946,
+          "longitude": 126.58523
+        },
+        {
+          "name": {
+            "en": "Manp’o"
+          },
+          "latitude": 41.15472,
+          "longitude": 126.28944
+        }
+      ]
+    },
+    {
+      "code": "KP-07",
+      "name": {
+        "en": "Kangwon"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Anbyŏn-ŭp"
+          },
+          "latitude": 39.0425,
+          "longitude": 127.52389
+        },
+        {
+          "name": {
+            "en": "Hoeyang"
+          },
+          "latitude": 38.71028,
+          "longitude": 127.59833
+        },
+        {
+          "name": {
+            "en": "Kosan"
+          },
+          "latitude": 38.85583,
+          "longitude": 127.41806
+        },
+        {
+          "name": {
+            "en": "T’ongch’ŏn-ŭp"
+          },
+          "latitude": 38.95389,
+          "longitude": 127.89167
+        },
+        {
+          "name": {
+            "en": "Wŏnsan"
+          },
+          "latitude": 39.15278,
+          "longitude": 127.44361
+        }
+      ]
+    },
+    {
+      "code": "KP-09",
+      "name": {
+        "en": "North Hamgyong"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Aoji"
+          },
+          "latitude": 42.52448,
+          "longitude": 130.39718
+        },
+        {
+          "name": {
+            "en": "Chongjin"
+          },
+          "latitude": 41.79556,
+          "longitude": 129.77583
+        },
+        {
+          "name": {
+            "en": "Hau-ri"
+          },
+          "latitude": 41.20056,
+          "longitude": 129.47028
+        },
+        {
+          "name": {
+            "en": "Hoemul-li"
+          },
+          "latitude": 41.43389,
+          "longitude": 129.67
+        },
+        {
+          "name": {
+            "en": "Hoeryŏng"
+          },
+          "latitude": 42.44113,
+          "longitude": 129.74601
+        },
+        {
+          "name": {
+            "en": "Kilju"
+          },
+          "latitude": 40.96417,
+          "longitude": 129.32778
+        },
+        {
+          "name": {
+            "en": "Kimch’aek-si"
+          },
+          "latitude": 40.66889,
+          "longitude": 129.18972
+        },
+        {
+          "name": {
+            "en": "Komusan Il-tong"
+          },
+          "latitude": 42.10914,
+          "longitude": 129.69997
+        },
+        {
+          "name": {
+            "en": "Kyŏngsŏng"
+          },
+          "latitude": 41.58778,
+          "longitude": 129.60611
+        },
+        {
+          "name": {
+            "en": "Kyŏngwŏn"
+          },
+          "latitude": 42.81361,
+          "longitude": 130.15278
+        },
+        {
+          "name": {
+            "en": "Musan-ŭp"
+          },
+          "latitude": 42.22609,
+          "longitude": 129.20776
+        },
+        {
+          "name": {
+            "en": "Namyang-dong"
+          },
+          "latitude": 42.95,
+          "longitude": 129.86667
+        },
+        {
+          "name": {
+            "en": "Nanam"
+          },
+          "latitude": 41.71361,
+          "longitude": 129.68444
+        },
+        {
+          "name": {
+            "en": "Onsŏng"
+          },
+          "latitude": 42.95722,
+          "longitude": 129.99333
+        },
+        {
+          "name": {
+            "en": "Puryŏng"
+          },
+          "latitude": 42.06056,
+          "longitude": 129.71167
+        },
+        {
+          "name": {
+            "en": "Sŭngam-nodongjagu"
+          },
+          "latitude": 41.66972,
+          "longitude": 129.66889
+        }
+      ]
+    },
+    {
+      "code": "KP-06",
+      "name": {
+        "en": "North Hwanghae"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Anak"
+          },
+          "latitude": 38.51083,
+          "longitude": 125.49417
+        },
+        {
+          "name": {
+            "en": "Hŭkkyo-ri"
+          },
+          "latitude": 38.79861,
+          "longitude": 125.79194
+        },
+        {
+          "name": {
+            "en": "Hwangju-ŭp"
+          },
+          "latitude": 38.67028,
+          "longitude": 125.77611
+        },
+        {
+          "name": {
+            "en": "Koksan"
+          },
+          "latitude": 38.78194,
+          "longitude": 126.66639
+        },
+        {
+          "name": {
+            "en": "Sariwŏn"
+          },
+          "latitude": 38.50722,
+          "longitude": 125.75583
+        },
+        {
+          "name": {
+            "en": "Sinmak"
+          },
+          "latitude": 38.41667,
+          "longitude": 126.23333
+        },
+        {
+          "name": {
+            "en": "Songnim"
+          },
+          "latitude": 38.75417,
+          "longitude": 125.645
+        }
+      ]
+    },
+    {
+      "code": "KP-03",
+      "name": {
+        "en": "North Pyongan"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Chŏngju"
+          },
+          "latitude": 39.69333,
+          "longitude": 125.21028
+        },
+        {
+          "name": {
+            "en": "Chŏngju-gun"
+          },
+          "latitude": 39.70944,
+          "longitude": 125.25278
+        },
+        {
+          "name": {
+            "en": "Kujang-ŭp"
+          },
+          "latitude": 39.86722,
+          "longitude": 126.03028
+        },
+        {
+          "name": {
+            "en": "Kusŏng"
+          },
+          "latitude": 39.98111,
+          "longitude": 125.24472
+        },
+        {
+          "name": {
+            "en": "Kwaksan"
+          },
+          "latitude": 39.6875,
+          "longitude": 125.08278
+        },
+        {
+          "name": {
+            "en": "Panghyŏn-dong"
+          },
+          "latitude": 39.88722,
+          "longitude": 125.24139
+        },
+        {
+          "name": {
+            "en": "Pukchil-lodongjagu"
+          },
+          "latitude": 40.20194,
+          "longitude": 125.74833
+        },
+        {
+          "name": {
+            "en": "Sakchu-ŭp"
+          },
+          "latitude": 40.38944,
+          "longitude": 125.04667
+        },
+        {
+          "name": {
+            "en": "Sinŭiju"
+          },
+          "latitude": 40.10056,
+          "longitude": 124.39806
+        },
+        {
+          "name": {
+            "en": "Ŭiju"
+          },
+          "latitude": 40.19944,
+          "longitude": 124.53167
+        },
+        {
+          "name": {
+            "en": "Yŏmju-ŭp"
+          },
+          "latitude": 39.89333,
+          "longitude": 124.59806
+        },
+        {
+          "name": {
+            "en": "Yŏngbyŏn"
+          },
+          "latitude": 39.81333,
+          "longitude": 125.80417
+        }
+      ]
+    },
+    {
+      "code": "KP-01",
+      "name": {
+        "en": "Pyongyang"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Chunghwa"
+          },
+          "latitude": 38.86389,
+          "longitude": 125.8
+        },
+        {
+          "name": {
+            "en": "Kangdong-ŭp"
+          },
+          "latitude": 39.1425,
+          "longitude": 126.09611
+        },
+        {
+          "name": {
+            "en": "Pyongyang",
+            "ar": "بيونغيانغ"
+          },
+          "latitude": 39.03385,
+          "longitude": 125.75432
+        },
+        {
+          "name": {
+            "en": "Sunan"
+          },
+          "latitude": 39.19833,
+          "longitude": 125.69
+        },
+        {
+          "name": {
+            "en": "Sŭngho 1-tong"
+          },
+          "latitude": 38.99139,
+          "longitude": 125.97778
+        }
+      ]
+    },
+    {
+      "code": "KP-13",
+      "name": {
+        "en": "Rason"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Sŏnbong"
+          },
+          "latitude": 42.35118,
+          "longitude": 130.38307
+        },
+        {
+          "name": {
+            "en": "Ungsang-nodongjagu"
+          },
+          "latitude": 42.35778,
+          "longitude": 130.46222
+        }
+      ]
+    },
+    {
+      "code": "KP-10",
+      "name": {
+        "en": "Ryanggang"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Hyesan"
+          },
+          "latitude": 41.40167,
+          "longitude": 128.17778
+        },
+        {
+          "name": {
+            "en": "Hyesan-dong"
+          },
+          "latitude": 41.39756,
+          "longitude": 128.17873
+        },
+        {
+          "name": {
+            "en": "Kapsan-ŭp"
+          },
+          "latitude": 41.09028,
+          "longitude": 128.29333
+        },
+        {
+          "name": {
+            "en": "Sŭngjibaegam"
+          },
+          "latitude": 41.24278,
+          "longitude": 128.79889
+        }
+      ]
+    },
+    {
+      "code": "KP-08",
+      "name": {
+        "en": "South Hamgyong"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Hamhŭng"
+          },
+          "latitude": 39.91833,
+          "longitude": 127.53639
+        },
+        {
+          "name": {
+            "en": "Hongwŏn"
+          },
+          "latitude": 40.02528,
+          "longitude": 127.95583
+        },
+        {
+          "name": {
+            "en": "Hŭngnam"
+          },
+          "latitude": 39.83167,
+          "longitude": 127.61861
+        },
+        {
+          "name": {
+            "en": "Iwŏn-ŭp"
+          },
+          "latitude": 40.32306,
+          "longitude": 128.65528
+        },
+        {
+          "name": {
+            "en": "Kowŏn-ŭp"
+          },
+          "latitude": 39.43806,
+          "longitude": 127.24306
+        },
+        {
+          "name": {
+            "en": "Samho-rodongjagu"
+          },
+          "latitude": 39.9475,
+          "longitude": 127.87111
+        },
+        {
+          "name": {
+            "en": "Sinsang-ni"
+          },
+          "latitude": 39.65028,
+          "longitude": 127.40583
+        },
+        {
+          "name": {
+            "en": "Yŏnggwang-ŭp"
+          },
+          "latitude": 40.01833,
+          "longitude": 127.45472
+        },
+        {
+          "name": {
+            "en": "Yuktae-dong"
+          },
+          "latitude": 40.02472,
+          "longitude": 128.15972
+        }
+      ]
+    },
+    {
+      "code": "KP-05",
+      "name": {
+        "en": "South Hwanghae"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ayang-ni"
+          },
+          "latitude": 38.24306,
+          "longitude": 125.78
+        },
+        {
+          "name": {
+            "en": "Chaeryŏng-ŭp"
+          },
+          "latitude": 38.39917,
+          "longitude": 125.61556
+        },
+        {
+          "name": {
+            "en": "Changyŏn"
+          },
+          "latitude": 38.25083,
+          "longitude": 125.09611
+        },
+        {
+          "name": {
+            "en": "Haeju"
+          },
+          "latitude": 38.04056,
+          "longitude": 125.71472
+        },
+        {
+          "name": {
+            "en": "Kaesŏng"
+          },
+          "latitude": 37.97083,
+          "longitude": 126.55444
+        },
+        {
+          "name": {
+            "en": "Ongjin"
+          },
+          "latitude": 37.93472,
+          "longitude": 125.36194
+        },
+        {
+          "name": {
+            "en": "Pyŏksŏng-ŭp"
+          },
+          "latitude": 38.0475,
+          "longitude": 125.55667
+        },
+        {
+          "name": {
+            "en": "Yŏnan-ŭp"
+          },
+          "latitude": 37.90889,
+          "longitude": 126.16111
+        }
+      ]
+    },
+    {
+      "code": "KP-02",
+      "name": {
+        "en": "South Pyongan"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Anju"
+          },
+          "latitude": 39.61778,
+          "longitude": 125.66472
+        },
+        {
+          "name": {
+            "en": "Namp’o"
+          },
+          "latitude": 38.7375,
+          "longitude": 125.40778
+        },
+        {
+          "name": {
+            "en": "P’yŏngsŏng"
+          },
+          "latitude": 39.24639,
+          "longitude": 125.87194
+        },
+        {
+          "name": {
+            "en": "Sangsŏng-ni"
+          },
+          "latitude": 39.16944,
+          "longitude": 126.88556
+        },
+        {
+          "name": {
+            "en": "Sil-li"
+          },
+          "latitude": 39.49472,
+          "longitude": 125.47361
+        },
+        {
+          "name": {
+            "en": "Sinanju"
+          },
+          "latitude": 39.59806,
+          "longitude": 125.60972
+        },
+        {
+          "name": {
+            "en": "Sunch’ŏn"
+          },
+          "latitude": 39.43167,
+          "longitude": 125.93278
+        },
+        {
+          "name": {
+            "en": "Yonggang-ŭp"
+          },
+          "latitude": 38.85611,
+          "longitude": 125.42444
+        }
+      ]
+    }
+  ]
+}

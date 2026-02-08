@@ -1,0 +1,157 @@
+{
+  "code": "BM",
+  "iso3": "BMU",
+  "name": {
+    "en": "Bermuda",
+    "ar": "برمودا",
+    "de": "Bermuda",
+    "es": "Bermudas",
+    "fr": "Bermudes",
+    "hi": "बरमूडा",
+    "it": "Bermuda",
+    "ja": "バミューダ",
+    "ko": "버뮤다",
+    "nl": "Bermuda",
+    "pl": "Bermudy",
+    "pt": "Bermudas",
+    "pt-BR": "Bermudas",
+    "ru": "Бермуды",
+    "tr": "Bermuda",
+    "uk": "Бермудські острови",
+    "zh": "百慕大"
+  },
+  "phone": "+1",
+  "currency": "BMD",
+  "timezone": "Atlantic/Bermuda",
+  "flag": "🇧🇲",
+  "regions": [
+    {
+      "code": "BM-DEV",
+      "name": {
+        "en": "Devonshire"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Devonshire"
+          },
+          "latitude": 32.293,
+          "longitude": -64.8
+        }
+      ]
+    },
+    {
+      "code": "BM-HA",
+      "name": {
+        "en": "Hamilton"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Hamilton",
+            "ar": "هاميلتون"
+          },
+          "latitude": 32.294,
+          "longitude": -64.783
+        }
+      ]
+    },
+    {
+      "code": "BM-PAG",
+      "name": {
+        "en": "Paget"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Paget"
+          },
+          "latitude": 32.278,
+          "longitude": -64.769
+        }
+      ]
+    },
+    {
+      "code": "BM-SGE",
+      "name": {
+        "en": "Saint George's"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "St. George's"
+          },
+          "latitude": 32.381,
+          "longitude": -64.674
+        },
+        {
+          "name": {
+            "en": "Tucker’s Town"
+          },
+          "latitude": 32.3328,
+          "longitude": -64.6881
+        }
+      ]
+    },
+    {
+      "code": "BM-SAN",
+      "name": {
+        "en": "Sandys"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Somerset"
+          },
+          "latitude": 32.282,
+          "longitude": -64.844
+        }
+      ]
+    },
+    {
+      "code": "BM-SMI",
+      "name": {
+        "en": "Smith's"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Flatts"
+          },
+          "latitude": 32.328,
+          "longitude": -64.736
+        }
+      ]
+    },
+    {
+      "code": "BM-SOU",
+      "name": {
+        "en": "Southampton"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Southampton"
+          },
+          "latitude": 32.249,
+          "longitude": -64.861
+        }
+      ]
+    },
+    {
+      "code": "BM-WAR",
+      "name": {
+        "en": "Warwick"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Warwick"
+          },
+          "latitude": 32.267,
+          "longitude": -64.806
+        }
+      ]
+    }
+  ]
+}

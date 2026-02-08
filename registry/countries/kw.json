@@ -1,0 +1,270 @@
+{
+  "code": "KW",
+  "iso3": "KWT",
+  "name": {
+    "en": "Kuwait",
+    "ar": "الكويت",
+    "de": "Kuwait",
+    "es": "Kuwait",
+    "fr": "Koweït",
+    "hi": "कुवैट",
+    "it": "Kuwait",
+    "ja": "クウェート",
+    "ko": "쿠웨이트",
+    "nl": "Koeweit",
+    "pl": "Kuwejt",
+    "pt": "Kuwait",
+    "pt-BR": "Kuwait",
+    "ru": "Кувейт",
+    "tr": "Kuveyt",
+    "uk": "Кувейт",
+    "zh": "科威特"
+  },
+  "phone": "+965",
+  "currency": "KWD",
+  "timezone": "Asia/Kuwait",
+  "flag": "🇰🇼",
+  "regions": [
+    {
+      "code": "KW-AH",
+      "name": {
+        "en": "Al Ahmadi"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Al Aḩmadī",
+            "ar": "اَلأَحْمَدِي"
+          },
+          "latitude": 29.07694,
+          "longitude": 48.08389
+        },
+        {
+          "name": {
+            "en": "Al Faḩāḩīl",
+            "ar": "اَلْفُحَيْحِيل"
+          },
+          "latitude": 29.0825,
+          "longitude": 48.13028
+        },
+        {
+          "name": {
+            "en": "Al Finţās",
+            "ar": "اَلْفِنْطَاس"
+          },
+          "latitude": 29.17389,
+          "longitude": 48.12111
+        },
+        {
+          "name": {
+            "en": "Al Mahbūlah",
+            "ar": "اَلْمَهْبُولَة"
+          },
+          "latitude": 29.145,
+          "longitude": 48.13028
+        },
+        {
+          "name": {
+            "en": "Al Manqaf",
+            "ar": "اَلْمَنْقَف"
+          },
+          "latitude": 29.09611,
+          "longitude": 48.13278
+        },
+        {
+          "name": {
+            "en": "Al Wafrah"
+          },
+          "latitude": 28.63917,
+          "longitude": 47.93056
+        },
+        {
+          "name": {
+            "en": "Ar Riqqah",
+            "ar": "اَلرِّقَّة"
+          },
+          "latitude": 29.14583,
+          "longitude": 48.09472
+        }
+      ]
+    },
+    {
+      "code": "KW-KU",
+      "name": {
+        "en": "Al Asimah"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ad Dasmah",
+            "ar": "اَلدَّسْمَة"
+          },
+          "latitude": 29.365,
+          "longitude": 48.00139
+        },
+        {
+          "name": {
+            "en": "Ar Rābiyah",
+            "ar": "اَلرَّابِيَة"
+          },
+          "latitude": 29.295,
+          "longitude": 47.93306
+        },
+        {
+          "name": {
+            "en": "Ash Shāmīyah"
+          },
+          "latitude": 29.34722,
+          "longitude": 47.96167
+        },
+        {
+          "name": {
+            "en": "Az Zawr"
+          },
+          "latitude": 29.4425,
+          "longitude": 48.27472
+        },
+        {
+          "name": {
+            "en": "Kuwait City",
+            "ar": "مدينة الكويت"
+          },
+          "latitude": 29.36972,
+          "longitude": 47.97833
+        }
+      ]
+    },
+    {
+      "code": "KW-FA",
+      "name": {
+        "en": "Al Farwaniyah"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Al Farwānīyah",
+            "ar": "اَلْفَرْوَانِيَّة"
+          },
+          "latitude": 29.2775,
+          "longitude": 47.95861
+        },
+        {
+          "name": {
+            "en": "Janūb as Surrah",
+            "ar": "جَنُوب اَلسُّرَّة"
+          },
+          "latitude": 29.26917,
+          "longitude": 47.97806
+        }
+      ]
+    },
+    {
+      "code": "KW-JA",
+      "name": {
+        "en": "Al Jahra"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Al Jahrā’",
+            "ar": "اَلْجَهْرَاء"
+          },
+          "latitude": 29.3375,
+          "longitude": 47.65806
+        }
+      ]
+    },
+    {
+      "code": "KW-HA",
+      "name": {
+        "en": "Hawalli"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ar Rumaythīyah",
+            "ar": "اَلرُّمَيْثِيَّة"
+          },
+          "latitude": 29.31167,
+          "longitude": 48.07417
+        },
+        {
+          "name": {
+            "en": "As Sālimīyah",
+            "ar": "اَلسَّالِمِيَّة"
+          },
+          "latitude": 29.33389,
+          "longitude": 48.07611
+        },
+        {
+          "name": {
+            "en": "Bayān",
+            "ar": "بَيَان"
+          },
+          "latitude": 29.3032,
+          "longitude": 48.04881
+        },
+        {
+          "name": {
+            "en": "Ḩawallī",
+            "ar": "حَوَلِّي"
+          },
+          "latitude": 29.33278,
+          "longitude": 48.02861
+        },
+        {
+          "name": {
+            "en": "Salwá",
+            "ar": "سَلْوَى"
+          },
+          "latitude": 29.29583,
+          "longitude": 48.07861
+        }
+      ]
+    },
+    {
+      "code": "KW-MU",
+      "name": {
+        "en": "Mubarak Al-Kabeer"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Abu Al Hasaniya"
+          },
+          "latitude": 29.19076,
+          "longitude": 48.11355
+        },
+        {
+          "name": {
+            "en": "Abu Fatira"
+          },
+          "latitude": 29.19746,
+          "longitude": 48.10278
+        },
+        {
+          "name": {
+            "en": "Al Funayţīs"
+          },
+          "latitude": 29.22528,
+          "longitude": 48.10167
+        },
+        {
+          "name": {
+            "en": "Al-Masayel"
+          },
+          "latitude": 29.2393,
+          "longitude": 48.08862
+        },
+        {
+          "name": {
+            "en": "Şabāḩ as Sālim",
+            "ar": "صَبَاح اَلسَّالِم"
+          },
+          "latitude": 29.25722,
+          "longitude": 48.05722
+        }
+      ]
+    }
+  ]
+}

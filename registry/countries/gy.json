@@ -1,0 +1,208 @@
+{
+  "code": "GY",
+  "iso3": "GUY",
+  "name": {
+    "en": "Guyana",
+    "ar": "غيانا",
+    "de": "Guyana",
+    "es": "Guyana",
+    "fr": "Guyane",
+    "hi": "गुयाना",
+    "it": "Guyana",
+    "ja": "ガイアナ",
+    "ko": "가이아나",
+    "nl": "Guyana",
+    "pl": "Gujana",
+    "pt": "Guiana",
+    "pt-BR": "Guiana",
+    "ru": "Гайана",
+    "tr": "Guyana",
+    "uk": "Гайана",
+    "zh": "圭亚那"
+  },
+  "phone": "+592",
+  "currency": "GYD",
+  "timezone": "America/Guyana",
+  "flag": "🇬🇾",
+  "regions": [
+    {
+      "code": "GY-BA",
+      "name": {
+        "en": "Barima-Waini"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Mabaruma"
+          },
+          "latitude": 8.2,
+          "longitude": -59.78333
+        }
+      ]
+    },
+    {
+      "code": "GY-CU",
+      "name": {
+        "en": "Cuyuni-Mazaruni"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bartica"
+          },
+          "latitude": 6.40799,
+          "longitude": -58.62192
+        }
+      ]
+    },
+    {
+      "code": "GY-DE",
+      "name": {
+        "en": "Demerara-Mahaica"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Georgetown",
+            "ar": "جورج توغن"
+          },
+          "latitude": 6.80448,
+          "longitude": -58.15527
+        },
+        {
+          "name": {
+            "en": "Mahaica Village"
+          },
+          "latitude": 6.68405,
+          "longitude": -57.92181
+        }
+      ]
+    },
+    {
+      "code": "GY-EB",
+      "name": {
+        "en": "East Berbice-Corentyne"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "New Amsterdam"
+          },
+          "latitude": 6.24793,
+          "longitude": -57.5171
+        },
+        {
+          "name": {
+            "en": "Skeldon"
+          },
+          "latitude": 5.88333,
+          "longitude": -57.13333
+        }
+      ]
+    },
+    {
+      "code": "GY-ES",
+      "name": {
+        "en": "Essequibo Islands-West Demerara"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Parika"
+          },
+          "latitude": 6.83712,
+          "longitude": -58.42941
+        },
+        {
+          "name": {
+            "en": "Vreed-en-Hoop"
+          },
+          "latitude": 6.80927,
+          "longitude": -58.19798
+        }
+      ]
+    },
+    {
+      "code": "GY-MA",
+      "name": {
+        "en": "Mahaica-Berbice"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Mahaicony Village"
+          },
+          "latitude": 6.57633,
+          "longitude": -57.80486
+        },
+        {
+          "name": {
+            "en": "Rosignol"
+          },
+          "latitude": 6.27095,
+          "longitude": -57.53697
+        }
+      ]
+    },
+    {
+      "code": "GY-PM",
+      "name": {
+        "en": "Pomeroon-Supenaam"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Anna Regina"
+          },
+          "latitude": 7.26439,
+          "longitude": -58.50769
+        }
+      ]
+    },
+    {
+      "code": "GY-PT",
+      "name": {
+        "en": "Potaro-Siparuni"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Mahdia"
+          },
+          "latitude": 5.26667,
+          "longitude": -59.15
+        }
+      ]
+    },
+    {
+      "code": "GY-UD",
+      "name": {
+        "en": "Upper Demerara-Berbice"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Linden"
+          },
+          "latitude": 6.00809,
+          "longitude": -58.30714
+        }
+      ]
+    },
+    {
+      "code": "GY-UT",
+      "name": {
+        "en": "Upper Takutu-Upper Essequibo"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Lethem"
+          },
+          "latitude": 3.38333,
+          "longitude": -59.8
+        }
+      ]
+    }
+  ]
+}

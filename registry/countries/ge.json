@@ -1,0 +1,897 @@
+{
+  "code": "GE",
+  "iso3": "GEO",
+  "name": {
+    "en": "Georgia",
+    "ar": "جورجيا",
+    "de": "Georgien",
+    "es": "Georgia",
+    "fr": "Géorgie",
+    "hi": "जॉर्जिया",
+    "it": "Georgia",
+    "ja": "グルジア",
+    "ko": "조지아",
+    "nl": "Georgië",
+    "pl": "Gruzja",
+    "pt": "Geórgia",
+    "pt-BR": "Geórgia",
+    "ru": "Джорджия",
+    "tr": "Gürcistan",
+    "uk": "Грузія",
+    "zh": "格鲁吉亚"
+  },
+  "phone": "+995",
+  "currency": "GEL",
+  "timezone": "Asia/Tbilisi",
+  "flag": "🇬🇪",
+  "regions": [
+    {
+      "code": "GE-AB",
+      "name": {
+        "en": "Abkhazia"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bich’vinta"
+          },
+          "latitude": 43.16197,
+          "longitude": 40.34102
+        },
+        {
+          "name": {
+            "en": "Dranda"
+          },
+          "latitude": 42.87167,
+          "longitude": 41.15333
+        },
+        {
+          "name": {
+            "en": "Gagra"
+          },
+          "latitude": 43.27858,
+          "longitude": 40.27124
+        },
+        {
+          "name": {
+            "en": "Gali"
+          },
+          "latitude": 42.62655,
+          "longitude": 41.73808
+        },
+        {
+          "name": {
+            "en": "Gantiadi"
+          },
+          "latitude": 43.38111,
+          "longitude": 40.07944
+        },
+        {
+          "name": {
+            "en": "Gudauta"
+          },
+          "latitude": 43.10547,
+          "longitude": 40.62067
+        },
+        {
+          "name": {
+            "en": "Kelasuri"
+          },
+          "latitude": 42.97877,
+          "longitude": 41.07067
+        },
+        {
+          "name": {
+            "en": "Och’amch’ire"
+          },
+          "latitude": 42.71232,
+          "longitude": 41.46863
+        },
+        {
+          "name": {
+            "en": "P’rimorsk’oe"
+          },
+          "latitude": 43.09236,
+          "longitude": 40.6965
+        },
+        {
+          "name": {
+            "en": "Sokhumi"
+          },
+          "latitude": 43.00697,
+          "longitude": 40.9893
+        },
+        {
+          "name": {
+            "en": "Stantsiya Novyy Afon"
+          },
+          "latitude": 43.08056,
+          "longitude": 40.83833
+        },
+        {
+          "name": {
+            "en": "Tqvarch'eli"
+          },
+          "latitude": 42.84035,
+          "longitude": 41.68007
+        }
+      ]
+    },
+    {
+      "code": "GE-AJ",
+      "name": {
+        "en": "Adjara"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Akhaldaba"
+          },
+          "latitude": 41.65395,
+          "longitude": 42.15163
+        },
+        {
+          "name": {
+            "en": "Batumi",
+            "ar": "باطومي"
+          },
+          "latitude": 41.64228,
+          "longitude": 41.63392
+        },
+        {
+          "name": {
+            "en": "Chakvi"
+          },
+          "latitude": 41.72528,
+          "longitude": 41.73278
+        },
+        {
+          "name": {
+            "en": "Dioknisi"
+          },
+          "latitude": 41.62933,
+          "longitude": 42.39171
+        },
+        {
+          "name": {
+            "en": "Khelvachauri"
+          },
+          "latitude": 41.58556,
+          "longitude": 41.66889
+        },
+        {
+          "name": {
+            "en": "Khulo"
+          },
+          "latitude": 41.64353,
+          "longitude": 42.30397
+        },
+        {
+          "name": {
+            "en": "Kobuleti"
+          },
+          "latitude": 41.82143,
+          "longitude": 41.77921
+        },
+        {
+          "name": {
+            "en": "Makhinjauri"
+          },
+          "latitude": 41.67385,
+          "longitude": 41.69401
+        },
+        {
+          "name": {
+            "en": "Ochkhamuri"
+          },
+          "latitude": 41.85975,
+          "longitude": 41.85309
+        },
+        {
+          "name": {
+            "en": "Shuakhevi"
+          },
+          "latitude": 41.63,
+          "longitude": 42.19083
+        },
+        {
+          "name": {
+            "en": "Tsikhisdziri"
+          },
+          "latitude": 41.76659,
+          "longitude": 41.75517
+        }
+      ]
+    },
+    {
+      "code": "GE-GU",
+      "name": {
+        "en": "Guria"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Lanchkhuti"
+          },
+          "latitude": 42.09027,
+          "longitude": 42.03239
+        },
+        {
+          "name": {
+            "en": "Naruja"
+          },
+          "latitude": 41.90694,
+          "longitude": 41.95417
+        },
+        {
+          "name": {
+            "en": "Ozurgeti"
+          },
+          "latitude": 41.92442,
+          "longitude": 42.00682
+        },
+        {
+          "name": {
+            "en": "Urek’i"
+          },
+          "latitude": 41.99556,
+          "longitude": 41.77861
+        }
+      ]
+    },
+    {
+      "code": "GE-IM",
+      "name": {
+        "en": "Imereti"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Baghdatis Munitsip’alit’et’i"
+          },
+          "latitude": 42,
+          "longitude": 42.9
+        },
+        {
+          "name": {
+            "en": "Chiat’ura"
+          },
+          "latitude": 42.29806,
+          "longitude": 43.29889
+        },
+        {
+          "name": {
+            "en": "K’alak’i Chiat’ura"
+          },
+          "latitude": 42.28333,
+          "longitude": 43.25
+        },
+        {
+          "name": {
+            "en": "K’ulashi"
+          },
+          "latitude": 42.20405,
+          "longitude": 42.34289
+        },
+        {
+          "name": {
+            "en": "Kharagauli"
+          },
+          "latitude": 42.02137,
+          "longitude": 43.19773
+        },
+        {
+          "name": {
+            "en": "Khoni"
+          },
+          "latitude": 42.3226,
+          "longitude": 42.42061
+        },
+        {
+          "name": {
+            "en": "Kutaisi"
+          },
+          "latitude": 42.26791,
+          "longitude": 42.69459
+        },
+        {
+          "name": {
+            "en": "Sach’khere"
+          },
+          "latitude": 42.34528,
+          "longitude": 43.41944
+        },
+        {
+          "name": {
+            "en": "Samtredia"
+          },
+          "latitude": 42.1537,
+          "longitude": 42.33517
+        },
+        {
+          "name": {
+            "en": "Shorapani"
+          },
+          "latitude": 42.0898,
+          "longitude": 43.08662
+        },
+        {
+          "name": {
+            "en": "Tqibuli"
+          },
+          "latitude": 42.35121,
+          "longitude": 42.99874
+        },
+        {
+          "name": {
+            "en": "Tsqaltubo"
+          },
+          "latitude": 42.34129,
+          "longitude": 42.5976
+        },
+        {
+          "name": {
+            "en": "Vani"
+          },
+          "latitude": 42.0832,
+          "longitude": 42.52163
+        },
+        {
+          "name": {
+            "en": "Zestap’oni"
+          },
+          "latitude": 42.11,
+          "longitude": 43.0525
+        }
+      ]
+    },
+    {
+      "code": "GE-KA",
+      "name": {
+        "en": "Kakheti"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Akhmeta"
+          },
+          "latitude": 42.03111,
+          "longitude": 45.2075
+        },
+        {
+          "name": {
+            "en": "Gurjaani"
+          },
+          "latitude": 41.74292,
+          "longitude": 45.80111
+        },
+        {
+          "name": {
+            "en": "Lagodekhi"
+          },
+          "latitude": 41.82681,
+          "longitude": 46.27667
+        },
+        {
+          "name": {
+            "en": "Qvareli"
+          },
+          "latitude": 41.95493,
+          "longitude": 45.81716
+        },
+        {
+          "name": {
+            "en": "Sagarejo"
+          },
+          "latitude": 41.73397,
+          "longitude": 45.33149
+        },
+        {
+          "name": {
+            "en": "Sighnaghi"
+          },
+          "latitude": 41.62046,
+          "longitude": 45.92198
+        },
+        {
+          "name": {
+            "en": "Telavi"
+          },
+          "latitude": 41.91978,
+          "longitude": 45.47315
+        },
+        {
+          "name": {
+            "en": "Tsinandali"
+          },
+          "latitude": 41.89315,
+          "longitude": 45.57129
+        },
+        {
+          "name": {
+            "en": "Tsnori"
+          },
+          "latitude": 41.62088,
+          "longitude": 45.96943
+        }
+      ]
+    },
+    {
+      "code": "GE-KK",
+      "name": {
+        "en": "Kvemo Kartli"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bolnisi"
+          },
+          "latitude": 41.44794,
+          "longitude": 44.53838
+        },
+        {
+          "name": {
+            "en": "Bolnisis Munitsip’alit’et’i"
+          },
+          "latitude": 41.36667,
+          "longitude": 44.51667
+        },
+        {
+          "name": {
+            "en": "Didi Lilo"
+          },
+          "latitude": 41.73611,
+          "longitude": 44.96472
+        },
+        {
+          "name": {
+            "en": "Dmanisis Munitsip’alit’et’i"
+          },
+          "latitude": 41.35,
+          "longitude": 44.13333
+        },
+        {
+          "name": {
+            "en": "Gardabani"
+          },
+          "latitude": 41.46054,
+          "longitude": 45.09283
+        },
+        {
+          "name": {
+            "en": "Gardabnis Munitsip’alit’et’i"
+          },
+          "latitude": 41.61667,
+          "longitude": 45
+        },
+        {
+          "name": {
+            "en": "Manglisi"
+          },
+          "latitude": 41.69698,
+          "longitude": 44.38448
+        },
+        {
+          "name": {
+            "en": "Marneuli"
+          },
+          "latitude": 41.47588,
+          "longitude": 44.80895
+        },
+        {
+          "name": {
+            "en": "Marneulis Munitsip’alit’et’i"
+          },
+          "latitude": 41.38333,
+          "longitude": 44.85
+        },
+        {
+          "name": {
+            "en": "Naghvarevi"
+          },
+          "latitude": 41.35272,
+          "longitude": 44.76178
+        },
+        {
+          "name": {
+            "en": "Rust’avi"
+          },
+          "latitude": 41.54949,
+          "longitude": 44.99323
+        },
+        {
+          "name": {
+            "en": "T’et’ri Tsqaro"
+          },
+          "latitude": 41.54448,
+          "longitude": 44.46153
+        },
+        {
+          "name": {
+            "en": "Tetrits’q’alos Munitsip’alit’et’i"
+          },
+          "latitude": 41.6,
+          "longitude": 44.5
+        },
+        {
+          "name": {
+            "en": "Ts’alk’is Munitsip’alit’et’i"
+          },
+          "latitude": 41.63333,
+          "longitude": 43.96667
+        },
+        {
+          "name": {
+            "en": "Tsalka"
+          },
+          "latitude": 41.5946,
+          "longitude": 44.08909
+        }
+      ]
+    },
+    {
+      "code": "GE-MM",
+      "name": {
+        "en": "Mtskheta-Mtianeti"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Akhalgori"
+          },
+          "latitude": 42.12597,
+          "longitude": 44.48333
+        },
+        {
+          "name": {
+            "en": "Dzegvi"
+          },
+          "latitude": 41.84569,
+          "longitude": 44.60097
+        },
+        {
+          "name": {
+            "en": "Gudauri"
+          },
+          "latitude": 42.47797,
+          "longitude": 44.47616
+        },
+        {
+          "name": {
+            "en": "Java"
+          },
+          "latitude": 42.39972,
+          "longitude": 43.93667
+        },
+        {
+          "name": {
+            "en": "Mtskheta"
+          },
+          "latitude": 41.84514,
+          "longitude": 44.71875
+        },
+        {
+          "name": {
+            "en": "P’asanauri"
+          },
+          "latitude": 42.3506,
+          "longitude": 44.68912
+        },
+        {
+          "name": {
+            "en": "Step’antsminda"
+          },
+          "latitude": 42.65667,
+          "longitude": 44.64333
+        },
+        {
+          "name": {
+            "en": "Zhinvali"
+          },
+          "latitude": 42.13181,
+          "longitude": 44.77264
+        }
+      ]
+    },
+    {
+      "code": "GE-RL",
+      "name": {
+        "en": "Racha-Lechkhumi and Kvemo Svaneti"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ambrolauri"
+          },
+          "latitude": 42.52111,
+          "longitude": 43.16222
+        },
+        {
+          "name": {
+            "en": "Ambrolauris Munitsip’alit’et’i"
+          },
+          "latitude": 42.56667,
+          "longitude": 43.1
+        },
+        {
+          "name": {
+            "en": "Lent’ekhi"
+          },
+          "latitude": 42.78893,
+          "longitude": 42.72226
+        },
+        {
+          "name": {
+            "en": "Oni"
+          },
+          "latitude": 42.57944,
+          "longitude": 43.4425
+        }
+      ]
+    },
+    {
+      "code": "GE-SZ",
+      "name": {
+        "en": "Samegrelo-Zemo Svaneti"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Abasha"
+          },
+          "latitude": 42.2049284,
+          "longitude": 42.2033321
+        },
+        {
+          "name": {
+            "en": "Jvari"
+          },
+          "latitude": 42.71693,
+          "longitude": 42.052
+        },
+        {
+          "name": {
+            "en": "Khobi"
+          },
+          "latitude": 42.31558,
+          "longitude": 41.89871
+        },
+        {
+          "name": {
+            "en": "Kveda Chkhorots’q’u"
+          },
+          "latitude": 42.48103,
+          "longitude": 42.09661
+        },
+        {
+          "name": {
+            "en": "Mart’vili"
+          },
+          "latitude": 42.41436,
+          "longitude": 42.37924
+        },
+        {
+          "name": {
+            "en": "Mest’ia"
+          },
+          "latitude": 43.04581,
+          "longitude": 42.7278
+        },
+        {
+          "name": {
+            "en": "Mest’iis Munitsip’alit’et’i"
+          },
+          "latitude": 43.05,
+          "longitude": 42.55
+        },
+        {
+          "name": {
+            "en": "Orsant’ia"
+          },
+          "latitude": 42.46777,
+          "longitude": 41.67377
+        },
+        {
+          "name": {
+            "en": "P’ot’i"
+          },
+          "latitude": 42.14616,
+          "longitude": 41.67197
+        },
+        {
+          "name": {
+            "en": "Senak’i"
+          },
+          "latitude": 42.27042,
+          "longitude": 42.0675
+        },
+        {
+          "name": {
+            "en": "Tsalenjikha"
+          },
+          "latitude": 42.60444,
+          "longitude": 42.06825
+        },
+        {
+          "name": {
+            "en": "Zugdidi"
+          },
+          "latitude": 42.5088,
+          "longitude": 41.87088
+        }
+      ]
+    },
+    {
+      "code": "GE-SJ",
+      "name": {
+        "en": "Samtskhe-Javakheti"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Adigeni"
+          },
+          "latitude": 41.68191,
+          "longitude": 42.69867
+        },
+        {
+          "name": {
+            "en": "Adigeni Municipality"
+          },
+          "latitude": 41.71667,
+          "longitude": 42.73333
+        },
+        {
+          "name": {
+            "en": "Akhaldaba"
+          },
+          "latitude": 41.92945,
+          "longitude": 43.48762
+        },
+        {
+          "name": {
+            "en": "Akhalk’alak’i"
+          },
+          "latitude": 41.40514,
+          "longitude": 43.48629
+        },
+        {
+          "name": {
+            "en": "Akhaltsikhe"
+          },
+          "latitude": 41.63901,
+          "longitude": 42.98262
+        },
+        {
+          "name": {
+            "en": "Akhaltsikhis Munitsip’alit’et’i"
+          },
+          "latitude": 41.63333,
+          "longitude": 43
+        },
+        {
+          "name": {
+            "en": "Asp’indzis Munitsip’alit’et’i"
+          },
+          "latitude": 41.5,
+          "longitude": 43.25
+        },
+        {
+          "name": {
+            "en": "Aspindza"
+          },
+          "latitude": 41.57389,
+          "longitude": 43.24826
+        },
+        {
+          "name": {
+            "en": "Bakuriani"
+          },
+          "latitude": 41.74972,
+          "longitude": 43.5325
+        },
+        {
+          "name": {
+            "en": "Borjomi"
+          },
+          "latitude": 41.85272,
+          "longitude": 43.41284
+        },
+        {
+          "name": {
+            "en": "Ninotsminda"
+          },
+          "latitude": 41.26458,
+          "longitude": 43.59161
+        },
+        {
+          "name": {
+            "en": "Tsaghveri"
+          },
+          "latitude": 41.80365,
+          "longitude": 43.48194
+        },
+        {
+          "name": {
+            "en": "Vale"
+          },
+          "latitude": 41.61558,
+          "longitude": 42.87224
+        }
+      ]
+    },
+    {
+      "code": "GE-SK",
+      "name": {
+        "en": "Shida Kartli"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Agara"
+          },
+          "latitude": 42.03761,
+          "longitude": 43.82382
+        },
+        {
+          "name": {
+            "en": "Gori"
+          },
+          "latitude": 41.98422,
+          "longitude": 44.11578
+        },
+        {
+          "name": {
+            "en": "Goris Munitsip’alit’et’i"
+          },
+          "latitude": 42.06667,
+          "longitude": 44.11667
+        },
+        {
+          "name": {
+            "en": "Kaspi"
+          },
+          "latitude": 41.9252,
+          "longitude": 44.42568
+        },
+        {
+          "name": {
+            "en": "Khashuri"
+          },
+          "latitude": 41.99414,
+          "longitude": 43.59994
+        },
+        {
+          "name": {
+            "en": "Surami"
+          },
+          "latitude": 42.02431,
+          "longitude": 43.55556
+        },
+        {
+          "name": {
+            "en": "Ts’khinvali"
+          },
+          "latitude": 42.22764,
+          "longitude": 43.96861
+        }
+      ]
+    },
+    {
+      "code": "GE-TB",
+      "name": {
+        "en": "Tbilisi"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Tbilisi",
+            "ar": "تبليسي"
+          },
+          "latitude": 41.69411,
+          "longitude": 44.83368
+        }
+      ]
+    }
+  ]
+}

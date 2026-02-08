@@ -1,0 +1,7859 @@
+{
+  "code": "CA",
+  "iso3": "CAN",
+  "name": {
+    "en": "Canada",
+    "ar": "كندا",
+    "de": "Kanada",
+    "es": "Canadá",
+    "fr": "Canada",
+    "hi": "कनाडा",
+    "it": "Canada",
+    "ja": "カナダ",
+    "ko": "캐나다",
+    "nl": "Canada",
+    "pl": "Kanada",
+    "pt": "Canadá",
+    "pt-BR": "Canadá",
+    "ru": "Канада",
+    "tr": "Kanada",
+    "uk": "Канада",
+    "zh": "加拿大"
+  },
+  "phone": "+1",
+  "currency": "CAD",
+  "timezone": "America/Atikokan",
+  "flag": "🇨🇦",
+  "regions": [
+    {
+      "code": "CA-AB",
+      "name": {
+        "en": "Alberta"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Airdrie",
+            "ar": "إيردراي"
+          },
+          "latitude": 51.30011,
+          "longitude": -114.03528
+        },
+        {
+          "name": {
+            "en": "Athabasca"
+          },
+          "latitude": 54.71687,
+          "longitude": -113.28537
+        },
+        {
+          "name": {
+            "en": "Banff"
+          },
+          "latitude": 51.17622,
+          "longitude": -115.56982
+        },
+        {
+          "name": {
+            "en": "Barrhead"
+          },
+          "latitude": 54.13345,
+          "longitude": -114.40211
+        },
+        {
+          "name": {
+            "en": "Bassano"
+          },
+          "latitude": 50.78342,
+          "longitude": -112.46854
+        },
+        {
+          "name": {
+            "en": "Beaumont"
+          },
+          "latitude": 53.35013,
+          "longitude": -113.41871
+        },
+        {
+          "name": {
+            "en": "Beaverlodge"
+          },
+          "latitude": 55.21664,
+          "longitude": -119.43605
+        },
+        {
+          "name": {
+            "en": "Black Diamond"
+          },
+          "latitude": 50.70011,
+          "longitude": -114.2353
+        },
+        {
+          "name": {
+            "en": "Blackfalds"
+          },
+          "latitude": 52.38342,
+          "longitude": -113.7853
+        },
+        {
+          "name": {
+            "en": "Bon Accord"
+          },
+          "latitude": 53.83345,
+          "longitude": -113.41872
+        },
+        {
+          "name": {
+            "en": "Bonnyville"
+          },
+          "latitude": 54.26684,
+          "longitude": -110.73505
+        },
+        {
+          "name": {
+            "en": "Bow Island"
+          },
+          "latitude": 49.86676,
+          "longitude": -111.36843
+        },
+        {
+          "name": {
+            "en": "Brooks"
+          },
+          "latitude": 50.58341,
+          "longitude": -111.88509
+        },
+        {
+          "name": {
+            "en": "Calgary",
+            "ar": "كالغاري"
+          },
+          "latitude": 51.05011,
+          "longitude": -114.08529
+        },
+        {
+          "name": {
+            "en": "Calmar"
+          },
+          "latitude": 53.26683,
+          "longitude": -113.81874
+        },
+        {
+          "name": {
+            "en": "Camrose",
+            "ar": "كامروز"
+          },
+          "latitude": 53.01684,
+          "longitude": -112.83525
+        },
+        {
+          "name": {
+            "en": "Canmore"
+          },
+          "latitude": 51.08335,
+          "longitude": -115.35206
+        },
+        {
+          "name": {
+            "en": "Cardston"
+          },
+          "latitude": 49.19998,
+          "longitude": -113.3019
+        },
+        {
+          "name": {
+            "en": "Carstairs"
+          },
+          "latitude": 51.56681,
+          "longitude": -114.102
+        },
+        {
+          "name": {
+            "en": "Chestermere"
+          },
+          "latitude": 51.03341,
+          "longitude": -113.81867
+        },
+        {
+          "name": {
+            "en": "Claresholm"
+          },
+          "latitude": 50.03332,
+          "longitude": -113.58524
+        },
+        {
+          "name": {
+            "en": "Coaldale"
+          },
+          "latitude": 49.7167,
+          "longitude": -112.61854
+        },
+        {
+          "name": {
+            "en": "Coalhurst"
+          },
+          "latitude": 49.7464,
+          "longitude": -112.93246
+        },
+        {
+          "name": {
+            "en": "Cochrane"
+          },
+          "latitude": 51.18341,
+          "longitude": -114.46871
+        },
+        {
+          "name": {
+            "en": "Cold Lake"
+          },
+          "latitude": 54.46525,
+          "longitude": -110.18154
+        },
+        {
+          "name": {
+            "en": "Crossfield"
+          },
+          "latitude": 51.43341,
+          "longitude": -114.03528
+        },
+        {
+          "name": {
+            "en": "Devon"
+          },
+          "latitude": 53.36683,
+          "longitude": -113.73533
+        },
+        {
+          "name": {
+            "en": "Didsbury"
+          },
+          "latitude": 51.66681,
+          "longitude": -114.13529
+        },
+        {
+          "name": {
+            "en": "Drayton Valley"
+          },
+          "latitude": 53.21682,
+          "longitude": -114.98544
+        },
+        {
+          "name": {
+            "en": "Edmonton",
+            "ar": "إدمونتون"
+          },
+          "latitude": 53.55014,
+          "longitude": -113.46871
+        },
+        {
+          "name": {
+            "en": "Edson"
+          },
+          "latitude": 53.58345,
+          "longitude": -116.43559
+        },
+        {
+          "name": {
+            "en": "Elk Point"
+          },
+          "latitude": 53.90017,
+          "longitude": -110.9017
+        },
+        {
+          "name": {
+            "en": "Fairview"
+          },
+          "latitude": 56.06675,
+          "longitude": -118.38606
+        },
+        {
+          "name": {
+            "en": "Falher"
+          },
+          "latitude": 55.73339,
+          "longitude": -117.20262
+        },
+        {
+          "name": {
+            "en": "Fort Macleod"
+          },
+          "latitude": 49.71671,
+          "longitude": -113.41857
+        },
+        {
+          "name": {
+            "en": "Fort McMurray",
+            "ar": "فورت ماكموراي"
+          },
+          "latitude": 56.72676,
+          "longitude": -111.38103
+        },
+        {
+          "name": {
+            "en": "Fort Saskatchewan"
+          },
+          "latitude": 53.71684,
+          "longitude": -113.2187
+        },
+        {
+          "name": {
+            "en": "Fox Creek"
+          },
+          "latitude": 54.40007,
+          "longitude": -116.80238
+        },
+        {
+          "name": {
+            "en": "Gibbons"
+          },
+          "latitude": 53.83345,
+          "longitude": -113.33531
+        },
+        {
+          "name": {
+            "en": "Grand Centre"
+          },
+          "latitude": 54.41628,
+          "longitude": -110.21304
+        },
+        {
+          "name": {
+            "en": "Grande Cache"
+          },
+          "latitude": 53.88335,
+          "longitude": -119.13585
+        },
+        {
+          "name": {
+            "en": "Grande Prairie",
+            "ar": "غراند براري"
+          },
+          "latitude": 55.16667,
+          "longitude": -118.80271
+        },
+        {
+          "name": {
+            "en": "Grimshaw"
+          },
+          "latitude": 56.18339,
+          "longitude": -117.6027
+        },
+        {
+          "name": {
+            "en": "Hanna"
+          },
+          "latitude": 51.63343,
+          "longitude": -111.90181
+        },
+        {
+          "name": {
+            "en": "Heritage Pointe"
+          },
+          "latitude": 50.84213,
+          "longitude": -114.00493
+        },
+        {
+          "name": {
+            "en": "High Level"
+          },
+          "latitude": 58.51688,
+          "longitude": -117.13605
+        },
+        {
+          "name": {
+            "en": "High Prairie"
+          },
+          "latitude": 55.4334,
+          "longitude": -116.4858
+        },
+        {
+          "name": {
+            "en": "High River"
+          },
+          "latitude": 50.58341,
+          "longitude": -113.86867
+        },
+        {
+          "name": {
+            "en": "Hinton"
+          },
+          "latitude": 53.40009,
+          "longitude": -117.58567
+        },
+        {
+          "name": {
+            "en": "Irricana"
+          },
+          "latitude": 51.32372,
+          "longitude": -113.60475
+        },
+        {
+          "name": {
+            "en": "Jasper Park Lodge"
+          },
+          "latitude": 52.88633,
+          "longitude": -118.05625
+        },
+        {
+          "name": {
+            "en": "Killam"
+          },
+          "latitude": 52.78344,
+          "longitude": -111.85175
+        },
+        {
+          "name": {
+            "en": "Lac La Biche"
+          },
+          "latitude": 54.7669,
+          "longitude": -111.96861
+        },
+        {
+          "name": {
+            "en": "Lacombe"
+          },
+          "latitude": 52.46681,
+          "longitude": -113.7353
+        },
+        {
+          "name": {
+            "en": "Lamont"
+          },
+          "latitude": 53.76686,
+          "longitude": -112.80195
+        },
+        {
+          "name": {
+            "en": "Larkspur"
+          },
+          "latitude": 53.47942,
+          "longitude": -113.38142
+        },
+        {
+          "name": {
+            "en": "Laurel"
+          },
+          "latitude": 53.44667,
+          "longitude": -113.38197
+        },
+        {
+          "name": {
+            "en": "Leduc",
+            "ar": "ليدوك"
+          },
+          "latitude": 53.26682,
+          "longitude": -113.55201
+        },
+        {
+          "name": {
+            "en": "Lethbridge",
+            "ar": "ليثبريدج"
+          },
+          "latitude": 49.69999,
+          "longitude": -112.81856
+        },
+        {
+          "name": {
+            "en": "Lloydminster",
+            "ar": "لويدمنستر"
+          },
+          "latitude": 53.27237,
+          "longitude": -110.02256
+        },
+        {
+          "name": {
+            "en": "Magrath"
+          },
+          "latitude": 49.41668,
+          "longitude": -112.86856
+        },
+        {
+          "name": {
+            "en": "Manning"
+          },
+          "latitude": 56.91683,
+          "longitude": -117.61945
+        },
+        {
+          "name": {
+            "en": "Mannville"
+          },
+          "latitude": 53.33764,
+          "longitude": -111.1775
+        },
+        {
+          "name": {
+            "en": "Maple Ridge"
+          },
+          "latitude": 53.50172,
+          "longitude": -113.36274
+        },
+        {
+          "name": {
+            "en": "Mayerthorpe"
+          },
+          "latitude": 53.95015,
+          "longitude": -115.13547
+        },
+        {
+          "name": {
+            "en": "Medicine Hat",
+            "ar": "مدسين هات"
+          },
+          "latitude": 50.03928,
+          "longitude": -110.67661
+        },
+        {
+          "name": {
+            "en": "Mill Woods Town Centre"
+          },
+          "latitude": 53.45639,
+          "longitude": -113.42751
+        },
+        {
+          "name": {
+            "en": "Millet"
+          },
+          "latitude": 53.10013,
+          "longitude": -113.4687
+        },
+        {
+          "name": {
+            "en": "Morinville"
+          },
+          "latitude": 53.80014,
+          "longitude": -113.65203
+        },
+        {
+          "name": {
+            "en": "Nanton"
+          },
+          "latitude": 50.35008,
+          "longitude": -113.76866
+        },
+        {
+          "name": {
+            "en": "Okotoks"
+          },
+          "latitude": 50.72885,
+          "longitude": -113.98281
+        },
+        {
+          "name": {
+            "en": "Olds"
+          },
+          "latitude": 51.78341,
+          "longitude": -114.10199
+        },
+        {
+          "name": {
+            "en": "Peace River"
+          },
+          "latitude": 56.23715,
+          "longitude": -117.29176
+        },
+        {
+          "name": {
+            "en": "Penhold"
+          },
+          "latitude": 52.13342,
+          "longitude": -113.8687
+        },
+        {
+          "name": {
+            "en": "Picture Butte"
+          },
+          "latitude": 49.8833,
+          "longitude": -112.78516
+        },
+        {
+          "name": {
+            "en": "Pincher Creek"
+          },
+          "latitude": 49.48328,
+          "longitude": -113.95195
+        },
+        {
+          "name": {
+            "en": "Ponoka"
+          },
+          "latitude": 52.6768,
+          "longitude": -113.58147
+        },
+        {
+          "name": {
+            "en": "Provost"
+          },
+          "latitude": 52.35014,
+          "longitude": -110.26828
+        },
+        {
+          "name": {
+            "en": "Raymond"
+          },
+          "latitude": 49.44998,
+          "longitude": -112.65185
+        },
+        {
+          "name": {
+            "en": "Red Deer",
+            "ar": "رد دير"
+          },
+          "latitude": 52.26682,
+          "longitude": -113.802
+        },
+        {
+          "name": {
+            "en": "Rideau Park"
+          },
+          "latitude": 53.47899,
+          "longitude": -113.5047
+        },
+        {
+          "name": {
+            "en": "Rimbey"
+          },
+          "latitude": 52.6334,
+          "longitude": -114.23532
+        },
+        {
+          "name": {
+            "en": "Rocky Mountain House"
+          },
+          "latitude": 52.36683,
+          "longitude": -114.9188
+        },
+        {
+          "name": {
+            "en": "Sexsmith"
+          },
+          "latitude": 55.34998,
+          "longitude": -118.78602
+        },
+        {
+          "name": {
+            "en": "Sherwood Park",
+            "ar": "شيروود بارك"
+          },
+          "latitude": 53.51684,
+          "longitude": -113.3187
+        },
+        {
+          "name": {
+            "en": "Silver Berry"
+          },
+          "latitude": 53.45787,
+          "longitude": -113.3817
+        },
+        {
+          "name": {
+            "en": "Slave Lake"
+          },
+          "latitude": 55.28344,
+          "longitude": -114.76896
+        },
+        {
+          "name": {
+            "en": "Smoky Lake"
+          },
+          "latitude": 54.11687,
+          "longitude": -112.46863
+        },
+        {
+          "name": {
+            "en": "Spirit River"
+          },
+          "latitude": 55.78327,
+          "longitude": -118.83607
+        },
+        {
+          "name": {
+            "en": "Springbrook"
+          },
+          "latitude": 52.1792,
+          "longitude": -113.87981
+        },
+        {
+          "name": {
+            "en": "Spruce Grove",
+            "ar": "سبروس غرووف"
+          },
+          "latitude": 53.53344,
+          "longitude": -113.91874
+        },
+        {
+          "name": {
+            "en": "St. Albert",
+            "ar": "سانت ألبرت"
+          },
+          "latitude": 53.63344,
+          "longitude": -113.63533
+        },
+        {
+          "name": {
+            "en": "Stettler"
+          },
+          "latitude": 52.31683,
+          "longitude": -112.71861
+        },
+        {
+          "name": {
+            "en": "Stony Plain"
+          },
+          "latitude": 53.53343,
+          "longitude": -114.00205
+        },
+        {
+          "name": {
+            "en": "Strathmore"
+          },
+          "latitude": 51.05011,
+          "longitude": -113.38523
+        },
+        {
+          "name": {
+            "en": "Sundre"
+          },
+          "latitude": 51.8001,
+          "longitude": -114.63532
+        },
+        {
+          "name": {
+            "en": "Swan Hills"
+          },
+          "latitude": 54.71681,
+          "longitude": -115.40226
+        },
+        {
+          "name": {
+            "en": "Sylvan Lake"
+          },
+          "latitude": 52.311,
+          "longitude": -114.08375
+        },
+        {
+          "name": {
+            "en": "Taber"
+          },
+          "latitude": 49.78703,
+          "longitude": -112.14603
+        },
+        {
+          "name": {
+            "en": "Tamarack"
+          },
+          "latitude": 53.46441,
+          "longitude": -113.36235
+        },
+        {
+          "name": {
+            "en": "Three Hills"
+          },
+          "latitude": 51.70012,
+          "longitude": -113.26863
+        },
+        {
+          "name": {
+            "en": "Tofield"
+          },
+          "latitude": 53.36684,
+          "longitude": -112.66862
+        },
+        {
+          "name": {
+            "en": "Two Hills"
+          },
+          "latitude": 53.71686,
+          "longitude": -111.75181
+        },
+        {
+          "name": {
+            "en": "Valleyview"
+          },
+          "latitude": 55.06673,
+          "longitude": -117.28585
+        },
+        {
+          "name": {
+            "en": "Vegreville"
+          },
+          "latitude": 53.50015,
+          "longitude": -112.05182
+        },
+        {
+          "name": {
+            "en": "Vermilion"
+          },
+          "latitude": 53.35409,
+          "longitude": -110.85849
+        },
+        {
+          "name": {
+            "en": "Viking"
+          },
+          "latitude": 53.10014,
+          "longitude": -111.76844
+        },
+        {
+          "name": {
+            "en": "Vulcan"
+          },
+          "latitude": 50.40008,
+          "longitude": -113.25189
+        },
+        {
+          "name": {
+            "en": "Wainwright"
+          },
+          "latitude": 52.83482,
+          "longitude": -110.85342
+        },
+        {
+          "name": {
+            "en": "Wembley"
+          },
+          "latitude": 55.14995,
+          "longitude": -119.13602
+        },
+        {
+          "name": {
+            "en": "Westlake"
+          },
+          "latitude": 55.22228,
+          "longitude": -118.80415
+        },
+        {
+          "name": {
+            "en": "Westlock"
+          },
+          "latitude": 54.15016,
+          "longitude": -113.86876
+        },
+        {
+          "name": {
+            "en": "Wetaskiwin"
+          },
+          "latitude": 52.96683,
+          "longitude": -113.36869
+        },
+        {
+          "name": {
+            "en": "Whitecourt"
+          },
+          "latitude": 54.15015,
+          "longitude": -115.68548
+        },
+        {
+          "name": {
+            "en": "Wild Rose"
+          },
+          "latitude": 53.4708,
+          "longitude": -113.38119
+        }
+      ]
+    },
+    {
+      "code": "CA-BC",
+      "name": {
+        "en": "British Columbia"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Abbotsford",
+            "ar": "أبوتسفورد"
+          },
+          "latitude": 49.05798,
+          "longitude": -122.25257
+        },
+        {
+          "name": {
+            "en": "Agassiz"
+          },
+          "latitude": 49.23298,
+          "longitude": -121.76926
+        },
+        {
+          "name": {
+            "en": "Aldergrove"
+          },
+          "latitude": 49.05801,
+          "longitude": -122.47087
+        },
+        {
+          "name": {
+            "en": "Aldergrove East"
+          },
+          "latitude": 49.05593,
+          "longitude": -122.42299
+        },
+        {
+          "name": {
+            "en": "Anmore"
+          },
+          "latitude": 49.31637,
+          "longitude": -122.85263
+        },
+        {
+          "name": {
+            "en": "Arbutus Ridge"
+          },
+          "latitude": 49.24966,
+          "longitude": -123.16934
+        },
+        {
+          "name": {
+            "en": "Armstrong"
+          },
+          "latitude": 50.44979,
+          "longitude": -119.20235
+        },
+        {
+          "name": {
+            "en": "Ashcroft"
+          },
+          "latitude": 50.72372,
+          "longitude": -121.28207
+        },
+        {
+          "name": {
+            "en": "Barrière"
+          },
+          "latitude": 51.18308,
+          "longitude": -120.1192
+        },
+        {
+          "name": {
+            "en": "Bowen Island"
+          },
+          "latitude": 49.3847,
+          "longitude": -123.33622
+        },
+        {
+          "name": {
+            "en": "Burnaby",
+            "ar": "بورنبي"
+          },
+          "latitude": 49.26636,
+          "longitude": -122.95263
+        },
+        {
+          "name": {
+            "en": "Burns Lake"
+          },
+          "latitude": 54.22972,
+          "longitude": -125.76084
+        },
+        {
+          "name": {
+            "en": "Cache Creek"
+          },
+          "latitude": 50.81011,
+          "longitude": -121.3246
+        },
+        {
+          "name": {
+            "en": "Campbell River",
+            "ar": "كامبل ريفر"
+          },
+          "latitude": 50.01634,
+          "longitude": -125.24459
+        },
+        {
+          "name": {
+            "en": "Castlegar"
+          },
+          "latitude": 49.32317,
+          "longitude": -117.65831
+        },
+        {
+          "name": {
+            "en": "Cedar"
+          },
+          "latitude": 49.11633,
+          "longitude": -123.8527
+        },
+        {
+          "name": {
+            "en": "Central Coast Regional"
+          },
+          "latitude": 52.16638,
+          "longitude": -127.00323
+        },
+        {
+          "name": {
+            "en": "Chase"
+          },
+          "latitude": 50.8165,
+          "longitude": -119.68571
+        },
+        {
+          "name": {
+            "en": "Chemainus"
+          },
+          "latitude": 48.91633,
+          "longitude": -123.71937
+        },
+        {
+          "name": {
+            "en": "Chetwynd"
+          },
+          "latitude": 55.69988,
+          "longitude": -121.63627
+        },
+        {
+          "name": {
+            "en": "Chilliwack"
+          },
+          "latitude": 49.16638,
+          "longitude": -121.95257
+        },
+        {
+          "name": {
+            "en": "Colwood",
+            "ar": "كولوود"
+          },
+          "latitude": 48.43293,
+          "longitude": -123.48591
+        },
+        {
+          "name": {
+            "en": "Coombs"
+          },
+          "latitude": 49.29963,
+          "longitude": -124.41946
+        },
+        {
+          "name": {
+            "en": "Coquitlam",
+            "ar": "كوكويتلام"
+          },
+          "latitude": 49.2846,
+          "longitude": -122.78217
+        },
+        {
+          "name": {
+            "en": "Courtenay",
+            "ar": "كورتيناي"
+          },
+          "latitude": 49.68657,
+          "longitude": -124.9936
+        },
+        {
+          "name": {
+            "en": "Cowichan Bay"
+          },
+          "latitude": 48.73366,
+          "longitude": -123.61739
+        },
+        {
+          "name": {
+            "en": "Cranbrook",
+            "ar": "كرانبروك"
+          },
+          "latitude": 49.49991,
+          "longitude": -115.76879
+        },
+        {
+          "name": {
+            "en": "Creston"
+          },
+          "latitude": 49.09987,
+          "longitude": -116.50211
+        },
+        {
+          "name": {
+            "en": "Cumberland"
+          },
+          "latitude": 49.61634,
+          "longitude": -125.03613
+        },
+        {
+          "name": {
+            "en": "Dawson Creek"
+          },
+          "latitude": 55.75984,
+          "longitude": -120.2403
+        },
+        {
+          "name": {
+            "en": "Delta",
+            "ar": "ديلتا"
+          },
+          "latitude": 49.14399,
+          "longitude": -122.9068
+        },
+        {
+          "name": {
+            "en": "Denman Island"
+          },
+          "latitude": 49.53294,
+          "longitude": -124.8195
+        },
+        {
+          "name": {
+            "en": "Denman Island Trust Area"
+          },
+          "latitude": 49.55189,
+          "longitude": -124.79881
+        },
+        {
+          "name": {
+            "en": "Duck Lake"
+          },
+          "latitude": 50.0088,
+          "longitude": -119.39672
+        },
+        {
+          "name": {
+            "en": "Duncan"
+          },
+          "latitude": 48.78293,
+          "longitude": -123.70266
+        },
+        {
+          "name": {
+            "en": "East Wellington"
+          },
+          "latitude": 49.17385,
+          "longitude": -124.01745
+        },
+        {
+          "name": {
+            "en": "Elkford"
+          },
+          "latitude": 50.05007,
+          "longitude": -114.8854
+        },
+        {
+          "name": {
+            "en": "Ellison"
+          },
+          "latitude": 49.93307,
+          "longitude": -119.36907
+        },
+        {
+          "name": {
+            "en": "Enderby"
+          },
+          "latitude": 50.5498,
+          "longitude": -119.15234
+        },
+        {
+          "name": {
+            "en": "Fairwinds"
+          },
+          "latitude": 49.27588,
+          "longitude": -124.12782
+        },
+        {
+          "name": {
+            "en": "Fernie"
+          },
+          "latitude": 49.49996,
+          "longitude": -115.06871
+        },
+        {
+          "name": {
+            "en": "Fort Nelson"
+          },
+          "latitude": 58.80533,
+          "longitude": -122.7002
+        },
+        {
+          "name": {
+            "en": "Fort St. John",
+            "ar": "فورت سانت جون"
+          },
+          "latitude": 56.24988,
+          "longitude": -120.85292
+        },
+        {
+          "name": {
+            "en": "Fraser Valley Regional"
+          },
+          "latitude": 49.58299,
+          "longitude": -121.83587
+        },
+        {
+          "name": {
+            "en": "French Creek"
+          },
+          "latitude": 49.34123,
+          "longitude": -124.35541
+        },
+        {
+          "name": {
+            "en": "Fruitvale"
+          },
+          "latitude": 49.11654,
+          "longitude": -117.55222
+        },
+        {
+          "name": {
+            "en": "Gibsons"
+          },
+          "latitude": 49.39539,
+          "longitude": -123.50555
+        },
+        {
+          "name": {
+            "en": "Golden"
+          },
+          "latitude": 51.29995,
+          "longitude": -116.9689
+        },
+        {
+          "name": {
+            "en": "Grand Forks"
+          },
+          "latitude": 49.03309,
+          "longitude": -118.4356
+        },
+        {
+          "name": {
+            "en": "Hanceville"
+          },
+          "latitude": 51.91922,
+          "longitude": -123.04458
+        },
+        {
+          "name": {
+            "en": "Hope"
+          },
+          "latitude": 49.38299,
+          "longitude": -121.44144
+        },
+        {
+          "name": {
+            "en": "Hornby Island"
+          },
+          "latitude": 49.53448,
+          "longitude": -124.66923
+        },
+        {
+          "name": {
+            "en": "Houston"
+          },
+          "latitude": 54.39976,
+          "longitude": -126.67008
+        },
+        {
+          "name": {
+            "en": "Invermere"
+          },
+          "latitude": 50.51666,
+          "longitude": -116.03538
+        },
+        {
+          "name": {
+            "en": "Kamloops",
+            "ar": "كاملوبس"
+          },
+          "latitude": 50.66648,
+          "longitude": -120.3192
+        },
+        {
+          "name": {
+            "en": "Kelowna",
+            "ar": "كيلونا"
+          },
+          "latitude": 49.88307,
+          "longitude": -119.48568
+        },
+        {
+          "name": {
+            "en": "Kimberley"
+          },
+          "latitude": 49.67071,
+          "longitude": -115.9776
+        },
+        {
+          "name": {
+            "en": "Kitimat"
+          },
+          "latitude": 54.05244,
+          "longitude": -128.65342
+        },
+        {
+          "name": {
+            "en": "Ladner"
+          },
+          "latitude": 49.08938,
+          "longitude": -123.08241
+        },
+        {
+          "name": {
+            "en": "Ladysmith"
+          },
+          "latitude": 48.99016,
+          "longitude": -123.81699
+        },
+        {
+          "name": {
+            "en": "Lake Cowichan"
+          },
+          "latitude": 48.82495,
+          "longitude": -124.05461
+        },
+        {
+          "name": {
+            "en": "Langford",
+            "ar": "لانغفورد"
+          },
+          "latitude": 48.44963,
+          "longitude": -123.50261
+        },
+        {
+          "name": {
+            "en": "Langley",
+            "ar": "لانغلي، كولومبيا البريطانية"
+          },
+          "latitude": 49.10107,
+          "longitude": -122.65883
+        },
+        {
+          "name": {
+            "en": "Lillooet"
+          },
+          "latitude": 50.6856,
+          "longitude": -121.942
+        },
+        {
+          "name": {
+            "en": "Lions Bay"
+          },
+          "latitude": 49.45218,
+          "longitude": -123.2376
+        },
+        {
+          "name": {
+            "en": "Logan Lake"
+          },
+          "latitude": 50.49976,
+          "longitude": -120.80253
+        },
+        {
+          "name": {
+            "en": "Lumby"
+          },
+          "latitude": 50.24979,
+          "longitude": -118.96904
+        },
+        {
+          "name": {
+            "en": "Mackenzie"
+          },
+          "latitude": 55.33637,
+          "longitude": -123.09374
+        },
+        {
+          "name": {
+            "en": "Maple Ridge",
+            "ar": "مابل ريدج"
+          },
+          "latitude": 49.21939,
+          "longitude": -122.60193
+        },
+        {
+          "name": {
+            "en": "Merritt"
+          },
+          "latitude": 50.11225,
+          "longitude": -120.7942
+        },
+        {
+          "name": {
+            "en": "Metchosin"
+          },
+          "latitude": 48.38293,
+          "longitude": -123.53591
+        },
+        {
+          "name": {
+            "en": "Metro Vancouver Regional"
+          },
+          "latitude": 49.33296,
+          "longitude": -123.00264
+        },
+        {
+          "name": {
+            "en": "Mission",
+            "ar": "ميشن"
+          },
+          "latitude": 49.13298,
+          "longitude": -122.30258
+        },
+        {
+          "name": {
+            "en": "Nakusp"
+          },
+          "latitude": 50.24987,
+          "longitude": -117.80226
+        },
+        {
+          "name": {
+            "en": "Nanaimo",
+            "ar": "نانيامو إي"
+          },
+          "latitude": 49.16638,
+          "longitude": -123.94003
+        },
+        {
+          "name": {
+            "en": "Nelson"
+          },
+          "latitude": 49.49985,
+          "longitude": -117.28553
+        },
+        {
+          "name": {
+            "en": "New Westminster",
+            "ar": "نيو ويستمينيستر"
+          },
+          "latitude": 49.20678,
+          "longitude": -122.91092
+        },
+        {
+          "name": {
+            "en": "North Cowichan",
+            "ar": "كاويتشان الشمالية"
+          },
+          "latitude": 48.84133,
+          "longitude": -123.68596
+        },
+        {
+          "name": {
+            "en": "North Oyster/Yellow Point"
+          },
+          "latitude": 49.04807,
+          "longitude": -123.83395
+        },
+        {
+          "name": {
+            "en": "North Saanich"
+          },
+          "latitude": 48.66634,
+          "longitude": -123.41933
+        },
+        {
+          "name": {
+            "en": "North Vancouver"
+          },
+          "latitude": 49.31636,
+          "longitude": -123.06934
+        },
+        {
+          "name": {
+            "en": "Oak Bay",
+            "ar": "أوك باي"
+          },
+          "latitude": 48.44964,
+          "longitude": -123.3026
+        },
+        {
+          "name": {
+            "en": "Okanagan"
+          },
+          "latitude": 50.36386,
+          "longitude": -119.34997
+        },
+        {
+          "name": {
+            "en": "Okanagan Falls"
+          },
+          "latitude": 49.35,
+          "longitude": -119.56667
+        },
+        {
+          "name": {
+            "en": "Oliver"
+          },
+          "latitude": 49.18306,
+          "longitude": -119.5524
+        },
+        {
+          "name": {
+            "en": "Osoyoos"
+          },
+          "latitude": 49.03306,
+          "longitude": -119.45237
+        },
+        {
+          "name": {
+            "en": "Parksville"
+          },
+          "latitude": 49.31947,
+          "longitude": -124.31575
+        },
+        {
+          "name": {
+            "en": "Peace River Regional"
+          },
+          "latitude": 56.6665,
+          "longitude": -122.75302
+        },
+        {
+          "name": {
+            "en": "Peachland"
+          },
+          "latitude": 49.76647,
+          "longitude": -119.73568
+        },
+        {
+          "name": {
+            "en": "Pemberton"
+          },
+          "latitude": 50.31641,
+          "longitude": -122.80273
+        },
+        {
+          "name": {
+            "en": "Penticton",
+            "ar": "بينتيكتون"
+          },
+          "latitude": 49.48062,
+          "longitude": -119.58584
+        },
+        {
+          "name": {
+            "en": "Pitt Meadows",
+            "ar": "بيت ميدوز"
+          },
+          "latitude": 49.22119,
+          "longitude": -122.68965
+        },
+        {
+          "name": {
+            "en": "Port Alberni",
+            "ar": "بورت ألبيرني"
+          },
+          "latitude": 49.24133,
+          "longitude": -124.8028
+        },
+        {
+          "name": {
+            "en": "Port Coquitlam",
+            "ar": "بورت كوكويتلام"
+          },
+          "latitude": 49.26637,
+          "longitude": -122.76932
+        },
+        {
+          "name": {
+            "en": "Port McNeill"
+          },
+          "latitude": 50.58716,
+          "longitude": -127.08053
+        },
+        {
+          "name": {
+            "en": "Port Moody",
+            "ar": "بورت مودي"
+          },
+          "latitude": 49.28124,
+          "longitude": -122.82457
+        },
+        {
+          "name": {
+            "en": "Powell River"
+          },
+          "latitude": 49.83278,
+          "longitude": -124.52368
+        },
+        {
+          "name": {
+            "en": "Prince George",
+            "ar": "برينس جورج"
+          },
+          "latitude": 53.9166,
+          "longitude": -122.75301
+        },
+        {
+          "name": {
+            "en": "Prince Rupert"
+          },
+          "latitude": 54.31507,
+          "longitude": -130.32098
+        },
+        {
+          "name": {
+            "en": "Princeton"
+          },
+          "latitude": 49.45802,
+          "longitude": -120.51076
+        },
+        {
+          "name": {
+            "en": "Puntledge"
+          },
+          "latitude": 49.66168,
+          "longitude": -125.05686
+        },
+        {
+          "name": {
+            "en": "Quesnel"
+          },
+          "latitude": 52.97842,
+          "longitude": -122.4931
+        },
+        {
+          "name": {
+            "en": "Regional District of Alberni-Clayoquot"
+          },
+          "latitude": 49.24962,
+          "longitude": -125.33615
+        },
+        {
+          "name": {
+            "en": "Regional District of Central Okanagan"
+          },
+          "latitude": 49.99978,
+          "longitude": -119.41908
+        },
+        {
+          "name": {
+            "en": "Revelstoke"
+          },
+          "latitude": 50.99712,
+          "longitude": -118.1953
+        },
+        {
+          "name": {
+            "en": "Richmond",
+            "ar": "ريتشموند"
+          },
+          "latitude": 49.17003,
+          "longitude": -123.13683
+        },
+        {
+          "name": {
+            "en": "Rossland"
+          },
+          "latitude": 49.08313,
+          "longitude": -117.80224
+        },
+        {
+          "name": {
+            "en": "Royston"
+          },
+          "latitude": 49.64703,
+          "longitude": -124.9467
+        },
+        {
+          "name": {
+            "en": "Salmo"
+          },
+          "latitude": 49.19986,
+          "longitude": -117.2689
+        },
+        {
+          "name": {
+            "en": "Salmon Arm"
+          },
+          "latitude": 50.6998,
+          "longitude": -119.30237
+        },
+        {
+          "name": {
+            "en": "Salt Spring Island"
+          },
+          "latitude": 48.81852,
+          "longitude": -123.49061
+        },
+        {
+          "name": {
+            "en": "Saltair"
+          },
+          "latitude": 48.94963,
+          "longitude": -123.76939
+        },
+        {
+          "name": {
+            "en": "Sechelt"
+          },
+          "latitude": 49.47512,
+          "longitude": -123.75903
+        },
+        {
+          "name": {
+            "en": "Sicamous"
+          },
+          "latitude": 50.83312,
+          "longitude": -118.98565
+        },
+        {
+          "name": {
+            "en": "Six Mile"
+          },
+          "latitude": 48.45767,
+          "longitude": -123.46088
+        },
+        {
+          "name": {
+            "en": "Smithers"
+          },
+          "latitude": 54.78036,
+          "longitude": -127.17428
+        },
+        {
+          "name": {
+            "en": "Sooke"
+          },
+          "latitude": 48.37463,
+          "longitude": -123.72762
+        },
+        {
+          "name": {
+            "en": "South Pender Harbour"
+          },
+          "latitude": 49.62202,
+          "longitude": -124.02484
+        },
+        {
+          "name": {
+            "en": "Sparwood"
+          },
+          "latitude": 49.73332,
+          "longitude": -114.88532
+        },
+        {
+          "name": {
+            "en": "Summerland"
+          },
+          "latitude": 49.59977,
+          "longitude": -119.66911
+        },
+        {
+          "name": {
+            "en": "Surrey",
+            "ar": "سوري، كولومبيا البريطانية"
+          },
+          "latitude": 49.10635,
+          "longitude": -122.82509
+        },
+        {
+          "name": {
+            "en": "Terrace",
+            "ar": "تيراس"
+          },
+          "latitude": 54.51634,
+          "longitude": -128.60345
+        },
+        {
+          "name": {
+            "en": "Tofino"
+          },
+          "latitude": 49.15314,
+          "longitude": -125.90744
+        },
+        {
+          "name": {
+            "en": "Trail"
+          },
+          "latitude": 49.09983,
+          "longitude": -117.70223
+        },
+        {
+          "name": {
+            "en": "Tsawwassen"
+          },
+          "latitude": 49.01667,
+          "longitude": -123.08333
+        },
+        {
+          "name": {
+            "en": "Tumbler Ridge"
+          },
+          "latitude": 55.13027,
+          "longitude": -120.99415
+        },
+        {
+          "name": {
+            "en": "Ucluelet"
+          },
+          "latitude": 48.94153,
+          "longitude": -125.54635
+        },
+        {
+          "name": {
+            "en": "Vancouver",
+            "ar": "فانكوفر"
+          },
+          "latitude": 49.24966,
+          "longitude": -123.11934
+        },
+        {
+          "name": {
+            "en": "Vanderhoof"
+          },
+          "latitude": 54.01657,
+          "longitude": -124.01982
+        },
+        {
+          "name": {
+            "en": "Vernon",
+            "ar": "فيرنون"
+          },
+          "latitude": 50.26729,
+          "longitude": -119.27337
+        },
+        {
+          "name": {
+            "en": "Victoria",
+            "ar": "فكتوريا"
+          },
+          "latitude": 48.4359,
+          "longitude": -123.35155
+        },
+        {
+          "name": {
+            "en": "Walnut Grove"
+          },
+          "latitude": 49.16473,
+          "longitude": -122.64042
+        },
+        {
+          "name": {
+            "en": "Welcome Beach"
+          },
+          "latitude": 49.47959,
+          "longitude": -123.89239
+        },
+        {
+          "name": {
+            "en": "West End"
+          },
+          "latitude": 49.28333,
+          "longitude": -123.13333
+        },
+        {
+          "name": {
+            "en": "West Kelowna"
+          },
+          "latitude": 49.8625,
+          "longitude": -119.58333
+        },
+        {
+          "name": {
+            "en": "West Vancouver"
+          },
+          "latitude": 49.36672,
+          "longitude": -123.16652
+        },
+        {
+          "name": {
+            "en": "Whistler"
+          },
+          "latitude": 50.11817,
+          "longitude": -122.95396
+        },
+        {
+          "name": {
+            "en": "White Rock",
+            "ar": "وايت روك"
+          },
+          "latitude": 49.01636,
+          "longitude": -122.8026
+        },
+        {
+          "name": {
+            "en": "Williams Lake"
+          },
+          "latitude": 52.14153,
+          "longitude": -122.14451
+        }
+      ]
+    },
+    {
+      "code": "CA-MB",
+      "name": {
+        "en": "Manitoba"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Altona"
+          },
+          "latitude": 49.10469,
+          "longitude": -97.55961
+        },
+        {
+          "name": {
+            "en": "Beausejour"
+          },
+          "latitude": 50.0622,
+          "longitude": -96.51669
+        },
+        {
+          "name": {
+            "en": "Boissevain"
+          },
+          "latitude": 49.23062,
+          "longitude": -100.05586
+        },
+        {
+          "name": {
+            "en": "Brandon"
+          },
+          "latitude": 49.84692,
+          "longitude": -99.95306
+        },
+        {
+          "name": {
+            "en": "Carberry"
+          },
+          "latitude": 49.86893,
+          "longitude": -99.36021
+        },
+        {
+          "name": {
+            "en": "Carman"
+          },
+          "latitude": 49.4992,
+          "longitude": -98.00156
+        },
+        {
+          "name": {
+            "en": "Cross Lake 19A"
+          },
+          "latitude": 54.65135,
+          "longitude": -97.76848
+        },
+        {
+          "name": {
+            "en": "Dauphin"
+          },
+          "latitude": 51.14941,
+          "longitude": -100.05023
+        },
+        {
+          "name": {
+            "en": "De Salaberry"
+          },
+          "latitude": 49.39999,
+          "longitude": -97.00894
+        },
+        {
+          "name": {
+            "en": "Deloraine"
+          },
+          "latitude": 49.19082,
+          "longitude": -100.49477
+        },
+        {
+          "name": {
+            "en": "Flin Flon"
+          },
+          "latitude": 54.76703,
+          "longitude": -101.87433
+        },
+        {
+          "name": {
+            "en": "Gimli"
+          },
+          "latitude": 50.63362,
+          "longitude": -96.99066
+        },
+        {
+          "name": {
+            "en": "Grunthal"
+          },
+          "latitude": 49.40668,
+          "longitude": -96.85873
+        },
+        {
+          "name": {
+            "en": "Headingley"
+          },
+          "latitude": 49.8753,
+          "longitude": -97.40896
+        },
+        {
+          "name": {
+            "en": "Ile des Chênes"
+          },
+          "latitude": 49.7106,
+          "longitude": -96.98893
+        },
+        {
+          "name": {
+            "en": "Killarney"
+          },
+          "latitude": 49.18332,
+          "longitude": -99.66364
+        },
+        {
+          "name": {
+            "en": "La Broquerie"
+          },
+          "latitude": 49.51688,
+          "longitude": -96.50029
+        },
+        {
+          "name": {
+            "en": "Lac du Bonnet"
+          },
+          "latitude": 50.2536,
+          "longitude": -96.06116
+        },
+        {
+          "name": {
+            "en": "Landmark"
+          },
+          "latitude": 49.67169,
+          "longitude": -96.82232
+        },
+        {
+          "name": {
+            "en": "Lorette"
+          },
+          "latitude": 49.73919,
+          "longitude": -96.87232
+        },
+        {
+          "name": {
+            "en": "Melita"
+          },
+          "latitude": 49.26811,
+          "longitude": -100.99669
+        },
+        {
+          "name": {
+            "en": "Minnedosa"
+          },
+          "latitude": 50.24532,
+          "longitude": -99.84364
+        },
+        {
+          "name": {
+            "en": "Moose Lake"
+          },
+          "latitude": 49.20559,
+          "longitude": -95.30629
+        },
+        {
+          "name": {
+            "en": "Morden"
+          },
+          "latitude": 49.1919,
+          "longitude": -98.10136
+        },
+        {
+          "name": {
+            "en": "Morris"
+          },
+          "latitude": 49.35499,
+          "longitude": -97.36567
+        },
+        {
+          "name": {
+            "en": "Neepawa"
+          },
+          "latitude": 50.22892,
+          "longitude": -99.46642
+        },
+        {
+          "name": {
+            "en": "Niverville"
+          },
+          "latitude": 49.60559,
+          "longitude": -97.04234
+        },
+        {
+          "name": {
+            "en": "Portage la Prairie"
+          },
+          "latitude": 49.97282,
+          "longitude": -98.29263
+        },
+        {
+          "name": {
+            "en": "Rivers"
+          },
+          "latitude": 50.03081,
+          "longitude": -100.24029
+        },
+        {
+          "name": {
+            "en": "Roblin"
+          },
+          "latitude": 51.22999,
+          "longitude": -101.3565
+        },
+        {
+          "name": {
+            "en": "Selkirk"
+          },
+          "latitude": 50.1436,
+          "longitude": -96.88452
+        },
+        {
+          "name": {
+            "en": "Shilo"
+          },
+          "latitude": 49.80509,
+          "longitude": -99.63175
+        },
+        {
+          "name": {
+            "en": "Souris"
+          },
+          "latitude": 49.6172,
+          "longitude": -100.2612
+        },
+        {
+          "name": {
+            "en": "St. Adolphe"
+          },
+          "latitude": 49.6744,
+          "longitude": -97.11124
+        },
+        {
+          "name": {
+            "en": "Steinbach",
+            "ar": "ستاينباك"
+          },
+          "latitude": 49.52579,
+          "longitude": -96.68451
+        },
+        {
+          "name": {
+            "en": "Stonewall"
+          },
+          "latitude": 50.13441,
+          "longitude": -97.32676
+        },
+        {
+          "name": {
+            "en": "Swan River"
+          },
+          "latitude": 52.1058,
+          "longitude": -101.26759
+        },
+        {
+          "name": {
+            "en": "The Pas"
+          },
+          "latitude": 53.82509,
+          "longitude": -101.25413
+        },
+        {
+          "name": {
+            "en": "Thompson"
+          },
+          "latitude": 55.7435,
+          "longitude": -97.85579
+        },
+        {
+          "name": {
+            "en": "Virden"
+          },
+          "latitude": 49.8508,
+          "longitude": -100.93262
+        },
+        {
+          "name": {
+            "en": "West St. Paul"
+          },
+          "latitude": 49.9994,
+          "longitude": -97.16284
+        },
+        {
+          "name": {
+            "en": "Winkler"
+          },
+          "latitude": 49.1817,
+          "longitude": -97.94104
+        },
+        {
+          "name": {
+            "en": "Winnipeg",
+            "ar": "وينيبيغ"
+          },
+          "latitude": 49.8844,
+          "longitude": -97.14704
+        }
+      ]
+    },
+    {
+      "code": "CA-NB",
+      "name": {
+        "en": "New Brunswick"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Baie Ste. Anne"
+          },
+          "latitude": 47.05231,
+          "longitude": -64.95355
+        },
+        {
+          "name": {
+            "en": "Bathurst"
+          },
+          "latitude": 47.61814,
+          "longitude": -65.65112
+        },
+        {
+          "name": {
+            "en": "Bouctouche"
+          },
+          "latitude": 46.46844,
+          "longitude": -64.73905
+        },
+        {
+          "name": {
+            "en": "Campbellton"
+          },
+          "latitude": 48.00751,
+          "longitude": -66.67272
+        },
+        {
+          "name": {
+            "en": "Dieppe"
+          },
+          "latitude": 46.07844,
+          "longitude": -64.68735
+        },
+        {
+          "name": {
+            "en": "Edmundston"
+          },
+          "latitude": 47.3737,
+          "longitude": -68.32512
+        },
+        {
+          "name": {
+            "en": "Florenceville-Bristol"
+          },
+          "latitude": 46.44353,
+          "longitude": -67.61536
+        },
+        {
+          "name": {
+            "en": "Fredericton",
+            "ar": "فريدريكتون"
+          },
+          "latitude": 45.94541,
+          "longitude": -66.66558
+        },
+        {
+          "name": {
+            "en": "Fundy Bay"
+          },
+          "latitude": 44.741,
+          "longitude": -66.76041
+        },
+        {
+          "name": {
+            "en": "Grande-Digue"
+          },
+          "latitude": 46.30014,
+          "longitude": -64.56546
+        },
+        {
+          "name": {
+            "en": "Greater Lakeburn"
+          },
+          "latitude": 46.07651,
+          "longitude": -64.66818
+        },
+        {
+          "name": {
+            "en": "Hampton"
+          },
+          "latitude": 45.52876,
+          "longitude": -65.85354
+        },
+        {
+          "name": {
+            "en": "Harrison Brook"
+          },
+          "latitude": 47.21304,
+          "longitude": -67.92847
+        },
+        {
+          "name": {
+            "en": "Keswick Ridge"
+          },
+          "latitude": 46.00011,
+          "longitude": -66.88218
+        },
+        {
+          "name": {
+            "en": "Lincoln"
+          },
+          "latitude": 45.90012,
+          "longitude": -66.58218
+        },
+        {
+          "name": {
+            "en": "Lutes Mountain"
+          },
+          "latitude": 46.13544,
+          "longitude": -64.90504
+        },
+        {
+          "name": {
+            "en": "McEwen"
+          },
+          "latitude": 46.1452,
+          "longitude": -64.78615
+        },
+        {
+          "name": {
+            "en": "Miramichi"
+          },
+          "latitude": 47.02895,
+          "longitude": -65.50186
+        },
+        {
+          "name": {
+            "en": "Moncton",
+            "ar": "مونكتون"
+          },
+          "latitude": 46.09454,
+          "longitude": -64.7965
+        },
+        {
+          "name": {
+            "en": "Nackawic"
+          },
+          "latitude": 45.99666,
+          "longitude": -67.24028
+        },
+        {
+          "name": {
+            "en": "New Maryland"
+          },
+          "latitude": 45.87932,
+          "longitude": -66.66828
+        },
+        {
+          "name": {
+            "en": "Noonan"
+          },
+          "latitude": 45.96682,
+          "longitude": -66.53218
+        },
+        {
+          "name": {
+            "en": "Oromocto"
+          },
+          "latitude": 45.83512,
+          "longitude": -66.47917
+        },
+        {
+          "name": {
+            "en": "Richibucto"
+          },
+          "latitude": 46.68073,
+          "longitude": -64.88044
+        },
+        {
+          "name": {
+            "en": "Sackville"
+          },
+          "latitude": 45.91875,
+          "longitude": -64.38455
+        },
+        {
+          "name": {
+            "en": "Saint Andrews"
+          },
+          "latitude": 45.0737,
+          "longitude": -67.05312
+        },
+        {
+          "name": {
+            "en": "Saint John"
+          },
+          "latitude": 45.27271,
+          "longitude": -66.06766
+        },
+        {
+          "name": {
+            "en": "Saint-Antoine"
+          },
+          "latitude": 46.36294,
+          "longitude": -64.74985
+        },
+        {
+          "name": {
+            "en": "Saint-Léonard"
+          },
+          "latitude": 47.16317,
+          "longitude": -67.9246
+        },
+        {
+          "name": {
+            "en": "Salisbury"
+          },
+          "latitude": 46.03905,
+          "longitude": -65.04628
+        },
+        {
+          "name": {
+            "en": "Shediac"
+          },
+          "latitude": 46.21981,
+          "longitude": -64.54107
+        },
+        {
+          "name": {
+            "en": "Shediac Bridge-Shediac River"
+          },
+          "latitude": 46.26886,
+          "longitude": -64.60047
+        },
+        {
+          "name": {
+            "en": "Shippagan"
+          },
+          "latitude": 47.74424,
+          "longitude": -64.70804
+        },
+        {
+          "name": {
+            "en": "Starlight Village"
+          },
+          "latitude": 45.88308,
+          "longitude": -66.76905
+        },
+        {
+          "name": {
+            "en": "Sussex"
+          },
+          "latitude": 45.72266,
+          "longitude": -65.50663
+        },
+        {
+          "name": {
+            "en": "Tracadie-Sheila"
+          },
+          "latitude": 47.51444,
+          "longitude": -64.91806
+        },
+        {
+          "name": {
+            "en": "Wells"
+          },
+          "latitude": 45.39274,
+          "longitude": -65.92313
+        }
+      ]
+    },
+    {
+      "code": "CA-NL",
+      "name": {
+        "en": "Newfoundland and Labrador"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bay Roberts"
+          },
+          "latitude": 47.59989,
+          "longitude": -53.26478
+        },
+        {
+          "name": {
+            "en": "Bay St. George South"
+          },
+          "latitude": 48.22781,
+          "longitude": -58.84162
+        },
+        {
+          "name": {
+            "en": "Bonavista"
+          },
+          "latitude": 48.64989,
+          "longitude": -53.11474
+        },
+        {
+          "name": {
+            "en": "Botwood"
+          },
+          "latitude": 49.14994,
+          "longitude": -55.34819
+        },
+        {
+          "name": {
+            "en": "Burgeo"
+          },
+          "latitude": 47.61668,
+          "longitude": -57.61516
+        },
+        {
+          "name": {
+            "en": "Carbonear"
+          },
+          "latitude": 47.73319,
+          "longitude": -53.21478
+        },
+        {
+          "name": {
+            "en": "Catalina"
+          },
+          "latitude": 48.51659,
+          "longitude": -53.08135
+        },
+        {
+          "name": {
+            "en": "Channel-Port aux Basques"
+          },
+          "latitude": 47.57286,
+          "longitude": -59.13808
+        },
+        {
+          "name": {
+            "en": "Clarenville-Shoal Harbour"
+          },
+          "latitude": 48.1805,
+          "longitude": -53.96982
+        },
+        {
+          "name": {
+            "en": "Conception Bay South"
+          },
+          "latitude": 47.49989,
+          "longitude": -52.99806
+        },
+        {
+          "name": {
+            "en": "Corner Brook",
+            "ar": "كورنر بروك"
+          },
+          "latitude": 48.95001,
+          "longitude": -57.95202
+        },
+        {
+          "name": {
+            "en": "Deer Lake"
+          },
+          "latitude": 49.16671,
+          "longitude": -57.43163
+        },
+        {
+          "name": {
+            "en": "Fogo Island"
+          },
+          "latitude": 49.71649,
+          "longitude": -54.16981
+        },
+        {
+          "name": {
+            "en": "Gambo"
+          },
+          "latitude": 48.7832,
+          "longitude": -54.21482
+        },
+        {
+          "name": {
+            "en": "Goulds"
+          },
+          "latitude": 47.45532,
+          "longitude": -52.77552
+        },
+        {
+          "name": {
+            "en": "Grand Bank"
+          },
+          "latitude": 47.09995,
+          "longitude": -55.76504
+        },
+        {
+          "name": {
+            "en": "Grand Falls-Windsor"
+          },
+          "latitude": 48.93324,
+          "longitude": -55.66492
+        },
+        {
+          "name": {
+            "en": "Happy Valley-Goose Bay"
+          },
+          "latitude": 53.3038,
+          "longitude": -60.32576
+        },
+        {
+          "name": {
+            "en": "Harbour Breton"
+          },
+          "latitude": 47.48325,
+          "longitude": -55.79833
+        },
+        {
+          "name": {
+            "en": "Labrador City"
+          },
+          "latitude": 52.94626,
+          "longitude": -66.91137
+        },
+        {
+          "name": {
+            "en": "Lewisporte"
+          },
+          "latitude": 49.24993,
+          "longitude": -55.04816
+        },
+        {
+          "name": {
+            "en": "Marystown"
+          },
+          "latitude": 47.16663,
+          "longitude": -55.14829
+        },
+        {
+          "name": {
+            "en": "Mount Pearl"
+          },
+          "latitude": 47.51659,
+          "longitude": -52.78135
+        },
+        {
+          "name": {
+            "en": "Pasadena"
+          },
+          "latitude": 49.01671,
+          "longitude": -57.59837
+        },
+        {
+          "name": {
+            "en": "Springdale"
+          },
+          "latitude": 49.49995,
+          "longitude": -56.06492
+        },
+        {
+          "name": {
+            "en": "St. Anthony"
+          },
+          "latitude": 51.37039,
+          "longitude": -55.59743
+        },
+        {
+          "name": {
+            "en": "St. John's",
+            "ar": "سانت جونز"
+          },
+          "latitude": 47.56494,
+          "longitude": -52.70931
+        },
+        {
+          "name": {
+            "en": "Stephenville"
+          },
+          "latitude": 48.55001,
+          "longitude": -58.5818
+        },
+        {
+          "name": {
+            "en": "Stephenville Crossing"
+          },
+          "latitude": 48.50001,
+          "longitude": -58.4318
+        },
+        {
+          "name": {
+            "en": "Torbay"
+          },
+          "latitude": 47.66659,
+          "longitude": -52.73135
+        },
+        {
+          "name": {
+            "en": "Upper Island Cove"
+          },
+          "latitude": 47.64989,
+          "longitude": -53.21478
+        },
+        {
+          "name": {
+            "en": "Wabana"
+          },
+          "latitude": 47.63319,
+          "longitude": -52.94806
+        }
+      ]
+    },
+    {
+      "code": "CA-NT",
+      "name": {
+        "en": "Northwest Territories"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Behchokǫ̀"
+          },
+          "latitude": 62.8025,
+          "longitude": -116.04639
+        },
+        {
+          "name": {
+            "en": "Fort McPherson"
+          },
+          "latitude": 67.43863,
+          "longitude": -134.88543
+        },
+        {
+          "name": {
+            "en": "Fort Smith"
+          },
+          "latitude": 60.00439,
+          "longitude": -111.88871
+        },
+        {
+          "name": {
+            "en": "Hay River"
+          },
+          "latitude": 60.81555,
+          "longitude": -115.79993
+        },
+        {
+          "name": {
+            "en": "Inuvik"
+          },
+          "latitude": 68.34986,
+          "longitude": -133.72181
+        },
+        {
+          "name": {
+            "en": "Norman Wells"
+          },
+          "latitude": 65.28201,
+          "longitude": -126.8329
+        },
+        {
+          "name": {
+            "en": "Yellowknife",
+            "ar": "يلونايف"
+          },
+          "latitude": 62.45411,
+          "longitude": -114.37248
+        }
+      ]
+    },
+    {
+      "code": "CA-NS",
+      "name": {
+        "en": "Nova Scotia"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Amherst"
+          },
+          "latitude": 45.83345,
+          "longitude": -64.19874
+        },
+        {
+          "name": {
+            "en": "Annapolis"
+          },
+          "latitude": 44.58345,
+          "longitude": -65.16551
+        },
+        {
+          "name": {
+            "en": "Antigonish"
+          },
+          "latitude": 45.61685,
+          "longitude": -61.99858
+        },
+        {
+          "name": {
+            "en": "Berwick"
+          },
+          "latitude": 45.05015,
+          "longitude": -64.73208
+        },
+        {
+          "name": {
+            "en": "Bridgewater"
+          },
+          "latitude": 44.37856,
+          "longitude": -64.51882
+        },
+        {
+          "name": {
+            "en": "Cape Breton"
+          },
+          "latitude": 46.00014,
+          "longitude": -60.31516
+        },
+        {
+          "name": {
+            "en": "Chester"
+          },
+          "latitude": 44.54225,
+          "longitude": -64.23891
+        },
+        {
+          "name": {
+            "en": "Colchester"
+          },
+          "latitude": 45.33345,
+          "longitude": -63.24868
+        },
+        {
+          "name": {
+            "en": "Cole Harbour"
+          },
+          "latitude": 44.67244,
+          "longitude": -63.47506
+        },
+        {
+          "name": {
+            "en": "Cow Bay"
+          },
+          "latitude": 44.63141,
+          "longitude": -63.43218
+        },
+        {
+          "name": {
+            "en": "Dartmouth",
+            "ar": "دارتموث"
+          },
+          "latitude": 44.67134,
+          "longitude": -63.57719
+        },
+        {
+          "name": {
+            "en": "Digby"
+          },
+          "latitude": 44.62188,
+          "longitude": -65.7586
+        },
+        {
+          "name": {
+            "en": "Digby County"
+          },
+          "latitude": 44.36685,
+          "longitude": -65.69884
+        },
+        {
+          "name": {
+            "en": "English Corner"
+          },
+          "latitude": 44.73345,
+          "longitude": -63.78201
+        },
+        {
+          "name": {
+            "en": "Eskasoni 3"
+          },
+          "latitude": 45.94522,
+          "longitude": -60.61617
+        },
+        {
+          "name": {
+            "en": "Fall River"
+          },
+          "latitude": 44.81685,
+          "longitude": -63.6154
+        },
+        {
+          "name": {
+            "en": "Glace Bay"
+          },
+          "latitude": 46.19695,
+          "longitude": -59.95698
+        },
+        {
+          "name": {
+            "en": "Greenwood"
+          },
+          "latitude": 44.97413,
+          "longitude": -64.93169
+        },
+        {
+          "name": {
+            "en": "Halifax"
+          },
+          "latitude": 44.64533,
+          "longitude": -63.57239
+        },
+        {
+          "name": {
+            "en": "Hantsport"
+          },
+          "latitude": 45.06685,
+          "longitude": -64.16544
+        },
+        {
+          "name": {
+            "en": "Hayes Subdivision"
+          },
+          "latitude": 45.05519,
+          "longitude": -64.58795
+        },
+        {
+          "name": {
+            "en": "Kentville"
+          },
+          "latitude": 45.0771,
+          "longitude": -64.49605
+        },
+        {
+          "name": {
+            "en": "Lake Echo"
+          },
+          "latitude": 44.73345,
+          "longitude": -63.38198
+        },
+        {
+          "name": {
+            "en": "Lantz"
+          },
+          "latitude": 44.98345,
+          "longitude": -63.48199
+        },
+        {
+          "name": {
+            "en": "Lower Sackville"
+          },
+          "latitude": 44.77599,
+          "longitude": -63.67865
+        },
+        {
+          "name": {
+            "en": "Lunenburg"
+          },
+          "latitude": 44.37847,
+          "longitude": -64.31658
+        },
+        {
+          "name": {
+            "en": "Middleton"
+          },
+          "latitude": 44.94284,
+          "longitude": -65.07022
+        },
+        {
+          "name": {
+            "en": "New Glasgow"
+          },
+          "latitude": 45.58344,
+          "longitude": -62.64863
+        },
+        {
+          "name": {
+            "en": "Oxford"
+          },
+          "latitude": 45.73345,
+          "longitude": -63.86542
+        },
+        {
+          "name": {
+            "en": "Parrsboro"
+          },
+          "latitude": 45.40567,
+          "longitude": -64.32585
+        },
+        {
+          "name": {
+            "en": "Pictou"
+          },
+          "latitude": 45.67875,
+          "longitude": -62.70936
+        },
+        {
+          "name": {
+            "en": "Pictou County"
+          },
+          "latitude": 45.50015,
+          "longitude": -62.58193
+        },
+        {
+          "name": {
+            "en": "Port Hawkesbury"
+          },
+          "latitude": 45.61685,
+          "longitude": -61.34853
+        },
+        {
+          "name": {
+            "en": "Port Williams"
+          },
+          "latitude": 45.10015,
+          "longitude": -64.41546
+        },
+        {
+          "name": {
+            "en": "Princeville"
+          },
+          "latitude": 45.76684,
+          "longitude": -61.29853
+        },
+        {
+          "name": {
+            "en": "Shelburne"
+          },
+          "latitude": 43.76325,
+          "longitude": -65.32355
+        },
+        {
+          "name": {
+            "en": "Springhill"
+          },
+          "latitude": 45.65015,
+          "longitude": -64.04873
+        },
+        {
+          "name": {
+            "en": "Sydney",
+            "ar": "سيدني"
+          },
+          "latitude": 46.1351,
+          "longitude": -60.1831
+        },
+        {
+          "name": {
+            "en": "Sydney Mines"
+          },
+          "latitude": 46.23669,
+          "longitude": -60.21767
+        },
+        {
+          "name": {
+            "en": "Truro"
+          },
+          "latitude": 45.36685,
+          "longitude": -63.26538
+        },
+        {
+          "name": {
+            "en": "Windsor"
+          },
+          "latitude": 44.98345,
+          "longitude": -64.13204
+        },
+        {
+          "name": {
+            "en": "Wolfville"
+          },
+          "latitude": 45.08345,
+          "longitude": -64.36546
+        },
+        {
+          "name": {
+            "en": "Yarmouth"
+          },
+          "latitude": 43.83345,
+          "longitude": -66.11557
+        }
+      ]
+    },
+    {
+      "code": "CA-NU",
+      "name": {
+        "en": "Nunavut"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Clyde River"
+          },
+          "latitude": 70.47233,
+          "longitude": -68.58987
+        },
+        {
+          "name": {
+            "en": "Gjoa Haven"
+          },
+          "latitude": 68.62602,
+          "longitude": -95.87836
+        },
+        {
+          "name": {
+            "en": "Iqaluit"
+          },
+          "latitude": 63.74697,
+          "longitude": -68.51727
+        },
+        {
+          "name": {
+            "en": "Kugluktuk"
+          },
+          "latitude": 67.82743,
+          "longitude": -115.09649
+        },
+        {
+          "name": {
+            "en": "Pangnirtung"
+          },
+          "latitude": 66.14642,
+          "longitude": -65.69996
+        },
+        {
+          "name": {
+            "en": "Rankin Inlet"
+          },
+          "latitude": 62.80906,
+          "longitude": -92.08534
+        }
+      ]
+    },
+    {
+      "code": "CA-ON",
+      "name": {
+        "en": "Ontario"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ajax",
+            "ar": "أجاكس"
+          },
+          "latitude": 43.85012,
+          "longitude": -79.03288
+        },
+        {
+          "name": {
+            "en": "Algoma"
+          },
+          "latitude": 47.88364,
+          "longitude": -84.42406
+        },
+        {
+          "name": {
+            "en": "Alliston"
+          },
+          "latitude": 44.15011,
+          "longitude": -79.86635
+        },
+        {
+          "name": {
+            "en": "Amherstburg"
+          },
+          "latitude": 42.10009,
+          "longitude": -83.09985
+        },
+        {
+          "name": {
+            "en": "Amigo Beach"
+          },
+          "latitude": 44.70011,
+          "longitude": -79.39963
+        },
+        {
+          "name": {
+            "en": "Ancaster"
+          },
+          "latitude": 43.21806,
+          "longitude": -79.98716
+        },
+        {
+          "name": {
+            "en": "Angus"
+          },
+          "latitude": 44.31681,
+          "longitude": -79.88295
+        },
+        {
+          "name": {
+            "en": "Arnprior"
+          },
+          "latitude": 45.43341,
+          "longitude": -76.34939
+        },
+        {
+          "name": {
+            "en": "Atikokan"
+          },
+          "latitude": 48.75667,
+          "longitude": -91.62409
+        },
+        {
+          "name": {
+            "en": "Attawapiskat"
+          },
+          "latitude": 52.92774,
+          "longitude": -82.41669
+        },
+        {
+          "name": {
+            "en": "Aurora",
+            "ar": "أورورا"
+          },
+          "latitude": 43.99973,
+          "longitude": -79.467545
+        },
+        {
+          "name": {
+            "en": "Aylmer"
+          },
+          "latitude": 42.76679,
+          "longitude": -80.98302
+        },
+        {
+          "name": {
+            "en": "Azilda"
+          },
+          "latitude": 46.55008,
+          "longitude": -81.09975
+        },
+        {
+          "name": {
+            "en": "Ballantrae"
+          },
+          "latitude": 44.03342,
+          "longitude": -79.2996
+        },
+        {
+          "name": {
+            "en": "Bancroft"
+          },
+          "latitude": 45.05752,
+          "longitude": -77.85702
+        },
+        {
+          "name": {
+            "en": "Barrie",
+            "ar": "باري"
+          },
+          "latitude": 44.40011,
+          "longitude": -79.66634
+        },
+        {
+          "name": {
+            "en": "Bath"
+          },
+          "latitude": 44.18342,
+          "longitude": -76.78273
+        },
+        {
+          "name": {
+            "en": "Belleville",
+            "ar": "بيلفي"
+          },
+          "latitude": 44.16682,
+          "longitude": -77.38277
+        },
+        {
+          "name": {
+            "en": "Bells Corners"
+          },
+          "latitude": 45.31588,
+          "longitude": -75.83012
+        },
+        {
+          "name": {
+            "en": "Belmont"
+          },
+          "latitude": 42.88339,
+          "longitude": -81.08303
+        },
+        {
+          "name": {
+            "en": "Binbrook"
+          },
+          "latitude": 43.12135,
+          "longitude": -79.81104
+        },
+        {
+          "name": {
+            "en": "Bluewater"
+          },
+          "latitude": 43.46679,
+          "longitude": -81.59977
+        },
+        {
+          "name": {
+            "en": "Bourget"
+          },
+          "latitude": 45.4334,
+          "longitude": -75.1493
+        },
+        {
+          "name": {
+            "en": "Bracebridge",
+            "ar": "بريسبريدج"
+          },
+          "latitude": 45.03341,
+          "longitude": -79.31633
+        },
+        {
+          "name": {
+            "en": "Brampton",
+            "ar": "برامبتون"
+          },
+          "latitude": 43.68341,
+          "longitude": -79.76633
+        },
+        {
+          "name": {
+            "en": "Brant"
+          },
+          "latitude": 43.1334,
+          "longitude": -80.34967
+        },
+        {
+          "name": {
+            "en": "Brantford",
+            "ar": "برانتفورد"
+          },
+          "latitude": 43.1334,
+          "longitude": -80.26636
+        },
+        {
+          "name": {
+            "en": "Brockville",
+            "ar": "بروكفيل"
+          },
+          "latitude": 44.59132,
+          "longitude": -75.68705
+        },
+        {
+          "name": {
+            "en": "Brussels"
+          },
+          "latitude": 43.73339,
+          "longitude": -81.24975
+        },
+        {
+          "name": {
+            "en": "Burford"
+          },
+          "latitude": 43.10292,
+          "longitude": -80.42869
+        },
+        {
+          "name": {
+            "en": "Burlington",
+            "ar": "بيرلينجتون"
+          },
+          "latitude": 43.38621,
+          "longitude": -79.83713
+        },
+        {
+          "name": {
+            "en": "Cambridge",
+            "ar": "كامبريدج"
+          },
+          "latitude": 43.3601,
+          "longitude": -80.31269
+        },
+        {
+          "name": {
+            "en": "Camlachie"
+          },
+          "latitude": 43.03596,
+          "longitude": -82.1616
+        },
+        {
+          "name": {
+            "en": "Capreol"
+          },
+          "latitude": 46.70626,
+          "longitude": -80.92109
+        },
+        {
+          "name": {
+            "en": "Carleton Place"
+          },
+          "latitude": 45.13341,
+          "longitude": -76.14938
+        },
+        {
+          "name": {
+            "en": "Casselman"
+          },
+          "latitude": 45.3168,
+          "longitude": -75.0826
+        },
+        {
+          "name": {
+            "en": "Chatham"
+          },
+          "latitude": 42.41224,
+          "longitude": -82.18494
+        },
+        {
+          "name": {
+            "en": "Chatham-Kent"
+          },
+          "latitude": 42.40009,
+          "longitude": -82.1831
+        },
+        {
+          "name": {
+            "en": "Clarence-Rockland"
+          },
+          "latitude": 45.5501,
+          "longitude": -75.29101
+        },
+        {
+          "name": {
+            "en": "Cobourg",
+            "ar": "كوبورغ"
+          },
+          "latitude": 43.95977,
+          "longitude": -78.16515
+        },
+        {
+          "name": {
+            "en": "Cochrane"
+          },
+          "latitude": 50.00022,
+          "longitude": -82.99979
+        },
+        {
+          "name": {
+            "en": "Collingwood",
+            "ar": "كولينجوود"
+          },
+          "latitude": 44.4834,
+          "longitude": -80.21638
+        },
+        {
+          "name": {
+            "en": "Concord"
+          },
+          "latitude": 43.80011,
+          "longitude": -79.48291
+        },
+        {
+          "name": {
+            "en": "Constance Bay"
+          },
+          "latitude": 45.50011,
+          "longitude": -76.08267
+        },
+        {
+          "name": {
+            "en": "Cookstown"
+          },
+          "latitude": 44.18341,
+          "longitude": -79.69964
+        },
+        {
+          "name": {
+            "en": "Cornwall",
+            "ar": "كورنوال"
+          },
+          "latitude": 45.01809,
+          "longitude": -74.72815
+        },
+        {
+          "name": {
+            "en": "Corunna"
+          },
+          "latitude": 42.88338,
+          "longitude": -82.43313
+        },
+        {
+          "name": {
+            "en": "Deep River"
+          },
+          "latitude": 46.10012,
+          "longitude": -77.49949
+        },
+        {
+          "name": {
+            "en": "Delaware"
+          },
+          "latitude": 42.91679,
+          "longitude": -81.41646
+        },
+        {
+          "name": {
+            "en": "Deseronto"
+          },
+          "latitude": 44.20012,
+          "longitude": -77.04944
+        },
+        {
+          "name": {
+            "en": "Dorchester"
+          },
+          "latitude": 42.98339,
+          "longitude": -81.06643
+        },
+        {
+          "name": {
+            "en": "Dowling"
+          },
+          "latitude": 46.59111,
+          "longitude": -81.33917
+        },
+        {
+          "name": {
+            "en": "Dryden"
+          },
+          "latitude": 49.78334,
+          "longitude": -92.75032
+        },
+        {
+          "name": {
+            "en": "Durham"
+          },
+          "latitude": 44.20012,
+          "longitude": -78.99957
+        },
+        {
+          "name": {
+            "en": "Ear Falls"
+          },
+          "latitude": 50.63955,
+          "longitude": -93.23526
+        },
+        {
+          "name": {
+            "en": "East Gwillimbury",
+            "ar": "ايست ويليمباري"
+          },
+          "latitude": 44.10087,
+          "longitude": -79.43785
+        },
+        {
+          "name": {
+            "en": "East York"
+          },
+          "latitude": 43.69053,
+          "longitude": -79.32794
+        },
+        {
+          "name": {
+            "en": "Elliot Lake"
+          },
+          "latitude": 46.38336,
+          "longitude": -82.63315
+        },
+        {
+          "name": {
+            "en": "Elmvale"
+          },
+          "latitude": 44.5834,
+          "longitude": -79.86636
+        },
+        {
+          "name": {
+            "en": "Englehart"
+          },
+          "latitude": 47.81686,
+          "longitude": -79.8664
+        },
+        {
+          "name": {
+            "en": "Espanola"
+          },
+          "latitude": 46.25837,
+          "longitude": -81.76649
+        },
+        {
+          "name": {
+            "en": "Essex"
+          },
+          "latitude": 42.17509,
+          "longitude": -82.82483
+        },
+        {
+          "name": {
+            "en": "Etobicoke"
+          },
+          "latitude": 43.65421,
+          "longitude": -79.56711
+        },
+        {
+          "name": {
+            "en": "Exeter"
+          },
+          "latitude": 43.3435863,
+          "longitude": -81.4972602
+        },
+        {
+          "name": {
+            "en": "Fort Erie",
+            "ar": "فورت إيري"
+          },
+          "latitude": 42.90012,
+          "longitude": -78.93286
+        },
+        {
+          "name": {
+            "en": "Fort Frances"
+          },
+          "latitude": 48.61667,
+          "longitude": -93.4003
+        },
+        {
+          "name": {
+            "en": "Gananoque"
+          },
+          "latitude": 44.33342,
+          "longitude": -76.16607
+        },
+        {
+          "name": {
+            "en": "Glencoe"
+          },
+          "latitude": 42.75009,
+          "longitude": -81.71648
+        },
+        {
+          "name": {
+            "en": "Goderich"
+          },
+          "latitude": 43.74171,
+          "longitude": -81.71339
+        },
+        {
+          "name": {
+            "en": "Golden"
+          },
+          "latitude": 51.05917,
+          "longitude": -93.73568
+        },
+        {
+          "name": {
+            "en": "Gravenhurst"
+          },
+          "latitude": 44.91681,
+          "longitude": -79.36633
+        },
+        {
+          "name": {
+            "en": "Greater Napanee"
+          },
+          "latitude": 44.2473883,
+          "longitude": -76.9505543
+        },
+        {
+          "name": {
+            "en": "Greater Sudbury",
+            "ar": "غريتر سودبوري"
+          },
+          "latitude": 46.49,
+          "longitude": -80.99001
+        },
+        {
+          "name": {
+            "en": "Greenstone"
+          },
+          "latitude": 49.73343,
+          "longitude": -87.16668
+        },
+        {
+          "name": {
+            "en": "Guelph",
+            "ar": "غويلف"
+          },
+          "latitude": 43.54594,
+          "longitude": -80.25599
+        },
+        {
+          "name": {
+            "en": "Haldimand"
+          },
+          "latitude": 42.98341,
+          "longitude": -79.86633
+        },
+        {
+          "name": {
+            "en": "Haliburton Village"
+          },
+          "latitude": 45.05154,
+          "longitude": -78.52245
+        },
+        {
+          "name": {
+            "en": "Halton"
+          },
+          "latitude": 43.50011,
+          "longitude": -79.88294
+        },
+        {
+          "name": {
+            "en": "Hamilton",
+            "ar": "هاميلتون"
+          },
+          "latitude": 43.25011,
+          "longitude": -79.84963
+        },
+        {
+          "name": {
+            "en": "Hanover"
+          },
+          "latitude": 44.15009,
+          "longitude": -81.03303
+        },
+        {
+          "name": {
+            "en": "Harriston"
+          },
+          "latitude": 43.90009,
+          "longitude": -80.88302
+        },
+        {
+          "name": {
+            "en": "Hawkesbury"
+          },
+          "latitude": 45.60009,
+          "longitude": -74.61595
+        },
+        {
+          "name": {
+            "en": "Hearst"
+          },
+          "latitude": 49.68351,
+          "longitude": -83.66654
+        },
+        {
+          "name": {
+            "en": "Hornepayne"
+          },
+          "latitude": 49.21451,
+          "longitude": -84.77617
+        },
+        {
+          "name": {
+            "en": "Huntsville",
+            "ar": "هانتسفيل"
+          },
+          "latitude": 45.33341,
+          "longitude": -79.21632
+        },
+        {
+          "name": {
+            "en": "Huron East"
+          },
+          "latitude": 43.61679,
+          "longitude": -81.29975
+        },
+        {
+          "name": {
+            "en": "Ingersoll"
+          },
+          "latitude": 43.03339,
+          "longitude": -80.88302
+        },
+        {
+          "name": {
+            "en": "Innisfil"
+          },
+          "latitude": 44.30011,
+          "longitude": -79.64964
+        },
+        {
+          "name": {
+            "en": "Iroquois Falls"
+          },
+          "latitude": 48.76688,
+          "longitude": -80.68307
+        },
+        {
+          "name": {
+            "en": "Jarvis"
+          },
+          "latitude": 42.88341,
+          "longitude": -80.09965
+        },
+        {
+          "name": {
+            "en": "Kanata"
+          },
+          "latitude": 45.3001,
+          "longitude": -75.91606
+        },
+        {
+          "name": {
+            "en": "Kapuskasing"
+          },
+          "latitude": 49.41694,
+          "longitude": -82.43308
+        },
+        {
+          "name": {
+            "en": "Kawartha Lakes"
+          },
+          "latitude": 44.58342,
+          "longitude": -78.83288
+        },
+        {
+          "name": {
+            "en": "Kenora",
+            "ar": "كينورا"
+          },
+          "latitude": 49.76741,
+          "longitude": -94.48985
+        },
+        {
+          "name": {
+            "en": "Keswick"
+          },
+          "latitude": 44.25011,
+          "longitude": -79.46632
+        },
+        {
+          "name": {
+            "en": "Kincardine"
+          },
+          "latitude": 44.18339,
+          "longitude": -81.63307
+        },
+        {
+          "name": {
+            "en": "King"
+          },
+          "latitude": 43.96514,
+          "longitude": -79.59011
+        },
+        {
+          "name": {
+            "en": "Kingston",
+            "ar": "كينغستون"
+          },
+          "latitude": 44.22976,
+          "longitude": -76.48098
+        },
+        {
+          "name": {
+            "en": "Kirkland Lake"
+          },
+          "latitude": 48.14461,
+          "longitude": -80.03767
+        },
+        {
+          "name": {
+            "en": "Kitchener",
+            "ar": "كيتشنر"
+          },
+          "latitude": 43.42537,
+          "longitude": -80.5112
+        },
+        {
+          "name": {
+            "en": "L'Orignal"
+          },
+          "latitude": 45.6198,
+          "longitude": -74.6915
+        },
+        {
+          "name": {
+            "en": "Lakefield"
+          },
+          "latitude": 44.43342,
+          "longitude": -78.26623
+        },
+        {
+          "name": {
+            "en": "Lambton Shores"
+          },
+          "latitude": 43.16678,
+          "longitude": -81.93309
+        },
+        {
+          "name": {
+            "en": "Lappe"
+          },
+          "latitude": 48.5668,
+          "longitude": -89.35013
+        },
+        {
+          "name": {
+            "en": "Leamington",
+            "ar": "ليمينغتون"
+          },
+          "latitude": 42.05009,
+          "longitude": -82.59981
+        },
+        {
+          "name": {
+            "en": "Limoges"
+          },
+          "latitude": 45.3334,
+          "longitude": -75.24931
+        },
+        {
+          "name": {
+            "en": "Lindsay"
+          },
+          "latitude": 44.35012,
+          "longitude": -78.73286
+        },
+        {
+          "name": {
+            "en": "Listowel"
+          },
+          "latitude": 43.7334,
+          "longitude": -80.94973
+        },
+        {
+          "name": {
+            "en": "Little Current"
+          },
+          "latitude": 45.97927,
+          "longitude": -81.9248
+        },
+        {
+          "name": {
+            "en": "Lively"
+          },
+          "latitude": 46.43338,
+          "longitude": -81.14975
+        },
+        {
+          "name": {
+            "en": "London",
+            "ar": "لندن"
+          },
+          "latitude": 42.98339,
+          "longitude": -81.23304
+        },
+        {
+          "name": {
+            "en": "Lucan"
+          },
+          "latitude": 43.18339,
+          "longitude": -81.39976
+        },
+        {
+          "name": {
+            "en": "Madoc"
+          },
+          "latitude": 44.50842,
+          "longitude": -77.47448
+        },
+        {
+          "name": {
+            "en": "Manitoulin"
+          },
+          "latitude": 45.75007,
+          "longitude": -82.49985
+        },
+        {
+          "name": {
+            "en": "Manitouwadge"
+          },
+          "latitude": 49.12152,
+          "longitude": -85.8403
+        },
+        {
+          "name": {
+            "en": "Marathon"
+          },
+          "latitude": 48.7501,
+          "longitude": -86.43322
+        },
+        {
+          "name": {
+            "en": "Markdale"
+          },
+          "latitude": 44.3168,
+          "longitude": -80.64971
+        },
+        {
+          "name": {
+            "en": "Markham",
+            "ar": "ماركام"
+          },
+          "latitude": 43.86682,
+          "longitude": -79.2663
+        },
+        {
+          "name": {
+            "en": "Mattawa"
+          },
+          "latitude": 46.31681,
+          "longitude": -78.69957
+        },
+        {
+          "name": {
+            "en": "Meaford"
+          },
+          "latitude": 44.60725,
+          "longitude": -80.61081
+        },
+        {
+          "name": {
+            "en": "Metcalfe"
+          },
+          "latitude": 45.2334,
+          "longitude": -75.46603
+        },
+        {
+          "name": {
+            "en": "Midland",
+            "ar": "ميدلاند"
+          },
+          "latitude": 44.7501,
+          "longitude": -79.88296
+        },
+        {
+          "name": {
+            "en": "Mildmay"
+          },
+          "latitude": 44.05009,
+          "longitude": -81.11644
+        },
+        {
+          "name": {
+            "en": "Millbrook"
+          },
+          "latitude": 44.15012,
+          "longitude": -78.44954
+        },
+        {
+          "name": {
+            "en": "Milton",
+            "ar": "ميلتون"
+          },
+          "latitude": 43.51681,
+          "longitude": -79.88294
+        },
+        {
+          "name": {
+            "en": "Mississauga",
+            "ar": "ميسيساغا"
+          },
+          "latitude": 43.5789,
+          "longitude": -79.6583
+        },
+        {
+          "name": {
+            "en": "Mississauga Beach"
+          },
+          "latitude": 43.26682,
+          "longitude": -79.08287
+        },
+        {
+          "name": {
+            "en": "Moose Factory"
+          },
+          "latitude": 51.26689,
+          "longitude": -80.61624
+        },
+        {
+          "name": {
+            "en": "Moosonee"
+          },
+          "latitude": 51.27931,
+          "longitude": -80.6345
+        },
+        {
+          "name": {
+            "en": "Morrisburg"
+          },
+          "latitude": 44.9001,
+          "longitude": -75.18261
+        },
+        {
+          "name": {
+            "en": "Mount Albert"
+          },
+          "latitude": 44.13341,
+          "longitude": -79.3163
+        },
+        {
+          "name": {
+            "en": "Mount Brydges"
+          },
+          "latitude": 42.90009,
+          "longitude": -81.48306
+        },
+        {
+          "name": {
+            "en": "Napanee Downtown"
+          },
+          "latitude": 44.24832,
+          "longitude": -76.95069
+        },
+        {
+          "name": {
+            "en": "Neebing"
+          },
+          "latitude": 48.1668,
+          "longitude": -89.41683
+        },
+        {
+          "name": {
+            "en": "Nepean"
+          },
+          "latitude": 45.35215,
+          "longitude": -75.73975
+        },
+        {
+          "name": {
+            "en": "New Hamburg"
+          },
+          "latitude": 43.38339,
+          "longitude": -80.6997
+        },
+        {
+          "name": {
+            "en": "Newmarket",
+            "ar": "نيوماركت"
+          },
+          "latitude": 44.05011,
+          "longitude": -79.46631
+        },
+        {
+          "name": {
+            "en": "Niagara Falls",
+            "ar": "نياجارا فولز"
+          },
+          "latitude": 43.10012,
+          "longitude": -79.06627
+        },
+        {
+          "name": {
+            "en": "Nipissing"
+          },
+          "latitude": 46.0001,
+          "longitude": -78.99959
+        },
+        {
+          "name": {
+            "en": "Norfolk County"
+          },
+          "latitude": 42.8334,
+          "longitude": -80.38297
+        },
+        {
+          "name": {
+            "en": "North Bay",
+            "ar": "نورث باي"
+          },
+          "latitude": 46.3168,
+          "longitude": -79.46633
+        },
+        {
+          "name": {
+            "en": "North Perth"
+          },
+          "latitude": 43.7251,
+          "longitude": -80.96723
+        },
+        {
+          "name": {
+            "en": "North York"
+          },
+          "latitude": 43.76681,
+          "longitude": -79.4163
+        },
+        {
+          "name": {
+            "en": "Norwood"
+          },
+          "latitude": 44.38342,
+          "longitude": -77.98281
+        },
+        {
+          "name": {
+            "en": "Oakville",
+            "ar": "أوكفيل"
+          },
+          "latitude": 43.45011,
+          "longitude": -79.68292
+        },
+        {
+          "name": {
+            "en": "Omemee"
+          },
+          "latitude": 44.29897,
+          "longitude": -78.55989
+        },
+        {
+          "name": {
+            "en": "Orangeville"
+          },
+          "latitude": 43.9168,
+          "longitude": -80.09967
+        },
+        {
+          "name": {
+            "en": "Orillia",
+            "ar": "أوريليا"
+          },
+          "latitude": 44.60868,
+          "longitude": -79.42068
+        },
+        {
+          "name": {
+            "en": "Osgoode"
+          },
+          "latitude": 45.14887,
+          "longitude": -75.59778
+        },
+        {
+          "name": {
+            "en": "Oshawa",
+            "ar": "أوشاوا"
+          },
+          "latitude": 43.90012,
+          "longitude": -78.84957
+        },
+        {
+          "name": {
+            "en": "Ottawa",
+            "ar": "أوتاوا"
+          },
+          "latitude": 45.41117,
+          "longitude": -75.69812
+        },
+        {
+          "name": {
+            "en": "Owen Sound",
+            "ar": "أوين ساوند"
+          },
+          "latitude": 44.56717,
+          "longitude": -80.94349
+        },
+        {
+          "name": {
+            "en": "Paisley"
+          },
+          "latitude": 44.30641,
+          "longitude": -81.27265
+        },
+        {
+          "name": {
+            "en": "Paris"
+          },
+          "latitude": 43.2,
+          "longitude": -80.38333
+        },
+        {
+          "name": {
+            "en": "Parkhill"
+          },
+          "latitude": 43.15993,
+          "longitude": -81.68464
+        },
+        {
+          "name": {
+            "en": "Parry Sound"
+          },
+          "latitude": 45.34732,
+          "longitude": -80.03527
+        },
+        {
+          "name": {
+            "en": "Parry Sound District"
+          },
+          "latitude": 45.75011,
+          "longitude": -79.83297
+        },
+        {
+          "name": {
+            "en": "Peel"
+          },
+          "latitude": 43.75011,
+          "longitude": -79.78293
+        },
+        {
+          "name": {
+            "en": "Pembroke"
+          },
+          "latitude": 45.81681,
+          "longitude": -77.11616
+        },
+        {
+          "name": {
+            "en": "Perth"
+          },
+          "latitude": 44.90011,
+          "longitude": -76.24939
+        },
+        {
+          "name": {
+            "en": "Petawawa"
+          },
+          "latitude": 45.89452,
+          "longitude": -77.28007
+        },
+        {
+          "name": {
+            "en": "Peterborough",
+            "ar": "بيتيربوروغ"
+          },
+          "latitude": 44.30012,
+          "longitude": -78.31623
+        },
+        {
+          "name": {
+            "en": "Petrolia"
+          },
+          "latitude": 42.86678,
+          "longitude": -82.14981
+        },
+        {
+          "name": {
+            "en": "Pickering",
+            "ar": "بيكرينغ"
+          },
+          "latitude": 43.90012,
+          "longitude": -79.13289
+        },
+        {
+          "name": {
+            "en": "Picton"
+          },
+          "latitude": 44.00012,
+          "longitude": -77.13275
+        },
+        {
+          "name": {
+            "en": "Plantagenet"
+          },
+          "latitude": 45.5326,
+          "longitude": -74.99369
+        },
+        {
+          "name": {
+            "en": "Plattsville"
+          },
+          "latitude": 43.3001,
+          "longitude": -80.61639
+        },
+        {
+          "name": {
+            "en": "Port Colborne",
+            "ar": "بورت كولبورن"
+          },
+          "latitude": 42.90012,
+          "longitude": -79.23288
+        },
+        {
+          "name": {
+            "en": "Port Hope"
+          },
+          "latitude": 44.01682,
+          "longitude": -78.39953
+        },
+        {
+          "name": {
+            "en": "Port Rowan"
+          },
+          "latitude": 42.6168,
+          "longitude": -80.46638
+        },
+        {
+          "name": {
+            "en": "Port Stanley"
+          },
+          "latitude": 42.66679,
+          "longitude": -81.21644
+        },
+        {
+          "name": {
+            "en": "Powassan"
+          },
+          "latitude": 46.0334,
+          "longitude": -79.34961
+        },
+        {
+          "name": {
+            "en": "Prescott"
+          },
+          "latitude": 44.71681,
+          "longitude": -75.51604
+        },
+        {
+          "name": {
+            "en": "Prince Edward"
+          },
+          "latitude": 44.00012,
+          "longitude": -77.24946
+        },
+        {
+          "name": {
+            "en": "Queenswood Heights"
+          },
+          "latitude": 45.47083,
+          "longitude": -75.50556
+        },
+        {
+          "name": {
+            "en": "Quinte West",
+            "ar": "قوينت ويست"
+          },
+          "latitude": 44.18342,
+          "longitude": -77.56618
+        },
+        {
+          "name": {
+            "en": "Rainy River"
+          },
+          "latitude": 48.49981,
+          "longitude": -92.50031
+        },
+        {
+          "name": {
+            "en": "Rayside-Balfour"
+          },
+          "latitude": 46.60873,
+          "longitude": -81.20763
+        },
+        {
+          "name": {
+            "en": "Red Lake"
+          },
+          "latitude": 51.01678,
+          "longitude": -93.82736
+        },
+        {
+          "name": {
+            "en": "Regional Municipality of Waterloo"
+          },
+          "latitude": 43.5001,
+          "longitude": -80.49969
+        },
+        {
+          "name": {
+            "en": "Renfrew"
+          },
+          "latitude": 45.46681,
+          "longitude": -76.68272
+        },
+        {
+          "name": {
+            "en": "Richmond"
+          },
+          "latitude": 45.1834,
+          "longitude": -75.83266
+        },
+        {
+          "name": {
+            "en": "Richmond Hill",
+            "ar": "ريتشموند هيل"
+          },
+          "latitude": 43.87111,
+          "longitude": -79.43725
+        },
+        {
+          "name": {
+            "en": "Ridgetown"
+          },
+          "latitude": 42.43339,
+          "longitude": -81.89978
+        },
+        {
+          "name": {
+            "en": "Rockwood"
+          },
+          "latitude": 43.61899,
+          "longitude": -80.14441
+        },
+        {
+          "name": {
+            "en": "Russell"
+          },
+          "latitude": 45.2501,
+          "longitude": -75.36602
+        },
+        {
+          "name": {
+            "en": "Sarnia",
+            "ar": "سارنيا"
+          },
+          "latitude": 42.97866,
+          "longitude": -82.40407
+        },
+        {
+          "name": {
+            "en": "Sault Ste. Marie",
+            "ar": "سو ساينت ماري"
+          },
+          "latitude": 46.51677,
+          "longitude": -84.33325
+        },
+        {
+          "name": {
+            "en": "Scarborough"
+          },
+          "latitude": 43.77223,
+          "longitude": -79.25666
+        },
+        {
+          "name": {
+            "en": "Seaforth"
+          },
+          "latitude": 43.55009,
+          "longitude": -81.39976
+        },
+        {
+          "name": {
+            "en": "Shelburne"
+          },
+          "latitude": 44.0787,
+          "longitude": -80.20408
+        },
+        {
+          "name": {
+            "en": "Simcoe"
+          },
+          "latitude": 42.8334,
+          "longitude": -80.29967
+        },
+        {
+          "name": {
+            "en": "Sioux Lookout"
+          },
+          "latitude": 50.06676,
+          "longitude": -91.98358
+        },
+        {
+          "name": {
+            "en": "Skatepark"
+          },
+          "latitude": 44.25122,
+          "longitude": -76.94424
+        },
+        {
+          "name": {
+            "en": "Smiths Falls"
+          },
+          "latitude": 44.90452,
+          "longitude": -76.02333
+        },
+        {
+          "name": {
+            "en": "South Huron"
+          },
+          "latitude": 43.31679,
+          "longitude": -81.51647
+        },
+        {
+          "name": {
+            "en": "South River"
+          },
+          "latitude": 45.8334,
+          "longitude": -79.38293
+        },
+        {
+          "name": {
+            "en": "St. Catharines",
+            "ar": "سانت كاثرينز"
+          },
+          "latitude": 43.17126,
+          "longitude": -79.24267
+        },
+        {
+          "name": {
+            "en": "St. George"
+          },
+          "latitude": 43.24495,
+          "longitude": -80.25144
+        },
+        {
+          "name": {
+            "en": "St. Thomas",
+            "ar": "سانت توماس"
+          },
+          "latitude": 42.77361,
+          "longitude": -81.18038
+        },
+        {
+          "name": {
+            "en": "Stirling"
+          },
+          "latitude": 44.30012,
+          "longitude": -77.54948
+        },
+        {
+          "name": {
+            "en": "Stoney Point"
+          },
+          "latitude": 44.26681,
+          "longitude": -79.53292
+        },
+        {
+          "name": {
+            "en": "Stratford",
+            "ar": "ستارتفورد"
+          },
+          "latitude": 43.36679,
+          "longitude": -80.94972
+        },
+        {
+          "name": {
+            "en": "Sudbury"
+          },
+          "latitude": 47.16679,
+          "longitude": -81.9998
+        },
+        {
+          "name": {
+            "en": "Tavistock"
+          },
+          "latitude": 43.31679,
+          "longitude": -80.83302
+        },
+        {
+          "name": {
+            "en": "Temiskaming Shores"
+          },
+          "latitude": 47.49376,
+          "longitude": -79.71529
+        },
+        {
+          "name": {
+            "en": "Thessalon"
+          },
+          "latitude": 46.25006,
+          "longitude": -83.5666
+        },
+        {
+          "name": {
+            "en": "Thornhill"
+          },
+          "latitude": 43.8170848,
+          "longitude": -79.4501194
+        },
+        {
+          "name": {
+            "en": "Thorold",
+            "ar": "ثورولد"
+          },
+          "latitude": 43.11682,
+          "longitude": -79.19958
+        },
+        {
+          "name": {
+            "en": "Thunder Bay",
+            "ar": "ثاندر باي"
+          },
+          "latitude": 48.38202,
+          "longitude": -89.25018
+        },
+        {
+          "name": {
+            "en": "Thunder Bay District"
+          },
+          "latitude": 49.50011,
+          "longitude": -88.50004
+        },
+        {
+          "name": {
+            "en": "Timiskaming"
+          },
+          "latitude": 47.75016,
+          "longitude": -80.33303
+        },
+        {
+          "name": {
+            "en": "Timmins",
+            "ar": "تيمينز"
+          },
+          "latitude": 48.46686,
+          "longitude": -81.33312
+        },
+        {
+          "name": {
+            "en": "Tobermory"
+          },
+          "latitude": 45.25007,
+          "longitude": -81.66647
+        },
+        {
+          "name": {
+            "en": "Toronto"
+          },
+          "latitude": 43.70011,
+          "longitude": -79.4163
+        },
+        {
+          "name": {
+            "en": "Toronto county"
+          },
+          "latitude": 43.69655,
+          "longitude": -79.42909
+        },
+        {
+          "name": {
+            "en": "Tottenham"
+          },
+          "latitude": 44.02437,
+          "longitude": -79.80553
+        },
+        {
+          "name": {
+            "en": "Tweed"
+          },
+          "latitude": 44.47512,
+          "longitude": -77.31616
+        },
+        {
+          "name": {
+            "en": "Uxbridge",
+            "ar": "يوكسبريدج"
+          },
+          "latitude": 44.10012,
+          "longitude": -79.11628
+        },
+        {
+          "name": {
+            "en": "Valley East"
+          },
+          "latitude": 46.66773,
+          "longitude": -81.00028
+        },
+        {
+          "name": {
+            "en": "Vanier",
+            "ar": "فانير"
+          },
+          "latitude": 45.4399,
+          "longitude": -75.66498
+        },
+        {
+          "name": {
+            "en": "Vaughan",
+            "ar": "فاوجان"
+          },
+          "latitude": 43.8361,
+          "longitude": -79.49827
+        },
+        {
+          "name": {
+            "en": "Vineland"
+          },
+          "latitude": 43.15012,
+          "longitude": -79.3996
+        },
+        {
+          "name": {
+            "en": "Virgil"
+          },
+          "latitude": 43.21682,
+          "longitude": -79.13288
+        },
+        {
+          "name": {
+            "en": "Walpole Island"
+          },
+          "latitude": 42.6152,
+          "longitude": -82.51398
+        },
+        {
+          "name": {
+            "en": "Wasaga Beach"
+          },
+          "latitude": 44.5168,
+          "longitude": -80.01637
+        },
+        {
+          "name": {
+            "en": "Waterford"
+          },
+          "latitude": 42.9334,
+          "longitude": -80.28296
+        },
+        {
+          "name": {
+            "en": "Waterloo",
+            "ar": "واترلو"
+          },
+          "latitude": 43.4668,
+          "longitude": -80.51639
+        },
+        {
+          "name": {
+            "en": "Watford"
+          },
+          "latitude": 42.95008,
+          "longitude": -81.88309
+        },
+        {
+          "name": {
+            "en": "Wawa"
+          },
+          "latitude": 47.98877,
+          "longitude": -84.77411
+        },
+        {
+          "name": {
+            "en": "Welland",
+            "ar": "ويلاند"
+          },
+          "latitude": 42.98342,
+          "longitude": -79.24958
+        },
+        {
+          "name": {
+            "en": "Wellesley"
+          },
+          "latitude": 43.47691,
+          "longitude": -80.76209
+        },
+        {
+          "name": {
+            "en": "Wendover"
+          },
+          "latitude": 45.57275,
+          "longitude": -75.12757
+        },
+        {
+          "name": {
+            "en": "West Lorne"
+          },
+          "latitude": 42.60009,
+          "longitude": -81.59976
+        },
+        {
+          "name": {
+            "en": "Willowdale"
+          },
+          "latitude": 43.76672,
+          "longitude": -79.39909
+        },
+        {
+          "name": {
+            "en": "Winchester"
+          },
+          "latitude": 45.0834,
+          "longitude": -75.34933
+        },
+        {
+          "name": {
+            "en": "Windsor",
+            "ar": "وندسور"
+          },
+          "latitude": 42.30008,
+          "longitude": -83.01654
+        },
+        {
+          "name": {
+            "en": "Wingham"
+          },
+          "latitude": 43.88793,
+          "longitude": -81.31145
+        },
+        {
+          "name": {
+            "en": "Woodstock",
+            "ar": "وودستوك"
+          },
+          "latitude": 43.13339,
+          "longitude": -80.7497
+        },
+        {
+          "name": {
+            "en": "York"
+          },
+          "latitude": 44.0007518,
+          "longitude": -79.4372217
+        }
+      ]
+    },
+    {
+      "code": "CA-PE",
+      "name": {
+        "en": "Prince Edward Island"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Alberton"
+          },
+          "latitude": 46.81685,
+          "longitude": -64.06542
+        },
+        {
+          "name": {
+            "en": "Belfast"
+          },
+          "latitude": 46.08341,
+          "longitude": -62.88197
+        },
+        {
+          "name": {
+            "en": "Charlottetown"
+          },
+          "latitude": 46.23899,
+          "longitude": -63.13414
+        },
+        {
+          "name": {
+            "en": "Cornwall"
+          },
+          "latitude": 46.22652,
+          "longitude": -63.21809
+        },
+        {
+          "name": {
+            "en": "Fallingbrook"
+          },
+          "latitude": 45.47558,
+          "longitude": -75.48401
+        },
+        {
+          "name": {
+            "en": "Kensington"
+          },
+          "latitude": 46.43343,
+          "longitude": -63.64871
+        },
+        {
+          "name": {
+            "en": "Montague"
+          },
+          "latitude": 46.16681,
+          "longitude": -62.64866
+        },
+        {
+          "name": {
+            "en": "Souris"
+          },
+          "latitude": 46.3501,
+          "longitude": -62.24862
+        },
+        {
+          "name": {
+            "en": "Summerside"
+          },
+          "latitude": 46.39593,
+          "longitude": -63.78762
+        }
+      ]
+    },
+    {
+      "code": "CA-QC",
+      "name": {
+        "en": "Quebec"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Abitibi-Témiscamingue"
+          },
+          "latitude": 48.10018,
+          "longitude": -77.7828
+        },
+        {
+          "name": {
+            "en": "Acton Vale"
+          },
+          "latitude": 45.65007,
+          "longitude": -72.56582
+        },
+        {
+          "name": {
+            "en": "Adstock"
+          },
+          "latitude": 46.05007,
+          "longitude": -71.08235
+        },
+        {
+          "name": {
+            "en": "Albanel"
+          },
+          "latitude": 48.88324,
+          "longitude": -72.44867
+        },
+        {
+          "name": {
+            "en": "Alma",
+            "ar": "ألما، كيبك"
+          },
+          "latitude": 48.55009,
+          "longitude": -71.6491
+        },
+        {
+          "name": {
+            "en": "Amos",
+            "ar": "أموس، كيبك"
+          },
+          "latitude": 48.56688,
+          "longitude": -78.11624
+        },
+        {
+          "name": {
+            "en": "Amqui"
+          },
+          "latitude": 48.46382,
+          "longitude": -67.43134
+        },
+        {
+          "name": {
+            "en": "Ange-Gardien"
+          },
+          "latitude": 45.35008,
+          "longitude": -72.93244
+        },
+        {
+          "name": {
+            "en": "Asbestos"
+          },
+          "latitude": 45.76678,
+          "longitude": -71.9324
+        },
+        {
+          "name": {
+            "en": "Baie-Comeau",
+            "ar": "بيه كومو، كيبك"
+          },
+          "latitude": 49.21679,
+          "longitude": -68.14894
+        },
+        {
+          "name": {
+            "en": "Baie-D'Urfé"
+          },
+          "latitude": 45.41397,
+          "longitude": -73.91586
+        },
+        {
+          "name": {
+            "en": "Baie-Saint-Paul"
+          },
+          "latitude": 47.44109,
+          "longitude": -70.49858
+        },
+        {
+          "name": {
+            "en": "Barraute"
+          },
+          "latitude": 48.43349,
+          "longitude": -77.63279
+        },
+        {
+          "name": {
+            "en": "Bas-Saint-Laurent"
+          },
+          "latitude": 48.0503,
+          "longitude": -68.02266
+        },
+        {
+          "name": {
+            "en": "Beaconsfield",
+            "ar": "بيكونسفيلد"
+          },
+          "latitude": 45.43341,
+          "longitude": -73.86586
+        },
+        {
+          "name": {
+            "en": "Beauceville"
+          },
+          "latitude": 46.21785,
+          "longitude": -70.77873
+        },
+        {
+          "name": {
+            "en": "Beauharnois"
+          },
+          "latitude": 45.31341,
+          "longitude": -73.8725
+        },
+        {
+          "name": {
+            "en": "Beaupré"
+          },
+          "latitude": 47.04428,
+          "longitude": -70.89529
+        },
+        {
+          "name": {
+            "en": "Bécancour"
+          },
+          "latitude": 46.34106,
+          "longitude": -72.43224
+        },
+        {
+          "name": {
+            "en": "Bedford"
+          },
+          "latitude": 45.11678,
+          "longitude": -72.98244
+        },
+        {
+          "name": {
+            "en": "Beloeil",
+            "ar": "بيل أوي، كيبك"
+          },
+          "latitude": 45.56839,
+          "longitude": -73.20568
+        },
+        {
+          "name": {
+            "en": "Berthierville"
+          },
+          "latitude": 46.08336,
+          "longitude": -73.18245
+        },
+        {
+          "name": {
+            "en": "Blainville"
+          },
+          "latitude": 45.66678,
+          "longitude": -73.88249
+        },
+        {
+          "name": {
+            "en": "Bois-des-Filion"
+          },
+          "latitude": 45.66678,
+          "longitude": -73.74918
+        },
+        {
+          "name": {
+            "en": "Boisbriand"
+          },
+          "latitude": 45.61678,
+          "longitude": -73.83249
+        },
+        {
+          "name": {
+            "en": "Bonaventure"
+          },
+          "latitude": 48.04573,
+          "longitude": -65.49259
+        },
+        {
+          "name": {
+            "en": "Boucherville",
+            "ar": "بوشيفيل، كيبك"
+          },
+          "latitude": 45.59104,
+          "longitude": -73.43605
+        },
+        {
+          "name": {
+            "en": "Breakeyville"
+          },
+          "latitude": 46.68037,
+          "longitude": -71.22327
+        },
+        {
+          "name": {
+            "en": "Bromont"
+          },
+          "latitude": 45.31678,
+          "longitude": -72.64912
+        },
+        {
+          "name": {
+            "en": "Brossard",
+            "ar": "بروسار"
+          },
+          "latitude": 45.45008,
+          "longitude": -73.46583
+        },
+        {
+          "name": {
+            "en": "Brownsburg-Chatham"
+          },
+          "latitude": 45.68342,
+          "longitude": -74.4159
+        },
+        {
+          "name": {
+            "en": "Buckingham"
+          },
+          "latitude": 45.58563,
+          "longitude": -75.4208
+        },
+        {
+          "name": {
+            "en": "Cabano"
+          },
+          "latitude": 47.68065,
+          "longitude": -68.8781
+        },
+        {
+          "name": {
+            "en": "Cacouna"
+          },
+          "latitude": 47.91657,
+          "longitude": -69.50054
+        },
+        {
+          "name": {
+            "en": "Candiac",
+            "ar": "كاندياك، كيبك"
+          },
+          "latitude": 45.38338,
+          "longitude": -73.51587
+        },
+        {
+          "name": {
+            "en": "Cantley"
+          },
+          "latitude": 45.5668,
+          "longitude": -75.78265
+        },
+        {
+          "name": {
+            "en": "Cap-Chat"
+          },
+          "latitude": 49.10009,
+          "longitude": -66.68212
+        },
+        {
+          "name": {
+            "en": "Cap-Santé"
+          },
+          "latitude": 46.67159,
+          "longitude": -71.78812
+        },
+        {
+          "name": {
+            "en": "Capitale-Nationale"
+          },
+          "latitude": 47.376,
+          "longitude": -71.12337
+        },
+        {
+          "name": {
+            "en": "Carignan"
+          },
+          "latitude": 45.45008,
+          "longitude": -73.29916
+        },
+        {
+          "name": {
+            "en": "Carleton"
+          },
+          "latitude": 48.09838,
+          "longitude": -66.10036
+        },
+        {
+          "name": {
+            "en": "Carleton-sur-Mer"
+          },
+          "latitude": 48.10749,
+          "longitude": -66.128
+        },
+        {
+          "name": {
+            "en": "Centre-du-Québec"
+          },
+          "latitude": 46.01985,
+          "longitude": -71.98242
+        },
+        {
+          "name": {
+            "en": "Chambly",
+            "ar": "شومبلي، كيبك"
+          },
+          "latitude": 45.45008,
+          "longitude": -73.28246
+        },
+        {
+          "name": {
+            "en": "Chambord"
+          },
+          "latitude": 48.43339,
+          "longitude": -72.06583
+        },
+        {
+          "name": {
+            "en": "Chandler"
+          },
+          "latitude": 48.34935,
+          "longitude": -64.67926
+        },
+        {
+          "name": {
+            "en": "Chapais"
+          },
+          "latitude": 49.78344,
+          "longitude": -74.84919
+        },
+        {
+          "name": {
+            "en": "Charlemagne"
+          },
+          "latitude": 45.71678,
+          "longitude": -73.48247
+        },
+        {
+          "name": {
+            "en": "Château-Richer"
+          },
+          "latitude": 46.96031,
+          "longitude": -71.03219
+        },
+        {
+          "name": {
+            "en": "Châteauguay",
+            "ar": "شاتوغيه، كيبك"
+          },
+          "latitude": 45.38338,
+          "longitude": -73.74919
+        },
+        {
+          "name": {
+            "en": "Chaudière-Appalaches"
+          },
+          "latitude": 46.555,
+          "longitude": -70.8308
+        },
+        {
+          "name": {
+            "en": "Chertsey"
+          },
+          "latitude": 46.07109,
+          "longitude": -73.89095
+        },
+        {
+          "name": {
+            "en": "Chibougamau"
+          },
+          "latitude": 49.91684,
+          "longitude": -74.36586
+        },
+        {
+          "name": {
+            "en": "Chute-aux-Outardes"
+          },
+          "latitude": 49.11679,
+          "longitude": -68.39896
+        },
+        {
+          "name": {
+            "en": "Coaticook"
+          },
+          "latitude": 45.13339,
+          "longitude": -71.79907
+        },
+        {
+          "name": {
+            "en": "Contrecoeur"
+          },
+          "latitude": 45.85008,
+          "longitude": -73.23245
+        },
+        {
+          "name": {
+            "en": "Cookshire"
+          },
+          "latitude": 45.41536,
+          "longitude": -71.62962
+        },
+        {
+          "name": {
+            "en": "Cookshire-Eaton"
+          },
+          "latitude": 45.41675,
+          "longitude": -71.6324
+        },
+        {
+          "name": {
+            "en": "Côte-Nord"
+          },
+          "latitude": 50.86683,
+          "longitude": -65.81541
+        },
+        {
+          "name": {
+            "en": "Côte-Saint-Luc"
+          },
+          "latitude": 45.46536,
+          "longitude": -73.66585
+        },
+        {
+          "name": {
+            "en": "Coteau-du-Lac"
+          },
+          "latitude": 45.30008,
+          "longitude": -74.18253
+        },
+        {
+          "name": {
+            "en": "Cowansville"
+          },
+          "latitude": 45.20008,
+          "longitude": -72.74913
+        },
+        {
+          "name": {
+            "en": "Crabtree"
+          },
+          "latitude": 45.96677,
+          "longitude": -73.46586
+        },
+        {
+          "name": {
+            "en": "Danville"
+          },
+          "latitude": 45.78337,
+          "longitude": -72.0158
+        },
+        {
+          "name": {
+            "en": "Daveluyville"
+          },
+          "latitude": 46.20006,
+          "longitude": -72.13239
+        },
+        {
+          "name": {
+            "en": "Delson"
+          },
+          "latitude": 45.36678,
+          "longitude": -73.54917
+        },
+        {
+          "name": {
+            "en": "Deux-Montagnes"
+          },
+          "latitude": 45.53455,
+          "longitude": -73.90168
+        },
+        {
+          "name": {
+            "en": "Disraeli"
+          },
+          "latitude": 45.90007,
+          "longitude": -71.34907
+        },
+        {
+          "name": {
+            "en": "Dolbeau-Mistassini"
+          },
+          "latitude": 48.8786,
+          "longitude": -72.23142
+        },
+        {
+          "name": {
+            "en": "Dollard-Des Ormeaux",
+            "ar": "دولار ديزورمو، كيبك"
+          },
+          "latitude": 45.49452,
+          "longitude": -73.82419
+        },
+        {
+          "name": {
+            "en": "Donnacona"
+          },
+          "latitude": 46.68042,
+          "longitude": -71.7239
+        },
+        {
+          "name": {
+            "en": "Dorval",
+            "ar": "دورفال، كيبك"
+          },
+          "latitude": 45.4473,
+          "longitude": -73.75335
+        },
+        {
+          "name": {
+            "en": "Drummondville",
+            "ar": "درومونفيل"
+          },
+          "latitude": 45.88336,
+          "longitude": -72.48241
+        },
+        {
+          "name": {
+            "en": "Dunham"
+          },
+          "latitude": 45.13338,
+          "longitude": -72.79913
+        },
+        {
+          "name": {
+            "en": "East Angus"
+          },
+          "latitude": 45.48338,
+          "longitude": -71.66577
+        },
+        {
+          "name": {
+            "en": "East Broughton"
+          },
+          "latitude": 46.21358,
+          "longitude": -71.07674
+        },
+        {
+          "name": {
+            "en": "Farnham"
+          },
+          "latitude": 45.28338,
+          "longitude": -72.98244
+        },
+        {
+          "name": {
+            "en": "Ferme-Neuve"
+          },
+          "latitude": 46.70011,
+          "longitude": -75.44929
+        },
+        {
+          "name": {
+            "en": "Fermont"
+          },
+          "latitude": 52.78345,
+          "longitude": -67.08204
+        },
+        {
+          "name": {
+            "en": "Forestville"
+          },
+          "latitude": 48.73808,
+          "longitude": -69.08478
+        },
+        {
+          "name": {
+            "en": "Fort-Coulonge"
+          },
+          "latitude": 45.85011,
+          "longitude": -76.73272
+        },
+        {
+          "name": {
+            "en": "Fossambault-sur-le-Lac"
+          },
+          "latitude": 46.87662,
+          "longitude": -71.61541
+        },
+        {
+          "name": {
+            "en": "Franklin"
+          },
+          "latitude": 45.03338,
+          "longitude": -73.91591
+        },
+        {
+          "name": {
+            "en": "Gaspé"
+          },
+          "latitude": 48.83341,
+          "longitude": -64.48194
+        },
+        {
+          "name": {
+            "en": "Gaspésie-Îles-de-la-Madeleine"
+          },
+          "latitude": 48.87555,
+          "longitude": -65.4071
+        },
+        {
+          "name": {
+            "en": "Gatineau",
+            "ar": "غاتينو"
+          },
+          "latitude": 45.47723,
+          "longitude": -75.70164
+        },
+        {
+          "name": {
+            "en": "Godefroy"
+          },
+          "latitude": 51.75012,
+          "longitude": -68.08213
+        },
+        {
+          "name": {
+            "en": "Granby",
+            "ar": "غرانبي"
+          },
+          "latitude": 45.40008,
+          "longitude": -72.73243
+        },
+        {
+          "name": {
+            "en": "Hampstead"
+          },
+          "latitude": 45.48064,
+          "longitude": -73.66307
+        },
+        {
+          "name": {
+            "en": "Hauterive"
+          },
+          "latitude": 49.19572,
+          "longitude": -68.25813
+        },
+        {
+          "name": {
+            "en": "Havre-Saint-Pierre"
+          },
+          "latitude": 50.24342,
+          "longitude": -63.60264
+        },
+        {
+          "name": {
+            "en": "Hérouxville"
+          },
+          "latitude": 46.66617,
+          "longitude": -72.62512
+        },
+        {
+          "name": {
+            "en": "Hudson"
+          },
+          "latitude": 45.45008,
+          "longitude": -74.14922
+        },
+        {
+          "name": {
+            "en": "Huntingdon"
+          },
+          "latitude": 45.08339,
+          "longitude": -74.16593
+        },
+        {
+          "name": {
+            "en": "Joliette",
+            "ar": "جولييت، كيبك"
+          },
+          "latitude": 46.0164,
+          "longitude": -73.4236
+        },
+        {
+          "name": {
+            "en": "Jonquière"
+          },
+          "latitude": 48.41648,
+          "longitude": -71.24884
+        },
+        {
+          "name": {
+            "en": "Kingsey Falls"
+          },
+          "latitude": 45.85007,
+          "longitude": -72.0658
+        },
+        {
+          "name": {
+            "en": "Kirkland",
+            "ar": "كيركلاند، كيبك"
+          },
+          "latitude": 45.45008,
+          "longitude": -73.86586
+        },
+        {
+          "name": {
+            "en": "L'Ancienne-Lorette"
+          },
+          "latitude": 46.79392,
+          "longitude": -71.35191
+        },
+        {
+          "name": {
+            "en": "L'Ange-Gardien"
+          },
+          "latitude": 46.91976,
+          "longitude": -71.08253
+        },
+        {
+          "name": {
+            "en": "L'Ascension-de-Notre-Seigneur"
+          },
+          "latitude": 48.68339,
+          "longitude": -71.6658
+        },
+        {
+          "name": {
+            "en": "L'Assomption"
+          },
+          "latitude": 45.82318,
+          "longitude": -73.4294
+        },
+        {
+          "name": {
+            "en": "L'Épiphanie"
+          },
+          "latitude": 45.85008,
+          "longitude": -73.48246
+        },
+        {
+          "name": {
+            "en": "L'Île-Perrot"
+          },
+          "latitude": 45.38338,
+          "longitude": -73.9492
+        },
+        {
+          "name": {
+            "en": "La Conception"
+          },
+          "latitude": 46.15009,
+          "longitude": -74.69925
+        },
+        {
+          "name": {
+            "en": "La Haute-Saint-Charles"
+          },
+          "latitude": 46.89028,
+          "longitude": -71.37222
+        },
+        {
+          "name": {
+            "en": "La Malbaie"
+          },
+          "latitude": 47.654,
+          "longitude": -70.15268
+        },
+        {
+          "name": {
+            "en": "La Minerve"
+          },
+          "latitude": 46.25009,
+          "longitude": -74.93257
+        },
+        {
+          "name": {
+            "en": "La Pocatière"
+          },
+          "latitude": 47.36733,
+          "longitude": -70.03484
+        },
+        {
+          "name": {
+            "en": "La Prairie",
+            "ar": "لا بريري"
+          },
+          "latitude": 45.41678,
+          "longitude": -73.49917
+        },
+        {
+          "name": {
+            "en": "La Sarre"
+          },
+          "latitude": 48.80019,
+          "longitude": -79.19964
+        },
+        {
+          "name": {
+            "en": "La Tuque"
+          },
+          "latitude": 47.43337,
+          "longitude": -72.7824
+        },
+        {
+          "name": {
+            "en": "Labelle"
+          },
+          "latitude": 46.28339,
+          "longitude": -74.73255
+        },
+        {
+          "name": {
+            "en": "Lac-Alouette"
+          },
+          "latitude": 45.81698,
+          "longitude": -73.9592
+        },
+        {
+          "name": {
+            "en": "Lac-Brome"
+          },
+          "latitude": 45.21678,
+          "longitude": -72.51581
+        },
+        {
+          "name": {
+            "en": "Lac-Connelly"
+          },
+          "latitude": 45.89788,
+          "longitude": -73.9723
+        },
+        {
+          "name": {
+            "en": "Lac-Lapierre"
+          },
+          "latitude": 45.89837,
+          "longitude": -73.77308
+        },
+        {
+          "name": {
+            "en": "Lac-Mégantic"
+          },
+          "latitude": 45.58338,
+          "longitude": -70.88234
+        },
+        {
+          "name": {
+            "en": "Lac-Simon"
+          },
+          "latitude": 46.15699,
+          "longitude": -74.74129
+        },
+        {
+          "name": {
+            "en": "Lachute"
+          },
+          "latitude": 45.65008,
+          "longitude": -74.33253
+        },
+        {
+          "name": {
+            "en": "Lacolle"
+          },
+          "latitude": 45.08338,
+          "longitude": -73.36585
+        },
+        {
+          "name": {
+            "en": "Lanoraie"
+          },
+          "latitude": 45.96677,
+          "longitude": -73.21585
+        },
+        {
+          "name": {
+            "en": "Laval",
+            "ar": "لافال"
+          },
+          "latitude": 45.56995,
+          "longitude": -73.692
+        },
+        {
+          "name": {
+            "en": "Lavaltrie"
+          },
+          "latitude": 45.88338,
+          "longitude": -73.28245
+        },
+        {
+          "name": {
+            "en": "Le Bic"
+          },
+          "latitude": 48.37549,
+          "longitude": -68.69415
+        },
+        {
+          "name": {
+            "en": "le Plateau"
+          },
+          "latitude": 45.43514,
+          "longitude": -75.7803
+        },
+        {
+          "name": {
+            "en": "Lebel-sur-Quévillon"
+          },
+          "latitude": 49.05018,
+          "longitude": -76.98273
+        },
+        {
+          "name": {
+            "en": "Leblanc"
+          },
+          "latitude": 48.26683,
+          "longitude": -74.34914
+        },
+        {
+          "name": {
+            "en": "Les Cèdres"
+          },
+          "latitude": 45.30008,
+          "longitude": -74.04922
+        },
+        {
+          "name": {
+            "en": "Les Coteaux",
+            "ar": "ليس كوتياكس"
+          },
+          "latitude": 45.28338,
+          "longitude": -74.23254
+        },
+        {
+          "name": {
+            "en": "Les Escoumins"
+          },
+          "latitude": 48.35191,
+          "longitude": -69.40724
+        },
+        {
+          "name": {
+            "en": "Lévis",
+            "ar": "ليفيس"
+          },
+          "latitude": 46.80326,
+          "longitude": -71.17793
+        },
+        {
+          "name": {
+            "en": "Linière"
+          },
+          "latitude": 46.00007,
+          "longitude": -70.41572
+        },
+        {
+          "name": {
+            "en": "Longueuil"
+          },
+          "latitude": 45.53121,
+          "longitude": -73.51806
+        },
+        {
+          "name": {
+            "en": "Lorraine"
+          },
+          "latitude": 45.68338,
+          "longitude": -73.78249
+        },
+        {
+          "name": {
+            "en": "Louiseville"
+          },
+          "latitude": 46.25594,
+          "longitude": -72.94145
+        },
+        {
+          "name": {
+            "en": "Luceville"
+          },
+          "latitude": 48.54498,
+          "longitude": -68.39658
+        },
+        {
+          "name": {
+            "en": "Macamic"
+          },
+          "latitude": 48.75018,
+          "longitude": -78.99962
+        },
+        {
+          "name": {
+            "en": "Magog",
+            "ar": "ماغوغ، كيبك"
+          },
+          "latitude": 45.26678,
+          "longitude": -72.14909
+        },
+        {
+          "name": {
+            "en": "Malartic"
+          },
+          "latitude": 48.13348,
+          "longitude": -78.13283
+        },
+        {
+          "name": {
+            "en": "Maliotenam"
+          },
+          "latitude": 50.21119,
+          "longitude": -66.18164
+        },
+        {
+          "name": {
+            "en": "Manawan"
+          },
+          "latitude": 47.22029,
+          "longitude": -74.38606
+        },
+        {
+          "name": {
+            "en": "Mandeville"
+          },
+          "latitude": 46.36677,
+          "longitude": -73.34915
+        },
+        {
+          "name": {
+            "en": "Maniwaki"
+          },
+          "latitude": 46.38341,
+          "longitude": -75.96605
+        },
+        {
+          "name": {
+            "en": "Maria"
+          },
+          "latitude": 48.1749,
+          "longitude": -65.98595
+        },
+        {
+          "name": {
+            "en": "Marieville"
+          },
+          "latitude": 45.43338,
+          "longitude": -73.16585
+        },
+        {
+          "name": {
+            "en": "Mascouche",
+            "ar": "ماسكوش، كيبك"
+          },
+          "latitude": 45.74965,
+          "longitude": -73.59956
+        },
+        {
+          "name": {
+            "en": "Maskinongé"
+          },
+          "latitude": 46.2286,
+          "longitude": -73.01917
+        },
+        {
+          "name": {
+            "en": "Matagami"
+          },
+          "latitude": 49.75018,
+          "longitude": -77.63277
+        },
+        {
+          "name": {
+            "en": "Matane"
+          },
+          "latitude": 48.82857,
+          "longitude": -67.52197
+        },
+        {
+          "name": {
+            "en": "Mauricie"
+          },
+          "latitude": 47.55009,
+          "longitude": -73.41583
+        },
+        {
+          "name": {
+            "en": "Melocheville"
+          },
+          "latitude": 45.31726,
+          "longitude": -73.9371
+        },
+        {
+          "name": {
+            "en": "Mercier"
+          },
+          "latitude": 45.31678,
+          "longitude": -73.74919
+        },
+        {
+          "name": {
+            "en": "Métabetchouan"
+          },
+          "latitude": 48.36679,
+          "longitude": -72.01583
+        },
+        {
+          "name": {
+            "en": "Metabetchouan-Lac-a-la-Croix"
+          },
+          "latitude": 48.41,
+          "longitude": -71.78
+        },
+        {
+          "name": {
+            "en": "Mirabel",
+            "ar": "ميرابيل، كيبك"
+          },
+          "latitude": 45.65008,
+          "longitude": -74.08251
+        },
+        {
+          "name": {
+            "en": "Mistissini"
+          },
+          "latitude": 50.41667,
+          "longitude": -73.88333
+        },
+        {
+          "name": {
+            "en": "Mont-Joli"
+          },
+          "latitude": 48.58388,
+          "longitude": -68.19214
+        },
+        {
+          "name": {
+            "en": "Mont-Laurier"
+          },
+          "latitude": 46.55011,
+          "longitude": -75.4993
+        },
+        {
+          "name": {
+            "en": "Mont-Royal",
+            "ar": "مونت رويال"
+          },
+          "latitude": 45.51675,
+          "longitude": -73.64918
+        },
+        {
+          "name": {
+            "en": "Mont-Saint-Grégoire"
+          },
+          "latitude": 45.33338,
+          "longitude": -73.16585
+        },
+        {
+          "name": {
+            "en": "Mont-Saint-Hilaire",
+            "ar": "مونت سان هيلير"
+          },
+          "latitude": 45.56515,
+          "longitude": -73.1868
+        },
+        {
+          "name": {
+            "en": "Mont-Tremblant"
+          },
+          "latitude": 46.21274,
+          "longitude": -74.58438
+        },
+        {
+          "name": {
+            "en": "Montmagny"
+          },
+          "latitude": 46.98043,
+          "longitude": -70.55493
+        },
+        {
+          "name": {
+            "en": "Montréal"
+          },
+          "latitude": 45.50008,
+          "longitude": -73.68248
+        },
+        {
+          "name": {
+            "en": "Montréal-Est"
+          },
+          "latitude": 45.63202,
+          "longitude": -73.5075
+        },
+        {
+          "name": {
+            "en": "Montréal-Ouest"
+          },
+          "latitude": 45.45286,
+          "longitude": -73.64918
+        },
+        {
+          "name": {
+            "en": "Morin-Heights"
+          },
+          "latitude": 45.90009,
+          "longitude": -74.24922
+        },
+        {
+          "name": {
+            "en": "Napierville"
+          },
+          "latitude": 45.18648,
+          "longitude": -73.40468
+        },
+        {
+          "name": {
+            "en": "Neuville"
+          },
+          "latitude": 46.69823,
+          "longitude": -71.58275
+        },
+        {
+          "name": {
+            "en": "New Carlisle"
+          },
+          "latitude": 48.00956,
+          "longitude": -65.33621
+        },
+        {
+          "name": {
+            "en": "New-Richmond"
+          },
+          "latitude": 48.16059,
+          "longitude": -65.85823
+        },
+        {
+          "name": {
+            "en": "Nicolet"
+          },
+          "latitude": 46.21676,
+          "longitude": -72.61582
+        },
+        {
+          "name": {
+            "en": "Nord-du-Québec"
+          },
+          "latitude": 51.962,
+          "longitude": -74.8961
+        },
+        {
+          "name": {
+            "en": "Normandin"
+          },
+          "latitude": 48.83328,
+          "longitude": -72.53209
+        },
+        {
+          "name": {
+            "en": "Notre-Dame-de-Grâce"
+          },
+          "latitude": 45.47675,
+          "longitude": -73.61432
+        },
+        {
+          "name": {
+            "en": "Notre-Dame-de-l'Île-Perrot"
+          },
+          "latitude": 45.36678,
+          "longitude": -73.9325
+        },
+        {
+          "name": {
+            "en": "Notre-Dame-des-Prairies"
+          },
+          "latitude": 46.05007,
+          "longitude": -73.43245
+        },
+        {
+          "name": {
+            "en": "Notre-Dame-du-Lac"
+          },
+          "latitude": 46.75012,
+          "longitude": -79.04961
+        },
+        {
+          "name": {
+            "en": "Notre-Dame-du-Mont-Carmel"
+          },
+          "latitude": 46.0168,
+          "longitude": -75.08259
+        },
+        {
+          "name": {
+            "en": "Oka"
+          },
+          "latitude": 45.46489,
+          "longitude": -74.08892
+        },
+        {
+          "name": {
+            "en": "Ormstown"
+          },
+          "latitude": 45.13338,
+          "longitude": -73.99922
+        },
+        {
+          "name": {
+            "en": "Otterburn Park"
+          },
+          "latitude": 45.53338,
+          "longitude": -73.21585
+        },
+        {
+          "name": {
+            "en": "Outaouais"
+          },
+          "latitude": 46.26681,
+          "longitude": -76.31606
+        },
+        {
+          "name": {
+            "en": "Papineauville"
+          },
+          "latitude": 45.6168,
+          "longitude": -75.01599
+        },
+        {
+          "name": {
+            "en": "Parc-Boutin"
+          },
+          "latitude": 45.29209,
+          "longitude": -73.26154
+        },
+        {
+          "name": {
+            "en": "Piedmont"
+          },
+          "latitude": 45.90008,
+          "longitude": -74.13251
+        },
+        {
+          "name": {
+            "en": "Pierreville"
+          },
+          "latitude": 46.07034,
+          "longitude": -72.81125
+        },
+        {
+          "name": {
+            "en": "Pincourt"
+          },
+          "latitude": 45.38338,
+          "longitude": -73.9825
+        },
+        {
+          "name": {
+            "en": "Plessisville"
+          },
+          "latitude": 46.21856,
+          "longitude": -71.76201
+        },
+        {
+          "name": {
+            "en": "Pohénégamook"
+          },
+          "latitude": 47.46315,
+          "longitude": -69.22666
+        },
+        {
+          "name": {
+            "en": "Pointe-Calumet"
+          },
+          "latitude": 45.50008,
+          "longitude": -73.9659
+        },
+        {
+          "name": {
+            "en": "Pointe-Claire",
+            "ar": "بوينت كلير"
+          },
+          "latitude": 45.44868,
+          "longitude": -73.81669
+        },
+        {
+          "name": {
+            "en": "Pointe-du-Lac"
+          },
+          "latitude": 48.50009,
+          "longitude": -71.78241
+        },
+        {
+          "name": {
+            "en": "Pont Rouge"
+          },
+          "latitude": 48.88332,
+          "longitude": -72.08247
+        },
+        {
+          "name": {
+            "en": "Port-Cartier"
+          },
+          "latitude": 50.03339,
+          "longitude": -66.86545
+        },
+        {
+          "name": {
+            "en": "Portneuf"
+          },
+          "latitude": 46.69058,
+          "longitude": -71.89011
+        },
+        {
+          "name": {
+            "en": "Prévost"
+          },
+          "latitude": 45.86678,
+          "longitude": -74.08251
+        },
+        {
+          "name": {
+            "en": "Princeville"
+          },
+          "latitude": 46.17163,
+          "longitude": -71.87462
+        },
+        {
+          "name": {
+            "en": "Québec",
+            "ar": "مدينة كيبك"
+          },
+          "latitude": 46.81228,
+          "longitude": -71.21454
+        },
+        {
+          "name": {
+            "en": "Rawdon"
+          },
+          "latitude": 46.05007,
+          "longitude": -73.71587
+        },
+        {
+          "name": {
+            "en": "Repentigny",
+            "ar": "ريبنتينيي"
+          },
+          "latitude": 45.74222,
+          "longitude": -73.45008
+        },
+        {
+          "name": {
+            "en": "Richelieu"
+          },
+          "latitude": 45.44336,
+          "longitude": -73.24602
+        },
+        {
+          "name": {
+            "en": "Richmond"
+          },
+          "latitude": 45.66677,
+          "longitude": -72.1491
+        },
+        {
+          "name": {
+            "en": "Rigaud"
+          },
+          "latitude": 45.47927,
+          "longitude": -74.30238
+        },
+        {
+          "name": {
+            "en": "Rimouski",
+            "ar": "ريموسكي"
+          },
+          "latitude": 48.44879,
+          "longitude": -68.52396
+        },
+        {
+          "name": {
+            "en": "Rivière-du-Loup",
+            "ar": "ريفري دو لوب"
+          },
+          "latitude": 47.82699,
+          "longitude": -69.54243
+        },
+        {
+          "name": {
+            "en": "Rivière-Rouge"
+          },
+          "latitude": 46.41679,
+          "longitude": -74.86596
+        },
+        {
+          "name": {
+            "en": "Roberval"
+          },
+          "latitude": 48.5168,
+          "longitude": -72.23244
+        },
+        {
+          "name": {
+            "en": "Rock Forest"
+          },
+          "latitude": 45.35699,
+          "longitude": -71.99676
+        },
+        {
+          "name": {
+            "en": "Rosemère"
+          },
+          "latitude": 45.63338,
+          "longitude": -73.79919
+        },
+        {
+          "name": {
+            "en": "Rougemont"
+          },
+          "latitude": 45.43338,
+          "longitude": -73.04914
+        },
+        {
+          "name": {
+            "en": "Rouyn-Noranda",
+            "ar": "رووان نوراندا"
+          },
+          "latitude": 48.23656,
+          "longitude": -79.02311
+        },
+        {
+          "name": {
+            "en": "Sacré-Coeur"
+          },
+          "latitude": 48.2297,
+          "longitude": -69.80061
+        },
+        {
+          "name": {
+            "en": "Saguenay",
+            "ar": "ساغينيه"
+          },
+          "latitude": 48.41675,
+          "longitude": -71.06573
+        },
+        {
+          "name": {
+            "en": "Saint-Adolphe-d'Howard"
+          },
+          "latitude": 45.96679,
+          "longitude": -74.33253
+        },
+        {
+          "name": {
+            "en": "Saint-Alexandre"
+          },
+          "latitude": 45.5001,
+          "longitude": -75.74935
+        },
+        {
+          "name": {
+            "en": "Saint-Amable"
+          },
+          "latitude": 45.65008,
+          "longitude": -73.29916
+        },
+        {
+          "name": {
+            "en": "Saint-Ambroise"
+          },
+          "latitude": 48.55009,
+          "longitude": -71.33238
+        },
+        {
+          "name": {
+            "en": "Saint-André-Avellin"
+          },
+          "latitude": 45.7168,
+          "longitude": -75.06599
+        },
+        {
+          "name": {
+            "en": "Saint-Anselme"
+          },
+          "latitude": 46.62922,
+          "longitude": -70.9734
+        },
+        {
+          "name": {
+            "en": "Saint-Antoine-de-Tilly"
+          },
+          "latitude": 46.66346,
+          "longitude": -71.57335
+        },
+        {
+          "name": {
+            "en": "Saint-Augustin"
+          },
+          "latitude": 51.22602,
+          "longitude": -58.65017
+        },
+        {
+          "name": {
+            "en": "Saint-Augustin-de-Desmaures",
+            "ar": "سان أوغوستن دي ديماروس"
+          },
+          "latitude": 46.74064,
+          "longitude": -71.45131
+        },
+        {
+          "name": {
+            "en": "Saint-Barnabé-Sud"
+          },
+          "latitude": 45.72977,
+          "longitude": -72.92244
+        },
+        {
+          "name": {
+            "en": "Saint-Basile-le-Grand",
+            "ar": "سان باسيلي لي جراند"
+          },
+          "latitude": 45.53338,
+          "longitude": -73.28246
+        },
+        {
+          "name": {
+            "en": "Saint-Boniface"
+          },
+          "latitude": 46.50011,
+          "longitude": -75.98264
+        },
+        {
+          "name": {
+            "en": "Saint-Bruno"
+          },
+          "latitude": 48.46679,
+          "longitude": -71.6491
+        },
+        {
+          "name": {
+            "en": "Saint-Bruno-de-Guigues"
+          },
+          "latitude": 47.46685,
+          "longitude": -79.43296
+        },
+        {
+          "name": {
+            "en": "Saint-Bruno-de-Montarville",
+            "ar": "سان برونو دي مونترافلي"
+          },
+          "latitude": 45.53341,
+          "longitude": -73.34916
+        },
+        {
+          "name": {
+            "en": "Saint-Canut"
+          },
+          "latitude": 45.71502,
+          "longitude": -74.08376
+        },
+        {
+          "name": {
+            "en": "Saint-Césaire"
+          },
+          "latitude": 45.41678,
+          "longitude": -72.99914
+        },
+        {
+          "name": {
+            "en": "Saint-Charles"
+          },
+          "latitude": 45.70288,
+          "longitude": -73.55417
+        },
+        {
+          "name": {
+            "en": "Saint-Côme-Linière"
+          },
+          "latitude": 46.06677,
+          "longitude": -70.51573
+        },
+        {
+          "name": {
+            "en": "Saint-Constant",
+            "ar": "سان كونستانت"
+          },
+          "latitude": 45.36678,
+          "longitude": -73.56588
+        },
+        {
+          "name": {
+            "en": "Saint-Cyrille-de-Wendover"
+          },
+          "latitude": 45.93336,
+          "longitude": -72.43241
+        },
+        {
+          "name": {
+            "en": "Saint-Damase"
+          },
+          "latitude": 45.53341,
+          "longitude": -72.99914
+        },
+        {
+          "name": {
+            "en": "Saint-Denis-sur-Richelieu"
+          },
+          "latitude": 45.78338,
+          "longitude": -73.14915
+        },
+        {
+          "name": {
+            "en": "Saint-Donat-de-Montcalm"
+          },
+          "latitude": 46.31868,
+          "longitude": -74.22171
+        },
+        {
+          "name": {
+            "en": "Saint-Édouard"
+          },
+          "latitude": 45.23338,
+          "longitude": -73.51588
+        },
+        {
+          "name": {
+            "en": "Saint-Elzéar"
+          },
+          "latitude": 45.60338,
+          "longitude": -73.72698
+        },
+        {
+          "name": {
+            "en": "Saint-Éphrem-de-Beauce"
+          },
+          "latitude": 46.06677,
+          "longitude": -70.94905
+        },
+        {
+          "name": {
+            "en": "Saint-Eustache",
+            "ar": "سانت أوستاش"
+          },
+          "latitude": 45.565,
+          "longitude": -73.90554
+        },
+        {
+          "name": {
+            "en": "Saint-Félicien"
+          },
+          "latitude": 48.65007,
+          "longitude": -72.44906
+        },
+        {
+          "name": {
+            "en": "Saint-Félix-de-Valois"
+          },
+          "latitude": 46.16977,
+          "longitude": -73.42525
+        },
+        {
+          "name": {
+            "en": "Saint-Gabriel"
+          },
+          "latitude": 46.30007,
+          "longitude": -73.38245
+        },
+        {
+          "name": {
+            "en": "Saint-Gédéon"
+          },
+          "latitude": 48.50009,
+          "longitude": -71.76581
+        },
+        {
+          "name": {
+            "en": "Saint-Georges"
+          },
+          "latitude": 46.11353,
+          "longitude": -70.66526
+        },
+        {
+          "name": {
+            "en": "Saint-Germain-de-Grantham"
+          },
+          "latitude": 45.83337,
+          "longitude": -72.56582
+        },
+        {
+          "name": {
+            "en": "Saint-Henri"
+          },
+          "latitude": 46.69314,
+          "longitude": -71.06927
+        },
+        {
+          "name": {
+            "en": "Saint-Hippolyte"
+          },
+          "latitude": 45.93338,
+          "longitude": -74.0159
+        },
+        {
+          "name": {
+            "en": "Saint-Honoré"
+          },
+          "latitude": 48.53338,
+          "longitude": -71.08236
+        },
+        {
+          "name": {
+            "en": "Saint-Hyacinthe",
+            "ar": "سان هياسنت، كيبك"
+          },
+          "latitude": 45.63076,
+          "longitude": -72.95699
+        },
+        {
+          "name": {
+            "en": "Saint-Isidore"
+          },
+          "latitude": 47.43345,
+          "longitude": -79.29965
+        },
+        {
+          "name": {
+            "en": "Saint-Jacques-le-Mineur"
+          },
+          "latitude": 45.28338,
+          "longitude": -73.41587
+        },
+        {
+          "name": {
+            "en": "Saint-Jean-Baptiste"
+          },
+          "latitude": 45.3806,
+          "longitude": -74.0121
+        },
+        {
+          "name": {
+            "en": "Saint-Jean-sur-Richelieu",
+            "ar": "سان جان سور ريشليو"
+          },
+          "latitude": 45.30713,
+          "longitude": -73.26259
+        },
+        {
+          "name": {
+            "en": "Saint-Jérôme",
+            "ar": "سان جيروم"
+          },
+          "latitude": 45.78036,
+          "longitude": -74.00365
+        },
+        {
+          "name": {
+            "en": "Saint-Joseph"
+          },
+          "latitude": 45.95817,
+          "longitude": -73.22025
+        },
+        {
+          "name": {
+            "en": "Saint-Joseph-de-Beauce"
+          },
+          "latitude": 46.3,
+          "longitude": -70.86667
+        },
+        {
+          "name": {
+            "en": "Saint-Joseph-de-Coleraine"
+          },
+          "latitude": 45.96677,
+          "longitude": -71.36577
+        },
+        {
+          "name": {
+            "en": "Saint-Joseph-du-Lac"
+          },
+          "latitude": 45.53338,
+          "longitude": -73.9992
+        },
+        {
+          "name": {
+            "en": "Saint-Lambert-de-Lauzon"
+          },
+          "latitude": 46.58624,
+          "longitude": -71.20892
+        },
+        {
+          "name": {
+            "en": "Saint-Laurent"
+          },
+          "latitude": 45.50008,
+          "longitude": -73.66585
+        },
+        {
+          "name": {
+            "en": "Saint-Lazare",
+            "ar": "سان لازار، كيبك"
+          },
+          "latitude": 45.40008,
+          "longitude": -74.13256
+        },
+        {
+          "name": {
+            "en": "Saint-Léonard"
+          },
+          "latitude": 45.58773,
+          "longitude": -73.59501
+        },
+        {
+          "name": {
+            "en": "Saint-Léonard-d'Aston"
+          },
+          "latitude": 46.10006,
+          "longitude": -72.3658
+        },
+        {
+          "name": {
+            "en": "Saint-Liboire"
+          },
+          "latitude": 45.65068,
+          "longitude": -72.76348
+        },
+        {
+          "name": {
+            "en": "Saint-Lin-Laurentides"
+          },
+          "latitude": 45.85008,
+          "longitude": -73.76588
+        },
+        {
+          "name": {
+            "en": "Saint-Marc-des-Carrières"
+          },
+          "latitude": 46.68335,
+          "longitude": -72.0491
+        },
+        {
+          "name": {
+            "en": "Saint-Mathieu"
+          },
+          "latitude": 45.31678,
+          "longitude": -73.51587
+        },
+        {
+          "name": {
+            "en": "Saint-Michel"
+          },
+          "latitude": 45.56758,
+          "longitude": -73.62168
+        },
+        {
+          "name": {
+            "en": "Saint-Michel-des-Saints"
+          },
+          "latitude": 46.67702,
+          "longitude": -73.91881
+        },
+        {
+          "name": {
+            "en": "Saint-Nazaire"
+          },
+          "latitude": 48.58944,
+          "longitude": -71.55247
+        },
+        {
+          "name": {
+            "en": "Saint-Norbert"
+          },
+          "latitude": 46.16949,
+          "longitude": -73.31494
+        },
+        {
+          "name": {
+            "en": "Saint-Pacôme"
+          },
+          "latitude": 47.40457,
+          "longitude": -69.95025
+        },
+        {
+          "name": {
+            "en": "Saint-Pascal"
+          },
+          "latitude": 47.51813,
+          "longitude": -69.80301
+        },
+        {
+          "name": {
+            "en": "Saint-Philippe-de-La Prairie"
+          },
+          "latitude": 45.35723,
+          "longitude": -73.47706
+        },
+        {
+          "name": {
+            "en": "Saint-Pie"
+          },
+          "latitude": 45.50277,
+          "longitude": -72.9089
+        },
+        {
+          "name": {
+            "en": "Saint-Pierre-les-Becquets"
+          },
+          "latitude": 46.50005,
+          "longitude": -72.1991
+        },
+        {
+          "name": {
+            "en": "Saint-Prime"
+          },
+          "latitude": 48.58339,
+          "longitude": -72.33244
+        },
+        {
+          "name": {
+            "en": "Saint-Raphaël"
+          },
+          "latitude": 46.25011,
+          "longitude": -76.01605
+        },
+        {
+          "name": {
+            "en": "Saint-Raymond"
+          },
+          "latitude": 45.46698,
+          "longitude": -73.60948
+        },
+        {
+          "name": {
+            "en": "Saint-Rémi"
+          },
+          "latitude": 45.26678,
+          "longitude": -73.61588
+        },
+        {
+          "name": {
+            "en": "Saint-Rémi-de-Tingwick"
+          },
+          "latitude": 45.86677,
+          "longitude": -71.81581
+        },
+        {
+          "name": {
+            "en": "Saint-Sauveur"
+          },
+          "latitude": 45.88686,
+          "longitude": -74.17943
+        },
+        {
+          "name": {
+            "en": "Saint-Sauveur-des-Monts"
+          },
+          "latitude": 45.90008,
+          "longitude": -74.16591
+        },
+        {
+          "name": {
+            "en": "Saint-Siméon"
+          },
+          "latitude": 47.84431,
+          "longitude": -69.87837
+        },
+        {
+          "name": {
+            "en": "Saint-Thomas"
+          },
+          "latitude": 46.01677,
+          "longitude": -73.34915
+        },
+        {
+          "name": {
+            "en": "Saint-Tite"
+          },
+          "latitude": 46.73336,
+          "longitude": -72.56581
+        },
+        {
+          "name": {
+            "en": "Saint-Victor"
+          },
+          "latitude": 45.61118,
+          "longitude": -73.51527
+        },
+        {
+          "name": {
+            "en": "Saint-Zotique"
+          },
+          "latitude": 45.25009,
+          "longitude": -74.24924
+        },
+        {
+          "name": {
+            "en": "Sainte Catherine de la Jacques Cartier"
+          },
+          "latitude": 46.85244,
+          "longitude": -71.62056
+        },
+        {
+          "name": {
+            "en": "Sainte-Adèle"
+          },
+          "latitude": 45.95008,
+          "longitude": -74.13251
+        },
+        {
+          "name": {
+            "en": "Sainte-Agathe-des-Monts"
+          },
+          "latitude": 46.05009,
+          "longitude": -74.28252
+        },
+        {
+          "name": {
+            "en": "Sainte-Anne-de-Bellevue"
+          },
+          "latitude": 45.40618,
+          "longitude": -73.9456
+        },
+        {
+          "name": {
+            "en": "Sainte-Anne-des-Monts"
+          },
+          "latitude": 49.12402,
+          "longitude": -66.49243
+        },
+        {
+          "name": {
+            "en": "Sainte-Anne-des-Plaines"
+          },
+          "latitude": 45.76468,
+          "longitude": -73.81156
+        },
+        {
+          "name": {
+            "en": "Sainte-Béatrix"
+          },
+          "latitude": 46.20007,
+          "longitude": -73.61587
+        },
+        {
+          "name": {
+            "en": "Sainte-Catherine",
+            "ar": "سانت كاثرين"
+          },
+          "latitude": 45.40008,
+          "longitude": -73.58248
+        },
+        {
+          "name": {
+            "en": "Sainte-Croix"
+          },
+          "latitude": 45.13368,
+          "longitude": -72.80083
+        },
+        {
+          "name": {
+            "en": "Sainte-Élisabeth"
+          },
+          "latitude": 46.09502,
+          "longitude": -73.35176
+        },
+        {
+          "name": {
+            "en": "Sainte-Julie",
+            "ar": "سانت جولي"
+          },
+          "latitude": 45.58338,
+          "longitude": -73.33246
+        },
+        {
+          "name": {
+            "en": "Sainte-Julienne"
+          },
+          "latitude": 45.96677,
+          "longitude": -73.71587
+        },
+        {
+          "name": {
+            "en": "Sainte-Madeleine"
+          },
+          "latitude": 45.60008,
+          "longitude": -73.09914
+        },
+        {
+          "name": {
+            "en": "Sainte-Marie"
+          },
+          "latitude": 46.43401,
+          "longitude": -71.01168
+        },
+        {
+          "name": {
+            "en": "Sainte-Marthe-sur-le-Lac"
+          },
+          "latitude": 45.53338,
+          "longitude": -73.9325
+        },
+        {
+          "name": {
+            "en": "Sainte-Martine"
+          },
+          "latitude": 45.25008,
+          "longitude": -73.79919
+        },
+        {
+          "name": {
+            "en": "Sainte-Sophie"
+          },
+          "latitude": 45.81678,
+          "longitude": -73.89919
+        },
+        {
+          "name": {
+            "en": "Sainte-Thècle"
+          },
+          "latitude": 46.81676,
+          "longitude": -72.49911
+        },
+        {
+          "name": {
+            "en": "Sainte-Thérèse"
+          },
+          "latitude": 45.63922,
+          "longitude": -73.82757
+        },
+        {
+          "name": {
+            "en": "Salaberry-de-Valleyfield",
+            "ar": "سالبيري دي فاليفيلد"
+          },
+          "latitude": 45.25008,
+          "longitude": -74.13253
+        },
+        {
+          "name": {
+            "en": "Salluit"
+          },
+          "latitude": 62.20411,
+          "longitude": -75.64344
+        },
+        {
+          "name": {
+            "en": "Senneterre"
+          },
+          "latitude": 48.39302,
+          "longitude": -77.23951
+        },
+        {
+          "name": {
+            "en": "Sept-Îles",
+            "ar": "سات إيل"
+          },
+          "latitude": 50.20011,
+          "longitude": -66.38208
+        },
+        {
+          "name": {
+            "en": "Shannon"
+          },
+          "latitude": 46.88026,
+          "longitude": -71.51464
+        },
+        {
+          "name": {
+            "en": "Shawinigan",
+            "ar": "شاوينيغان"
+          },
+          "latitude": 46.56675,
+          "longitude": -72.74913
+        },
+        {
+          "name": {
+            "en": "Shawville"
+          },
+          "latitude": 45.60011,
+          "longitude": -76.4827
+        },
+        {
+          "name": {
+            "en": "Sherbrooke",
+            "ar": "شيربروك"
+          },
+          "latitude": 45.40008,
+          "longitude": -71.89908
+        },
+        {
+          "name": {
+            "en": "Sorel-Tracy"
+          },
+          "latitude": 46.04178,
+          "longitude": -73.11358
+        },
+        {
+          "name": {
+            "en": "St-Jean-Port-Joli"
+          },
+          "latitude": 47.21418,
+          "longitude": -70.26969
+        },
+        {
+          "name": {
+            "en": "Sutton"
+          },
+          "latitude": 45.10008,
+          "longitude": -72.61582
+        },
+        {
+          "name": {
+            "en": "Témiscaming"
+          },
+          "latitude": 46.72122,
+          "longitude": -79.09712
+        },
+        {
+          "name": {
+            "en": "Terrasse-des-Pins"
+          },
+          "latitude": 45.86449,
+          "longitude": -74.06627
+        },
+        {
+          "name": {
+            "en": "Terrebonne",
+            "ar": "تيربون"
+          },
+          "latitude": 45.70004,
+          "longitude": -73.64732
+        },
+        {
+          "name": {
+            "en": "Thetford-Mines"
+          },
+          "latitude": 46.09371,
+          "longitude": -71.30539
+        },
+        {
+          "name": {
+            "en": "Thurso"
+          },
+          "latitude": 45.6001,
+          "longitude": -75.24931
+        },
+        {
+          "name": {
+            "en": "Trois-Rivières",
+            "ar": "تروا ريفيير"
+          },
+          "latitude": 46.34515,
+          "longitude": -72.5477
+        },
+        {
+          "name": {
+            "en": "Val-d'Or",
+            "ar": "فال دور، كيبك"
+          },
+          "latitude": 48.0974,
+          "longitude": -77.79737
+        },
+        {
+          "name": {
+            "en": "Val-David"
+          },
+          "latitude": 46.03338,
+          "longitude": -74.21592
+        },
+        {
+          "name": {
+            "en": "Val-des-Monts"
+          },
+          "latitude": 45.6501,
+          "longitude": -75.66604
+        },
+        {
+          "name": {
+            "en": "Val-Morin"
+          },
+          "latitude": 46.00008,
+          "longitude": -74.18251
+        },
+        {
+          "name": {
+            "en": "Valcourt"
+          },
+          "latitude": 45.50008,
+          "longitude": -72.31581
+        },
+        {
+          "name": {
+            "en": "Vallée-Jonction"
+          },
+          "latitude": 46.37441,
+          "longitude": -70.91881
+        },
+        {
+          "name": {
+            "en": "Varennes"
+          },
+          "latitude": 45.68338,
+          "longitude": -73.43246
+        },
+        {
+          "name": {
+            "en": "Vaudreuil-Dorion",
+            "ar": "فودرويدوريون"
+          },
+          "latitude": 45.40008,
+          "longitude": -74.03251
+        },
+        {
+          "name": {
+            "en": "Venise-en-Québec"
+          },
+          "latitude": 45.08338,
+          "longitude": -73.13245
+        },
+        {
+          "name": {
+            "en": "Verchères"
+          },
+          "latitude": 45.78338,
+          "longitude": -73.34916
+        },
+        {
+          "name": {
+            "en": "Victoriaville",
+            "ar": "فيكتوريا فيل"
+          },
+          "latitude": 46.05007,
+          "longitude": -71.96579
+        },
+        {
+          "name": {
+            "en": "Ville-Marie"
+          },
+          "latitude": 47.33345,
+          "longitude": -79.43297
+        },
+        {
+          "name": {
+            "en": "Wakefield"
+          },
+          "latitude": 45.6668,
+          "longitude": -75.83265
+        },
+        {
+          "name": {
+            "en": "Warwick"
+          },
+          "latitude": 45.95007,
+          "longitude": -71.9824
+        },
+        {
+          "name": {
+            "en": "Waskaganish"
+          },
+          "latitude": 51.48333,
+          "longitude": -78.75
+        },
+        {
+          "name": {
+            "en": "Waswanipi"
+          },
+          "latitude": 49.73346,
+          "longitude": -76.16604
+        },
+        {
+          "name": {
+            "en": "Waterloo"
+          },
+          "latitude": 45.35008,
+          "longitude": -72.51582
+        },
+        {
+          "name": {
+            "en": "Weedon Centre"
+          },
+          "latitude": 45.70802,
+          "longitude": -71.45986
+        },
+        {
+          "name": {
+            "en": "Westmount",
+            "ar": "ويسماونت"
+          },
+          "latitude": 45.48341,
+          "longitude": -73.59918
+        },
+        {
+          "name": {
+            "en": "Weymontachie"
+          },
+          "latitude": 47.8994,
+          "longitude": -73.7772
+        },
+        {
+          "name": {
+            "en": "Windsor"
+          },
+          "latitude": 45.56678,
+          "longitude": -71.99909
+        },
+        {
+          "name": {
+            "en": "Yamachiche"
+          },
+          "latitude": 46.26676,
+          "longitude": -72.83243
+        }
+      ]
+    },
+    {
+      "code": "CA-SK",
+      "name": {
+        "en": "Saskatchewan"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Assiniboia"
+          },
+          "latitude": 49.63336,
+          "longitude": -105.98446
+        },
+        {
+          "name": {
+            "en": "Biggar"
+          },
+          "latitude": 52.0668,
+          "longitude": -108.00135
+        },
+        {
+          "name": {
+            "en": "Canora"
+          },
+          "latitude": 51.63328,
+          "longitude": -102.43425
+        },
+        {
+          "name": {
+            "en": "Carlyle"
+          },
+          "latitude": 49.63334,
+          "longitude": -102.26765
+        },
+        {
+          "name": {
+            "en": "Dalmeny"
+          },
+          "latitude": 52.33339,
+          "longitude": -106.76792
+        },
+        {
+          "name": {
+            "en": "Esterhazy"
+          },
+          "latitude": 50.65001,
+          "longitude": -102.08426
+        },
+        {
+          "name": {
+            "en": "Estevan"
+          },
+          "latitude": 49.13337,
+          "longitude": -102.98422
+        },
+        {
+          "name": {
+            "en": "Foam Lake"
+          },
+          "latitude": 51.65001,
+          "longitude": -103.53431
+        },
+        {
+          "name": {
+            "en": "Gravelbourg"
+          },
+          "latitude": 49.88336,
+          "longitude": -106.55122
+        },
+        {
+          "name": {
+            "en": "Hudson Bay"
+          },
+          "latitude": 52.85003,
+          "longitude": -102.38425
+        },
+        {
+          "name": {
+            "en": "Humboldt"
+          },
+          "latitude": 52.20005,
+          "longitude": -105.1255
+        },
+        {
+          "name": {
+            "en": "Indian Head"
+          },
+          "latitude": 50.53336,
+          "longitude": -103.66775
+        },
+        {
+          "name": {
+            "en": "Kamsack"
+          },
+          "latitude": 51.56668,
+          "longitude": -101.90093
+        },
+        {
+          "name": {
+            "en": "Kerrobert"
+          },
+          "latitude": 51.91682,
+          "longitude": -109.13479
+        },
+        {
+          "name": {
+            "en": "Kindersley"
+          },
+          "latitude": 51.46681,
+          "longitude": -109.16818
+        },
+        {
+          "name": {
+            "en": "La Ronge"
+          },
+          "latitude": 55.10013,
+          "longitude": -105.28422
+        },
+        {
+          "name": {
+            "en": "Langenburg"
+          },
+          "latitude": 50.84999,
+          "longitude": -101.71763
+        },
+        {
+          "name": {
+            "en": "Langham"
+          },
+          "latitude": 52.3668,
+          "longitude": -106.96793
+        },
+        {
+          "name": {
+            "en": "Lanigan"
+          },
+          "latitude": 51.85006,
+          "longitude": -105.03443
+        },
+        {
+          "name": {
+            "en": "Lumsden"
+          },
+          "latitude": 50.65009,
+          "longitude": -104.86783
+        },
+        {
+          "name": {
+            "en": "Macklin"
+          },
+          "latitude": 52.33344,
+          "longitude": -109.93484
+        },
+        {
+          "name": {
+            "en": "Maple Creek"
+          },
+          "latitude": 49.91678,
+          "longitude": -109.48481
+        },
+        {
+          "name": {
+            "en": "Martensville"
+          },
+          "latitude": 52.28339,
+          "longitude": -106.66792
+        },
+        {
+          "name": {
+            "en": "Meadow Lake"
+          },
+          "latitude": 54.13348,
+          "longitude": -108.43471
+        },
+        {
+          "name": {
+            "en": "Melfort"
+          },
+          "latitude": 52.86673,
+          "longitude": -104.61768
+        },
+        {
+          "name": {
+            "en": "Melville"
+          },
+          "latitude": 50.91671,
+          "longitude": -102.80099
+        },
+        {
+          "name": {
+            "en": "Moose Jaw",
+            "ar": "موسجاو"
+          },
+          "latitude": 50.40005,
+          "longitude": -105.53445
+        },
+        {
+          "name": {
+            "en": "Moosomin"
+          },
+          "latitude": 50.13332,
+          "longitude": -101.66766
+        },
+        {
+          "name": {
+            "en": "Nipawin"
+          },
+          "latitude": 53.36678,
+          "longitude": -104.00092
+        },
+        {
+          "name": {
+            "en": "North Battleford",
+            "ar": "نورث باتلفورد"
+          },
+          "latitude": 52.77972,
+          "longitude": -108.2967
+        },
+        {
+          "name": {
+            "en": "Outlook"
+          },
+          "latitude": 51.50008,
+          "longitude": -107.05128
+        },
+        {
+          "name": {
+            "en": "Oxbow"
+          },
+          "latitude": 49.23335,
+          "longitude": -102.1676
+        },
+        {
+          "name": {
+            "en": "Pelican Narrows"
+          },
+          "latitude": 55.16685,
+          "longitude": -102.9341
+        },
+        {
+          "name": {
+            "en": "Pilot Butte"
+          },
+          "latitude": 50.46678,
+          "longitude": -104.41778
+        },
+        {
+          "name": {
+            "en": "Preeceville"
+          },
+          "latitude": 51.94998,
+          "longitude": -102.66766
+        },
+        {
+          "name": {
+            "en": "Prince Albert",
+            "ar": "برينس ألبرت"
+          },
+          "latitude": 53.20008,
+          "longitude": -105.76772
+        },
+        {
+          "name": {
+            "en": "Regina",
+            "ar": "ريجاينا"
+          },
+          "latitude": 50.45008,
+          "longitude": -104.6178
+        },
+        {
+          "name": {
+            "en": "Regina Beach"
+          },
+          "latitude": 50.78338,
+          "longitude": -105.00112
+        },
+        {
+          "name": {
+            "en": "Rosetown"
+          },
+          "latitude": 51.5501,
+          "longitude": -108.00136
+        },
+        {
+          "name": {
+            "en": "Rosthern"
+          },
+          "latitude": 52.66679,
+          "longitude": -106.33446
+        },
+        {
+          "name": {
+            "en": "Saskatoon",
+            "ar": "ساسكاتون"
+          },
+          "latitude": 52.13238,
+          "longitude": -106.66892
+        },
+        {
+          "name": {
+            "en": "Shaunavon"
+          },
+          "latitude": 49.65005,
+          "longitude": -108.4181
+        },
+        {
+          "name": {
+            "en": "Shellbrook"
+          },
+          "latitude": 53.21679,
+          "longitude": -106.40109
+        },
+        {
+          "name": {
+            "en": "Swift Current",
+            "ar": "سويفت كورنت"
+          },
+          "latitude": 50.28337,
+          "longitude": -107.80135
+        },
+        {
+          "name": {
+            "en": "Tisdale"
+          },
+          "latitude": 52.85002,
+          "longitude": -104.05096
+        },
+        {
+          "name": {
+            "en": "Unity"
+          },
+          "latitude": 52.45014,
+          "longitude": -109.16816
+        },
+        {
+          "name": {
+            "en": "Wadena"
+          },
+          "latitude": 51.94999,
+          "longitude": -103.80102
+        },
+        {
+          "name": {
+            "en": "Warman"
+          },
+          "latitude": 52.31679,
+          "longitude": -106.56791
+        },
+        {
+          "name": {
+            "en": "Watrous"
+          },
+          "latitude": 51.66677,
+          "longitude": -105.46788
+        },
+        {
+          "name": {
+            "en": "Weyburn"
+          },
+          "latitude": 49.66675,
+          "longitude": -103.85109
+        },
+        {
+          "name": {
+            "en": "White City"
+          },
+          "latitude": 50.43338,
+          "longitude": -104.36778
+        },
+        {
+          "name": {
+            "en": "Wilkie"
+          },
+          "latitude": 52.41683,
+          "longitude": -108.70142
+        },
+        {
+          "name": {
+            "en": "Wynyard"
+          },
+          "latitude": 51.76674,
+          "longitude": -104.18436
+        },
+        {
+          "name": {
+            "en": "Yorkton",
+            "ar": "يوركتن"
+          },
+          "latitude": 51.2167,
+          "longitude": -102.46766
+        }
+      ]
+    },
+    {
+      "code": "CA-YT",
+      "name": {
+        "en": "Yukon"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Dawson City"
+          },
+          "latitude": 64.06013,
+          "longitude": -139.43328
+        },
+        {
+          "name": {
+            "en": "Haines Junction"
+          },
+          "latitude": 60.75216,
+          "longitude": -137.51082
+        },
+        {
+          "name": {
+            "en": "Watson Lake"
+          },
+          "latitude": 60.06349,
+          "longitude": -128.70893
+        },
+        {
+          "name": {
+            "en": "Whitehorse",
+            "ar": "وايت هورس"
+          },
+          "latitude": 60.71611,
+          "longitude": -135.05375
+        }
+      ]
+    }
+  ]
+}

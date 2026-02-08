@@ -1,0 +1,168 @@
+{
+  "code": "BZ",
+  "iso3": "BLZ",
+  "name": {
+    "en": "Belize",
+    "ar": "بليز",
+    "de": "Belize",
+    "es": "Belice",
+    "fr": "Belize",
+    "hi": "बेलीज़",
+    "it": "Belize",
+    "ja": "ベリーズ",
+    "ko": "벨리즈",
+    "nl": "Belize",
+    "pl": "Belize",
+    "pt": "Belize",
+    "pt-BR": "Belize",
+    "ru": "Белиз",
+    "tr": "Belize",
+    "uk": "Беліз",
+    "zh": "伯利兹"
+  },
+  "phone": "+501",
+  "currency": "BZD",
+  "timezone": "America/Belize",
+  "flag": "🇧🇿",
+  "regions": [
+    {
+      "code": "BZ-BZ",
+      "name": {
+        "en": "Belize"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Belize City"
+          },
+          "latitude": 17.49952,
+          "longitude": -88.19756
+        },
+        {
+          "name": {
+            "en": "San Pedro"
+          },
+          "latitude": 17.91598,
+          "longitude": -87.9659
+        }
+      ]
+    },
+    {
+      "code": "BZ-CY",
+      "name": {
+        "en": "Cayo"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Belmopan"
+          },
+          "latitude": 17.25,
+          "longitude": -88.76667
+        },
+        {
+          "name": {
+            "en": "Benque Viejo el Carmen"
+          },
+          "latitude": 17.075,
+          "longitude": -89.13917
+        },
+        {
+          "name": {
+            "en": "San Ignacio"
+          },
+          "latitude": 17.1588,
+          "longitude": -89.0696
+        },
+        {
+          "name": {
+            "en": "Valley of Peace"
+          },
+          "latitude": 17.33472,
+          "longitude": -88.83472
+        }
+      ]
+    },
+    {
+      "code": "BZ-CZL",
+      "name": {
+        "en": "Corozal"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Corozal"
+          },
+          "latitude": 18.39375,
+          "longitude": -88.38849
+        }
+      ]
+    },
+    {
+      "code": "BZ-OW",
+      "name": {
+        "en": "Orange Walk"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Hopelchén"
+          },
+          "latitude": 17.8,
+          "longitude": -89.1
+        },
+        {
+          "name": {
+            "en": "Orange Walk"
+          },
+          "latitude": 18.08124,
+          "longitude": -88.56328
+        },
+        {
+          "name": {
+            "en": "Shipyard"
+          },
+          "latitude": 17.89382,
+          "longitude": -88.65452
+        }
+      ]
+    },
+    {
+      "code": "BZ-SC",
+      "name": {
+        "en": "Stann Creek"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Dangriga"
+          },
+          "latitude": 16.9697,
+          "longitude": -88.23313
+        },
+        {
+          "name": {
+            "en": "Placencia"
+          },
+          "latitude": 16.51419,
+          "longitude": -88.36647
+        }
+      ]
+    },
+    {
+      "code": "BZ-TOL",
+      "name": {
+        "en": "Toledo"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Punta Gorda"
+          },
+          "latitude": 16.09835,
+          "longitude": -88.8097
+        }
+      ]
+    }
+  ]
+}

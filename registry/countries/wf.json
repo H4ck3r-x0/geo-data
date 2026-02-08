@@ -1,0 +1,74 @@
+{
+  "code": "WF",
+  "iso3": "WLF",
+  "name": {
+    "en": "Wallis and Futuna Islands",
+    "ar": "جزر واليس وفوتونا",
+    "de": "Wallis und Futuna",
+    "es": "Wallis y Futuna",
+    "fr": "Wallis-et-Futuna",
+    "hi": "वालिस और फुतुना आइलैंड्स",
+    "it": "Wallis e Futuna",
+    "ja": "ウォリス・フツナ",
+    "ko": "왈리스 푸투나",
+    "nl": "Wallis en Futuna",
+    "pl": "Wyspy Wallis i Futuna",
+    "pt": "Wallis e Futuna",
+    "pt-BR": "Wallis e Futuna",
+    "ru": "Острова Уоллис и Футуна",
+    "tr": "Wallis Ve Futuna",
+    "uk": "Острови Уолліс і Футуна",
+    "zh": "瓦利斯群岛和富图纳群岛"
+  },
+  "phone": "+681",
+  "currency": "XPF",
+  "timezone": "Pacific/Wallis",
+  "flag": "🇼🇫",
+  "regions": [
+    {
+      "code": "WF-5709",
+      "name": {
+        "en": "Alo"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ono"
+          },
+          "latitude": -14.31055556,
+          "longitude": -178.105
+        }
+      ]
+    },
+    {
+      "code": "WF-5708",
+      "name": {
+        "en": "Sigave"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Leava"
+          },
+          "latitude": -14.2961,
+          "longitude": -178.1585
+        }
+      ]
+    },
+    {
+      "code": "WF-5707",
+      "name": {
+        "en": "Uvea"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Mata Utu"
+          },
+          "latitude": -13.28333333,
+          "longitude": -176.18333333
+        }
+      ]
+    }
+  ]
+}

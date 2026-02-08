@@ -1,0 +1,44 @@
+{
+  "code": "SS",
+  "iso3": "SSD",
+  "name": {
+    "en": "South Sudan",
+    "ar": "جنوب السودان",
+    "de": "Südsudan",
+    "es": "Sudán del Sur",
+    "fr": "Soudan du Sud",
+    "hi": "दक्षिण सूडान",
+    "it": "Sudan del sud",
+    "ja": "南スーダン",
+    "ko": "남수단",
+    "nl": "Zuid-Soedan",
+    "pl": "Sudan Południowy",
+    "pt": "Sudão do Sul",
+    "pt-BR": "Sudão do Sul",
+    "ru": "Южный Судан",
+    "tr": "Güney Sudan",
+    "uk": "Південний Судан",
+    "zh": "南苏丹"
+  },
+  "phone": "+211",
+  "currency": "SSP",
+  "timezone": "Africa/Juba",
+  "flag": "🇸🇸",
+  "regions": [
+    {
+      "code": "SS-LK",
+      "name": {
+        "en": "Lakes"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Yirol"
+          },
+          "latitude": 6.5525,
+          "longitude": 30.49806
+        }
+      ]
+    }
+  ]
+}

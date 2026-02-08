@@ -1,0 +1,876 @@
+{
+  "code": "ZW",
+  "iso3": "ZWE",
+  "name": {
+    "en": "Zimbabwe",
+    "ar": "زيمبابوي",
+    "de": "Simbabwe",
+    "es": "Zimbabue",
+    "fr": "Zimbabwe",
+    "hi": "ज़िम्बाब्वे",
+    "it": "Zimbabwe",
+    "ja": "ジンバブエ",
+    "ko": "짐바브웨",
+    "nl": "Zimbabwe",
+    "pl": "Zimbabwe",
+    "pt": "Zimbabué",
+    "pt-BR": "Zimbabwe",
+    "ru": "Зимбабве",
+    "tr": "Zimbabve",
+    "uk": "Зімбабве",
+    "zh": "津巴布韦"
+  },
+  "phone": "+263",
+  "currency": "ZWL",
+  "timezone": "Africa/Harare",
+  "flag": "🇿🇼",
+  "regions": [
+    {
+      "code": "ZW-BU",
+      "name": {
+        "en": "Bulawayo"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bulawayo"
+          },
+          "latitude": -20.15,
+          "longitude": 28.58333
+        }
+      ]
+    },
+    {
+      "code": "ZW-HA",
+      "name": {
+        "en": "Harare"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Chitungwiza"
+          },
+          "latitude": -18.01274,
+          "longitude": 31.07555
+        },
+        {
+          "name": {
+            "en": "Epworth"
+          },
+          "latitude": -17.89,
+          "longitude": 31.1475
+        },
+        {
+          "name": {
+            "en": "Harare",
+            "ar": "هراري"
+          },
+          "latitude": -17.82772,
+          "longitude": 31.05337
+        }
+      ]
+    },
+    {
+      "code": "ZW-MA",
+      "name": {
+        "en": "Manicaland"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Buhera"
+          },
+          "latitude": -19.45658,
+          "longitude": 31.93156
+        },
+        {
+          "name": {
+            "en": "Chimanimani"
+          },
+          "latitude": -19.8,
+          "longitude": 32.86667
+        },
+        {
+          "name": {
+            "en": "Chimanimani District"
+          },
+          "latitude": -19.78295,
+          "longitude": 32.73338
+        },
+        {
+          "name": {
+            "en": "Chipinge"
+          },
+          "latitude": -20.18833,
+          "longitude": 32.62365
+        },
+        {
+          "name": {
+            "en": "Chipinge District"
+          },
+          "latitude": -20.54959,
+          "longitude": 32.4311
+        },
+        {
+          "name": {
+            "en": "Dorowa Mining Lease"
+          },
+          "latitude": -19.06667,
+          "longitude": 31.75
+        },
+        {
+          "name": {
+            "en": "Headlands"
+          },
+          "latitude": -18.27733,
+          "longitude": 32.0515
+        },
+        {
+          "name": {
+            "en": "Makoni"
+          },
+          "latitude": -18.3355,
+          "longitude": 32.1465
+        },
+        {
+          "name": {
+            "en": "Mutare"
+          },
+          "latitude": -18.9707,
+          "longitude": 32.67086
+        },
+        {
+          "name": {
+            "en": "Mutare District"
+          },
+          "latitude": -19.25512,
+          "longitude": 32.44327
+        },
+        {
+          "name": {
+            "en": "Mutasa"
+          },
+          "latitude": -18.66283,
+          "longitude": 32.74547
+        },
+        {
+          "name": {
+            "en": "Nyanga"
+          },
+          "latitude": -18.21667,
+          "longitude": 32.75
+        },
+        {
+          "name": {
+            "en": "Nyanga District"
+          },
+          "latitude": -17.92951,
+          "longitude": 32.76561
+        },
+        {
+          "name": {
+            "en": "Nyazura"
+          },
+          "latitude": -18.70587,
+          "longitude": 32.16796
+        },
+        {
+          "name": {
+            "en": "Odzi"
+          },
+          "latitude": -18.96167,
+          "longitude": 32.40557
+        },
+        {
+          "name": {
+            "en": "Penhalonga"
+          },
+          "latitude": -18.89112,
+          "longitude": 32.69781
+        },
+        {
+          "name": {
+            "en": "Rusape"
+          },
+          "latitude": -18.52785,
+          "longitude": 32.12843
+        }
+      ]
+    },
+    {
+      "code": "ZW-MC",
+      "name": {
+        "en": "Mashonaland Central"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bindura"
+          },
+          "latitude": -17.30192,
+          "longitude": 31.33056
+        },
+        {
+          "name": {
+            "en": "Bindura District"
+          },
+          "latitude": -17.2123,
+          "longitude": 31.303
+        },
+        {
+          "name": {
+            "en": "Centenary"
+          },
+          "latitude": -16.72289,
+          "longitude": 31.11462
+        },
+        {
+          "name": {
+            "en": "Centenary District"
+          },
+          "latitude": -16.41667,
+          "longitude": 31.16667
+        },
+        {
+          "name": {
+            "en": "Concession"
+          },
+          "latitude": -17.38333,
+          "longitude": 30.95
+        },
+        {
+          "name": {
+            "en": "Glendale"
+          },
+          "latitude": -17.35514,
+          "longitude": 31.06718
+        },
+        {
+          "name": {
+            "en": "Guruve"
+          },
+          "latitude": -16.37206,
+          "longitude": 30.60607
+        },
+        {
+          "name": {
+            "en": "Mazowe"
+          },
+          "latitude": -17.50404,
+          "longitude": 30.97388
+        },
+        {
+          "name": {
+            "en": "Mazowe District"
+          },
+          "latitude": -17.2808,
+          "longitude": 30.93231
+        },
+        {
+          "name": {
+            "en": "Mount Darwin"
+          },
+          "latitude": -16.77251,
+          "longitude": 31.58381
+        },
+        {
+          "name": {
+            "en": "Mvurwi"
+          },
+          "latitude": -17.03333,
+          "longitude": 30.85
+        },
+        {
+          "name": {
+            "en": "Rushinga"
+          },
+          "latitude": -16.60792,
+          "longitude": 32.31434
+        },
+        {
+          "name": {
+            "en": "Shamva"
+          },
+          "latitude": -17.31159,
+          "longitude": 31.57561
+        },
+        {
+          "name": {
+            "en": "Shamva District"
+          },
+          "latitude": -17.12366,
+          "longitude": 31.64146
+        }
+      ]
+    },
+    {
+      "code": "ZW-ME",
+      "name": {
+        "en": "Mashonaland East"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Beatrice"
+          },
+          "latitude": -18.25283,
+          "longitude": 30.8473
+        },
+        {
+          "name": {
+            "en": "Chivhu"
+          },
+          "latitude": -19.02112,
+          "longitude": 30.89218
+        },
+        {
+          "name": {
+            "en": "Goromonzi"
+          },
+          "latitude": -17.80695,
+          "longitude": 31.36372
+        },
+        {
+          "name": {
+            "en": "Macheke"
+          },
+          "latitude": -18.13901,
+          "longitude": 31.84933
+        },
+        {
+          "name": {
+            "en": "Marondera"
+          },
+          "latitude": -18.18527,
+          "longitude": 31.55193
+        },
+        {
+          "name": {
+            "en": "Marondera District"
+          },
+          "latitude": -18.29214,
+          "longitude": 31.51252
+        },
+        {
+          "name": {
+            "en": "Mudzi"
+          },
+          "latitude": -17.04711,
+          "longitude": 32.65279
+        },
+        {
+          "name": {
+            "en": "Murehwa"
+          },
+          "latitude": -17.64322,
+          "longitude": 31.784
+        },
+        {
+          "name": {
+            "en": "Murehwa District"
+          },
+          "latitude": -17.80057,
+          "longitude": 31.83083
+        },
+        {
+          "name": {
+            "en": "Mutoko"
+          },
+          "latitude": -17.39699,
+          "longitude": 32.22677
+        },
+        {
+          "name": {
+            "en": "Ruwa"
+          },
+          "latitude": -17.88972,
+          "longitude": 31.24472
+        }
+      ]
+    },
+    {
+      "code": "ZW-MW",
+      "name": {
+        "en": "Mashonaland West"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Banket"
+          },
+          "latitude": -17.38333,
+          "longitude": 30.4
+        },
+        {
+          "name": {
+            "en": "Chakari"
+          },
+          "latitude": -18.06294,
+          "longitude": 29.89246
+        },
+        {
+          "name": {
+            "en": "Chegutu"
+          },
+          "latitude": -18.13021,
+          "longitude": 30.14074
+        },
+        {
+          "name": {
+            "en": "Chegutu District"
+          },
+          "latitude": -18.13097,
+          "longitude": 30.40046
+        },
+        {
+          "name": {
+            "en": "Chinhoyi"
+          },
+          "latitude": -17.36667,
+          "longitude": 30.2
+        },
+        {
+          "name": {
+            "en": "Chirundu"
+          },
+          "latitude": -16.03333,
+          "longitude": 28.85
+        },
+        {
+          "name": {
+            "en": "Hurungwe"
+          },
+          "latitude": -16.41301,
+          "longitude": 29.5858
+        },
+        {
+          "name": {
+            "en": "Kadoma"
+          },
+          "latitude": -18.33328,
+          "longitude": 29.91534
+        },
+        {
+          "name": {
+            "en": "Kadoma District"
+          },
+          "latitude": -18.34049,
+          "longitude": 29.82831
+        },
+        {
+          "name": {
+            "en": "Kariba",
+            "ar": "كاريبا"
+          },
+          "latitude": -16.51667,
+          "longitude": 28.8
+        },
+        {
+          "name": {
+            "en": "Kariba District"
+          },
+          "latitude": -16.91011,
+          "longitude": 28.65983
+        },
+        {
+          "name": {
+            "en": "Karoi"
+          },
+          "latitude": -16.80993,
+          "longitude": 29.69247
+        },
+        {
+          "name": {
+            "en": "Makonde"
+          },
+          "latitude": -17.16667,
+          "longitude": 30.08333
+        },
+        {
+          "name": {
+            "en": "Mhangura"
+          },
+          "latitude": -16.89387,
+          "longitude": 30.16828
+        },
+        {
+          "name": {
+            "en": "Norton"
+          },
+          "latitude": -17.88333,
+          "longitude": 30.7
+        },
+        {
+          "name": {
+            "en": "Raffingora"
+          },
+          "latitude": -17.03333,
+          "longitude": 30.43333
+        }
+      ]
+    },
+    {
+      "code": "ZW-MV",
+      "name": {
+        "en": "Masvingo"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bikita"
+          },
+          "latitude": -20.13752,
+          "longitude": 31.93156
+        },
+        {
+          "name": {
+            "en": "Chiredzi"
+          },
+          "latitude": -21.05,
+          "longitude": 31.66667
+        },
+        {
+          "name": {
+            "en": "Chiredzi District"
+          },
+          "latitude": -21.28585,
+          "longitude": 31.77039
+        },
+        {
+          "name": {
+            "en": "Chivi"
+          },
+          "latitude": -20.5,
+          "longitude": 30.58333
+        },
+        {
+          "name": {
+            "en": "Gutu"
+          },
+          "latitude": -19.60884,
+          "longitude": 31.25059
+        },
+        {
+          "name": {
+            "en": "Mashava"
+          },
+          "latitude": -20.03665,
+          "longitude": 30.48225
+        },
+        {
+          "name": {
+            "en": "Masvingo"
+          },
+          "latitude": -20.06373,
+          "longitude": 30.82766
+        },
+        {
+          "name": {
+            "en": "Masvingo District"
+          },
+          "latitude": -20.31481,
+          "longitude": 30.90008
+        },
+        {
+          "name": {
+            "en": "Mwenezi"
+          },
+          "latitude": -21.35838,
+          "longitude": 30.70668
+        },
+        {
+          "name": {
+            "en": "Zvishavane"
+          },
+          "latitude": -20.32674,
+          "longitude": 30.06648
+        }
+      ]
+    },
+    {
+      "code": "ZW-MN",
+      "name": {
+        "en": "Matabeleland North"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Binga"
+          },
+          "latitude": -17.62027,
+          "longitude": 27.34139
+        },
+        {
+          "name": {
+            "en": "Binga District"
+          },
+          "latitude": -17.8046,
+          "longitude": 27.70088
+        },
+        {
+          "name": {
+            "en": "Bubi"
+          },
+          "latitude": -19.52508,
+          "longitude": 28.67998
+        },
+        {
+          "name": {
+            "en": "Dete"
+          },
+          "latitude": -18.61667,
+          "longitude": 26.86667
+        },
+        {
+          "name": {
+            "en": "Hwange",
+            "ar": "هوانج"
+          },
+          "latitude": -18.36446,
+          "longitude": 26.49877
+        },
+        {
+          "name": {
+            "en": "Hwange District"
+          },
+          "latitude": -18.75,
+          "longitude": 26.5
+        },
+        {
+          "name": {
+            "en": "Inyati"
+          },
+          "latitude": -19.67563,
+          "longitude": 28.84687
+        },
+        {
+          "name": {
+            "en": "Kamativi Mine"
+          },
+          "latitude": -18.31563,
+          "longitude": 27.05729
+        },
+        {
+          "name": {
+            "en": "Lupane"
+          },
+          "latitude": -18.93149,
+          "longitude": 27.80696
+        },
+        {
+          "name": {
+            "en": "Lupane District"
+          },
+          "latitude": -18.83608,
+          "longitude": 27.99098
+        },
+        {
+          "name": {
+            "en": "Nkayi"
+          },
+          "latitude": -18.92472,
+          "longitude": 28.71221
+        },
+        {
+          "name": {
+            "en": "Victoria Falls"
+          },
+          "latitude": -17.93285,
+          "longitude": 25.83066
+        }
+      ]
+    },
+    {
+      "code": "ZW-MS",
+      "name": {
+        "en": "Matabeleland South"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Beitbridge",
+            "ar": "بيتبريدج"
+          },
+          "latitude": -22.21667,
+          "longitude": 30
+        },
+        {
+          "name": {
+            "en": "Beitbridge District"
+          },
+          "latitude": -21.89829,
+          "longitude": 30.07409
+        },
+        {
+          "name": {
+            "en": "Esigodini"
+          },
+          "latitude": -20.28979,
+          "longitude": 28.92261
+        },
+        {
+          "name": {
+            "en": "Filabusi"
+          },
+          "latitude": -20.53333,
+          "longitude": 29.28502
+        },
+        {
+          "name": {
+            "en": "Gwanda"
+          },
+          "latitude": -20.93622,
+          "longitude": 29.00698
+        },
+        {
+          "name": {
+            "en": "Gwanda District"
+          },
+          "latitude": -21.20929,
+          "longitude": 29.17557
+        },
+        {
+          "name": {
+            "en": "Insiza"
+          },
+          "latitude": -19.78333,
+          "longitude": 29.2
+        },
+        {
+          "name": {
+            "en": "Insiza District"
+          },
+          "latitude": -20.26431,
+          "longitude": 29.47392
+        },
+        {
+          "name": {
+            "en": "Mangwe"
+          },
+          "latitude": -20.95545,
+          "longitude": 27.98292
+        },
+        {
+          "name": {
+            "en": "Matobo"
+          },
+          "latitude": -20.95545,
+          "longitude": 28.49463
+        },
+        {
+          "name": {
+            "en": "Plumtree"
+          },
+          "latitude": -20.48333,
+          "longitude": 27.81667
+        },
+        {
+          "name": {
+            "en": "Umzingwane"
+          },
+          "latitude": -20.34704,
+          "longitude": 28.94994
+        }
+      ]
+    },
+    {
+      "code": "ZW-MI",
+      "name": {
+        "en": "Midlands"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Gokwe"
+          },
+          "latitude": -18.20476,
+          "longitude": 28.9349
+        },
+        {
+          "name": {
+            "en": "Gweru"
+          },
+          "latitude": -19.45,
+          "longitude": 29.81667
+        },
+        {
+          "name": {
+            "en": "Gweru District"
+          },
+          "latitude": -19.45665,
+          "longitude": 29.64495
+        },
+        {
+          "name": {
+            "en": "Kwekwe"
+          },
+          "latitude": -18.92809,
+          "longitude": 29.81486
+        },
+        {
+          "name": {
+            "en": "Kwekwe District"
+          },
+          "latitude": -18.75,
+          "longitude": 29.5
+        },
+        {
+          "name": {
+            "en": "Lalapanzi"
+          },
+          "latitude": -19.33225,
+          "longitude": 30.17768
+        },
+        {
+          "name": {
+            "en": "Mberengwa"
+          },
+          "latitude": -20.72579,
+          "longitude": 30.00962
+        },
+        {
+          "name": {
+            "en": "Mvuma"
+          },
+          "latitude": -19.27924,
+          "longitude": 30.52828
+        },
+        {
+          "name": {
+            "en": "Redcliff"
+          },
+          "latitude": -19.03333,
+          "longitude": 29.78333
+        },
+        {
+          "name": {
+            "en": "Shangani"
+          },
+          "latitude": -19.78333,
+          "longitude": 29.36667
+        },
+        {
+          "name": {
+            "en": "Shurugwi"
+          },
+          "latitude": -19.67016,
+          "longitude": 30.00589
+        },
+        {
+          "name": {
+            "en": "Shurugwi District"
+          },
+          "latitude": -19.75,
+          "longitude": 30.16667
+        },
+        {
+          "name": {
+            "en": "Zvishavane"
+          },
+          "latitude": -20.30345,
+          "longitude": 30.07514
+        }
+      ]
+    }
+  ]
+}

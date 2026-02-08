@@ -1,0 +1,616 @@
+{
+  "code": "LY",
+  "iso3": "LBY",
+  "name": {
+    "en": "Libya",
+    "ar": "ليبيا",
+    "de": "Libyen",
+    "es": "Libia",
+    "fr": "Libye",
+    "hi": "लीबिया",
+    "it": "Libia",
+    "ja": "リビア",
+    "ko": "리비아",
+    "nl": "Libië",
+    "pl": "Libia",
+    "pt": "Líbia",
+    "pt-BR": "Líbia",
+    "ru": "Ливия",
+    "tr": "Libya",
+    "uk": "Лівія",
+    "zh": "利比亚"
+  },
+  "phone": "+218",
+  "currency": "LYD",
+  "timezone": "Africa/Tripoli",
+  "flag": "🇱🇾",
+  "regions": [
+    {
+      "code": "LY-BU",
+      "name": {
+        "en": "Al Butnan"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bardia"
+          },
+          "latitude": 31.76,
+          "longitude": 25.075
+        },
+        {
+          "name": {
+            "en": "Jaghbub"
+          },
+          "latitude": 29.7425,
+          "longitude": 24.51694444
+        },
+        {
+          "name": {
+            "en": "Tobruk"
+          },
+          "latitude": 32.07611111,
+          "longitude": 23.96138889
+        }
+      ]
+    },
+    {
+      "code": "LY-WA",
+      "name": {
+        "en": "Al Wahat"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ajdabiya",
+            "ar": "شعبية إجدابيا"
+          },
+          "latitude": 30.75545,
+          "longitude": 20.22625
+        },
+        {
+          "name": {
+            "en": "Al Burayqah",
+            "ar": "البريقة"
+          },
+          "latitude": 30.40624,
+          "longitude": 19.57386
+        },
+        {
+          "name": {
+            "en": "Awjilah"
+          },
+          "latitude": 29.10806,
+          "longitude": 21.28694
+        },
+        {
+          "name": {
+            "en": "Az Zuwaytīnah",
+            "ar": "الزويتينة"
+          },
+          "latitude": 30.9522,
+          "longitude": 20.12022
+        },
+        {
+          "name": {
+            "en": "Gialo"
+          },
+          "latitude": 29.03333,
+          "longitude": 21.55
+        },
+        {
+          "name": {
+            "en": "Marādah"
+          },
+          "latitude": 29.22054,
+          "longitude": 19.20454
+        }
+      ]
+    },
+    {
+      "code": "LY-BA",
+      "name": {
+        "en": "Benghazi"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Benghazi",
+            "ar": "بنغازي"
+          },
+          "latitude": 32.11486,
+          "longitude": 20.06859
+        },
+        {
+          "name": {
+            "en": "Qaryat Sulūq",
+            "ar": "قرية سلوق"
+          },
+          "latitude": 31.66818,
+          "longitude": 20.25205
+        }
+      ]
+    },
+    {
+      "code": "LY-DR",
+      "name": {
+        "en": "Derna"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Al Qubbah"
+          },
+          "latitude": 32.75684,
+          "longitude": 22.24106
+        },
+        {
+          "name": {
+            "en": "Darnah",
+            "ar": "درنة"
+          },
+          "latitude": 32.76704,
+          "longitude": 22.63669
+        }
+      ]
+    },
+    {
+      "code": "LY-GT",
+      "name": {
+        "en": "Ghat"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ghat"
+          },
+          "latitude": 24.96334,
+          "longitude": 10.18003
+        }
+      ]
+    },
+    {
+      "code": "LY-JA",
+      "name": {
+        "en": "Jabal al Akhdar"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Al Bayḑā’",
+            "ar": "البيضاء"
+          },
+          "latitude": 32.76272,
+          "longitude": 21.75506
+        }
+      ]
+    },
+    {
+      "code": "LY-JG",
+      "name": {
+        "en": "Jabal al Gharbi"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Gharyan",
+            "ar": "غريان"
+          },
+          "latitude": 32.17222,
+          "longitude": 13.02028
+        },
+        {
+          "name": {
+            "en": "Giado"
+          },
+          "latitude": 31.95506,
+          "longitude": 12.02901
+        },
+        {
+          "name": {
+            "en": "Mizdah"
+          },
+          "latitude": 31.44934,
+          "longitude": 12.9853
+        },
+        {
+          "name": {
+            "en": "Yafran",
+            "ar": "شعبية يفرن"
+          },
+          "latitude": 32.06329,
+          "longitude": 12.52859
+        },
+        {
+          "name": {
+            "en": "Zintan",
+            "ar": "الزنتان‎"
+          },
+          "latitude": 31.93155,
+          "longitude": 12.25291
+        }
+      ]
+    },
+    {
+      "code": "LY-JI",
+      "name": {
+        "en": "Jafara"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Al ‘Azīzīyah",
+            "ar": "العَزيزية"
+          },
+          "latitude": 32.53194,
+          "longitude": 13.0175
+        }
+      ]
+    },
+    {
+      "code": "LY-JU",
+      "name": {
+        "en": "Jufra"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Hūn",
+            "ar": "هون"
+          },
+          "latitude": 29.12684,
+          "longitude": 15.94772
+        },
+        {
+          "name": {
+            "en": "Waddān"
+          },
+          "latitude": 29.1614,
+          "longitude": 16.13904
+        }
+      ]
+    },
+    {
+      "code": "LY-KF",
+      "name": {
+        "en": "Kufra"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Al Jawf",
+            "ar": "الجوف"
+          },
+          "latitude": 24.1989,
+          "longitude": 23.29093
+        },
+        {
+          "name": {
+            "en": "At Tāj",
+            "ar": "الجوف"
+          },
+          "latitude": 24.20487,
+          "longitude": 23.2857
+        }
+      ]
+    },
+    {
+      "code": "LY-MJ",
+      "name": {
+        "en": "Marj"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Al Abyār",
+            "ar": "الأبيار‎"
+          },
+          "latitude": 32.19,
+          "longitude": 20.59653
+        },
+        {
+          "name": {
+            "en": "Al Marj",
+            "ar": "شعبية المرج"
+          },
+          "latitude": 32.49257,
+          "longitude": 20.82909
+        },
+        {
+          "name": {
+            "en": "Tūkrah"
+          },
+          "latitude": 32.53414,
+          "longitude": 20.57911
+        }
+      ]
+    },
+    {
+      "code": "LY-MI",
+      "name": {
+        "en": "Misrata"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bani Walid",
+            "ar": "قصر بني وليد"
+          },
+          "latitude": 31.74554,
+          "longitude": 13.98354
+        },
+        {
+          "name": {
+            "en": "Mişrātah",
+            "ar": "مصراتة"
+          },
+          "latitude": 32.37535,
+          "longitude": 15.09254
+        },
+        {
+          "name": {
+            "en": "Zliten",
+            "ar": "زليتن"
+          },
+          "latitude": 32.46739,
+          "longitude": 14.56874
+        }
+      ]
+    },
+    {
+      "code": "LY-MB",
+      "name": {
+        "en": "Murqub"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Al Khums",
+            "ar": "الخُمس"
+          },
+          "latitude": 32.64861,
+          "longitude": 14.26191
+        },
+        {
+          "name": {
+            "en": "Masallātah"
+          },
+          "latitude": 32.61667,
+          "longitude": 14
+        },
+        {
+          "name": {
+            "en": "Tarhuna"
+          },
+          "latitude": 32.43501,
+          "longitude": 13.6332
+        }
+      ]
+    },
+    {
+      "code": "LY-MQ",
+      "name": {
+        "en": "Murzuq"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Al Qaţrūn"
+          },
+          "latitude": 24.95139,
+          "longitude": 14.64861
+        },
+        {
+          "name": {
+            "en": "Murzuq",
+            "ar": "مرزق"
+          },
+          "latitude": 25.91552,
+          "longitude": 13.91839
+        }
+      ]
+    },
+    {
+      "code": "LY-NL",
+      "name": {
+        "en": "Nalut"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ghadāmis"
+          },
+          "latitude": 30.13366,
+          "longitude": 9.50072
+        },
+        {
+          "name": {
+            "en": "Nālūt",
+            "ar": "نالوت"
+          },
+          "latitude": 31.86848,
+          "longitude": 10.9812
+        }
+      ]
+    },
+    {
+      "code": "LY-NQ",
+      "name": {
+        "en": "Nuqat al Khams"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Al Ajaylat",
+            "ar": "العجيلات"
+          },
+          "latitude": 32.75718,
+          "longitude": 12.37633
+        },
+        {
+          "name": {
+            "en": "Zalţan"
+          },
+          "latitude": 32.94699,
+          "longitude": 11.86668
+        },
+        {
+          "name": {
+            "en": "Zuwārah",
+            "ar": "زُوارة"
+          },
+          "latitude": 32.9312,
+          "longitude": 12.08199
+        }
+      ]
+    },
+    {
+      "code": "LY-SB",
+      "name": {
+        "en": "Sabha"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Al Jadīd",
+            "ar": "الجديد"
+          },
+          "latitude": 27.05,
+          "longitude": 14.4
+        },
+        {
+          "name": {
+            "en": "Sabhā",
+            "ar": "سبها"
+          },
+          "latitude": 27.03766,
+          "longitude": 14.42832
+        }
+      ]
+    },
+    {
+      "code": "LY-SR",
+      "name": {
+        "en": "Sirte"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Qasr Abu Hadi"
+          },
+          "latitude": 31.05926,
+          "longitude": 16.65905
+        },
+        {
+          "name": {
+            "en": "Sirte",
+            "ar": "شعبية سرت"
+          },
+          "latitude": 31.20892,
+          "longitude": 16.58866
+        }
+      ]
+    },
+    {
+      "code": "LY-TB",
+      "name": {
+        "en": "Tripoli"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Tagiura"
+          },
+          "latitude": 32.88167,
+          "longitude": 13.35056
+        },
+        {
+          "name": {
+            "en": "Tripoli",
+            "ar": "طَرَابُلُس"
+          },
+          "latitude": 32.88743,
+          "longitude": 13.18733
+        }
+      ]
+    },
+    {
+      "code": "LY-WD",
+      "name": {
+        "en": "Wadi al Hayaa"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ubari",
+            "ar": "أوباري"
+          },
+          "latitude": 26.59034,
+          "longitude": 12.77511
+        }
+      ]
+    },
+    {
+      "code": "LY-WS",
+      "name": {
+        "en": "Wadi al Shatii"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Brak",
+            "ar": "براك"
+          },
+          "latitude": 27.54956,
+          "longitude": 14.27139
+        },
+        {
+          "name": {
+            "en": "Idrī"
+          },
+          "latitude": 27.44707,
+          "longitude": 13.05173
+        }
+      ]
+    },
+    {
+      "code": "LY-ZA",
+      "name": {
+        "en": "Zawiya"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Az Zāwīyah",
+            "ar": "الزاوية"
+          },
+          "latitude": 32.7571,
+          "longitude": 12.72764
+        },
+        {
+          "name": {
+            "en": "Şabrātah"
+          },
+          "latitude": 32.79335,
+          "longitude": 12.48845
+        },
+        {
+          "name": {
+            "en": "Şurmān",
+            "ar": "صرمان"
+          },
+          "latitude": 32.75668,
+          "longitude": 12.57159
+        },
+        {
+          "name": {
+            "en": "Zawiya",
+            "ar": "الزاوية"
+          },
+          "latitude": 32.75222,
+          "longitude": 12.72778
+        }
+      ]
+    }
+  ]
+}

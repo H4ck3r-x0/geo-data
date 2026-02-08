@@ -1,0 +1,237 @@
+{
+  "code": "CG",
+  "iso3": "COG",
+  "name": {
+    "en": "Congo",
+    "ar": "الكونغو",
+    "de": "Kongo",
+    "es": "Congo",
+    "fr": "Congo",
+    "hi": "कांगो",
+    "it": "Congo",
+    "ja": "コンゴ共和国",
+    "ko": "콩고",
+    "nl": "Congo [Republiek]",
+    "pl": "Kongo",
+    "pt": "Congo",
+    "pt-BR": "Congo",
+    "ru": "Конго",
+    "tr": "Kongo",
+    "uk": "Конго",
+    "zh": "刚果"
+  },
+  "phone": "+242",
+  "currency": "CDF",
+  "timezone": "Africa/Brazzaville",
+  "flag": "🇨🇬",
+  "regions": [
+    {
+      "code": "CG-11",
+      "name": {
+        "en": "Bouenza"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Kayes"
+          },
+          "latitude": -4.20493,
+          "longitude": 13.28608
+        },
+        {
+          "name": {
+            "en": "Madingou"
+          },
+          "latitude": -4.15361,
+          "longitude": 13.55
+        }
+      ]
+    },
+    {
+      "code": "CG-BZV",
+      "name": {
+        "en": "Brazzaville"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Brazzaville",
+            "ar": "برازافيل"
+          },
+          "latitude": -4.26613,
+          "longitude": 15.28318
+        }
+      ]
+    },
+    {
+      "code": "CG-8",
+      "name": {
+        "en": "Cuvette"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Makoua"
+          },
+          "latitude": 0.00694,
+          "longitude": 15.63333
+        },
+        {
+          "name": {
+            "en": "Owando"
+          },
+          "latitude": -0.48193,
+          "longitude": 15.89988
+        }
+      ]
+    },
+    {
+      "code": "CG-15",
+      "name": {
+        "en": "Cuvette-Ouest"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ewo"
+          },
+          "latitude": -0.8725,
+          "longitude": 14.82056
+        }
+      ]
+    },
+    {
+      "code": "CG-2",
+      "name": {
+        "en": "Lékoumou"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Sibiti"
+          },
+          "latitude": -3.68192,
+          "longitude": 13.34985
+        }
+      ]
+    },
+    {
+      "code": "CG-7",
+      "name": {
+        "en": "Likouala"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Impfondo"
+          },
+          "latitude": 1.61804,
+          "longitude": 18.05981
+        }
+      ]
+    },
+    {
+      "code": "CG-9",
+      "name": {
+        "en": "Niari"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Dolisie"
+          },
+          "latitude": -4.19834,
+          "longitude": 12.66664
+        },
+        {
+          "name": {
+            "en": "Mossendjo"
+          },
+          "latitude": -2.94968,
+          "longitude": 12.70423
+        }
+      ]
+    },
+    {
+      "code": "CG-14",
+      "name": {
+        "en": "Plateaux"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Djambala"
+          },
+          "latitude": -2.54472,
+          "longitude": 14.75333
+        },
+        {
+          "name": {
+            "en": "Gamboma"
+          },
+          "latitude": -1.87639,
+          "longitude": 15.86444
+        }
+      ]
+    },
+    {
+      "code": "CG-16",
+      "name": {
+        "en": "Pointe-Noire"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Loandjili"
+          },
+          "latitude": -4.75611,
+          "longitude": 11.85778
+        },
+        {
+          "name": {
+            "en": "Pointe-Noire"
+          },
+          "latitude": -4.77609,
+          "longitude": 11.86352
+        }
+      ]
+    },
+    {
+      "code": "CG-12",
+      "name": {
+        "en": "Pool"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Kinkala"
+          },
+          "latitude": -4.36139,
+          "longitude": 14.76444
+        }
+      ]
+    },
+    {
+      "code": "CG-13",
+      "name": {
+        "en": "Sangha"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ouésso"
+          },
+          "latitude": 1.61361,
+          "longitude": 16.05167
+        },
+        {
+          "name": {
+            "en": "Sémbé"
+          },
+          "latitude": 1.64806,
+          "longitude": 14.58056
+        }
+      ]
+    }
+  ]
+}

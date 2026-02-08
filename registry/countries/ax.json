@@ -1,0 +1,129 @@
+{
+  "code": "AX",
+  "iso3": "ALA",
+  "name": {
+    "en": "Aland Islands",
+    "ar": "جزر آلاند",
+    "de": "Åland",
+    "es": "Alandia",
+    "fr": "Åland",
+    "hi": "अलैंड आइलैंड्स",
+    "it": "Isole Aland",
+    "ja": "オーランド諸島",
+    "ko": "올란드 제도",
+    "nl": "Ålandeilanden",
+    "pl": "Wyspy Alandzkie",
+    "pt": "Ilhas de Aland",
+    "pt-BR": "Ilhas de Aland",
+    "ru": "Аландские острова",
+    "tr": "Åland Adalari",
+    "uk": "Аландські острови",
+    "zh": "奥兰群岛"
+  },
+  "phone": "+358",
+  "currency": "EUR",
+  "timezone": "Europe/Mariehamn",
+  "flag": "🇦🇽",
+  "regions": [
+    {
+      "code": "AX-02",
+      "name": {
+        "en": "Jomala"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bomarsund"
+          },
+          "latitude": 60.21234,
+          "longitude": 20.24023
+        },
+        {
+          "name": {
+            "en": "Finström"
+          },
+          "latitude": 60.26667,
+          "longitude": 19.93333
+        },
+        {
+          "name": {
+            "en": "Godby"
+          },
+          "latitude": 60.22995,
+          "longitude": 19.9881
+        },
+        {
+          "name": {
+            "en": "Hammarland"
+          },
+          "latitude": 60.21667,
+          "longitude": 19.75
+        },
+        {
+          "name": {
+            "en": "Jomala"
+          },
+          "latitude": 60.14902,
+          "longitude": 19.951
+        },
+        {
+          "name": {
+            "en": "Lemland"
+          },
+          "latitude": 60.07178,
+          "longitude": 20.08472
+        },
+        {
+          "name": {
+            "en": "Saltvik"
+          },
+          "latitude": 60.28333,
+          "longitude": 20.05
+        },
+        {
+          "name": {
+            "en": "Sund"
+          },
+          "latitude": 60.25,
+          "longitude": 20.11667
+        },
+        {
+          "name": {
+            "en": "Tjudö"
+          },
+          "latitude": 60.33333,
+          "longitude": 19.95
+        },
+        {
+          "name": {
+            "en": "Yomala"
+          },
+          "latitude": 60.16689,
+          "longitude": 19.93341
+        },
+        {
+          "name": {
+            "en": "Ytterby"
+          },
+          "latitude": 60.16667,
+          "longitude": 20.01667
+        }
+      ]
+    },
+    {
+      "code": "AX-01",
+      "name": {
+        "en": "Mariehamn"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Mariehamn"
+          },
+          "latitude": 60.09726,
+          "longitude": 19.93481
+        }
+      ]
+    }
+  ]
+}

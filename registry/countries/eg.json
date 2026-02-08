@@ -1,0 +1,1435 @@
+{
+  "code": "EG",
+  "iso3": "EGY",
+  "name": {
+    "en": "Egypt",
+    "ar": "مصر",
+    "de": "Ägypten",
+    "es": "Egipto",
+    "fr": "Égypte",
+    "hi": "मिस्र",
+    "it": "Egitto",
+    "ja": "エジプト",
+    "ko": "이집트",
+    "nl": "Egypte",
+    "pl": "Egipt",
+    "pt": "Egipto",
+    "pt-BR": "Egito",
+    "ru": "Египет",
+    "tr": "Mısır",
+    "uk": "Єгипет",
+    "zh": "埃及"
+  },
+  "phone": "+20",
+  "currency": "EGP",
+  "timezone": "Africa/Cairo",
+  "flag": "🇪🇬",
+  "regions": [
+    {
+      "code": "EG-ALX",
+      "name": {
+        "en": "Alexandria"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Abu Qir"
+          },
+          "latitude": 31.31666667,
+          "longitude": 30.06666667
+        },
+        {
+          "name": {
+            "en": "Agami"
+          },
+          "latitude": 31.0959,
+          "longitude": 29.7604
+        },
+        {
+          "name": {
+            "en": "Alexandria",
+            "ar": "الإسكندرية"
+          },
+          "latitude": 31.20176,
+          "longitude": 29.91582
+        },
+        {
+          "name": {
+            "en": "Ar-Raml"
+          },
+          "latitude": 31.24821,
+          "longitude": 29.97368
+        },
+        {
+          "name": {
+            "en": "Borg El Arab"
+          },
+          "latitude": 30.91666667,
+          "longitude": 29.53333333
+        },
+        {
+          "name": {
+            "en": "Montaza"
+          },
+          "latitude": 31.2827,
+          "longitude": 30.0219
+        },
+        {
+          "name": {
+            "en": "New Borg El Arab",
+            "ar": "برج العرب الجديدة"
+          },
+          "latitude": 30.88525,
+          "longitude": 29.57721
+        },
+        {
+          "name": {
+            "en": "Sidi Bishr"
+          },
+          "latitude": 31.2521,
+          "longitude": 29.9945
+        }
+      ]
+    },
+    {
+      "code": "EG-ASN",
+      "name": {
+        "en": "Aswan"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Abu Simbel"
+          },
+          "latitude": 22.3457,
+          "longitude": 31.61624
+        },
+        {
+          "name": {
+            "en": "Aswan",
+            "ar": "أسوان"
+          },
+          "latitude": 24.09082,
+          "longitude": 32.89942
+        },
+        {
+          "name": {
+            "en": "Idfū",
+            "ar": "إدفو"
+          },
+          "latitude": 24.97916,
+          "longitude": 32.87722
+        },
+        {
+          "name": {
+            "en": "Kawm Umbū"
+          },
+          "latitude": 24.47669,
+          "longitude": 32.94626
+        }
+      ]
+    },
+    {
+      "code": "EG-AST",
+      "name": {
+        "en": "Asyut"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Abnūb",
+            "ar": "أبنوب"
+          },
+          "latitude": 27.2696,
+          "longitude": 31.15105
+        },
+        {
+          "name": {
+            "en": "Abū Tīj"
+          },
+          "latitude": 27.04411,
+          "longitude": 31.31897
+        },
+        {
+          "name": {
+            "en": "Al Badārī",
+            "ar": "البداري"
+          },
+          "latitude": 26.99257,
+          "longitude": 31.41554
+        },
+        {
+          "name": {
+            "en": "Al Qūşīyah",
+            "ar": "القوصية"
+          },
+          "latitude": 27.4402,
+          "longitude": 30.81841
+        },
+        {
+          "name": {
+            "en": "Asyūţ",
+            "ar": "أسيوط"
+          },
+          "latitude": 27.18096,
+          "longitude": 31.18368
+        },
+        {
+          "name": {
+            "en": "Dayrūţ",
+            "ar": "ديروط"
+          },
+          "latitude": 27.55602,
+          "longitude": 30.80764
+        },
+        {
+          "name": {
+            "en": "Manfalūţ",
+            "ar": "منفلوط"
+          },
+          "latitude": 27.3104,
+          "longitude": 30.97004
+        }
+      ]
+    },
+    {
+      "code": "EG-BH",
+      "name": {
+        "en": "Beheira"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Abū al Maţāmīr"
+          },
+          "latitude": 30.91018,
+          "longitude": 30.17438
+        },
+        {
+          "name": {
+            "en": "Ad Dilinjāt",
+            "ar": "الدلنجات"
+          },
+          "latitude": 30.82796,
+          "longitude": 30.53552
+        },
+        {
+          "name": {
+            "en": "Damanhūr",
+            "ar": "دمنهور"
+          },
+          "latitude": 31.03408,
+          "longitude": 30.46823
+        },
+        {
+          "name": {
+            "en": "Ḩawsh ‘Īsá"
+          },
+          "latitude": 30.9128,
+          "longitude": 30.29019
+        },
+        {
+          "name": {
+            "en": "Idkū",
+            "ar": "إدكو"
+          },
+          "latitude": 31.3073,
+          "longitude": 30.2981
+        },
+        {
+          "name": {
+            "en": "Kafr ad Dawwār",
+            "ar": "كفر الدوار"
+          },
+          "latitude": 31.13379,
+          "longitude": 30.12969
+        },
+        {
+          "name": {
+            "en": "Kawm Ḩamādah",
+            "ar": "كوم حماده"
+          },
+          "latitude": 30.76128,
+          "longitude": 30.69972
+        },
+        {
+          "name": {
+            "en": "Rosetta",
+            "ar": "رشيد"
+          },
+          "latitude": 31.39951,
+          "longitude": 30.41718
+        }
+      ]
+    },
+    {
+      "code": "EG-BNS",
+      "name": {
+        "en": "Beni Suef"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Al Fashn",
+            "ar": "الفشن"
+          },
+          "latitude": 28.82431,
+          "longitude": 30.89948
+        },
+        {
+          "name": {
+            "en": "Banī Suwayf",
+            "ar": "بني سويف"
+          },
+          "latitude": 29.07441,
+          "longitude": 31.09785
+        },
+        {
+          "name": {
+            "en": "Būsh",
+            "ar": "ناصر-بوش سابقا"
+          },
+          "latitude": 29.14816,
+          "longitude": 31.12733
+        },
+        {
+          "name": {
+            "en": "Sumusţā as Sulţānī",
+            "ar": "سمسطا الوقف"
+          },
+          "latitude": 28.91667,
+          "longitude": 30.85
+        }
+      ]
+    },
+    {
+      "code": "EG-C",
+      "name": {
+        "en": "Cairo"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Badr"
+          },
+          "latitude": 30.136,
+          "longitude": 31.715
+        },
+        {
+          "name": {
+            "en": "Bulaq"
+          },
+          "latitude": 30.053,
+          "longitude": 31.23
+        },
+        {
+          "name": {
+            "en": "Cairo",
+            "ar": "القاهرة"
+          },
+          "latitude": 30.06263,
+          "longitude": 31.24967
+        },
+        {
+          "name": {
+            "en": "El Mataria"
+          },
+          "latitude": 30.1295,
+          "longitude": 31.2889
+        },
+        {
+          "name": {
+            "en": "Fustat"
+          },
+          "latitude": 30,
+          "longitude": 31.23333333
+        },
+        {
+          "name": {
+            "en": "Hadayek El Kobba"
+          },
+          "latitude": 30.0967,
+          "longitude": 31.3103
+        },
+        {
+          "name": {
+            "en": "Heliopolis"
+          },
+          "latitude": 30.13333333,
+          "longitude": 31.3
+        },
+        {
+          "name": {
+            "en": "Helwan"
+          },
+          "latitude": 29.84194444,
+          "longitude": 31.33416667
+        },
+        {
+          "name": {
+            "en": "Maadi"
+          },
+          "latitude": 29.9667,
+          "longitude": 31.25
+        },
+        {
+          "name": {
+            "en": "Musturud"
+          },
+          "latitude": 30.13881944,
+          "longitude": 31.29241111
+        },
+        {
+          "name": {
+            "en": "New Administrative Capital of Egypt"
+          },
+          "latitude": 30.0275,
+          "longitude": 31.765
+        },
+        {
+          "name": {
+            "en": "Shubra"
+          },
+          "latitude": 30.0725,
+          "longitude": 31.2408
+        },
+        {
+          "name": {
+            "en": "Tura"
+          },
+          "latitude": 29.939279,
+          "longitude": 31.290007
+        }
+      ]
+    },
+    {
+      "code": "EG-DK",
+      "name": {
+        "en": "Dakahlia"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "‘Izbat al Burj",
+            "ar": "عزبة البرج"
+          },
+          "latitude": 31.5084,
+          "longitude": 31.84106
+        },
+        {
+          "name": {
+            "en": "Ajā",
+            "ar": "أجا"
+          },
+          "latitude": 30.94162,
+          "longitude": 31.29039
+        },
+        {
+          "name": {
+            "en": "Al Jammālīyah",
+            "ar": "الجمالية"
+          },
+          "latitude": 31.18065,
+          "longitude": 31.86497
+        },
+        {
+          "name": {
+            "en": "Al Manşūrah",
+            "ar": "منصورة"
+          },
+          "latitude": 31.03637,
+          "longitude": 31.38069
+        },
+        {
+          "name": {
+            "en": "Al Manzalah",
+            "ar": "المنزلة"
+          },
+          "latitude": 31.15823,
+          "longitude": 31.936
+        },
+        {
+          "name": {
+            "en": "Al Maţarīyah",
+            "ar": "المطرية"
+          },
+          "latitude": 31.18287,
+          "longitude": 32.03108
+        },
+        {
+          "name": {
+            "en": "Bilqās",
+            "ar": "بلقاس"
+          },
+          "latitude": 31.21452,
+          "longitude": 31.35798
+        },
+        {
+          "name": {
+            "en": "Dikirnis",
+            "ar": "دكرنس"
+          },
+          "latitude": 31.08898,
+          "longitude": 31.59478
+        },
+        {
+          "name": {
+            "en": "Minyat an Naşr",
+            "ar": "منية النصر"
+          },
+          "latitude": 31.12624,
+          "longitude": 31.64313
+        },
+        {
+          "name": {
+            "en": "Shirbīn",
+            "ar": "شربين"
+          },
+          "latitude": 31.19688,
+          "longitude": 31.5243
+        },
+        {
+          "name": {
+            "en": "Ţalkhā",
+            "ar": "طلخا"
+          },
+          "latitude": 31.0539,
+          "longitude": 31.37787
+        }
+      ]
+    },
+    {
+      "code": "EG-DT",
+      "name": {
+        "en": "Damietta"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Az Zarqā",
+            "ar": "الزرقا"
+          },
+          "latitude": 31.20864,
+          "longitude": 31.63528
+        },
+        {
+          "name": {
+            "en": "Damietta",
+            "ar": "دمياط"
+          },
+          "latitude": 31.41648,
+          "longitude": 31.81332
+        },
+        {
+          "name": {
+            "en": "Fāraskūr",
+            "ar": "فارسكور"
+          },
+          "latitude": 31.32977,
+          "longitude": 31.71507
+        }
+      ]
+    },
+    {
+      "code": "EG-FYM",
+      "name": {
+        "en": "Faiyum"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Al Fayyūm",
+            "ar": "الفيوم"
+          },
+          "latitude": 29.30995,
+          "longitude": 30.8418
+        },
+        {
+          "name": {
+            "en": "Al Wāsiţah"
+          },
+          "latitude": 29.33778,
+          "longitude": 31.20556
+        },
+        {
+          "name": {
+            "en": "Ibshawāy",
+            "ar": "إبشواي"
+          },
+          "latitude": 29.35896,
+          "longitude": 30.68061
+        },
+        {
+          "name": {
+            "en": "Iţsā"
+          },
+          "latitude": 29.2376,
+          "longitude": 30.78944
+        },
+        {
+          "name": {
+            "en": "Ţāmiyah"
+          },
+          "latitude": 29.47639,
+          "longitude": 30.96119
+        }
+      ]
+    },
+    {
+      "code": "EG-GH",
+      "name": {
+        "en": "Gharbia"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Al Maḩallah al Kubrá",
+            "ar": "المحلة الكبرى"
+          },
+          "latitude": 30.97063,
+          "longitude": 31.1669
+        },
+        {
+          "name": {
+            "en": "Basyūn"
+          },
+          "latitude": 30.93976,
+          "longitude": 30.81338
+        },
+        {
+          "name": {
+            "en": "Kafr az Zayyāt",
+            "ar": "كفر الزيات"
+          },
+          "latitude": 30.8248,
+          "longitude": 30.81805
+        },
+        {
+          "name": {
+            "en": "Quţūr",
+            "ar": "قطور"
+          },
+          "latitude": 30.97225,
+          "longitude": 30.95614
+        },
+        {
+          "name": {
+            "en": "Samannūd",
+            "ar": "سمنود"
+          },
+          "latitude": 30.9616,
+          "longitude": 31.24069
+        },
+        {
+          "name": {
+            "en": "Tanda",
+            "ar": "طنطا"
+          },
+          "latitude": 30.78847,
+          "longitude": 31.00192
+        },
+        {
+          "name": {
+            "en": "Zefta",
+            "ar": "زفتى"
+          },
+          "latitude": 30.7142,
+          "longitude": 31.24425
+        }
+      ]
+    },
+    {
+      "code": "EG-GZ",
+      "name": {
+        "en": "Giza"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Al ‘Ayyāţ"
+          },
+          "latitude": 29.61972,
+          "longitude": 31.2575
+        },
+        {
+          "name": {
+            "en": "Al Bawīţī",
+            "ar": "الباويطى"
+          },
+          "latitude": 28.34919,
+          "longitude": 28.86591
+        },
+        {
+          "name": {
+            "en": "Al Ḩawāmidīyah"
+          },
+          "latitude": 29.9,
+          "longitude": 31.25
+        },
+        {
+          "name": {
+            "en": "Aş Şaff",
+            "ar": "الصف"
+          },
+          "latitude": 29.56472,
+          "longitude": 31.28111
+        },
+        {
+          "name": {
+            "en": "Awsīm",
+            "ar": "أوسيم"
+          },
+          "latitude": 30.12303,
+          "longitude": 31.13571
+        },
+        {
+          "name": {
+            "en": "Giza",
+            "ar": "الجيزة"
+          },
+          "latitude": 30.00808,
+          "longitude": 31.21093
+        },
+        {
+          "name": {
+            "en": "Madīnat Sittah Uktūbar"
+          },
+          "latitude": 29.81667,
+          "longitude": 31.05
+        }
+      ]
+    },
+    {
+      "code": "EG-IS",
+      "name": {
+        "en": "Ismailia"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ismailia",
+            "ar": "مدينة الإسماعيلية"
+          },
+          "latitude": 30.60427,
+          "longitude": 32.27225
+        }
+      ]
+    },
+    {
+      "code": "EG-KFS",
+      "name": {
+        "en": "Kafr El-Sheikh"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Al Ḩāmūl",
+            "ar": "الحامول"
+          },
+          "latitude": 31.31146,
+          "longitude": 31.14766
+        },
+        {
+          "name": {
+            "en": "Disūq",
+            "ar": "دسوق"
+          },
+          "latitude": 31.13259,
+          "longitude": 30.64784
+        },
+        {
+          "name": {
+            "en": "Fuwwah",
+            "ar": "فوة"
+          },
+          "latitude": 31.20365,
+          "longitude": 30.54908
+        },
+        {
+          "name": {
+            "en": "Kafr ash Shaykh",
+            "ar": "كفر الشيخ"
+          },
+          "latitude": 31.11174,
+          "longitude": 30.93991
+        },
+        {
+          "name": {
+            "en": "Markaz Disūq"
+          },
+          "latitude": 31.1459,
+          "longitude": 30.71609
+        },
+        {
+          "name": {
+            "en": "Munshāt ‘Alī Āghā"
+          },
+          "latitude": 31.15791,
+          "longitude": 30.70177
+        },
+        {
+          "name": {
+            "en": "Sīdī Sālim",
+            "ar": "سيدي سالم"
+          },
+          "latitude": 31.27133,
+          "longitude": 30.78617
+        }
+      ]
+    },
+    {
+      "code": "EG-LX",
+      "name": {
+        "en": "Luxor"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Luxor",
+            "ar": "الأقصر"
+          },
+          "latitude": 25.69893,
+          "longitude": 32.6421
+        },
+        {
+          "name": {
+            "en": "Markaz al Uqşur"
+          },
+          "latitude": 25.62986,
+          "longitude": 32.59017
+        }
+      ]
+    },
+    {
+      "code": "EG-MT",
+      "name": {
+        "en": "Matrouh"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Al ‘Alamayn"
+          },
+          "latitude": 30.83007,
+          "longitude": 28.95502
+        },
+        {
+          "name": {
+            "en": "Mersa Matruh",
+            "ar": "مرسى مطروح"
+          },
+          "latitude": 31.3529,
+          "longitude": 27.23725
+        },
+        {
+          "name": {
+            "en": "Siwa Oasis",
+            "ar": "واحة سيوة"
+          },
+          "latitude": 29.2032,
+          "longitude": 25.51965
+        }
+      ]
+    },
+    {
+      "code": "EG-MN",
+      "name": {
+        "en": "Minya"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Abū Qurqāş",
+            "ar": "أبو قرقاص"
+          },
+          "latitude": 27.9312,
+          "longitude": 30.83841
+        },
+        {
+          "name": {
+            "en": "Al Minyā"
+          },
+          "latitude": 28.10988,
+          "longitude": 30.7503
+        },
+        {
+          "name": {
+            "en": "Banī Mazār"
+          },
+          "latitude": 28.5036,
+          "longitude": 30.8004
+        },
+        {
+          "name": {
+            "en": "Dayr Mawās",
+            "ar": "دير مواس"
+          },
+          "latitude": 27.64176,
+          "longitude": 30.84662
+        },
+        {
+          "name": {
+            "en": "Mallawī",
+            "ar": "ملوي"
+          },
+          "latitude": 27.7314,
+          "longitude": 30.84165
+        },
+        {
+          "name": {
+            "en": "Maţāy",
+            "ar": "مطاي"
+          },
+          "latitude": 28.41899,
+          "longitude": 30.77924
+        },
+        {
+          "name": {
+            "en": "Samālūţ",
+            "ar": "سمالوط"
+          },
+          "latitude": 28.31214,
+          "longitude": 30.71007
+        }
+      ]
+    },
+    {
+      "code": "EG-MNF",
+      "name": {
+        "en": "Monufia"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Al Bājūr",
+            "ar": "الباجور"
+          },
+          "latitude": 30.43046,
+          "longitude": 31.03679
+        },
+        {
+          "name": {
+            "en": "Ash Shuhadā’",
+            "ar": "الشهداء"
+          },
+          "latitude": 30.59683,
+          "longitude": 30.89931
+        },
+        {
+          "name": {
+            "en": "Ashmūn",
+            "ar": "أشمون"
+          },
+          "latitude": 30.29735,
+          "longitude": 30.97641
+        },
+        {
+          "name": {
+            "en": "Munūf",
+            "ar": "منوف"
+          },
+          "latitude": 30.46597,
+          "longitude": 30.93199
+        },
+        {
+          "name": {
+            "en": "Quwaysinā",
+            "ar": "قويسنا"
+          },
+          "latitude": 30.56482,
+          "longitude": 31.15777
+        },
+        {
+          "name": {
+            "en": "Shibīn al Kawm",
+            "ar": "شبين الكوم"
+          },
+          "latitude": 30.55258,
+          "longitude": 31.00904
+        },
+        {
+          "name": {
+            "en": "Talā",
+            "ar": "تلا"
+          },
+          "latitude": 30.6798,
+          "longitude": 30.94364
+        }
+      ]
+    },
+    {
+      "code": "EG-WAD",
+      "name": {
+        "en": "New Valley"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Al Khārijah",
+            "ar": "الخارجة"
+          },
+          "latitude": 25.45141,
+          "longitude": 30.54635
+        },
+        {
+          "name": {
+            "en": "Qaşr al Farāfirah"
+          },
+          "latitude": 27.0568,
+          "longitude": 27.96979
+        }
+      ]
+    },
+    {
+      "code": "EG-SIN",
+      "name": {
+        "en": "North Sinai"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Arish",
+            "ar": "العريش"
+          },
+          "latitude": 31.13159,
+          "longitude": 33.79844
+        }
+      ]
+    },
+    {
+      "code": "EG-PTS",
+      "name": {
+        "en": "Port Said"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Port Said"
+          },
+          "latitude": 31.25654,
+          "longitude": 32.28411
+        }
+      ]
+    },
+    {
+      "code": "EG-KB",
+      "name": {
+        "en": "Qalyubia"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Al Khānkah"
+          },
+          "latitude": 30.21035,
+          "longitude": 31.36812
+        },
+        {
+          "name": {
+            "en": "Al Qanāţir al Khayrīyah",
+            "ar": "القناطر الخيرية"
+          },
+          "latitude": 30.19327,
+          "longitude": 31.13703
+        },
+        {
+          "name": {
+            "en": "Banhā",
+            "ar": "بنها"
+          },
+          "latitude": 30.45977,
+          "longitude": 31.1842
+        },
+        {
+          "name": {
+            "en": "Qalyūb",
+            "ar": "قليوب"
+          },
+          "latitude": 30.17922,
+          "longitude": 31.2056
+        },
+        {
+          "name": {
+            "en": "Shibīn al Qanāṭir",
+            "ar": "شبين القناطر"
+          },
+          "latitude": 30.31269,
+          "longitude": 31.32018
+        },
+        {
+          "name": {
+            "en": "Toukh",
+            "ar": "Ţūkh"
+          },
+          "latitude": 30.35487,
+          "longitude": 31.20105
+        }
+      ]
+    },
+    {
+      "code": "EG-KN",
+      "name": {
+        "en": "Qena"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Dishnā"
+          },
+          "latitude": 26.12467,
+          "longitude": 32.47598
+        },
+        {
+          "name": {
+            "en": "Farshūţ"
+          },
+          "latitude": 26.05494,
+          "longitude": 32.16329
+        },
+        {
+          "name": {
+            "en": "Isnā",
+            "ar": "إسنا"
+          },
+          "latitude": 25.29336,
+          "longitude": 32.55402
+        },
+        {
+          "name": {
+            "en": "Kousa"
+          },
+          "latitude": 25.91407,
+          "longitude": 32.76362
+        },
+        {
+          "name": {
+            "en": "Naja' Ḥammādī",
+            "ar": "نجع حمادى"
+          },
+          "latitude": 26.04949,
+          "longitude": 32.24142
+        },
+        {
+          "name": {
+            "en": "Qinā",
+            "ar": "قنا"
+          },
+          "latitude": 26.16418,
+          "longitude": 32.72671
+        }
+      ]
+    },
+    {
+      "code": "EG-BA",
+      "name": {
+        "en": "Red Sea"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Al Quşayr"
+          },
+          "latitude": 26.10426,
+          "longitude": 34.27793
+        },
+        {
+          "name": {
+            "en": "El Gouna"
+          },
+          "latitude": 27.39417,
+          "longitude": 33.67825
+        },
+        {
+          "name": {
+            "en": "Hurghada",
+            "ar": "الغردقة"
+          },
+          "latitude": 27.25738,
+          "longitude": 33.81291
+        },
+        {
+          "name": {
+            "en": "Makadi Bay"
+          },
+          "latitude": 26.99123,
+          "longitude": 33.89952
+        },
+        {
+          "name": {
+            "en": "Marsa Alam"
+          },
+          "latitude": 25.06305,
+          "longitude": 34.89005
+        },
+        {
+          "name": {
+            "en": "Ras Gharib"
+          },
+          "latitude": 28.35831,
+          "longitude": 33.07829
+        },
+        {
+          "name": {
+            "en": "Safaga",
+            "ar": "سفاجا"
+          },
+          "latitude": 26.74906,
+          "longitude": 33.93891
+        }
+      ]
+    },
+    {
+      "code": "EG-SHR",
+      "name": {
+        "en": "Sharqia"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "10th of Ramadan"
+          },
+          "latitude": 30.2993939,
+          "longitude": 31.6141789
+        },
+        {
+          "name": {
+            "en": "Al Qurein"
+          },
+          "latitude": 26.2930066,
+          "longitude": 31.8495035
+        },
+        {
+          "name": {
+            "en": "Awlad Saqr"
+          },
+          "latitude": 30.9309623,
+          "longitude": 31.6913238
+        },
+        {
+          "name": {
+            "en": "Bilbeis"
+          },
+          "latitude": 30.4167692,
+          "longitude": 31.5543048
+        },
+        {
+          "name": {
+            "en": "Diyarb Negm"
+          },
+          "latitude": 30.7480082,
+          "longitude": 31.3889308
+        },
+        {
+          "name": {
+            "en": "El Husseiniya"
+          },
+          "latitude": 31.1393396,
+          "longitude": 32.1494967
+        },
+        {
+          "name": {
+            "en": "Faqous"
+          },
+          "latitude": 30.7229174,
+          "longitude": 31.7613658
+        },
+        {
+          "name": {
+            "en": "Hihya"
+          },
+          "latitude": 30.6551621,
+          "longitude": 31.5067157
+        },
+        {
+          "name": {
+            "en": "Kafr Saqr"
+          },
+          "latitude": 30.7795514,
+          "longitude": 31.6177412
+        },
+        {
+          "name": {
+            "en": "Markaz Abū Ḩammād"
+          },
+          "latitude": 30.5360443,
+          "longitude": 31.6597023
+        },
+        {
+          "name": {
+            "en": "Mashtoul El Souk"
+          },
+          "latitude": 30.3557011,
+          "longitude": 31.3627853
+        },
+        {
+          "name": {
+            "en": "Minya El Qamh"
+          },
+          "latitude": 30.5003745,
+          "longitude": 31.2376685
+        },
+        {
+          "name": {
+            "en": "New Salhia"
+          },
+          "latitude": 30.6286879,
+          "longitude": 31.9209906
+        },
+        {
+          "name": {
+            "en": "Zagazig"
+          },
+          "latitude": 30.5845623,
+          "longitude": 31.3474779
+        }
+      ]
+    },
+    {
+      "code": "EG-SHG",
+      "name": {
+        "en": "Sohag"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Akhmīm",
+            "ar": "أخميم"
+          },
+          "latitude": 26.56217,
+          "longitude": 31.74503
+        },
+        {
+          "name": {
+            "en": "Al Balyanā",
+            "ar": "البلينا"
+          },
+          "latitude": 26.23568,
+          "longitude": 32.00347
+        },
+        {
+          "name": {
+            "en": "Al Manshāh",
+            "ar": "المنشاة"
+          },
+          "latitude": 26.47686,
+          "longitude": 31.8035
+        },
+        {
+          "name": {
+            "en": "Jirjā",
+            "ar": "جرجا"
+          },
+          "latitude": 26.33826,
+          "longitude": 31.89161
+        },
+        {
+          "name": {
+            "en": "Juhaynah",
+            "ar": "جهينة"
+          },
+          "latitude": 26.67319,
+          "longitude": 31.4976
+        },
+        {
+          "name": {
+            "en": "Markaz Jirjā"
+          },
+          "latitude": 26.30683,
+          "longitude": 31.84574
+        },
+        {
+          "name": {
+            "en": "Markaz Sūhāj"
+          },
+          "latitude": 26.53948,
+          "longitude": 31.67524
+        },
+        {
+          "name": {
+            "en": "Sohag",
+            "ar": "سوهاج"
+          },
+          "latitude": 26.55695,
+          "longitude": 31.69478
+        },
+        {
+          "name": {
+            "en": "Ţahţā",
+            "ar": "طهطا"
+          },
+          "latitude": 26.7693,
+          "longitude": 31.50214
+        }
+      ]
+    },
+    {
+      "code": "EG-JS",
+      "name": {
+        "en": "South Sinai"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Dahab"
+          },
+          "latitude": 28.48208,
+          "longitude": 34.49505
+        },
+        {
+          "name": {
+            "en": "El-Tor",
+            "ar": "Aţ Ţūr"
+          },
+          "latitude": 28.24168,
+          "longitude": 33.6222
+        },
+        {
+          "name": {
+            "en": "Nuwaybi‘a"
+          },
+          "latitude": 29.04681,
+          "longitude": 34.6634
+        },
+        {
+          "name": {
+            "en": "Saint Catherine"
+          },
+          "latitude": 28.56191,
+          "longitude": 33.94934
+        },
+        {
+          "name": {
+            "en": "Sharm el-Sheikh",
+            "ar": "شرم الشيخ"
+          },
+          "latitude": 27.91582,
+          "longitude": 34.32995
+        }
+      ]
+    },
+    {
+      "code": "EG-SUZ",
+      "name": {
+        "en": "Suez"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ain Sukhna",
+            "ar": "العين السخنة"
+          },
+          "latitude": 29.60018,
+          "longitude": 32.31671
+        },
+        {
+          "name": {
+            "en": "Suez",
+            "ar": "سويس"
+          },
+          "latitude": 29.97371,
+          "longitude": 32.52627
+        }
+      ]
+    }
+  ]
+}

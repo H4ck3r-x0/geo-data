@@ -1,0 +1,405 @@
+{
+  "code": "PF",
+  "iso3": "PYF",
+  "name": {
+    "en": "French Polynesia",
+    "ar": "بولينيزيا الفرنسية",
+    "de": "Französisch-Polynesien",
+    "es": "Polinesia Francesa",
+    "fr": "Polynésie française",
+    "hi": "फ़्रेंच पोलिनेशिया",
+    "it": "Polinesia Francese",
+    "ja": "フランス領ポリネシア",
+    "ko": "프랑스령 폴리네시아",
+    "nl": "Frans-Polynesië",
+    "pl": "Polinezja Francuska",
+    "pt": "Polinésia Francesa",
+    "pt-BR": "Polinésia Francesa",
+    "ru": "Французская Полинезия",
+    "tr": "Fransiz Polinezyasi",
+    "uk": "Французька Полінезія",
+    "zh": "法属波利尼西亚"
+  },
+  "phone": "+689",
+  "currency": "XPF",
+  "timezone": "Pacific/Gambier",
+  "flag": "🇵🇫",
+  "regions": [
+    {
+      "code": "PF-01",
+      "name": {
+        "en": "Austral Islands"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Raivavae"
+          },
+          "latitude": -23.8694633,
+          "longitude": -147.7324472
+        },
+        {
+          "name": {
+            "en": "Rapa"
+          },
+          "latitude": -27.6082239,
+          "longitude": -144.3842777
+        },
+        {
+          "name": {
+            "en": "Rimatara"
+          },
+          "latitude": -22.6438254,
+          "longitude": -152.8312052
+        },
+        {
+          "name": {
+            "en": "Rurutu"
+          },
+          "latitude": -22.4695869,
+          "longitude": -151.3911371
+        },
+        {
+          "name": {
+            "en": "Tubuai"
+          },
+          "latitude": -23.3685043,
+          "longitude": -149.5449648
+        }
+      ]
+    },
+    {
+      "code": "PF-02",
+      "name": {
+        "en": "Leeward Islands"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bora-Bora"
+          },
+          "latitude": -16.3916925,
+          "longitude": -151.9300335
+        },
+        {
+          "name": {
+            "en": "Huahine"
+          },
+          "latitude": -16.7521233,
+          "longitude": -151.078895
+        },
+        {
+          "name": {
+            "en": "Maupiti"
+          },
+          "latitude": -16.3143849,
+          "longitude": -154.7990863
+        },
+        {
+          "name": {
+            "en": "Tahaa"
+          },
+          "latitude": -16.6195712,
+          "longitude": -151.5721539
+        },
+        {
+          "name": {
+            "en": "Taputapuatea"
+          },
+          "latitude": -16.8206247,
+          "longitude": -151.4774133
+        },
+        {
+          "name": {
+            "en": "Tumaraa"
+          },
+          "latitude": -16.8298533,
+          "longitude": -151.5338184
+        },
+        {
+          "name": {
+            "en": "Uturoa"
+          },
+          "latitude": -16.7385829,
+          "longitude": -151.4954902
+        }
+      ]
+    },
+    {
+      "code": "PF-03",
+      "name": {
+        "en": "Marquesas Islands"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Fatu-Hiva"
+          },
+          "latitude": -10.4860474,
+          "longitude": -138.6918886
+        },
+        {
+          "name": {
+            "en": "Hiva-Oa"
+          },
+          "latitude": -9.7263169,
+          "longitude": -139.3099888
+        },
+        {
+          "name": {
+            "en": "Nuku-Hiva"
+          },
+          "latitude": -8.4103001,
+          "longitude": -141.0232711
+        },
+        {
+          "name": {
+            "en": "Tahuata"
+          },
+          "latitude": -9.9573241,
+          "longitude": -139.1656347
+        },
+        {
+          "name": {
+            "en": "Ua-Huka"
+          },
+          "latitude": -8.9096799,
+          "longitude": -139.6317197
+        },
+        {
+          "name": {
+            "en": "Ua-Pou"
+          },
+          "latitude": -9.4089244,
+          "longitude": -140.1555377
+        }
+      ]
+    },
+    {
+      "code": "PF-04",
+      "name": {
+        "en": "Tuamotu-Gambier"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Anaa"
+          },
+          "latitude": -17.4119439,
+          "longitude": -145.6628499
+        },
+        {
+          "name": {
+            "en": "Arutua"
+          },
+          "latitude": -15.3120334,
+          "longitude": -146.9126285
+        },
+        {
+          "name": {
+            "en": "Fakarava"
+          },
+          "latitude": -16.2984516,
+          "longitude": -145.9221889
+        },
+        {
+          "name": {
+            "en": "Fangatau"
+          },
+          "latitude": -15.8209788,
+          "longitude": -140.908106
+        },
+        {
+          "name": {
+            "en": "Gambier"
+          },
+          "latitude": -23.1008844,
+          "longitude": -135.0792255
+        },
+        {
+          "name": {
+            "en": "Hao"
+          },
+          "latitude": -18.7453293,
+          "longitude": -145.3338385
+        },
+        {
+          "name": {
+            "en": "Hikueru"
+          },
+          "latitude": -17.5876748,
+          "longitude": -142.6912059
+        },
+        {
+          "name": {
+            "en": "Makemo"
+          },
+          "latitude": -16.5933442,
+          "longitude": -144.0175628
+        },
+        {
+          "name": {
+            "en": "Manihi"
+          },
+          "latitude": -14.3975781,
+          "longitude": -146.1221707
+        },
+        {
+          "name": {
+            "en": "Napuka"
+          },
+          "latitude": -14.1734231,
+          "longitude": -141.3067669
+        },
+        {
+          "name": {
+            "en": "Nukutavake"
+          },
+          "latitude": -18.9780866,
+          "longitude": -139.2928452
+        },
+        {
+          "name": {
+            "en": "Puka-Puka"
+          },
+          "latitude": -14.8190251,
+          "longitude": -138.8610087
+        },
+        {
+          "name": {
+            "en": "Rangiroa"
+          },
+          "latitude": -15.1228292,
+          "longitude": -147.9114015
+        },
+        {
+          "name": {
+            "en": "Reao"
+          },
+          "latitude": -18.519465,
+          "longitude": -136.460885
+        },
+        {
+          "name": {
+            "en": "Takaroa"
+          },
+          "latitude": -14.6726394,
+          "longitude": -145.2268041
+        },
+        {
+          "name": {
+            "en": "Tatakoto"
+          },
+          "latitude": -17.3417316,
+          "longitude": -138.4758463
+        },
+        {
+          "name": {
+            "en": "Tureia"
+          },
+          "latitude": -20.8280318,
+          "longitude": -138.581639
+        }
+      ]
+    },
+    {
+      "code": "PF-05",
+      "name": {
+        "en": "Windward Islands"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Arue"
+          },
+          "latitude": -17.2773894,
+          "longitude": -149.8719943
+        },
+        {
+          "name": {
+            "en": "Faaa"
+          },
+          "latitude": -17.5839194,
+          "longitude": -149.6460926
+        },
+        {
+          "name": {
+            "en": "Hitiaa O Te Ra"
+          },
+          "latitude": -17.5914258,
+          "longitude": -149.4732481
+        },
+        {
+          "name": {
+            "en": "Mahina"
+          },
+          "latitude": -17.5574742,
+          "longitude": -149.5164782
+        },
+        {
+          "name": {
+            "en": "Moorea-Maiao"
+          },
+          "latitude": -17.5756653,
+          "longitude": -150.8618877
+        },
+        {
+          "name": {
+            "en": "Paea"
+          },
+          "latitude": -17.6961698,
+          "longitude": -149.5896966
+        },
+        {
+          "name": {
+            "en": "Papara"
+          },
+          "latitude": -17.7118763,
+          "longitude": -149.5904295
+        },
+        {
+          "name": {
+            "en": "Papeete"
+          },
+          "latitude": -17.5571387,
+          "longitude": -149.5966009
+        },
+        {
+          "name": {
+            "en": "Pirae"
+          },
+          "latitude": -17.5698638,
+          "longitude": -149.563528
+        },
+        {
+          "name": {
+            "en": "Punaauia"
+          },
+          "latitude": -17.6179696,
+          "longitude": -149.6310224
+        },
+        {
+          "name": {
+            "en": "Taiarapu-Est"
+          },
+          "latitude": -17.7555128,
+          "longitude": -149.3953396
+        },
+        {
+          "name": {
+            "en": "Taiarapu-Ouest"
+          },
+          "latitude": -17.8100452,
+          "longitude": -149.3270052
+        },
+        {
+          "name": {
+            "en": "Teva I Uta"
+          },
+          "latitude": -17.7225008,
+          "longitude": -149.4819615
+        }
+      ]
+    }
+  ]
+}

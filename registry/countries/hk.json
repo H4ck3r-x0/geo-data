@@ -1,0 +1,340 @@
+{
+  "code": "HK",
+  "iso3": "HKG",
+  "name": {
+    "en": "Hong Kong S.A.R.",
+    "ar": "هونغ كونغ س.",
+    "de": "Hong Kong",
+    "es": "Hong Kong",
+    "fr": "Hong Kong",
+    "hi": "हांगकांग एस.ए.आर.",
+    "it": "Hong Kong",
+    "ja": "香港",
+    "ko": "홍콩",
+    "nl": "Hongkong",
+    "pl": "Hongkong S.A.R.",
+    "pt": "Hong Kong",
+    "pt-BR": "Hong Kong",
+    "ru": "Гонконг С.А.Р.",
+    "tr": "Hong Kong",
+    "uk": "Гонконг САР.",
+    "zh": "中国香港"
+  },
+  "phone": "+852",
+  "currency": "HKD",
+  "timezone": "Asia/Hong_Kong",
+  "flag": "🇭🇰",
+  "regions": [
+    {
+      "code": "HK-HCW",
+      "name": {
+        "en": "Central and Western"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Admiralty"
+          },
+          "latitude": 22.278,
+          "longitude": 114.164
+        },
+        {
+          "name": {
+            "en": "Central"
+          },
+          "latitude": 22.281,
+          "longitude": 114.159
+        }
+      ]
+    },
+    {
+      "code": "HK-NIS",
+      "name": {
+        "en": "Islands"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Tai O"
+          },
+          "latitude": 22.247,
+          "longitude": 113.869
+        }
+      ]
+    },
+    {
+      "code": "HK-KKC",
+      "name": {
+        "en": "Kowloon City"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Kowloon Tong"
+          },
+          "latitude": 22.337,
+          "longitude": 114.179
+        }
+      ]
+    },
+    {
+      "code": "HK-KKT",
+      "name": {
+        "en": "Kwun Tong"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Kwun Tong"
+          },
+          "latitude": 22.31,
+          "longitude": 114.225
+        },
+        {
+          "name": {
+            "en": "Lam Tin"
+          },
+          "latitude": 22.307,
+          "longitude": 114.235
+        }
+      ]
+    },
+    {
+      "code": "HK-NNO",
+      "name": {
+        "en": "North"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Sheung Shui"
+          },
+          "latitude": 22.501,
+          "longitude": 114.123
+        }
+      ]
+    },
+    {
+      "code": "HK-NSK",
+      "name": {
+        "en": "Sai Kung"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Sai Kung"
+          },
+          "latitude": 22.384,
+          "longitude": 114.273
+        },
+        {
+          "name": {
+            "en": "Tseung Kwan O"
+          },
+          "latitude": 22.319,
+          "longitude": 114.263
+        }
+      ]
+    },
+    {
+      "code": "HK-NST",
+      "name": {
+        "en": "Sha Tin"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ma On Shan"
+          },
+          "latitude": 22.422,
+          "longitude": 114.23
+        },
+        {
+          "name": {
+            "en": "Sha Tin"
+          },
+          "latitude": 22.383,
+          "longitude": 114.188
+        },
+        {
+          "name": {
+            "en": "Sha Tin Wai"
+          },
+          "latitude": 22.38,
+          "longitude": 114.191
+        }
+      ]
+    },
+    {
+      "code": "HK-KSS",
+      "name": {
+        "en": "Sham Shui Po"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Cheung Sha Wan"
+          },
+          "latitude": 22.336,
+          "longitude": 114.151
+        },
+        {
+          "name": {
+            "en": "Lai Chi Kok"
+          },
+          "latitude": 22.337,
+          "longitude": 114.146
+        }
+      ]
+    },
+    {
+      "code": "HK-HSO",
+      "name": {
+        "en": "Southern"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Aberdeen",
+            "ar": "أبردين"
+          },
+          "latitude": 22.247,
+          "longitude": 114.152
+        },
+        {
+          "name": {
+            "en": "Stanley"
+          },
+          "latitude": 22.22,
+          "longitude": 114.214
+        },
+        {
+          "name": {
+            "en": "Stanley Peninsula"
+          },
+          "latitude": 22.21,
+          "longitude": 114.217
+        }
+      ]
+    },
+    {
+      "code": "HK-NTP",
+      "name": {
+        "en": "Tai Po"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Tai Mei Tuk"
+          },
+          "latitude": 22.457,
+          "longitude": 114.184
+        },
+        {
+          "name": {
+            "en": "Tai Po"
+          },
+          "latitude": 22.449,
+          "longitude": 114.16
+        }
+      ]
+    },
+    {
+      "code": "HK-NTW",
+      "name": {
+        "en": "Tsuen Wan"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Tsuen Wan"
+          },
+          "latitude": 22.371,
+          "longitude": 114.114
+        },
+        {
+          "name": {
+            "en": "Tuen Mun"
+          },
+          "latitude": 22.395,
+          "longitude": 113.973
+        }
+      ]
+    },
+    {
+      "code": "HK-HWC",
+      "name": {
+        "en": "Wan Chai"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Causeway Bay"
+          },
+          "latitude": 22.28,
+          "longitude": 114.185
+        },
+        {
+          "name": {
+            "en": "Wan Chai"
+          },
+          "latitude": 22.278,
+          "longitude": 114.182
+        }
+      ]
+    },
+    {
+      "code": "HK-KWT",
+      "name": {
+        "en": "Wong Tai Sin"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Wong Tai Sin"
+          },
+          "latitude": 22.341,
+          "longitude": 114.193
+        }
+      ]
+    },
+    {
+      "code": "HK-KYT",
+      "name": {
+        "en": "Yau Tsim Mong"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Mong Kok"
+          },
+          "latitude": 22.319,
+          "longitude": 114.169
+        },
+        {
+          "name": {
+            "en": "Tsim Sha Tsui",
+            "ar": "تسيم شا تسوي"
+          },
+          "latitude": 22.298,
+          "longitude": 114.172
+        }
+      ]
+    },
+    {
+      "code": "HK-NYL",
+      "name": {
+        "en": "Yuen Long"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Yuen Long"
+          },
+          "latitude": 22.444,
+          "longitude": 114.027
+        }
+      ]
+    }
+  ]
+}

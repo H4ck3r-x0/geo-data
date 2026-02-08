@@ -1,0 +1,1027 @@
+{
+  "code": "EC",
+  "iso3": "ECU",
+  "name": {
+    "en": "Ecuador",
+    "ar": "الاكوادور",
+    "de": "Ecuador",
+    "es": "Ecuador",
+    "fr": "Équateur",
+    "hi": "इक्वेडोर",
+    "it": "Ecuador",
+    "ja": "エクアドル",
+    "ko": "에콰도르",
+    "nl": "Ecuador",
+    "pl": "Ekwador",
+    "pt": "Equador",
+    "pt-BR": "Equador",
+    "ru": "Эквадор",
+    "tr": "Ekvator",
+    "uk": "Еквадор",
+    "zh": "厄瓜多尔"
+  },
+  "phone": "+593",
+  "currency": "USD",
+  "timezone": "America/Guayaquil",
+  "flag": "🇪🇨",
+  "regions": [
+    {
+      "code": "EC-A",
+      "name": {
+        "en": "Azuay"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Cantón San Fernando"
+          },
+          "latitude": -3.13349,
+          "longitude": -79.26893
+        },
+        {
+          "name": {
+            "en": "Cuenca"
+          },
+          "latitude": -2.90055,
+          "longitude": -79.00453
+        },
+        {
+          "name": {
+            "en": "Gualaceo"
+          },
+          "latitude": -2.89264,
+          "longitude": -78.77814
+        },
+        {
+          "name": {
+            "en": "La Unión"
+          },
+          "latitude": -2.85,
+          "longitude": -78.78333
+        },
+        {
+          "name": {
+            "en": "Llacao"
+          },
+          "latitude": -2.86667,
+          "longitude": -78.88333
+        },
+        {
+          "name": {
+            "en": "Nulti"
+          },
+          "latitude": -2.91667,
+          "longitude": -78.85
+        }
+      ]
+    },
+    {
+      "code": "EC-B",
+      "name": {
+        "en": "Bolívar"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Guaranda"
+          },
+          "latitude": -1.59263,
+          "longitude": -79.00098
+        },
+        {
+          "name": {
+            "en": "San Miguel"
+          },
+          "latitude": -1.70884,
+          "longitude": -79.04311
+        }
+      ]
+    },
+    {
+      "code": "EC-F",
+      "name": {
+        "en": "Cañar"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Azogues"
+          },
+          "latitude": -2.73969,
+          "longitude": -78.8486
+        },
+        {
+          "name": {
+            "en": "Cañar"
+          },
+          "latitude": -2.56062,
+          "longitude": -78.9394
+        },
+        {
+          "name": {
+            "en": "La Troncal"
+          },
+          "latitude": -2.42355,
+          "longitude": -79.33977
+        }
+      ]
+    },
+    {
+      "code": "EC-C",
+      "name": {
+        "en": "Carchi"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "El Ángel"
+          },
+          "latitude": 0.62279,
+          "longitude": -77.94003
+        },
+        {
+          "name": {
+            "en": "San Gabriel"
+          },
+          "latitude": 0.59318,
+          "longitude": -77.83078
+        },
+        {
+          "name": {
+            "en": "Tulcán"
+          },
+          "latitude": 0.81187,
+          "longitude": -77.71727
+        }
+      ]
+    },
+    {
+      "code": "EC-H",
+      "name": {
+        "en": "Chimborazo"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Alausí"
+          },
+          "latitude": -2.20329,
+          "longitude": -78.84714
+        },
+        {
+          "name": {
+            "en": "Guano"
+          },
+          "latitude": -1.60789,
+          "longitude": -78.63105
+        },
+        {
+          "name": {
+            "en": "Riobamba"
+          },
+          "latitude": -1.67098,
+          "longitude": -78.64712
+        }
+      ]
+    },
+    {
+      "code": "EC-X",
+      "name": {
+        "en": "Cotopaxi"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "La Maná"
+          },
+          "latitude": -0.94094,
+          "longitude": -79.22506
+        },
+        {
+          "name": {
+            "en": "Latacunga"
+          },
+          "latitude": -0.93521,
+          "longitude": -78.61554
+        },
+        {
+          "name": {
+            "en": "Pujilí"
+          },
+          "latitude": -0.95759,
+          "longitude": -78.69636
+        },
+        {
+          "name": {
+            "en": "San Miguel de Salcedo"
+          },
+          "latitude": -1.04547,
+          "longitude": -78.59063
+        },
+        {
+          "name": {
+            "en": "Saquisilí"
+          },
+          "latitude": -0.8399,
+          "longitude": -78.667
+        }
+      ]
+    },
+    {
+      "code": "EC-O",
+      "name": {
+        "en": "El Oro"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Huaquillas"
+          },
+          "latitude": -3.47523,
+          "longitude": -80.23084
+        },
+        {
+          "name": {
+            "en": "Machala",
+            "ar": "ماتشالا"
+          },
+          "latitude": -3.25861,
+          "longitude": -79.96053
+        },
+        {
+          "name": {
+            "en": "Pasaje"
+          },
+          "latitude": -3.32561,
+          "longitude": -79.80697
+        },
+        {
+          "name": {
+            "en": "Piñas"
+          },
+          "latitude": -3.68107,
+          "longitude": -79.68083
+        },
+        {
+          "name": {
+            "en": "Portovelo"
+          },
+          "latitude": -3.72145,
+          "longitude": -79.62187
+        },
+        {
+          "name": {
+            "en": "Puerto Bolívar"
+          },
+          "latitude": -3.26649,
+          "longitude": -79.99749
+        },
+        {
+          "name": {
+            "en": "Santa Rosa"
+          },
+          "latitude": -3.44882,
+          "longitude": -79.95952
+        },
+        {
+          "name": {
+            "en": "Zaruma"
+          },
+          "latitude": -3.69132,
+          "longitude": -79.61174
+        }
+      ]
+    },
+    {
+      "code": "EC-E",
+      "name": {
+        "en": "Esmeraldas"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Esmeraldas"
+          },
+          "latitude": 0.9592,
+          "longitude": -79.65397
+        },
+        {
+          "name": {
+            "en": "Muisne"
+          },
+          "latitude": 0.61129,
+          "longitude": -80.01863
+        },
+        {
+          "name": {
+            "en": "Pampanal de Bolívar"
+          },
+          "latitude": 1.35251,
+          "longitude": -78.8936
+        },
+        {
+          "name": {
+            "en": "Rio Verde"
+          },
+          "latitude": 1.06235,
+          "longitude": -79.39939
+        },
+        {
+          "name": {
+            "en": "Rosa Zarate"
+          },
+          "latitude": 0.32779,
+          "longitude": -79.47407
+        },
+        {
+          "name": {
+            "en": "San Lorenzo de Esmeraldas"
+          },
+          "latitude": 1.28626,
+          "longitude": -78.83514
+        },
+        {
+          "name": {
+            "en": "Valdez"
+          },
+          "latitude": 1.24917,
+          "longitude": -78.98306
+        }
+      ]
+    },
+    {
+      "code": "EC-W",
+      "name": {
+        "en": "Galápagos"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Puerto Ayora"
+          },
+          "latitude": -0.74018,
+          "longitude": -90.3138
+        },
+        {
+          "name": {
+            "en": "Puerto Baquerizo Moreno"
+          },
+          "latitude": -0.90172,
+          "longitude": -89.61021
+        },
+        {
+          "name": {
+            "en": "Puerto Villamil"
+          },
+          "latitude": -0.95542,
+          "longitude": -90.96654
+        }
+      ]
+    },
+    {
+      "code": "EC-G",
+      "name": {
+        "en": "Guayas"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Alfredo Baquerizo Moreno"
+          },
+          "latitude": -1.91667,
+          "longitude": -79.51667
+        },
+        {
+          "name": {
+            "en": "Baláo"
+          },
+          "latitude": -2.911,
+          "longitude": -79.81441
+        },
+        {
+          "name": {
+            "en": "Balzar"
+          },
+          "latitude": -1.36501,
+          "longitude": -79.90494
+        },
+        {
+          "name": {
+            "en": "Colimes"
+          },
+          "latitude": -1.54553,
+          "longitude": -80.01165
+        },
+        {
+          "name": {
+            "en": "Coronel Marcelino Maridueña"
+          },
+          "latitude": -2.20924,
+          "longitude": -79.43248
+        },
+        {
+          "name": {
+            "en": "El Triunfo"
+          },
+          "latitude": -1.93333,
+          "longitude": -79.96667
+        },
+        {
+          "name": {
+            "en": "Eloy Alfaro"
+          },
+          "latitude": -2.17579,
+          "longitude": -79.85519
+        },
+        {
+          "name": {
+            "en": "Guayaquil",
+            "ar": "غواياكيل"
+          },
+          "latitude": -2.19616,
+          "longitude": -79.88621
+        },
+        {
+          "name": {
+            "en": "Lomas de Sargentillo"
+          },
+          "latitude": -1.88333,
+          "longitude": -80.08333
+        },
+        {
+          "name": {
+            "en": "Milagro",
+            "ar": "ميلاغرو"
+          },
+          "latitude": -2.13404,
+          "longitude": -79.59415
+        },
+        {
+          "name": {
+            "en": "Naranjal"
+          },
+          "latitude": -2.67364,
+          "longitude": -79.6183
+        },
+        {
+          "name": {
+            "en": "Naranjito"
+          },
+          "latitude": -2.16671,
+          "longitude": -79.4654
+        },
+        {
+          "name": {
+            "en": "Palestina"
+          },
+          "latitude": -1.93709,
+          "longitude": -79.71396
+        },
+        {
+          "name": {
+            "en": "Pedro Carbo",
+            "ar": "بيدرو كاربو"
+          },
+          "latitude": -1.81563,
+          "longitude": -80.23309
+        },
+        {
+          "name": {
+            "en": "Playas"
+          },
+          "latitude": -2.63199,
+          "longitude": -80.38808
+        },
+        {
+          "name": {
+            "en": "Samborondón"
+          },
+          "latitude": -1.96276,
+          "longitude": -79.72402
+        },
+        {
+          "name": {
+            "en": "Santa Lucía"
+          },
+          "latitude": -2.18333,
+          "longitude": -80
+        },
+        {
+          "name": {
+            "en": "Velasco Ibarra"
+          },
+          "latitude": -1.04376,
+          "longitude": -79.63837
+        },
+        {
+          "name": {
+            "en": "Yaguachi Nuevo"
+          },
+          "latitude": -2.0968,
+          "longitude": -79.69485
+        }
+      ]
+    },
+    {
+      "code": "EC-I",
+      "name": {
+        "en": "Imbabura"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Atuntaqui"
+          },
+          "latitude": 0.33247,
+          "longitude": -78.21371
+        },
+        {
+          "name": {
+            "en": "Cotacachi"
+          },
+          "latitude": 0.30107,
+          "longitude": -78.26428
+        },
+        {
+          "name": {
+            "en": "Ibarra"
+          },
+          "latitude": 0.35171,
+          "longitude": -78.12233
+        },
+        {
+          "name": {
+            "en": "Otavalo",
+            "ar": "اوتابالو"
+          },
+          "latitude": 0.23457,
+          "longitude": -78.26248
+        },
+        {
+          "name": {
+            "en": "Pimampiro"
+          },
+          "latitude": 0.39116,
+          "longitude": -77.94068
+        }
+      ]
+    },
+    {
+      "code": "EC-L",
+      "name": {
+        "en": "Loja"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Loja"
+          },
+          "latitude": -3.99313,
+          "longitude": -79.20422
+        }
+      ]
+    },
+    {
+      "code": "EC-R",
+      "name": {
+        "en": "Los Ríos"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Babahoyo"
+          },
+          "latitude": -1.80217,
+          "longitude": -79.53443
+        },
+        {
+          "name": {
+            "en": "Catarama"
+          },
+          "latitude": -1.57504,
+          "longitude": -79.45998
+        },
+        {
+          "name": {
+            "en": "Montalvo"
+          },
+          "latitude": -1.79008,
+          "longitude": -79.28759
+        },
+        {
+          "name": {
+            "en": "Palenque"
+          },
+          "latitude": -1.43795,
+          "longitude": -79.75647
+        },
+        {
+          "name": {
+            "en": "Quevedo"
+          },
+          "latitude": -1.02863,
+          "longitude": -79.46352
+        },
+        {
+          "name": {
+            "en": "Ventanas"
+          },
+          "latitude": -1.44158,
+          "longitude": -79.45943
+        },
+        {
+          "name": {
+            "en": "Vinces"
+          },
+          "latitude": -1.55611,
+          "longitude": -79.75191
+        }
+      ]
+    },
+    {
+      "code": "EC-M",
+      "name": {
+        "en": "Manabí"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bahía de Caráquez"
+          },
+          "latitude": -0.59792,
+          "longitude": -80.42367
+        },
+        {
+          "name": {
+            "en": "Calceta"
+          },
+          "latitude": -0.84582,
+          "longitude": -80.16389
+        },
+        {
+          "name": {
+            "en": "Cantón Portoviejo"
+          },
+          "latitude": -1.05,
+          "longitude": -80.45
+        },
+        {
+          "name": {
+            "en": "Chone"
+          },
+          "latitude": -0.69819,
+          "longitude": -80.09361
+        },
+        {
+          "name": {
+            "en": "Jipijapa"
+          },
+          "latitude": -1.34872,
+          "longitude": -80.57875
+        },
+        {
+          "name": {
+            "en": "Junín"
+          },
+          "latitude": -0.92777,
+          "longitude": -80.20583
+        },
+        {
+          "name": {
+            "en": "Manta"
+          },
+          "latitude": -0.96212,
+          "longitude": -80.71271
+        },
+        {
+          "name": {
+            "en": "Montecristi"
+          },
+          "latitude": -1.04576,
+          "longitude": -80.65889
+        },
+        {
+          "name": {
+            "en": "Paján"
+          },
+          "latitude": -1.55238,
+          "longitude": -80.42958
+        },
+        {
+          "name": {
+            "en": "Pedernales"
+          },
+          "latitude": 0.07167,
+          "longitude": -80.0525
+        },
+        {
+          "name": {
+            "en": "Portoviejo"
+          },
+          "latitude": -1.05458,
+          "longitude": -80.45445
+        },
+        {
+          "name": {
+            "en": "Rocafuerte"
+          },
+          "latitude": -0.9236,
+          "longitude": -80.44946
+        },
+        {
+          "name": {
+            "en": "San Vicente"
+          },
+          "latitude": -0.60435,
+          "longitude": -80.40267
+        },
+        {
+          "name": {
+            "en": "Santa Ana"
+          },
+          "latitude": -1.20726,
+          "longitude": -80.37132
+        },
+        {
+          "name": {
+            "en": "Sucre"
+          },
+          "latitude": -1.27974,
+          "longitude": -80.41885
+        },
+        {
+          "name": {
+            "en": "Tosagua"
+          },
+          "latitude": -0.78679,
+          "longitude": -80.23473
+        }
+      ]
+    },
+    {
+      "code": "EC-S",
+      "name": {
+        "en": "Morona-Santiago"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Gualaquiza"
+          },
+          "latitude": -3.40359,
+          "longitude": -78.58166
+        },
+        {
+          "name": {
+            "en": "Macas"
+          },
+          "latitude": -2.30868,
+          "longitude": -78.11135
+        },
+        {
+          "name": {
+            "en": "Palora"
+          },
+          "latitude": -1.70131,
+          "longitude": -77.96516
+        },
+        {
+          "name": {
+            "en": "Sucúa"
+          },
+          "latitude": -2.45866,
+          "longitude": -78.17171
+        }
+      ]
+    },
+    {
+      "code": "EC-N",
+      "name": {
+        "en": "Napo"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Archidona"
+          },
+          "latitude": -0.9095,
+          "longitude": -77.80772
+        },
+        {
+          "name": {
+            "en": "Tena"
+          },
+          "latitude": -0.9938,
+          "longitude": -77.81286
+        }
+      ]
+    },
+    {
+      "code": "EC-D",
+      "name": {
+        "en": "Orellana"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Boca Suno"
+          },
+          "latitude": -0.69832,
+          "longitude": -77.14083
+        },
+        {
+          "name": {
+            "en": "Francisco de Orellana Canton"
+          },
+          "latitude": -0.46667,
+          "longitude": -76.96667
+        },
+        {
+          "name": {
+            "en": "Loreto Canton"
+          },
+          "latitude": -0.69487,
+          "longitude": -77.30255
+        },
+        {
+          "name": {
+            "en": "Puerto Francisco de Orellana"
+          },
+          "latitude": -0.46645,
+          "longitude": -76.98719
+        }
+      ]
+    },
+    {
+      "code": "EC-Y",
+      "name": {
+        "en": "Pastaza"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Puyo"
+          },
+          "latitude": -1.48369,
+          "longitude": -78.00257
+        }
+      ]
+    },
+    {
+      "code": "EC-P",
+      "name": {
+        "en": "Pichincha"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Cayambe"
+          },
+          "latitude": 0.04084,
+          "longitude": -78.14524
+        },
+        {
+          "name": {
+            "en": "Machachi"
+          },
+          "latitude": -0.51011,
+          "longitude": -78.56712
+        },
+        {
+          "name": {
+            "en": "Quito",
+            "ar": "كيتو"
+          },
+          "latitude": -0.22985,
+          "longitude": -78.52495
+        },
+        {
+          "name": {
+            "en": "Sangolquí"
+          },
+          "latitude": -0.33405,
+          "longitude": -78.45217
+        }
+      ]
+    },
+    {
+      "code": "EC-SE",
+      "name": {
+        "en": "Santa Elena"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "La Libertad"
+          },
+          "latitude": -2.233,
+          "longitude": -80.91039
+        },
+        {
+          "name": {
+            "en": "Salinas"
+          },
+          "latitude": -2.21452,
+          "longitude": -80.95151
+        },
+        {
+          "name": {
+            "en": "Santa Elena",
+            "ar": "سانتا إيلينا"
+          },
+          "latitude": -2.22622,
+          "longitude": -80.85873
+        }
+      ]
+    },
+    {
+      "code": "EC-SD",
+      "name": {
+        "en": "Santo Domingo de los Tsáchilas"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Santo Domingo de los Colorados"
+          },
+          "latitude": -0.25305,
+          "longitude": -79.17536
+        }
+      ]
+    },
+    {
+      "code": "EC-U",
+      "name": {
+        "en": "Sucumbíos"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Nueva Loja"
+          },
+          "latitude": 0.086,
+          "longitude": -76.89528
+        }
+      ]
+    },
+    {
+      "code": "EC-T",
+      "name": {
+        "en": "Tungurahua"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ambato",
+            "ar": "أمباتو"
+          },
+          "latitude": -1.24908,
+          "longitude": -78.61675
+        },
+        {
+          "name": {
+            "en": "Baños"
+          },
+          "latitude": -1.39699,
+          "longitude": -78.42289
+        },
+        {
+          "name": {
+            "en": "Pelileo"
+          },
+          "latitude": -1.3299,
+          "longitude": -78.54341
+        },
+        {
+          "name": {
+            "en": "Píllaro"
+          },
+          "latitude": -1.17414,
+          "longitude": -78.54676
+        }
+      ]
+    },
+    {
+      "code": "EC-Z",
+      "name": {
+        "en": "Zamora Chinchipe"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Yantzaza"
+          },
+          "latitude": -3.83261,
+          "longitude": -78.76076
+        },
+        {
+          "name": {
+            "en": "Zamora"
+          },
+          "latitude": -4.06685,
+          "longitude": -78.95488
+        }
+      ]
+    }
+  ]
+}

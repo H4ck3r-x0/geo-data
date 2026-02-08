@@ -1,0 +1,589 @@
+{
+  "code": "BT",
+  "iso3": "BTN",
+  "name": {
+    "en": "Bhutan",
+    "ar": "بوتان",
+    "de": "Bhutan",
+    "es": "Bután",
+    "fr": "Bhoutan",
+    "hi": "भूटान",
+    "it": "Bhutan",
+    "ja": "ブータン",
+    "ko": "부탄",
+    "nl": "Bhutan",
+    "pl": "Bhutan",
+    "pt": "Butão",
+    "pt-BR": "Butão",
+    "ru": "Бутан",
+    "tr": "Butan",
+    "uk": "Бутан",
+    "zh": "不丹"
+  },
+  "phone": "+975",
+  "currency": "BTN",
+  "timezone": "Asia/Thimphu",
+  "flag": "🇧🇹",
+  "regions": [
+    {
+      "code": "BT-33",
+      "name": {
+        "en": "Bumthang "
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Jakar"
+          },
+          "latitude": 27.54918,
+          "longitude": 90.7525
+        },
+        {
+          "name": {
+            "en": "Tang Valley"
+          },
+          "latitude": 27.5025242,
+          "longitude": 90.7449544
+        }
+      ]
+    },
+    {
+      "code": "BT-12",
+      "name": {
+        "en": "Chukha "
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Chapchha"
+          },
+          "latitude": 27.2,
+          "longitude": 89.55
+        },
+        {
+          "name": {
+            "en": "Daphu"
+          },
+          "latitude": 26.9667,
+          "longitude": 89.3833
+        },
+        {
+          "name": {
+            "en": "Khitokha"
+          },
+          "latitude": 26.9,
+          "longitude": 89.6167
+        },
+        {
+          "name": {
+            "en": "Lobnig"
+          },
+          "latitude": 27.15,
+          "longitude": 89.55
+        },
+        {
+          "name": {
+            "en": "Pachu"
+          },
+          "latitude": 26.9,
+          "longitude": 89.35
+        },
+        {
+          "name": {
+            "en": "Phuntsholing"
+          },
+          "latitude": 26.85164,
+          "longitude": 89.38837
+        }
+      ]
+    },
+    {
+      "code": "BT-22",
+      "name": {
+        "en": "Dagana "
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Daga"
+          },
+          "latitude": 27.07529,
+          "longitude": 89.87688
+        },
+        {
+          "name": {
+            "en": "Sibsu"
+          },
+          "latitude": 27,
+          "longitude": 88.9
+        },
+        {
+          "name": {
+            "en": "Thumgaon"
+          },
+          "latitude": 26.9833,
+          "longitude": 89.9667
+        }
+      ]
+    },
+    {
+      "code": "BT-GA",
+      "name": {
+        "en": "Gasa "
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Gasa"
+          },
+          "latitude": 27.90372,
+          "longitude": 89.72689
+        }
+      ]
+    },
+    {
+      "code": "BT-13",
+      "name": {
+        "en": "Haa "
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ha"
+          },
+          "latitude": 27.38747,
+          "longitude": 89.28074
+        },
+        {
+          "name": {
+            "en": "Naktsang"
+          },
+          "latitude": 27.3833,
+          "longitude": 89.2667
+        },
+        {
+          "name": {
+            "en": "Sangkari"
+          },
+          "latitude": 27.3,
+          "longitude": 89.3167
+        }
+      ]
+    },
+    {
+      "code": "BT-44",
+      "name": {
+        "en": "Lhuntse "
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Lhuentse"
+          },
+          "latitude": 27.66787,
+          "longitude": 91.18393
+        }
+      ]
+    },
+    {
+      "code": "BT-42",
+      "name": {
+        "en": "Mongar "
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Kengkhar"
+          },
+          "latitude": 27.1,
+          "longitude": 91.25
+        },
+        {
+          "name": {
+            "en": "Mongar"
+          },
+          "latitude": 27.27471,
+          "longitude": 91.23963
+        },
+        {
+          "name": {
+            "en": "Thebong"
+          },
+          "latitude": 27.2667,
+          "longitude": 91.2667
+        }
+      ]
+    },
+    {
+      "code": "BT-11",
+      "name": {
+        "en": "Paro "
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Paro"
+          },
+          "latitude": 27.4305,
+          "longitude": 89.41334
+        },
+        {
+          "name": {
+            "en": "Suchha"
+          },
+          "latitude": 27.2333,
+          "longitude": 89.45
+        },
+        {
+          "name": {
+            "en": "Tshalunang"
+          },
+          "latitude": 27.4333,
+          "longitude": 89.65
+        }
+      ]
+    },
+    {
+      "code": "BT-43",
+      "name": {
+        "en": "Pemagatshel "
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Nganglam"
+          },
+          "latitude": 26.841811,
+          "longitude": 91.2424849
+        },
+        {
+          "name": {
+            "en": "Pemagatshel"
+          },
+          "latitude": 27.03795,
+          "longitude": 91.40305
+        }
+      ]
+    },
+    {
+      "code": "BT-23",
+      "name": {
+        "en": "Punakha "
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Pajo"
+          },
+          "latitude": 27.53333,
+          "longitude": 89.88333
+        },
+        {
+          "name": {
+            "en": "Punākha"
+          },
+          "latitude": 27.59137,
+          "longitude": 89.87743
+        }
+      ]
+    },
+    {
+      "code": "BT-45",
+      "name": {
+        "en": "Samdrup Jongkhar "
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Samdrup Jongkhar"
+          },
+          "latitude": 26.80069,
+          "longitude": 91.50519
+        }
+      ]
+    },
+    {
+      "code": "BT-14",
+      "name": {
+        "en": "Samtse "
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Denchukha"
+          },
+          "latitude": 27.0167,
+          "longitude": 89.25
+        },
+        {
+          "name": {
+            "en": "Dorokha"
+          },
+          "latitude": 27.0167,
+          "longitude": 89.2167
+        },
+        {
+          "name": {
+            "en": "Samtse"
+          },
+          "latitude": 26.89903,
+          "longitude": 89.09951
+        },
+        {
+          "name": {
+            "en": "Tendu"
+          },
+          "latitude": 27.1333,
+          "longitude": 88.8833
+        }
+      ]
+    },
+    {
+      "code": "BT-31",
+      "name": {
+        "en": "Sarpang "
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bhurgaon"
+          },
+          "latitude": 26.9,
+          "longitude": 90.4333
+        },
+        {
+          "name": {
+            "en": "Galechugaon"
+          },
+          "latitude": 27,
+          "longitude": 90.5333
+        },
+        {
+          "name": {
+            "en": "Geylegphug"
+          },
+          "latitude": 26.8706,
+          "longitude": 90.4856
+        },
+        {
+          "name": {
+            "en": "Sarpang"
+          },
+          "latitude": 26.86395,
+          "longitude": 90.26745
+        }
+      ]
+    },
+    {
+      "code": "BT-15",
+      "name": {
+        "en": "Thimphu "
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Thimphu",
+            "ar": "تيمفو"
+          },
+          "latitude": 27.46609,
+          "longitude": 89.64191
+        }
+      ]
+    },
+    {
+      "code": "BT-TY",
+      "name": {
+        "en": "Trashi Yangtse\t"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Shali"
+          },
+          "latitude": 27.4833,
+          "longitude": 91.5667
+        },
+        {
+          "name": {
+            "en": "Trashi Yangtse"
+          },
+          "latitude": 27.5833,
+          "longitude": 91.4667
+        },
+        {
+          "name": {
+            "en": "Yalang"
+          },
+          "latitude": 27.4333,
+          "longitude": 91.6333
+        }
+      ]
+    },
+    {
+      "code": "BT-41",
+      "name": {
+        "en": "Trashigang "
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Balfai"
+          },
+          "latitude": 27.2167032,
+          "longitude": 91.4794003
+        },
+        {
+          "name": {
+            "en": "Ghunkarah"
+          },
+          "latitude": 27.4,
+          "longitude": 91.5667
+        },
+        {
+          "name": {
+            "en": "Ngalangkang"
+          },
+          "latitude": 27.4528233,
+          "longitude": 91.5647771
+        },
+        {
+          "name": {
+            "en": "Rungzyung"
+          },
+          "latitude": 27.35,
+          "longitude": 91.6667
+        },
+        {
+          "name": {
+            "en": "Sassi"
+          },
+          "latitude": 27.1333,
+          "longitude": 91.4333
+        },
+        {
+          "name": {
+            "en": "Thrimshing"
+          },
+          "latitude": 27.1333,
+          "longitude": 91.6167
+        },
+        {
+          "name": {
+            "en": "Trashigang"
+          },
+          "latitude": 27.3331,
+          "longitude": 91.55424
+        },
+        {
+          "name": {
+            "en": "Wamrong"
+          },
+          "latitude": 27.1378453,
+          "longitude": 91.5604447
+        }
+      ]
+    },
+    {
+      "code": "BT-32",
+      "name": {
+        "en": "Trongsa "
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Trongsa"
+          },
+          "latitude": 27.4994,
+          "longitude": 90.5047
+        }
+      ]
+    },
+    {
+      "code": "BT-21",
+      "name": {
+        "en": "Tsirang "
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Beteni"
+          },
+          "latitude": 27.0333,
+          "longitude": 90.2333
+        },
+        {
+          "name": {
+            "en": "Dagapela"
+          },
+          "latitude": 26.9333,
+          "longitude": 89.95
+        },
+        {
+          "name": {
+            "en": "Damphu"
+          },
+          "latitude": 27.0167,
+          "longitude": 90.1
+        },
+        {
+          "name": {
+            "en": "Tsirang"
+          },
+          "latitude": 27.0219,
+          "longitude": 90.12291
+        }
+      ]
+    },
+    {
+      "code": "BT-24",
+      "name": {
+        "en": "Wangdue Phodrang "
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Manikyangsa"
+          },
+          "latitude": 27.5333,
+          "longitude": 90.1
+        },
+        {
+          "name": {
+            "en": "Ritang"
+          },
+          "latitude": 27.55,
+          "longitude": 90.1667
+        },
+        {
+          "name": {
+            "en": "Wangdue Phodrang"
+          },
+          "latitude": 27.4833,
+          "longitude": 89.9
+        }
+      ]
+    },
+    {
+      "code": "BT-34",
+      "name": {
+        "en": "Zhemgang "
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Panbang"
+          },
+          "latitude": 26.86667,
+          "longitude": 90.98333
+        },
+        {
+          "name": {
+            "en": "Zhemgang"
+          },
+          "latitude": 27.21689,
+          "longitude": 90.65793
+        }
+      ]
+    }
+  ]
+}

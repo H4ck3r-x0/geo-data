@@ -1,0 +1,707 @@
+{
+  "code": "LA",
+  "iso3": "LAO",
+  "name": {
+    "en": "Laos",
+    "ar": "لاوس",
+    "de": "Laos",
+    "es": "Laos",
+    "fr": "Laos",
+    "hi": "लाओस",
+    "it": "Laos",
+    "ja": "ラオス人民民主共和国",
+    "ko": "라오스",
+    "nl": "Laos",
+    "pl": "Laos",
+    "pt": "Laos",
+    "pt-BR": "Laos",
+    "ru": "Лаос",
+    "tr": "Laos",
+    "uk": "Лаос",
+    "zh": "寮人民民主共和国"
+  },
+  "phone": "+856",
+  "currency": "LAK",
+  "timezone": "Asia/Vientiane",
+  "flag": "🇱🇦",
+  "regions": [
+    {
+      "code": "LA-AT",
+      "name": {
+        "en": "Attapeu"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Attapeu"
+          },
+          "latitude": 14.81071,
+          "longitude": 106.83184
+        },
+        {
+          "name": {
+            "en": "Muang Phouvong"
+          },
+          "latitude": 14.56821,
+          "longitude": 107.01087
+        },
+        {
+          "name": {
+            "en": "Muang Samakhixai"
+          },
+          "latitude": 14.80539,
+          "longitude": 106.78164
+        },
+        {
+          "name": {
+            "en": "Muang Sanamxai"
+          },
+          "latitude": 14.73807,
+          "longitude": 106.41328
+        },
+        {
+          "name": {
+            "en": "Muang Sanxai"
+          },
+          "latitude": 15.02944,
+          "longitude": 107.23158
+        },
+        {
+          "name": {
+            "en": "Muang Xaiséttha"
+          },
+          "latitude": 14.90594,
+          "longitude": 106.97894
+        }
+      ]
+    },
+    {
+      "code": "LA-BK",
+      "name": {
+        "en": "Bokeo"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ban Houakhoua"
+          },
+          "latitude": 20.2467,
+          "longitude": 100.45401
+        },
+        {
+          "name": {
+            "en": "Ban Houayxay"
+          },
+          "latitude": 20.27,
+          "longitude": 100.4178
+        },
+        {
+          "name": {
+            "en": "Muang Houayxay"
+          },
+          "latitude": 20.38763,
+          "longitude": 100.62687
+        },
+        {
+          "name": {
+            "en": "Muang Meung"
+          },
+          "latitude": 20.67585,
+          "longitude": 100.52639
+        },
+        {
+          "name": {
+            "en": "Muang Paktha"
+          },
+          "latitude": 20.09108,
+          "longitude": 100.5994
+        },
+        {
+          "name": {
+            "en": "Muang Pha Oudôm"
+          },
+          "latitude": 20.18744,
+          "longitude": 100.926
+        },
+        {
+          "name": {
+            "en": "Muang Tônpheung"
+          },
+          "latitude": 20.53465,
+          "longitude": 100.29624
+        }
+      ]
+    },
+    {
+      "code": "LA-BL",
+      "name": {
+        "en": "Bolikhamsai"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ban Nahin"
+          },
+          "latitude": 18.24253,
+          "longitude": 104.21281
+        },
+        {
+          "name": {
+            "en": "Pakxan"
+          },
+          "latitude": 18.3942,
+          "longitude": 103.6611
+        }
+      ]
+    },
+    {
+      "code": "LA-CH",
+      "name": {
+        "en": "Champasak"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Champasak"
+          },
+          "latitude": 14.89204,
+          "longitude": 105.87787
+        },
+        {
+          "name": {
+            "en": "Muang Bachiangchaleunsook"
+          },
+          "latitude": 15.24426,
+          "longitude": 105.96716
+        },
+        {
+          "name": {
+            "en": "Muang Champasak"
+          },
+          "latitude": 14.85704,
+          "longitude": 105.75334
+        },
+        {
+          "name": {
+            "en": "Muang Không"
+          },
+          "latitude": 14.14696,
+          "longitude": 105.95938
+        },
+        {
+          "name": {
+            "en": "Muang Mounlapamôk"
+          },
+          "latitude": 14.28922,
+          "longitude": 105.56832
+        },
+        {
+          "name": {
+            "en": "Muang Pakxé"
+          },
+          "latitude": 15.13139,
+          "longitude": 105.81612
+        },
+        {
+          "name": {
+            "en": "Muang Pakxong"
+          },
+          "latitude": 15.0981,
+          "longitude": 106.43398
+        },
+        {
+          "name": {
+            "en": "Muang Pathoumphon"
+          },
+          "latitude": 14.68453,
+          "longitude": 106.06357
+        },
+        {
+          "name": {
+            "en": "Muang Phônthong"
+          },
+          "latitude": 15.10669,
+          "longitude": 105.6489
+        },
+        {
+          "name": {
+            "en": "Muang Soukhouma"
+          },
+          "latitude": 14.6256,
+          "longitude": 105.6752
+        },
+        {
+          "name": {
+            "en": "Muang Xanasômboun"
+          },
+          "latitude": 15.34107,
+          "longitude": 105.73703
+        },
+        {
+          "name": {
+            "en": "Pakse",
+            "ar": "باكسي"
+          },
+          "latitude": 15.12022,
+          "longitude": 105.79898
+        },
+        {
+          "name": {
+            "en": "Pakxong"
+          },
+          "latitude": 15.18154,
+          "longitude": 106.23038
+        }
+      ]
+    },
+    {
+      "code": "LA-HO",
+      "name": {
+        "en": "Houaphanh"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Xam Neua"
+          },
+          "latitude": 20.40764,
+          "longitude": 104.0656
+        },
+        {
+          "name": {
+            "en": "Xam Nua"
+          },
+          "latitude": 20.4164,
+          "longitude": 104.045
+        }
+      ]
+    },
+    {
+      "code": "LA-KH",
+      "name": {
+        "en": "Khammouane"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Muang Thakhèk"
+          },
+          "latitude": 17.4088,
+          "longitude": 104.82639
+        },
+        {
+          "name": {
+            "en": "Thakhèk"
+          },
+          "latitude": 17.41027,
+          "longitude": 104.83068
+        }
+      ]
+    },
+    {
+      "code": "LA-LM",
+      "name": {
+        "en": "Luang Namtha"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Luang Namtha"
+          },
+          "latitude": 20.9486,
+          "longitude": 101.40188
+        },
+        {
+          "name": {
+            "en": "Muang Louang Namtha"
+          },
+          "latitude": 21.00424,
+          "longitude": 101.44785
+        }
+      ]
+    },
+    {
+      "code": "LA-LP",
+      "name": {
+        "en": "Luang Prabang"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Luang Prabang"
+          },
+          "latitude": 19.88601,
+          "longitude": 102.13503
+        }
+      ]
+    },
+    {
+      "code": "LA-OU",
+      "name": {
+        "en": "Oudomxay"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Muang Xay"
+          },
+          "latitude": 20.69229,
+          "longitude": 101.98368
+        }
+      ]
+    },
+    {
+      "code": "LA-PH",
+      "name": {
+        "en": "Phongsaly"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Phôngsali"
+          },
+          "latitude": 21.6808,
+          "longitude": 102.1003
+        }
+      ]
+    },
+    {
+      "code": "LA-XA",
+      "name": {
+        "en": "Sainyabuli"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Sainyabuli"
+          },
+          "latitude": 19.25756,
+          "longitude": 101.71032
+        }
+      ]
+    },
+    {
+      "code": "LA-SL",
+      "name": {
+        "en": "Salavan"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Muang Khôngxédôn"
+          },
+          "latitude": 15.54626,
+          "longitude": 105.77051
+        },
+        {
+          "name": {
+            "en": "Muang Lakhonphéng"
+          },
+          "latitude": 15.83308,
+          "longitude": 105.59745
+        },
+        {
+          "name": {
+            "en": "Muang Laongam"
+          },
+          "latitude": 15.47745,
+          "longitude": 106.14111
+        },
+        {
+          "name": {
+            "en": "Muang Samouay"
+          },
+          "latitude": 16.35868,
+          "longitude": 106.8748
+        },
+        {
+          "name": {
+            "en": "Muang Saravan"
+          },
+          "latitude": 15.71587,
+          "longitude": 106.36158
+        },
+        {
+          "name": {
+            "en": "Muang Ta-Ôy"
+          },
+          "latitude": 16.07765,
+          "longitude": 106.70304
+        },
+        {
+          "name": {
+            "en": "Muang Toumlan"
+          },
+          "latitude": 16.02236,
+          "longitude": 106.23837
+        },
+        {
+          "name": {
+            "en": "Muang Vapi"
+          },
+          "latitude": 15.75005,
+          "longitude": 105.95529
+        },
+        {
+          "name": {
+            "en": "Salavan"
+          },
+          "latitude": 15.71652,
+          "longitude": 106.41744
+        }
+      ]
+    },
+    {
+      "code": "LA-SV",
+      "name": {
+        "en": "Savannakhet"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Kaysone Phomvihane"
+          },
+          "latitude": 16.54943,
+          "longitude": 104.82339
+        },
+        {
+          "name": {
+            "en": "Muang Alsaphangthong"
+          },
+          "latitude": 16.72645,
+          "longitude": 105.39326
+        },
+        {
+          "name": {
+            "en": "Muang Atsaphan"
+          },
+          "latitude": 16.9474,
+          "longitude": 105.4029
+        },
+        {
+          "name": {
+            "en": "Muang Champhon"
+          },
+          "latitude": 16.49363,
+          "longitude": 105.2202
+        },
+        {
+          "name": {
+            "en": "Muang Nong"
+          },
+          "latitude": 16.38458,
+          "longitude": 106.50419
+        },
+        {
+          "name": {
+            "en": "Muang Outhoumphon"
+          },
+          "latitude": 16.66667,
+          "longitude": 105.05
+        },
+        {
+          "name": {
+            "en": "Muang Phin"
+          },
+          "latitude": 16.44316,
+          "longitude": 106.03019
+        },
+        {
+          "name": {
+            "en": "Muang Songkhon"
+          },
+          "latitude": 16.17116,
+          "longitude": 105.30729
+        },
+        {
+          "name": {
+            "en": "Muang Thapangthong"
+          },
+          "latitude": 16.09132,
+          "longitude": 105.81038
+        },
+        {
+          "name": {
+            "en": "Muang Vilabouli"
+          },
+          "latitude": 16.94067,
+          "longitude": 105.93677
+        },
+        {
+          "name": {
+            "en": "Muang Xaibouli"
+          },
+          "latitude": 16.94432,
+          "longitude": 104.92312
+        },
+        {
+          "name": {
+            "en": "Muang Xayphoothong"
+          },
+          "latitude": 16.3737,
+          "longitude": 105.02165
+        },
+        {
+          "name": {
+            "en": "Muang Xônbouli"
+          },
+          "latitude": 16.40036,
+          "longitude": 105.57388
+        },
+        {
+          "name": {
+            "en": "Savannakhet"
+          },
+          "latitude": 16.5703,
+          "longitude": 104.7622
+        },
+        {
+          "name": {
+            "en": "Thaphalanxay"
+          },
+          "latitude": 16.7,
+          "longitude": 105.6
+        }
+      ]
+    },
+    {
+      "code": "LA-XE",
+      "name": {
+        "en": "Sekong"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ban Thatèng"
+          },
+          "latitude": 15.43317,
+          "longitude": 106.38272
+        },
+        {
+          "name": {
+            "en": "Lamam"
+          },
+          "latitude": 15.41705,
+          "longitude": 106.69461
+        },
+        {
+          "name": {
+            "en": "Muang Dakchung"
+          },
+          "latitude": 15.38199,
+          "longitude": 107.31847
+        },
+        {
+          "name": {
+            "en": "Muang Khaleum"
+          },
+          "latitude": 15.79886,
+          "longitude": 107.04529
+        },
+        {
+          "name": {
+            "en": "Muang Laman"
+          },
+          "latitude": 15.41273,
+          "longitude": 106.81706
+        },
+        {
+          "name": {
+            "en": "Muang Thatèng"
+          },
+          "latitude": 15.42745,
+          "longitude": 106.48149
+        }
+      ]
+    },
+    {
+      "code": "LA-VI",
+      "name": {
+        "en": "Vientiane"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Muang Phôn-Hông"
+          },
+          "latitude": 18.4953,
+          "longitude": 102.4153
+        },
+        {
+          "name": {
+            "en": "Vangviang"
+          },
+          "latitude": 18.9235,
+          "longitude": 102.44784
+        }
+      ]
+    },
+    {
+      "code": "LA-VT",
+      "name": {
+        "en": "Vientiane"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Vientiane",
+            "ar": "فيينتيان"
+          },
+          "latitude": 17.96667,
+          "longitude": 102.6
+        }
+      ]
+    },
+    {
+      "code": "LA-XS",
+      "name": {
+        "en": "Xaisomboun"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Anouvong"
+          },
+          "latitude": 18.89731,
+          "longitude": 103.09274
+        },
+        {
+          "name": {
+            "en": "Longchaeng"
+          },
+          "latitude": 18.89394,
+          "longitude": 103.14274
+        },
+        {
+          "name": {
+            "en": "Muang Longxan"
+          },
+          "latitude": 18.61782,
+          "longitude": 102.88079
+        },
+        {
+          "name": {
+            "en": "Muang Thathôm"
+          },
+          "latitude": 19.0013,
+          "longitude": 103.61572
+        }
+      ]
+    },
+    {
+      "code": "LA-XI",
+      "name": {
+        "en": "Xiangkhouang"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Muang Phônsavan"
+          },
+          "latitude": 19.4494,
+          "longitude": 103.1917
+        }
+      ]
+    }
+  ]
+}

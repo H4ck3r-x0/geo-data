@@ -1,0 +1,825 @@
+{
+  "code": "MD",
+  "iso3": "MDA",
+  "name": {
+    "en": "Moldova",
+    "ar": "مولدوفا",
+    "de": "Moldawie",
+    "es": "Moldavia",
+    "fr": "Moldavie",
+    "hi": "मोलदोवा",
+    "it": "Moldavia",
+    "ja": "モルドバ共和国",
+    "ko": "몰도바",
+    "nl": "Moldavië",
+    "pl": "Mołdawia",
+    "pt": "Moldávia",
+    "pt-BR": "Moldávia",
+    "ru": "Молдова",
+    "tr": "Moldova",
+    "uk": "Молдова",
+    "zh": "摩尔多瓦"
+  },
+  "phone": "+373",
+  "currency": "MDL",
+  "timezone": "Europe/Chisinau",
+  "flag": "🇲🇩",
+  "regions": [
+    {
+      "code": "MD-AN",
+      "name": {
+        "en": "Anenii Noi"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Anenii Noi"
+          },
+          "latitude": 46.87839,
+          "longitude": 29.23483
+        },
+        {
+          "name": {
+            "en": "Varniţa"
+          },
+          "latitude": 46.86606,
+          "longitude": 29.46636
+        }
+      ]
+    },
+    {
+      "code": "MD-BA",
+      "name": {
+        "en": "Bălți"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bălţi"
+          },
+          "latitude": 47.76314,
+          "longitude": 27.92932
+        }
+      ]
+    },
+    {
+      "code": "MD-BS",
+      "name": {
+        "en": "Basarabeasca"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Basarabeasca"
+          },
+          "latitude": 46.3317,
+          "longitude": 28.96365
+        }
+      ]
+    },
+    {
+      "code": "MD-BD",
+      "name": {
+        "en": "Bender"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bender",
+            "ar": "بيندر"
+          },
+          "latitude": 46.83156,
+          "longitude": 29.47769
+        }
+      ]
+    },
+    {
+      "code": "MD-CA",
+      "name": {
+        "en": "Cahul"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Cahul"
+          },
+          "latitude": 45.90425,
+          "longitude": 28.19929
+        },
+        {
+          "name": {
+            "en": "Giurgiuleşti"
+          },
+          "latitude": 45.48167,
+          "longitude": 28.19722
+        }
+      ]
+    },
+    {
+      "code": "MD-CL",
+      "name": {
+        "en": "Călărași"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Călăraşi"
+          },
+          "latitude": 47.2556,
+          "longitude": 28.30987
+        }
+      ]
+    },
+    {
+      "code": "MD-CT",
+      "name": {
+        "en": "Cantemir"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Cantemir"
+          },
+          "latitude": 46.27743,
+          "longitude": 28.2027
+        },
+        {
+          "name": {
+            "en": "Vişniovca"
+          },
+          "latitude": 46.3326,
+          "longitude": 28.44797
+        }
+      ]
+    },
+    {
+      "code": "MD-CS",
+      "name": {
+        "en": "Căușeni"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Căuşeni"
+          },
+          "latitude": 46.63674,
+          "longitude": 29.41114
+        },
+        {
+          "name": {
+            "en": "Chiţcani"
+          },
+          "latitude": 46.78296,
+          "longitude": 29.61682
+        }
+      ]
+    },
+    {
+      "code": "MD-CU",
+      "name": {
+        "en": "Chișinău"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Chisinau",
+            "ar": "كيشيناو"
+          },
+          "latitude": 47.00556,
+          "longitude": 28.8575
+        },
+        {
+          "name": {
+            "en": "Ciorescu"
+          },
+          "latitude": 47.13,
+          "longitude": 28.88937
+        },
+        {
+          "name": {
+            "en": "Cricova"
+          },
+          "latitude": 47.13835,
+          "longitude": 28.86156
+        },
+        {
+          "name": {
+            "en": "Sîngera"
+          },
+          "latitude": 46.91557,
+          "longitude": 28.96673
+        },
+        {
+          "name": {
+            "en": "Stăuceni"
+          },
+          "latitude": 47.09643,
+          "longitude": 28.86791
+        },
+        {
+          "name": {
+            "en": "Vadul lui Vodă"
+          },
+          "latitude": 47.09009,
+          "longitude": 29.0757
+        },
+        {
+          "name": {
+            "en": "Vatra"
+          },
+          "latitude": 47.0746,
+          "longitude": 28.73685
+        }
+      ]
+    },
+    {
+      "code": "MD-CM",
+      "name": {
+        "en": "Cimișlia"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Cimişlia"
+          },
+          "latitude": 46.52685,
+          "longitude": 28.76441
+        }
+      ]
+    },
+    {
+      "code": "MD-CR",
+      "name": {
+        "en": "Criuleni"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Criuleni"
+          },
+          "latitude": 47.21307,
+          "longitude": 29.15926
+        }
+      ]
+    },
+    {
+      "code": "MD-DO",
+      "name": {
+        "en": "Dondușeni"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Briceni"
+          },
+          "latitude": 48.35628,
+          "longitude": 27.70293
+        },
+        {
+          "name": {
+            "en": "Donduşeni"
+          },
+          "latitude": 48.24268,
+          "longitude": 27.6101
+        }
+      ]
+    },
+    {
+      "code": "MD-DR",
+      "name": {
+        "en": "Drochia"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Drochia"
+          },
+          "latitude": 48.03555,
+          "longitude": 27.81293
+        }
+      ]
+    },
+    {
+      "code": "MD-DU",
+      "name": {
+        "en": "Dubăsari"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Cocieri"
+          },
+          "latitude": 47.3017,
+          "longitude": 29.11755
+        },
+        {
+          "name": {
+            "en": "Ustia"
+          },
+          "latitude": 47.25524,
+          "longitude": 29.12406
+        }
+      ]
+    },
+    {
+      "code": "MD-ED",
+      "name": {
+        "en": "Edineț"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Edineţ"
+          },
+          "latitude": 48.17215,
+          "longitude": 27.30337
+        }
+      ]
+    },
+    {
+      "code": "MD-FA",
+      "name": {
+        "en": "Fălești"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Fălești"
+          },
+          "latitude": 47.57667,
+          "longitude": 27.71264
+        }
+      ]
+    },
+    {
+      "code": "MD-FL",
+      "name": {
+        "en": "Florești"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Floreşti"
+          },
+          "latitude": 47.89137,
+          "longitude": 28.29312
+        },
+        {
+          "name": {
+            "en": "Ghindești"
+          },
+          "latitude": 47.85482,
+          "longitude": 28.37679
+        },
+        {
+          "name": {
+            "en": "Mărculeşti"
+          },
+          "latitude": 47.86897,
+          "longitude": 28.24109
+        }
+      ]
+    },
+    {
+      "code": "MD-GA",
+      "name": {
+        "en": "Gagauzia"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bugeac"
+          },
+          "latitude": 46.36554,
+          "longitude": 28.6625
+        },
+        {
+          "name": {
+            "en": "Ceadîr-Lunga"
+          },
+          "latitude": 46.06169,
+          "longitude": 28.83078
+        },
+        {
+          "name": {
+            "en": "Comrat"
+          },
+          "latitude": 46.29456,
+          "longitude": 28.6565
+        },
+        {
+          "name": {
+            "en": "Vulcăneşti"
+          },
+          "latitude": 45.68492,
+          "longitude": 28.40613
+        }
+      ]
+    },
+    {
+      "code": "MD-GL",
+      "name": {
+        "en": "Glodeni"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Glodeni"
+          },
+          "latitude": 47.77513,
+          "longitude": 27.51891
+        }
+      ]
+    },
+    {
+      "code": "MD-HI",
+      "name": {
+        "en": "Hîncești"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Dancu"
+          },
+          "latitude": 46.75818,
+          "longitude": 28.20716
+        },
+        {
+          "name": {
+            "en": "Hînceşti"
+          },
+          "latitude": 46.83047,
+          "longitude": 28.59064
+        }
+      ]
+    },
+    {
+      "code": "MD-IA",
+      "name": {
+        "en": "Ialoveni"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ialoveni"
+          },
+          "latitude": 46.94346,
+          "longitude": 28.78233
+        }
+      ]
+    },
+    {
+      "code": "MD-LE",
+      "name": {
+        "en": "Leova"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Iargara"
+          },
+          "latitude": 46.42750001,
+          "longitude": 28.43666668
+        },
+        {
+          "name": {
+            "en": "Leova"
+          },
+          "latitude": 46.48333333,
+          "longitude": 28.25
+        }
+      ]
+    },
+    {
+      "code": "MD-NI",
+      "name": {
+        "en": "Nisporeni"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Nisporeni"
+          },
+          "latitude": 47.08159,
+          "longitude": 28.17138
+        }
+      ]
+    },
+    {
+      "code": "MD-OC",
+      "name": {
+        "en": "Ocnița"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ocniţa"
+          },
+          "latitude": 48.38274,
+          "longitude": 27.43805
+        },
+        {
+          "name": {
+            "en": "Otaci"
+          },
+          "latitude": 48.43285,
+          "longitude": 27.79912
+        }
+      ]
+    },
+    {
+      "code": "MD-OR",
+      "name": {
+        "en": "Orhei"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Orhei"
+          },
+          "latitude": 47.38494,
+          "longitude": 28.82446
+        }
+      ]
+    },
+    {
+      "code": "MD-RE",
+      "name": {
+        "en": "Rezina"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Rezina"
+          },
+          "latitude": 47.74928,
+          "longitude": 28.96583
+        },
+        {
+          "name": {
+            "en": "Saharna"
+          },
+          "latitude": 47.69107,
+          "longitude": 28.97458
+        }
+      ]
+    },
+    {
+      "code": "MD-RI",
+      "name": {
+        "en": "Rîșcani"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Rîşcani"
+          },
+          "latitude": 47.94792,
+          "longitude": 27.56376
+        }
+      ]
+    },
+    {
+      "code": "MD-SI",
+      "name": {
+        "en": "Sîngerei"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bilicenii Vechi"
+          },
+          "latitude": 47.6558,
+          "longitude": 28.04734
+        },
+        {
+          "name": {
+            "en": "Biruinţa"
+          },
+          "latitude": 47.81353,
+          "longitude": 28.07004
+        },
+        {
+          "name": {
+            "en": "Sîngerei"
+          },
+          "latitude": 47.63632,
+          "longitude": 28.14296
+        }
+      ]
+    },
+    {
+      "code": "MD-SD",
+      "name": {
+        "en": "Șoldănești"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Şoldăneşti"
+          },
+          "latitude": 47.81608,
+          "longitude": 28.79718
+        }
+      ]
+    },
+    {
+      "code": "MD-SO",
+      "name": {
+        "en": "Soroca"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Soroca"
+          },
+          "latitude": 48.15659,
+          "longitude": 28.28489
+        }
+      ]
+    },
+    {
+      "code": "MD-SV",
+      "name": {
+        "en": "Ștefan Vodă"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ştefan Vodă"
+          },
+          "latitude": 46.51287,
+          "longitude": 29.66193
+        }
+      ]
+    },
+    {
+      "code": "MD-ST",
+      "name": {
+        "en": "Strășeni"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bucovăţ"
+          },
+          "latitude": 47.19064,
+          "longitude": 28.45802
+        },
+        {
+          "name": {
+            "en": "Strășeni"
+          },
+          "latitude": 47.14216,
+          "longitude": 28.60774
+        }
+      ]
+    },
+    {
+      "code": "MD-TA",
+      "name": {
+        "en": "Taraclia"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Taraclia"
+          },
+          "latitude": 45.90273,
+          "longitude": 28.66816
+        },
+        {
+          "name": {
+            "en": "Tvardița"
+          },
+          "latitude": 46.14826,
+          "longitude": 28.96491
+        }
+      ]
+    },
+    {
+      "code": "MD-TE",
+      "name": {
+        "en": "Telenești"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Mîndreşti"
+          },
+          "latitude": 47.50525,
+          "longitude": 28.27687
+        },
+        {
+          "name": {
+            "en": "Teleneşti"
+          },
+          "latitude": 47.5011,
+          "longitude": 28.36536
+        }
+      ]
+    },
+    {
+      "code": "MD-SN",
+      "name": {
+        "en": "Transnistria"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Camenca"
+          },
+          "latitude": 48.03233,
+          "longitude": 28.69899
+        },
+        {
+          "name": {
+            "en": "Crasnoe"
+          },
+          "latitude": 46.64844,
+          "longitude": 29.80403
+        },
+        {
+          "name": {
+            "en": "Dnestrovsc"
+          },
+          "latitude": 46.6164,
+          "longitude": 29.91926
+        },
+        {
+          "name": {
+            "en": "Dubăsari",
+            "ar": "دوباساري"
+          },
+          "latitude": 47.26562,
+          "longitude": 29.16667
+        },
+        {
+          "name": {
+            "en": "Hryhoriopol"
+          },
+          "latitude": 47.15413,
+          "longitude": 29.30008
+        },
+        {
+          "name": {
+            "en": "Maiac"
+          },
+          "latitude": 47.23727,
+          "longitude": 29.38498
+        },
+        {
+          "name": {
+            "en": "Pervomaisc"
+          },
+          "latitude": 46.73253,
+          "longitude": 29.9617
+        },
+        {
+          "name": {
+            "en": "Rîbniţa"
+          },
+          "latitude": 47.76817,
+          "longitude": 29.01
+        },
+        {
+          "name": {
+            "en": "Slobozia"
+          },
+          "latitude": 46.72927,
+          "longitude": 29.70446
+        },
+        {
+          "name": {
+            "en": "Tiraspol",
+            "ar": "تيراسبول"
+          },
+          "latitude": 46.84274,
+          "longitude": 29.62909
+        },
+        {
+          "name": {
+            "en": "Tiraspolul Nou"
+          },
+          "latitude": 46.82874,
+          "longitude": 29.52174
+        }
+      ]
+    },
+    {
+      "code": "MD-UN",
+      "name": {
+        "en": "Ungheni"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ungheni"
+          },
+          "latitude": 47.21079,
+          "longitude": 27.80047
+        }
+      ]
+    }
+  ]
+}

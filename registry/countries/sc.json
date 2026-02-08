@@ -1,0 +1,165 @@
+{
+  "code": "SC",
+  "iso3": "SYC",
+  "name": {
+    "en": "Seychelles",
+    "ar": "سيشيل",
+    "de": "Seychellen",
+    "es": "Seychelles",
+    "fr": "Seychelles",
+    "hi": "सेशल्स",
+    "it": "Seychelles",
+    "ja": "セーシェル",
+    "ko": "세이셸",
+    "nl": "Seychellen",
+    "pl": "Seszele",
+    "pt": "Seicheles",
+    "pt-BR": "Seicheles",
+    "ru": "Сейшельские острова",
+    "tr": "Seyşeller",
+    "uk": "Сейшельські острови",
+    "zh": "塞舌尔"
+  },
+  "phone": "+248",
+  "currency": "SCR",
+  "timezone": "Indian/Mahe",
+  "flag": "🇸🇨",
+  "regions": [
+    {
+      "code": "SC-02",
+      "name": {
+        "en": "Anse Boileau"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Anse Boileau"
+          },
+          "latitude": -4.71667,
+          "longitude": 55.48333
+        }
+      ]
+    },
+    {
+      "code": "SC-03",
+      "name": {
+        "en": "Anse Etoile"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Anse Etoile"
+          },
+          "latitude": -4.59166667,
+          "longitude": 55.45
+        }
+      ]
+    },
+    {
+      "code": "SC-05",
+      "name": {
+        "en": "Anse Royale"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Anse Royale"
+          },
+          "latitude": -4.73333,
+          "longitude": 55.51667
+        }
+      ]
+    },
+    {
+      "code": "SC-08",
+      "name": {
+        "en": "Beau Vallon"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Beau Vallon"
+          },
+          "latitude": -4.62091,
+          "longitude": 55.43015
+        }
+      ]
+    },
+    {
+      "code": "SC-10",
+      "name": {
+        "en": "Bel Ombre"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bel Ombre"
+          },
+          "latitude": -4.61667,
+          "longitude": 55.41667
+        }
+      ]
+    },
+    {
+      "code": "SC-11",
+      "name": {
+        "en": "Cascade"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Cascade"
+          },
+          "latitude": -4.66667,
+          "longitude": 55.5
+        }
+      ]
+    },
+    {
+      "code": "SC-16",
+      "name": {
+        "en": "La Rivière Anglaise"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Victoria",
+            "ar": "فيكتوريا"
+          },
+          "latitude": -4.62001,
+          "longitude": 55.45501
+        }
+      ]
+    },
+    {
+      "code": "SC-21",
+      "name": {
+        "en": "Port Glaud"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Port Glaud"
+          },
+          "latitude": -4.66667,
+          "longitude": 55.41667
+        }
+      ]
+    },
+    {
+      "code": "SC-23",
+      "name": {
+        "en": "Takamaka"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Takamaka"
+          },
+          "latitude": -4.76667,
+          "longitude": 55.5
+        }
+      ]
+    }
+  ]
+}

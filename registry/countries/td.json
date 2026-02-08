@@ -1,0 +1,566 @@
+{
+  "code": "TD",
+  "iso3": "TCD",
+  "name": {
+    "en": "Chad",
+    "ar": "تشاد",
+    "de": "Tschad",
+    "es": "Chad",
+    "fr": "Tchad",
+    "hi": "चाड",
+    "it": "Ciad",
+    "ja": "チャド",
+    "ko": "차드",
+    "nl": "Tsjaad",
+    "pl": "Czad",
+    "pt": "Chade",
+    "pt-BR": "Chade",
+    "ru": "Чад",
+    "tr": "Çad",
+    "uk": "Чад.",
+    "zh": "乍得"
+  },
+  "phone": "+235",
+  "currency": "XAF",
+  "timezone": "Africa/Ndjamena",
+  "flag": "🇹🇩",
+  "regions": [
+    {
+      "code": "TD-BG",
+      "name": {
+        "en": "Bahr el Gazel"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Moussoro",
+            "ar": "موسورو"
+          },
+          "latitude": 13.64143,
+          "longitude": 16.48941
+        }
+      ]
+    },
+    {
+      "code": "TD-BA",
+      "name": {
+        "en": "Batha"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ati"
+          },
+          "latitude": 13.2154,
+          "longitude": 18.3353
+        },
+        {
+          "name": {
+            "en": "Oum Hadjer",
+            "ar": "أم هاجر"
+          },
+          "latitude": 13.2954,
+          "longitude": 19.6966
+        }
+      ]
+    },
+    {
+      "code": "TD-BO",
+      "name": {
+        "en": "Borkou"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Faya-Largeau"
+          },
+          "latitude": 17.9257,
+          "longitude": 19.10428
+        }
+      ]
+    },
+    {
+      "code": "TD-CB",
+      "name": {
+        "en": "Chari-Baguirmi"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Baguirmi Department"
+          },
+          "latitude": 11.39833333,
+          "longitude": 16.1675
+        },
+        {
+          "name": {
+            "en": "Bousso"
+          },
+          "latitude": 10.4825,
+          "longitude": 16.71611111
+        },
+        {
+          "name": {
+            "en": "Dababa",
+            "ar": "بوكورو"
+          },
+          "latitude": 12.38,
+          "longitude": 17.06
+        },
+        {
+          "name": {
+            "en": "Gaoui"
+          },
+          "latitude": 12.1807,
+          "longitude": 15.1476
+        },
+        {
+          "name": {
+            "en": "Linia"
+          },
+          "latitude": 12.0562141,
+          "longitude": 15.3037987
+        },
+        {
+          "name": {
+            "en": "Mandjafa"
+          },
+          "latitude": 11.19861111,
+          "longitude": 15.36111111
+        },
+        {
+          "name": {
+            "en": "Massenya"
+          },
+          "latitude": 11.40277778,
+          "longitude": 16.17
+        }
+      ]
+    },
+    {
+      "code": "TD-EO",
+      "name": {
+        "en": "Ennedi-Ouest"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Fada",
+            "ar": "فدا"
+          },
+          "latitude": 17.18535,
+          "longitude": 21.58114
+        }
+      ]
+    },
+    {
+      "code": "TD-GR",
+      "name": {
+        "en": "Guéra"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bitkine",
+            "ar": "بتكين"
+          },
+          "latitude": 11.9801,
+          "longitude": 18.2138
+        },
+        {
+          "name": {
+            "en": "Melfi"
+          },
+          "latitude": 11.0598,
+          "longitude": 17.9355
+        },
+        {
+          "name": {
+            "en": "Mongo"
+          },
+          "latitude": 12.18441,
+          "longitude": 18.69303
+        }
+      ]
+    },
+    {
+      "code": "TD-HL",
+      "name": {
+        "en": "Hadjer-Lamis"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bokoro",
+            "ar": "بوكورو"
+          },
+          "latitude": 12.37813,
+          "longitude": 17.05876
+        },
+        {
+          "name": {
+            "en": "Massaguet",
+            "ar": "مساقط"
+          },
+          "latitude": 12.47554,
+          "longitude": 15.43647
+        },
+        {
+          "name": {
+            "en": "Massakory",
+            "ar": "مسكوري"
+          },
+          "latitude": 12.996,
+          "longitude": 15.72927
+        }
+      ]
+    },
+    {
+      "code": "TD-KA",
+      "name": {
+        "en": "Kanem"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Mao",
+            "ar": "ماو"
+          },
+          "latitude": 14.12116,
+          "longitude": 15.3103
+        }
+      ]
+    },
+    {
+      "code": "TD-LC",
+      "name": {
+        "en": "Lac"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bol",
+            "ar": "بول"
+          },
+          "latitude": 13.46706,
+          "longitude": 14.71363
+        }
+      ]
+    },
+    {
+      "code": "TD-LO",
+      "name": {
+        "en": "Logone Occidental"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Beïnamar"
+          },
+          "latitude": 8.6698,
+          "longitude": 15.3813
+        },
+        {
+          "name": {
+            "en": "Benoy"
+          },
+          "latitude": 8.98327,
+          "longitude": 16.31991
+        },
+        {
+          "name": {
+            "en": "Lac Wey"
+          },
+          "latitude": 8.70502,
+          "longitude": 15.98303
+        },
+        {
+          "name": {
+            "en": "Moundou",
+            "ar": "موندو"
+          },
+          "latitude": 8.56667,
+          "longitude": 16.08333
+        }
+      ]
+    },
+    {
+      "code": "TD-LR",
+      "name": {
+        "en": "Logone Oriental"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bébédja"
+          },
+          "latitude": 8.6761,
+          "longitude": 16.566
+        },
+        {
+          "name": {
+            "en": "Béboto"
+          },
+          "latitude": 8.26681,
+          "longitude": 16.93898
+        },
+        {
+          "name": {
+            "en": "Doba"
+          },
+          "latitude": 8.65,
+          "longitude": 16.85
+        }
+      ]
+    },
+    {
+      "code": "TD-MA",
+      "name": {
+        "en": "Mandoul"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Goundi"
+          },
+          "latitude": 9.36267,
+          "longitude": 17.36597
+        },
+        {
+          "name": {
+            "en": "Koumra"
+          },
+          "latitude": 8.91256,
+          "longitude": 17.55392
+        },
+        {
+          "name": {
+            "en": "Moïssala",
+            "ar": "مواسالا"
+          },
+          "latitude": 8.3404,
+          "longitude": 17.7663
+        }
+      ]
+    },
+    {
+      "code": "TD-ME",
+      "name": {
+        "en": "Mayo-Kebbi Est"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bongor",
+            "ar": "بنقور"
+          },
+          "latitude": 10.28056,
+          "longitude": 15.37222
+        },
+        {
+          "name": {
+            "en": "Gounou Gaya"
+          },
+          "latitude": 9.6294,
+          "longitude": 15.5132
+        },
+        {
+          "name": {
+            "en": "Guelendeng"
+          },
+          "latitude": 10.91762,
+          "longitude": 15.55011
+        }
+      ]
+    },
+    {
+      "code": "TD-MO",
+      "name": {
+        "en": "Mayo-Kebbi Ouest"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Mboursou Léré",
+            "ar": "امبورسو ليري"
+          },
+          "latitude": 9.7639,
+          "longitude": 14.1539
+        },
+        {
+          "name": {
+            "en": "Pala"
+          },
+          "latitude": 9.3642,
+          "longitude": 14.9046
+        }
+      ]
+    },
+    {
+      "code": "TD-MC",
+      "name": {
+        "en": "Moyen-Chari"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Kyabé"
+          },
+          "latitude": 9.45149,
+          "longitude": 18.94493
+        },
+        {
+          "name": {
+            "en": "Sarh"
+          },
+          "latitude": 9.1429,
+          "longitude": 18.3923
+        }
+      ]
+    },
+    {
+      "code": "TD-ND",
+      "name": {
+        "en": "N'Djamena"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "N'Djamena"
+          },
+          "latitude": 12.11,
+          "longitude": 15.05
+        }
+      ]
+    },
+    {
+      "code": "TD-OD",
+      "name": {
+        "en": "Ouaddaï"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Abéché",
+            "ar": "أبشي"
+          },
+          "latitude": 13.82916,
+          "longitude": 20.8324
+        },
+        {
+          "name": {
+            "en": "Adré",
+            "ar": "أدري"
+          },
+          "latitude": 13.46648,
+          "longitude": 22.19875
+        },
+        {
+          "name": {
+            "en": "Goz Béïda"
+          },
+          "latitude": 13.94563,
+          "longitude": 20.5468
+        }
+      ]
+    },
+    {
+      "code": "TD-SA",
+      "name": {
+        "en": "Salamat"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Am Timan"
+          },
+          "latitude": 11.0297,
+          "longitude": 20.2827
+        }
+      ]
+    },
+    {
+      "code": "TD-SI",
+      "name": {
+        "en": "Sila"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Goz Beïda"
+          },
+          "latitude": 12.22484,
+          "longitude": 21.41034
+        }
+      ]
+    },
+    {
+      "code": "TD-TA",
+      "name": {
+        "en": "Tandjilé"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Béré"
+          },
+          "latitude": 9.3202,
+          "longitude": 16.1552
+        },
+        {
+          "name": {
+            "en": "Kelo"
+          },
+          "latitude": 9.30859,
+          "longitude": 15.80658
+        },
+        {
+          "name": {
+            "en": "Laï"
+          },
+          "latitude": 9.3972,
+          "longitude": 16.30066
+        }
+      ]
+    },
+    {
+      "code": "TD-TI",
+      "name": {
+        "en": "Tibesti"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Aozou"
+          },
+          "latitude": 21.8375,
+          "longitude": 17.4275
+        }
+      ]
+    },
+    {
+      "code": "TD-WF",
+      "name": {
+        "en": "Wadi Fira"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Biltine",
+            "ar": "بلتن"
+          },
+          "latitude": 14.52791,
+          "longitude": 20.92749
+        },
+        {
+          "name": {
+            "en": "Iriba",
+            "ar": "إريبا"
+          },
+          "latitude": 15.11667,
+          "longitude": 22.25
+        }
+      ]
+    }
+  ]
+}

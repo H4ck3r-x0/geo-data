@@ -1,0 +1,453 @@
+{
+  "code": "MR",
+  "iso3": "MRT",
+  "name": {
+    "en": "Mauritania",
+    "ar": "موريتانيا",
+    "de": "Mauretanien",
+    "es": "Mauritania",
+    "fr": "Mauritanie",
+    "hi": "मॉरिटानिया",
+    "it": "Mauritania",
+    "ja": "モーリタニア",
+    "ko": "모리타니",
+    "nl": "Mauritanië",
+    "pl": "Mauretania",
+    "pt": "Mauritânia",
+    "pt-BR": "Mauritânia",
+    "ru": "Мавритания",
+    "tr": "Moritanya",
+    "uk": "Мавританія",
+    "zh": "毛里塔尼亚"
+  },
+  "phone": "+222",
+  "currency": "MRU",
+  "timezone": "Africa/Nouakchott",
+  "flag": "🇲🇷",
+  "regions": [
+    {
+      "code": "MR-07",
+      "name": {
+        "en": "Adrar"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Atar",
+            "ar": "أطار"
+          },
+          "latitude": 20.5177,
+          "longitude": -13.04857
+        },
+        {
+          "name": {
+            "en": "Azougui"
+          },
+          "latitude": 20.56764,
+          "longitude": -13.11191
+        },
+        {
+          "name": {
+            "en": "Chingueṭṭi"
+          },
+          "latitude": 20.463,
+          "longitude": -12.362
+        },
+        {
+          "name": {
+            "en": "Ksar el Khali"
+          },
+          "latitude": 20.93333333,
+          "longitude": -11.61666667
+        }
+      ]
+    },
+    {
+      "code": "MR-03",
+      "name": {
+        "en": "Assaba"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Barkéwol"
+          },
+          "latitude": 16.64039,
+          "longitude": -12.49849
+        },
+        {
+          "name": {
+            "en": "Kiffa",
+            "ar": "كيفة"
+          },
+          "latitude": 16.62073,
+          "longitude": -11.40208
+        }
+      ]
+    },
+    {
+      "code": "MR-05",
+      "name": {
+        "en": "Brakna"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "’Elb el Jmel"
+          },
+          "latitude": 17.0105,
+          "longitude": -13.97102
+        },
+        {
+          "name": {
+            "en": "Aleg",
+            "ar": "ألاك"
+          },
+          "latitude": 17.05314,
+          "longitude": -13.91312
+        },
+        {
+          "name": {
+            "en": "Bofal"
+          },
+          "latitude": 16.41666667,
+          "longitude": -13.8
+        },
+        {
+          "name": {
+            "en": "Sori Malé"
+          },
+          "latitude": 16.95416667,
+          "longitude": -13.37916667
+        }
+      ]
+    },
+    {
+      "code": "MR-08",
+      "name": {
+        "en": "Dakhlet Nouadhibou"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Cansado"
+          },
+          "latitude": 20.85333333,
+          "longitude": -17.0325
+        },
+        {
+          "name": {
+            "en": "Iouik"
+          },
+          "latitude": 19.84944444,
+          "longitude": -16.33083333
+        },
+        {
+          "name": {
+            "en": "Nouadhibou",
+            "ar": "نواذيبو"
+          },
+          "latitude": 20.94188,
+          "longitude": -17.03842
+        }
+      ]
+    },
+    {
+      "code": "MR-04",
+      "name": {
+        "en": "Gorgol"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Kaédi"
+          },
+          "latitude": 16.15027,
+          "longitude": -13.5037
+        }
+      ]
+    },
+    {
+      "code": "MR-10",
+      "name": {
+        "en": "Guidimaka"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Sélibaby",
+            "ar": "سيلبابي"
+          },
+          "latitude": 15.15846,
+          "longitude": -12.1843
+        }
+      ]
+    },
+    {
+      "code": "MR-01",
+      "name": {
+        "en": "Hodh Ech Chargui"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Diade"
+          },
+          "latitude": 16.23333333,
+          "longitude": -7.41666667
+        },
+        {
+          "name": {
+            "en": "Kataouane"
+          },
+          "latitude": 16.06888889,
+          "longitude": -6.49888889
+        },
+        {
+          "name": {
+            "en": "Néma",
+            "ar": "النعمة"
+          },
+          "latitude": 16.61702,
+          "longitude": -7.25649
+        },
+        {
+          "name": {
+            "en": "Timbedra",
+            "ar": "تمبدغة"
+          },
+          "latitude": 16.24472222,
+          "longitude": -8.1675
+        }
+      ]
+    },
+    {
+      "code": "MR-02",
+      "name": {
+        "en": "Hodh El Gharbi"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Aioun",
+            "ar": "لعيون"
+          },
+          "latitude": 16.6614,
+          "longitude": -9.6149
+        },
+        {
+          "name": {
+            "en": "Ayoun el Atrous"
+          },
+          "latitude": 16.66666667,
+          "longitude": -9.61666667
+        },
+        {
+          "name": {
+            "en": "Togba"
+          },
+          "latitude": 17.4,
+          "longitude": -10.36666667
+        }
+      ]
+    },
+    {
+      "code": "MR-12",
+      "name": {
+        "en": "Inchiri"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Akjoujt"
+          },
+          "latitude": 19.74657,
+          "longitude": -14.38531
+        }
+      ]
+    },
+    {
+      "code": "MR-14",
+      "name": {
+        "en": "Nouakchott-Nord"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Dar-Naim"
+          },
+          "latitude": 18.03333333,
+          "longitude": -15.96666667
+        },
+        {
+          "name": {
+            "en": "Teyarett"
+          },
+          "latitude": 18.1289572,
+          "longitude": -15.9377834
+        },
+        {
+          "name": {
+            "en": "Toujouonine"
+          },
+          "latitude": 18.07169,
+          "longitude": -15.90311
+        }
+      ]
+    },
+    {
+      "code": "MR-13",
+      "name": {
+        "en": "Nouakchott-Ouest"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ksar"
+          },
+          "latitude": 18.1049033,
+          "longitude": -15.9644337
+        },
+        {
+          "name": {
+            "en": "Sebkha"
+          },
+          "latitude": 18.07555556,
+          "longitude": -16.00194444
+        },
+        {
+          "name": {
+            "en": "Tevragh-Zeina"
+          },
+          "latitude": 18.11011,
+          "longitude": -15.99931
+        }
+      ]
+    },
+    {
+      "code": "MR-15",
+      "name": {
+        "en": "Nouakchott-Sud"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Arafat"
+          },
+          "latitude": 18.04639,
+          "longitude": -15.97194
+        },
+        {
+          "name": {
+            "en": "Riyad"
+          },
+          "latitude": 18.0078427,
+          "longitude": -15.97404
+        }
+      ]
+    },
+    {
+      "code": "MR-09",
+      "name": {
+        "en": "Tagant"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Moudjeria"
+          },
+          "latitude": 17.9795514,
+          "longitude": -13.3979534
+        },
+        {
+          "name": {
+            "en": "Tichit"
+          },
+          "latitude": 18.4968626,
+          "longitude": -12.1219935
+        },
+        {
+          "name": {
+            "en": "Tijigja"
+          },
+          "latitude": 18.5164787,
+          "longitude": -12.9826476
+        }
+      ]
+    },
+    {
+      "code": "MR-11",
+      "name": {
+        "en": "Tiris Zemmour"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ain Ben Tili"
+          },
+          "latitude": 25.99444444,
+          "longitude": -9.55333333
+        },
+        {
+          "name": {
+            "en": "Chegga"
+          },
+          "latitude": 25.37194444,
+          "longitude": -5.78666667
+        },
+        {
+          "name": {
+            "en": "Fderîck"
+          },
+          "latitude": 22.67777778,
+          "longitude": -12.7075
+        },
+        {
+          "name": {
+            "en": "Zouérat"
+          },
+          "latitude": 22.73444444,
+          "longitude": -12.4725
+        },
+        {
+          "name": {
+            "en": "Zouerate",
+            "ar": "ازويرات"
+          },
+          "latitude": 22.73542,
+          "longitude": -12.47134
+        }
+      ]
+    },
+    {
+      "code": "MR-06",
+      "name": {
+        "en": "Trarza"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Legat"
+          },
+          "latitude": 16.75,
+          "longitude": -14.83333333
+        },
+        {
+          "name": {
+            "en": "Rosso",
+            "ar": "روصو"
+          },
+          "latitude": 16.51378,
+          "longitude": -15.80503
+        },
+        {
+          "name": {
+            "en": "Tékane"
+          },
+          "latitude": 16.60175,
+          "longitude": -15.34866
+        }
+      ]
+    }
+  ]
+}

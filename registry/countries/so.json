@@ -1,0 +1,531 @@
+{
+  "code": "SO",
+  "iso3": "SOM",
+  "name": {
+    "en": "Somalia",
+    "ar": "الصومال",
+    "de": "Somalia",
+    "es": "Somalia",
+    "fr": "Somalie",
+    "hi": "सोमालिया",
+    "it": "Somalia",
+    "ja": "ソマリア",
+    "ko": "소말리아",
+    "nl": "Somalië",
+    "pl": "Somalia",
+    "pt": "Somália",
+    "pt-BR": "Somália",
+    "ru": "Сомали",
+    "tr": "Somali",
+    "uk": "Сомалі",
+    "zh": "索马里"
+  },
+  "phone": "+252",
+  "currency": "SOS",
+  "timezone": "Africa/Mogadishu",
+  "flag": "🇸🇴",
+  "regions": [
+    {
+      "code": "SO-BK",
+      "name": {
+        "en": "Bakool"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Tayeeglow"
+          },
+          "latitude": 4.01897,
+          "longitude": 44.51111
+        },
+        {
+          "name": {
+            "en": "Waajid"
+          },
+          "latitude": 3.80958,
+          "longitude": 43.24627
+        },
+        {
+          "name": {
+            "en": "Xuddur"
+          },
+          "latitude": 4.12129,
+          "longitude": 43.88945
+        },
+        {
+          "name": {
+            "en": "Yeed"
+          },
+          "latitude": 4.55,
+          "longitude": 43.03333
+        }
+      ]
+    },
+    {
+      "code": "SO-BN",
+      "name": {
+        "en": "Banaadir"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Mogadishu",
+            "ar": "مقديشو"
+          },
+          "latitude": 2.03711,
+          "longitude": 45.34375
+        }
+      ]
+    },
+    {
+      "code": "SO-BR",
+      "name": {
+        "en": "Bari"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bandarbeyla"
+          },
+          "latitude": 9.4942,
+          "longitude": 50.8122
+        },
+        {
+          "name": {
+            "en": "Bargaal"
+          },
+          "latitude": 11.28636,
+          "longitude": 51.0773
+        },
+        {
+          "name": {
+            "en": "Bereeda"
+          },
+          "latitude": 11.87037,
+          "longitude": 51.05795
+        },
+        {
+          "name": {
+            "en": "Bosaso",
+            "ar": "بوصاصو"
+          },
+          "latitude": 11.28421,
+          "longitude": 49.18158
+        },
+        {
+          "name": {
+            "en": "Caluula"
+          },
+          "latitude": 11.96611,
+          "longitude": 50.75694
+        },
+        {
+          "name": {
+            "en": "Iskushuban"
+          },
+          "latitude": 10.2837,
+          "longitude": 50.23
+        },
+        {
+          "name": {
+            "en": "Qandala",
+            "ar": "قندلة"
+          },
+          "latitude": 11.47197,
+          "longitude": 49.87282
+        }
+      ]
+    },
+    {
+      "code": "SO-BY",
+      "name": {
+        "en": "Bay"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Baidoa",
+            "ar": "بيدوا"
+          },
+          "latitude": 3.11383,
+          "longitude": 43.6498
+        },
+        {
+          "name": {
+            "en": "Buurhakaba"
+          },
+          "latitude": 2.80257,
+          "longitude": 44.07805
+        }
+      ]
+    },
+    {
+      "code": "SO-GA",
+      "name": {
+        "en": "Galguduud"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ceelbuur"
+          },
+          "latitude": 4.68501,
+          "longitude": 46.6176
+        },
+        {
+          "name": {
+            "en": "Ceeldheer"
+          },
+          "latitude": 3.84878,
+          "longitude": 47.18064
+        },
+        {
+          "name": {
+            "en": "Dhuusamarreeb"
+          },
+          "latitude": 5.53597,
+          "longitude": 46.38666
+        }
+      ]
+    },
+    {
+      "code": "SO-GE",
+      "name": {
+        "en": "Gedo"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Baardheere"
+          },
+          "latitude": 2.34464,
+          "longitude": 42.27644
+        },
+        {
+          "name": {
+            "en": "Garbahaarrey"
+          },
+          "latitude": 3.32892,
+          "longitude": 42.22091
+        },
+        {
+          "name": {
+            "en": "Luuq"
+          },
+          "latitude": 3.80315,
+          "longitude": 42.54417
+        }
+      ]
+    },
+    {
+      "code": "SO-HI",
+      "name": {
+        "en": "Hiran"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Beledweyne",
+            "ar": "بلد وين"
+          },
+          "latitude": 4.73583,
+          "longitude": 45.20361
+        },
+        {
+          "name": {
+            "en": "Buulobarde"
+          },
+          "latitude": 3.85375,
+          "longitude": 45.56744
+        },
+        {
+          "name": {
+            "en": "Jalalaqsi"
+          },
+          "latitude": 3.3766,
+          "longitude": 45.5996
+        }
+      ]
+    },
+    {
+      "code": "SO-JH",
+      "name": {
+        "en": "Lower Juba"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Buur Gaabo"
+          },
+          "latitude": -1.21917,
+          "longitude": 41.83725
+        },
+        {
+          "name": {
+            "en": "Jamaame"
+          },
+          "latitude": 0.06968,
+          "longitude": 42.74497
+        },
+        {
+          "name": {
+            "en": "Kismayo"
+          },
+          "latitude": -0.35817,
+          "longitude": 42.54536
+        }
+      ]
+    },
+    {
+      "code": "SO-SH",
+      "name": {
+        "en": "Lower Shebelle"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Afgooye"
+          },
+          "latitude": 2.1381,
+          "longitude": 45.1212
+        },
+        {
+          "name": {
+            "en": "Marka",
+            "ar": "مركة‎"
+          },
+          "latitude": 1.71594,
+          "longitude": 44.77166
+        },
+        {
+          "name": {
+            "en": "Qoryooley"
+          },
+          "latitude": 1.78784,
+          "longitude": 44.52999
+        },
+        {
+          "name": {
+            "en": "Wanlaweyn"
+          },
+          "latitude": 2.6185,
+          "longitude": 44.8938
+        }
+      ]
+    },
+    {
+      "code": "SO-JD",
+      "name": {
+        "en": "Middle Juba"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Dujuuma"
+          },
+          "latitude": 1.25311,
+          "longitude": 42.57377
+        },
+        {
+          "name": {
+            "en": "Jilib"
+          },
+          "latitude": 0.48829,
+          "longitude": 42.78535
+        },
+        {
+          "name": {
+            "en": "Saacow"
+          },
+          "latitude": 1.62794,
+          "longitude": 42.44067
+        }
+      ]
+    },
+    {
+      "code": "SO-SD",
+      "name": {
+        "en": "Middle Shebelle"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Cadale"
+          },
+          "latitude": 2.7603,
+          "longitude": 46.3222
+        },
+        {
+          "name": {
+            "en": "Jawhar"
+          },
+          "latitude": 2.78087,
+          "longitude": 45.50048
+        },
+        {
+          "name": {
+            "en": "Mahaddayweyne"
+          },
+          "latitude": 2.9726,
+          "longitude": 45.5347
+        }
+      ]
+    },
+    {
+      "code": "SO-MU",
+      "name": {
+        "en": "Mudug"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Gaalkacyo",
+            "ar": "جالكعيو"
+          },
+          "latitude": 6.76972,
+          "longitude": 47.43083
+        },
+        {
+          "name": {
+            "en": "Hobyo"
+          },
+          "latitude": 5.3505,
+          "longitude": 48.5268
+        },
+        {
+          "name": {
+            "en": "Xarardheere"
+          },
+          "latitude": 4.6544,
+          "longitude": 47.8575
+        }
+      ]
+    },
+    {
+      "code": "SO-NU",
+      "name": {
+        "en": "Nugal"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Eyl"
+          },
+          "latitude": 7.9803,
+          "longitude": 49.8164
+        },
+        {
+          "name": {
+            "en": "Garoowe",
+            "ar": "غاروي‎"
+          },
+          "latitude": 8.40207,
+          "longitude": 48.48284
+        }
+      ]
+    },
+    {
+      "code": "SO-SA",
+      "name": {
+        "en": "Sanaag"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ceerigaabo"
+          },
+          "latitude": 10.61616,
+          "longitude": 47.36795
+        },
+        {
+          "name": {
+            "en": "Las Khorey"
+          },
+          "latitude": 11.1595,
+          "longitude": 48.1967
+        }
+      ]
+    },
+    {
+      "code": "SO-SO",
+      "name": {
+        "en": "Sool"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Aynaba"
+          },
+          "latitude": 8.95,
+          "longitude": 46.41666667
+        },
+        {
+          "name": {
+            "en": "Hudun"
+          },
+          "latitude": 9.15416667,
+          "longitude": 47.47694444
+        },
+        {
+          "name": {
+            "en": "Las Anod"
+          },
+          "latitude": 8.476,
+          "longitude": 47.357
+        }
+      ]
+    },
+    {
+      "code": "SO-TO",
+      "name": {
+        "en": "Togdheer"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Burao",
+            "ar": "برعو"
+          },
+          "latitude": 9.52213,
+          "longitude": 45.53363
+        },
+        {
+          "name": {
+            "en": "Ceek"
+          },
+          "latitude": 8.99907,
+          "longitude": 45.35824
+        },
+        {
+          "name": {
+            "en": "Oodweyne"
+          },
+          "latitude": 9.4092,
+          "longitude": 45.06397
+        }
+      ]
+    },
+    {
+      "code": "SO-WO",
+      "name": {
+        "en": "Woqooyi Galbeed"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Gabiley"
+          },
+          "latitude": 9.7,
+          "longitude": 43.62361111
+        },
+        {
+          "name": {
+            "en": "Hargeisa"
+          },
+          "latitude": 9.56305556,
+          "longitude": 44.0675
+        }
+      ]
+    }
+  ]
+}

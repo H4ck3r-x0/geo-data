@@ -1,0 +1,125 @@
+{
+  "code": "BN",
+  "iso3": "BRN",
+  "name": {
+    "en": "Brunei",
+    "ar": "بروناي",
+    "de": "Brunei",
+    "es": "Brunei",
+    "fr": "Brunei",
+    "hi": "ब्रुनेई",
+    "it": "Brunei",
+    "ja": "ブルネイ・ダルサラーム",
+    "ko": "브루나이",
+    "nl": "Brunei",
+    "pl": "Brunei",
+    "pt": "Brunei",
+    "pt-BR": "Brunei",
+    "ru": "Бруней",
+    "tr": "Brunei",
+    "uk": "Бруней",
+    "zh": "文莱"
+  },
+  "phone": "+673",
+  "currency": "BND",
+  "timezone": "Asia/Brunei",
+  "flag": "🇧🇳",
+  "regions": [
+    {
+      "code": "BN-BE",
+      "name": {
+        "en": "Belait"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Kuala Belait"
+          },
+          "latitude": 4.58361,
+          "longitude": 114.2312
+        },
+        {
+          "name": {
+            "en": "Seria"
+          },
+          "latitude": 4.60637,
+          "longitude": 114.32476
+        }
+      ]
+    },
+    {
+      "code": "BN-BM",
+      "name": {
+        "en": "Brunei-Muara"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bandar Seri Begawan",
+            "ar": "بندر سري بكاوان"
+          },
+          "latitude": 4.89035,
+          "longitude": 114.94006
+        },
+        {
+          "name": {
+            "en": "Berakas A"
+          },
+          "latitude": 4.97032,
+          "longitude": 114.92989
+        },
+        {
+          "name": {
+            "en": "Kapok"
+          },
+          "latitude": 5.02447,
+          "longitude": 115.04664
+        },
+        {
+          "name": {
+            "en": "Mentiri"
+          },
+          "latitude": 4.97058,
+          "longitude": 115.02078
+        },
+        {
+          "name": {
+            "en": "Serasa"
+          },
+          "latitude": 5.01718,
+          "longitude": 115.05841
+        }
+      ]
+    },
+    {
+      "code": "BN-TE",
+      "name": {
+        "en": "Temburong"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bangar"
+          },
+          "latitude": 4.70861,
+          "longitude": 115.07167
+        }
+      ]
+    },
+    {
+      "code": "BN-TU",
+      "name": {
+        "en": "Tutong"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Tutong"
+          },
+          "latitude": 4.80278,
+          "longitude": 114.64917
+        }
+      ]
+    }
+  ]
+}

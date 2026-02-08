@@ -1,0 +1,1209 @@
+{
+  "code": "SY",
+  "iso3": "SYR",
+  "name": {
+    "en": "Syria",
+    "ar": "سوريا",
+    "de": "Syrien",
+    "es": "Siria",
+    "fr": "Syrie",
+    "hi": "सीरिया",
+    "it": "Siria",
+    "ja": "シリア・アラブ共和国",
+    "ko": "시리아",
+    "nl": "Syrië",
+    "pl": "Syria",
+    "pt": "Síria",
+    "pt-BR": "Síria",
+    "ru": "Сирия",
+    "tr": "Suriye",
+    "uk": "Сирія",
+    "zh": "叙利亚"
+  },
+  "phone": "+963",
+  "currency": "SYP",
+  "timezone": "Asia/Damascus",
+  "flag": "🇸🇾",
+  "regions": [
+    {
+      "code": "SY-HA",
+      "name": {
+        "en": "Al-Hasakah"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ad Darbāsīyah",
+            "ar": "الدرباسية"
+          },
+          "latitude": 37.07279,
+          "longitude": 40.65199
+        },
+        {
+          "name": {
+            "en": "Al Ḩasakah",
+            "ar": "الحسكة"
+          },
+          "latitude": 36.50237,
+          "longitude": 40.74772
+        },
+        {
+          "name": {
+            "en": "Al Mālikīyah"
+          },
+          "latitude": 37.17701,
+          "longitude": 42.14006
+        },
+        {
+          "name": {
+            "en": "Al Qāmishlī"
+          },
+          "latitude": 37.05215,
+          "longitude": 41.23142
+        },
+        {
+          "name": {
+            "en": "Al-Malikiyah"
+          },
+          "latitude": 36.94113,
+          "longitude": 41.90157
+        },
+        {
+          "name": {
+            "en": "Amude",
+            "ar": "عامودة"
+          },
+          "latitude": 37.10417,
+          "longitude": 40.93
+        }
+      ]
+    },
+    {
+      "code": "SY-RA",
+      "name": {
+        "en": "Al-Raqqah"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Al-Thawrah"
+          },
+          "latitude": 35.79843,
+          "longitude": 38.3455
+        },
+        {
+          "name": {
+            "en": "Ar Raqqah",
+            "ar": "الرقة"
+          },
+          "latitude": 35.95283,
+          "longitude": 39.00788
+        },
+        {
+          "name": {
+            "en": "Ar-Raqqah"
+          },
+          "latitude": 35.87204,
+          "longitude": 39.04706
+        },
+        {
+          "name": {
+            "en": "Ath Thawrah",
+            "ar": "ثورة"
+          },
+          "latitude": 35.83758,
+          "longitude": 38.54828
+        },
+        {
+          "name": {
+            "en": "Tall Abyaḑ"
+          },
+          "latitude": 36.69648,
+          "longitude": 38.95382
+        },
+        {
+          "name": {
+            "en": "Tell Abyad"
+          },
+          "latitude": 36.4828,
+          "longitude": 39.2136
+        }
+      ]
+    },
+    {
+      "code": "SY-HL",
+      "name": {
+        "en": "Aleppo"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "‘Afrīn",
+            "ar": "عفرين"
+          },
+          "latitude": 36.51194,
+          "longitude": 36.86954
+        },
+        {
+          "name": {
+            "en": "‘Ayn al ‘Arab",
+            "ar": "عين العرب"
+          },
+          "latitude": 36.89095,
+          "longitude": 38.35347
+        },
+        {
+          "name": {
+            "en": "Afrin"
+          },
+          "latitude": 36.54891,
+          "longitude": 36.79295
+        },
+        {
+          "name": {
+            "en": "Al Atārib"
+          },
+          "latitude": 36.13907,
+          "longitude": 36.82504
+        },
+        {
+          "name": {
+            "en": "Al Bāb",
+            "ar": "الباب"
+          },
+          "latitude": 36.37051,
+          "longitude": 37.5157
+        },
+        {
+          "name": {
+            "en": "Al-Bab"
+          },
+          "latitude": 36.30946,
+          "longitude": 37.53277
+        },
+        {
+          "name": {
+            "en": "Aleppo",
+            "ar": "حلب"
+          },
+          "latitude": 36.20124,
+          "longitude": 37.16117
+        },
+        {
+          "name": {
+            "en": "As Safīrah",
+            "ar": "السفيرة"
+          },
+          "latitude": 36.07696,
+          "longitude": 37.37251
+        },
+        {
+          "name": {
+            "en": "Azaz"
+          },
+          "latitude": 36.49986,
+          "longitude": 37.18382
+        },
+        {
+          "name": {
+            "en": "Dayr Ḩāfir",
+            "ar": "دير حافر"
+          },
+          "latitude": 36.15694,
+          "longitude": 37.70778
+        },
+        {
+          "name": {
+            "en": "I‘zāz",
+            "ar": "A‘zāz"
+          },
+          "latitude": 36.58662,
+          "longitude": 37.04628
+        },
+        {
+          "name": {
+            "en": "Jarābulus",
+            "ar": "جرابلس"
+          },
+          "latitude": 36.8175,
+          "longitude": 38.01111
+        },
+        {
+          "name": {
+            "en": "Kafr Şaghīr"
+          },
+          "latitude": 36.29264,
+          "longitude": 37.2559
+        },
+        {
+          "name": {
+            "en": "Khanāşir"
+          },
+          "latitude": 35.78159,
+          "longitude": 37.49919
+        },
+        {
+          "name": {
+            "en": "Manbij",
+            "ar": "منبج"
+          },
+          "latitude": 36.52815,
+          "longitude": 37.95495
+        },
+        {
+          "name": {
+            "en": "Manbij District"
+          },
+          "latitude": 36.06687,
+          "longitude": 37.91735
+        },
+        {
+          "name": {
+            "en": "Mount Simeon"
+          },
+          "latitude": 35.99956,
+          "longitude": 37.08473
+        },
+        {
+          "name": {
+            "en": "Nubl",
+            "ar": "نبل"
+          },
+          "latitude": 36.37867,
+          "longitude": 36.99294
+        },
+        {
+          "name": {
+            "en": "Şūrān"
+          },
+          "latitude": 36.56579,
+          "longitude": 37.2127
+        },
+        {
+          "name": {
+            "en": "Tādif",
+            "ar": "تادف"
+          },
+          "latitude": 36.34814,
+          "longitude": 37.5309
+        },
+        {
+          "name": {
+            "en": "Tall Rif‘at",
+            "ar": "تل رفعت"
+          },
+          "latitude": 36.47229,
+          "longitude": 37.09471
+        }
+      ]
+    },
+    {
+      "code": "SY-SU",
+      "name": {
+        "en": "As-Suwayda"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "As-Suwayda",
+            "ar": "السويداء"
+          },
+          "latitude": 32.70896,
+          "longitude": 36.56951
+        },
+        {
+          "name": {
+            "en": "As-Suwayda District"
+          },
+          "latitude": 32.78127,
+          "longitude": 36.86502
+        },
+        {
+          "name": {
+            "en": "Şalākhid"
+          },
+          "latitude": 32.87271,
+          "longitude": 36.57271
+        },
+        {
+          "name": {
+            "en": "Şalkhad"
+          },
+          "latitude": 32.492,
+          "longitude": 36.71114
+        },
+        {
+          "name": {
+            "en": "Salkhad District"
+          },
+          "latitude": 32.51779,
+          "longitude": 36.91954
+        },
+        {
+          "name": {
+            "en": "Shahbā"
+          },
+          "latitude": 32.85514,
+          "longitude": 36.62896
+        },
+        {
+          "name": {
+            "en": "Shahba District"
+          },
+          "latitude": 33.04282,
+          "longitude": 36.72034
+        }
+      ]
+    },
+    {
+      "code": "SY-DI",
+      "name": {
+        "en": "Damascus"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Damascus",
+            "ar": "دمشق"
+          },
+          "latitude": 33.5102,
+          "longitude": 36.29128
+        }
+      ]
+    },
+    {
+      "code": "SY-DR",
+      "name": {
+        "en": "Daraa"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Al Ḩarāk",
+            "ar": "الحراك"
+          },
+          "latitude": 32.74932,
+          "longitude": 36.30994
+        },
+        {
+          "name": {
+            "en": "Al Muzayrīb"
+          },
+          "latitude": 32.71084,
+          "longitude": 36.02751
+        },
+        {
+          "name": {
+            "en": "Al-Sanamayn"
+          },
+          "latitude": 33.12559,
+          "longitude": 36.2754
+        },
+        {
+          "name": {
+            "en": "Aş Şanamayn",
+            "ar": "الصنمين"
+          },
+          "latitude": 33.07186,
+          "longitude": 36.18316
+        },
+        {
+          "name": {
+            "en": "Ash Shaykh Miskīn",
+            "ar": "شيخ مسكين"
+          },
+          "latitude": 32.82944,
+          "longitude": 36.15933
+        },
+        {
+          "name": {
+            "en": "Buşrá ash Shām"
+          },
+          "latitude": 32.52013,
+          "longitude": 36.48256
+        },
+        {
+          "name": {
+            "en": "Dar‘ā",
+            "ar": "درعا"
+          },
+          "latitude": 32.61889,
+          "longitude": 36.10213
+        },
+        {
+          "name": {
+            "en": "Ghabāghib"
+          },
+          "latitude": 33.18235,
+          "longitude": 36.22534
+        },
+        {
+          "name": {
+            "en": "Inkhil",
+            "ar": "انخل"
+          },
+          "latitude": 33.01809,
+          "longitude": 36.12828
+        },
+        {
+          "name": {
+            "en": "Izra"
+          },
+          "latitude": 32.90121,
+          "longitude": 36.16144
+        },
+        {
+          "name": {
+            "en": "Izra‘"
+          },
+          "latitude": 32.8706,
+          "longitude": 36.25453
+        },
+        {
+          "name": {
+            "en": "Jāsim",
+            "ar": "جاسم"
+          },
+          "latitude": 32.99233,
+          "longitude": 36.06018
+        },
+        {
+          "name": {
+            "en": "Nawá"
+          },
+          "latitude": 32.89044,
+          "longitude": 36.0399
+        },
+        {
+          "name": {
+            "en": "Ţafas",
+            "ar": "طفس"
+          },
+          "latitude": 32.73709,
+          "longitude": 36.06654
+        },
+        {
+          "name": {
+            "en": "Tasīl"
+          },
+          "latitude": 32.83395,
+          "longitude": 35.96973
+        }
+      ]
+    },
+    {
+      "code": "SY-DY",
+      "name": {
+        "en": "Deir ez-Zor"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Al Mayādīn",
+            "ar": "ميادين"
+          },
+          "latitude": 35.01982,
+          "longitude": 40.45154
+        },
+        {
+          "name": {
+            "en": "Ālbū Kamāl",
+            "ar": "البو كمال"
+          },
+          "latitude": 34.45226,
+          "longitude": 40.91854
+        },
+        {
+          "name": {
+            "en": "Deir ez-Zor",
+            "ar": "دير الزور"
+          },
+          "latitude": 35.33588,
+          "longitude": 40.14084
+        },
+        {
+          "name": {
+            "en": "Hajīn",
+            "ar": "هجين"
+          },
+          "latitude": 34.69508,
+          "longitude": 40.83138
+        },
+        {
+          "name": {
+            "en": "Subaykhān",
+            "ar": "سبيخان"
+          },
+          "latitude": 34.85305,
+          "longitude": 40.59987
+        }
+      ]
+    },
+    {
+      "code": "SY-HM",
+      "name": {
+        "en": "Hama"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Al-Salamiyah"
+          },
+          "latitude": 35.14398,
+          "longitude": 37.59235
+        },
+        {
+          "name": {
+            "en": "As Salamīyah",
+            "ar": "سلمية"
+          },
+          "latitude": 35.01127,
+          "longitude": 37.05324
+        },
+        {
+          "name": {
+            "en": "As Suqaylibīyah"
+          },
+          "latitude": 35.36674,
+          "longitude": 36.39359
+        },
+        {
+          "name": {
+            "en": "Ḩalfāyā",
+            "ar": "حلفايا"
+          },
+          "latitude": 35.26014,
+          "longitude": 36.60581
+        },
+        {
+          "name": {
+            "en": "Hama"
+          },
+          "latitude": 35.28577,
+          "longitude": 37.12626
+        },
+        {
+          "name": {
+            "en": "Ḩamāh",
+            "ar": "حماة"
+          },
+          "latitude": 35.13179,
+          "longitude": 36.75783
+        },
+        {
+          "name": {
+            "en": "Kafr Zaytā",
+            "ar": "كفر زيتة"
+          },
+          "latitude": 35.37425,
+          "longitude": 36.6033
+        },
+        {
+          "name": {
+            "en": "Maşyāf",
+            "ar": "مصياف"
+          },
+          "latitude": 35.0653,
+          "longitude": 36.3406
+        },
+        {
+          "name": {
+            "en": "Masyaf District"
+          },
+          "latitude": 35.10335,
+          "longitude": 36.3392
+        },
+        {
+          "name": {
+            "en": "Mūrak"
+          },
+          "latitude": 35.37615,
+          "longitude": 36.6897
+        },
+        {
+          "name": {
+            "en": "Souran",
+            "ar": "Şūrān"
+          },
+          "latitude": 35.29193,
+          "longitude": 36.74848
+        },
+        {
+          "name": {
+            "en": "Tall Salḩab"
+          },
+          "latitude": 35.25884,
+          "longitude": 36.38461
+        },
+        {
+          "name": {
+            "en": "Ţayyibat al Imām",
+            "ar": "طيبة الامام"
+          },
+          "latitude": 35.26592,
+          "longitude": 36.71219
+        },
+        {
+          "name": {
+            "en": "Tremseh"
+          },
+          "latitude": 35.27181,
+          "longitude": 36.50395
+        }
+      ]
+    },
+    {
+      "code": "SY-HI",
+      "name": {
+        "en": "Homs"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Al Ghanţū"
+          },
+          "latitude": 34.82202,
+          "longitude": 36.69613
+        },
+        {
+          "name": {
+            "en": "Al Qaryatayn",
+            "ar": "القريتين"
+          },
+          "latitude": 34.22956,
+          "longitude": 37.24066
+        },
+        {
+          "name": {
+            "en": "Al Quşayr",
+            "ar": "القصير"
+          },
+          "latitude": 34.5078,
+          "longitude": 36.58029
+        },
+        {
+          "name": {
+            "en": "Al-Rastan"
+          },
+          "latitude": 34.871,
+          "longitude": 36.77245
+        },
+        {
+          "name": {
+            "en": "Ar Rastan",
+            "ar": "الرستن"
+          },
+          "latitude": 34.92667,
+          "longitude": 36.73241
+        },
+        {
+          "name": {
+            "en": "Hisya"
+          },
+          "latitude": 34.41197,
+          "longitude": 36.75867
+        },
+        {
+          "name": {
+            "en": "Homs"
+          },
+          "latitude": 34.72682,
+          "longitude": 36.72339
+        },
+        {
+          "name": {
+            "en": "Kafr Lāhā",
+            "ar": "كفر لاها"
+          },
+          "latitude": 34.89469,
+          "longitude": 36.49582
+        },
+        {
+          "name": {
+            "en": "Mukharram al Fawqānī"
+          },
+          "latitude": 34.81521,
+          "longitude": 37.08677
+        },
+        {
+          "name": {
+            "en": "Şadad"
+          },
+          "latitude": 34.31248,
+          "longitude": 36.92562
+        },
+        {
+          "name": {
+            "en": "Tadmur",
+            "ar": "تدمر"
+          },
+          "latitude": 34.5624,
+          "longitude": 38.28402
+        },
+        {
+          "name": {
+            "en": "Tadmur District"
+          },
+          "latitude": 34.42401,
+          "longitude": 38.6458
+        },
+        {
+          "name": {
+            "en": "Tallbīsah",
+            "ar": "تلبيسة"
+          },
+          "latitude": 34.84072,
+          "longitude": 36.73092
+        },
+        {
+          "name": {
+            "en": "Tallkalakh",
+            "ar": "تل كلخ"
+          },
+          "latitude": 34.66842,
+          "longitude": 36.25995
+        }
+      ]
+    },
+    {
+      "code": "SY-ID",
+      "name": {
+        "en": "Idlib"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ad Dānā",
+            "ar": "الدانا"
+          },
+          "latitude": 36.21254,
+          "longitude": 36.76998
+        },
+        {
+          "name": {
+            "en": "Arīḩā"
+          },
+          "latitude": 35.81374,
+          "longitude": 36.60964
+        },
+        {
+          "name": {
+            "en": "Armanāz"
+          },
+          "latitude": 36.08363,
+          "longitude": 36.5031
+        },
+        {
+          "name": {
+            "en": "Binnish",
+            "ar": "بنش"
+          },
+          "latitude": 35.95664,
+          "longitude": 36.7138
+        },
+        {
+          "name": {
+            "en": "Darkūsh"
+          },
+          "latitude": 35.9918,
+          "longitude": 36.39361
+        },
+        {
+          "name": {
+            "en": "Harem"
+          },
+          "latitude": 36.14014,
+          "longitude": 36.56535
+        },
+        {
+          "name": {
+            "en": "Ḩārim"
+          },
+          "latitude": 36.21176,
+          "longitude": 36.52078
+        },
+        {
+          "name": {
+            "en": "Idlib",
+            "ar": "إدلب"
+          },
+          "latitude": 35.93062,
+          "longitude": 36.63393
+        },
+        {
+          "name": {
+            "en": "Jisr al-Shughur"
+          },
+          "latitude": 35.87756,
+          "longitude": 36.32901
+        },
+        {
+          "name": {
+            "en": "Jisr ash Shughūr",
+            "ar": "جسر الشغور"
+          },
+          "latitude": 35.81418,
+          "longitude": 36.31983
+        },
+        {
+          "name": {
+            "en": "Kafr Takhārīm",
+            "ar": "كفر تخاريم"
+          },
+          "latitude": 36.1168,
+          "longitude": 36.51522
+        },
+        {
+          "name": {
+            "en": "Kafranbel",
+            "ar": "كفر نبل"
+          },
+          "latitude": 35.61376,
+          "longitude": 36.56449
+        },
+        {
+          "name": {
+            "en": "Khān Shaykhūn",
+            "ar": "خان شيخون"
+          },
+          "latitude": 35.44208,
+          "longitude": 36.65095
+        },
+        {
+          "name": {
+            "en": "Ma‘arratmişrīn",
+            "ar": "معرة مصرين"
+          },
+          "latitude": 36.01152,
+          "longitude": 36.67183
+        },
+        {
+          "name": {
+            "en": "Maarrat al-Nu'man"
+          },
+          "latitude": 35.53858,
+          "longitude": 36.79193
+        },
+        {
+          "name": {
+            "en": "Salqīn",
+            "ar": "سلقين"
+          },
+          "latitude": 36.13865,
+          "longitude": 36.45244
+        },
+        {
+          "name": {
+            "en": "Sarāqib",
+            "ar": "سراقب"
+          },
+          "latitude": 35.86447,
+          "longitude": 36.80591
+        },
+        {
+          "name": {
+            "en": "Sarmīn"
+          },
+          "latitude": 35.90403,
+          "longitude": 36.72501
+        },
+        {
+          "name": {
+            "en": "Taftanāz"
+          },
+          "latitude": 35.99832,
+          "longitude": 36.78579
+        }
+      ]
+    },
+    {
+      "code": "SY-LA",
+      "name": {
+        "en": "Latakia"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Al-Haffah"
+          },
+          "latitude": 35.59687,
+          "longitude": 36.11198
+        },
+        {
+          "name": {
+            "en": "Jablah",
+            "ar": "جبلة"
+          },
+          "latitude": 35.36211,
+          "longitude": 35.92759
+        },
+        {
+          "name": {
+            "en": "Jableh"
+          },
+          "latitude": 35.29048,
+          "longitude": 36.0449
+        },
+        {
+          "name": {
+            "en": "Kassab"
+          },
+          "latitude": 35.92639,
+          "longitude": 35.9897
+        },
+        {
+          "name": {
+            "en": "Latakia",
+            "ar": "لاذقية"
+          },
+          "latitude": 35.53168,
+          "longitude": 35.79011
+        },
+        {
+          "name": {
+            "en": "Latakia District"
+          },
+          "latitude": 35.72426,
+          "longitude": 35.9415
+        },
+        {
+          "name": {
+            "en": "Qardaha"
+          },
+          "latitude": 35.39593,
+          "longitude": 36.08603
+        },
+        {
+          "name": {
+            "en": "Şlinfah"
+          },
+          "latitude": 35.59822,
+          "longitude": 36.1877
+        }
+      ]
+    },
+    {
+      "code": "SY-QU",
+      "name": {
+        "en": "Quneitra"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Al Qunayţirah",
+            "ar": "القنيطرة"
+          },
+          "latitude": 33.12595,
+          "longitude": 35.82461
+        }
+      ]
+    },
+    {
+      "code": "SY-RD",
+      "name": {
+        "en": "Rif Dimashq"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "‘Irbīn",
+            "ar": "عربين"
+          },
+          "latitude": 33.53719,
+          "longitude": 36.36635
+        },
+        {
+          "name": {
+            "en": "Al Kiswah",
+            "ar": "الكسوة"
+          },
+          "latitude": 33.3581,
+          "longitude": 36.2419
+        },
+        {
+          "name": {
+            "en": "Al Quţayfah",
+            "ar": "القطيفة"
+          },
+          "latitude": 33.73848,
+          "longitude": 36.60071
+        },
+        {
+          "name": {
+            "en": "Al-Zabadani"
+          },
+          "latitude": 33.70819,
+          "longitude": 36.11198
+        },
+        {
+          "name": {
+            "en": "An Nabk",
+            "ar": "النبك"
+          },
+          "latitude": 34.02403,
+          "longitude": 36.72848
+        },
+        {
+          "name": {
+            "en": "At Tall",
+            "ar": "التل"
+          },
+          "latitude": 33.61033,
+          "longitude": 36.3107
+        },
+        {
+          "name": {
+            "en": "Az Zabadānī",
+            "ar": "الزبداني"
+          },
+          "latitude": 33.72488,
+          "longitude": 36.1005
+        },
+        {
+          "name": {
+            "en": "Dārayyā",
+            "ar": "داريّا"
+          },
+          "latitude": 33.45835,
+          "longitude": 36.23256
+        },
+        {
+          "name": {
+            "en": "Dayr al ‘Aşāfīr"
+          },
+          "latitude": 33.46585,
+          "longitude": 36.42044
+        },
+        {
+          "name": {
+            "en": "Douma",
+            "ar": "Dūmā"
+          },
+          "latitude": 33.57175,
+          "longitude": 36.4027
+        },
+        {
+          "name": {
+            "en": "Ḩarastā",
+            "ar": "حرستا"
+          },
+          "latitude": 33.55869,
+          "longitude": 36.36515
+        },
+        {
+          "name": {
+            "en": "Jaramānā"
+          },
+          "latitude": 33.4862,
+          "longitude": 36.34614
+        },
+        {
+          "name": {
+            "en": "Jayrūd",
+            "ar": "جيرود"
+          },
+          "latitude": 33.80709,
+          "longitude": 36.73861
+        },
+        {
+          "name": {
+            "en": "Ma‘lūlā"
+          },
+          "latitude": 33.84529,
+          "longitude": 36.54514
+        },
+        {
+          "name": {
+            "en": "Medaya"
+          },
+          "latitude": 33.69032,
+          "longitude": 36.10354
+        },
+        {
+          "name": {
+            "en": "Qārah",
+            "ar": "قارة"
+          },
+          "latitude": 34.15558,
+          "longitude": 36.74284
+        },
+        {
+          "name": {
+            "en": "Qaţanā",
+            "ar": "قطنا"
+          },
+          "latitude": 33.43757,
+          "longitude": 36.07888
+        },
+        {
+          "name": {
+            "en": "Şaydnāyā"
+          },
+          "latitude": 33.69473,
+          "longitude": 36.37146
+        },
+        {
+          "name": {
+            "en": "Yabrūd",
+            "ar": "يبرود"
+          },
+          "latitude": 33.96921,
+          "longitude": 36.65729
+        }
+      ]
+    },
+    {
+      "code": "SY-TA",
+      "name": {
+        "en": "Tartus"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ad Duraykīsh"
+          },
+          "latitude": 34.89514,
+          "longitude": 36.14303
+        },
+        {
+          "name": {
+            "en": "Bāniyās",
+            "ar": "بانياس"
+          },
+          "latitude": 35.18188,
+          "longitude": 35.94871
+        },
+        {
+          "name": {
+            "en": "Kaff al-Jaa"
+          },
+          "latitude": 35.08638,
+          "longitude": 36.20605
+        },
+        {
+          "name": {
+            "en": "Safita"
+          },
+          "latitude": 34.80419,
+          "longitude": 36.12293
+        },
+        {
+          "name": {
+            "en": "Satita",
+            "ar": "Şāfītā"
+          },
+          "latitude": 34.82099,
+          "longitude": 36.11773
+        },
+        {
+          "name": {
+            "en": "Tartouss",
+            "ar": "طرطوس"
+          },
+          "latitude": 34.88902,
+          "longitude": 35.88659
+        }
+      ]
+    }
+  ]
+}

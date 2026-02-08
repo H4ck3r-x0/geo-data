@@ -1,0 +1,90 @@
+{
+  "code": "BQ",
+  "iso3": "BES",
+  "name": {
+    "en": "Bonaire, Sint Eustatius and Saba",
+    "ar": "بونير، سينت أوستاتيوس وسابا",
+    "de": "Bonaire, Sint Eustatius und Saba",
+    "fr": "Bonaire, Saint-Eustache et Saba",
+    "hi": "बोनेयर, सिंट यूस्टैटियस और सबा",
+    "it": "Bonaire, Saint-Eustache e Saba",
+    "ko": "보네르 섬",
+    "pl": "Bonaire, Sint Eustatius i Saba",
+    "pt": "Bonaire",
+    "pt-BR": "Bonaire",
+    "ru": "Бонайре, Синт-Эстатиус и Саба",
+    "tr": "Karayip Hollandasi",
+    "uk": "Бонайре, Сент-Естатіус і Саба",
+    "zh": "博内尔岛、圣尤斯特歇斯和萨巴岛"
+  },
+  "phone": "+599",
+  "currency": "USD",
+  "timezone": "America/Curacao",
+  "flag": "🇧🇶",
+  "regions": [
+    {
+      "code": "BQ-BQ1",
+      "name": {
+        "en": "Bonaire"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Boven Bolivia"
+          },
+          "latitude": 12.1819,
+          "longitude": -68.2181
+        },
+        {
+          "name": {
+            "en": "Dorp Tera Kora"
+          },
+          "latitude": 12.13333,
+          "longitude": -68.26667
+        },
+        {
+          "name": {
+            "en": "Oranjestad"
+          },
+          "latitude": 17.48333333,
+          "longitude": -62.98333333
+        },
+        {
+          "name": {
+            "en": "Rincon"
+          },
+          "latitude": 12.23833333,
+          "longitude": -68.3325
+        },
+        {
+          "name": {
+            "en": "St. Johns"
+          },
+          "latitude": 17.6210075,
+          "longitude": -63.2431683
+        },
+        {
+          "name": {
+            "en": "The Bottom"
+          },
+          "latitude": 17.62611111,
+          "longitude": -63.24916667
+        },
+        {
+          "name": {
+            "en": "Windwardside"
+          },
+          "latitude": 17.62864,
+          "longitude": -63.23136
+        },
+        {
+          "name": {
+            "en": "Zion's Hill"
+          },
+          "latitude": 17.643,
+          "longitude": -63.22649
+        }
+      ]
+    }
+  ]
+}

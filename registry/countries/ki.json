@@ -1,0 +1,312 @@
+{
+  "code": "KI",
+  "iso3": "KIR",
+  "name": {
+    "en": "Kiribati",
+    "ar": "كيريباتي",
+    "de": "Kiribati",
+    "es": "Kiribati",
+    "fr": "Kiribati",
+    "hi": "किरिबाती",
+    "it": "Kiribati",
+    "ja": "キリバス",
+    "ko": "키리바시",
+    "nl": "Kiribati",
+    "pl": "Kiribati",
+    "pt": "Quiribáti",
+    "pt-BR": "Kiribati",
+    "ru": "Кирибати",
+    "tr": "Kiribati",
+    "uk": "Кірібаті",
+    "zh": "基里巴斯"
+  },
+  "phone": "+686",
+  "currency": "AUD",
+  "timezone": "Pacific/Enderbury",
+  "flag": "🇰🇮",
+  "regions": [
+    {
+      "code": "KI-G",
+      "name": {
+        "en": "Gilbert"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Abaiang"
+          },
+          "latitude": 1.85293,
+          "longitude": 172.94369
+        },
+        {
+          "name": {
+            "en": "Abemama"
+          },
+          "latitude": 0.4,
+          "longitude": 173.86667
+        },
+        {
+          "name": {
+            "en": "Ambo Village"
+          },
+          "latitude": 1.35317,
+          "longitude": 173.04259
+        },
+        {
+          "name": {
+            "en": "Aranuka"
+          },
+          "latitude": 0.16428,
+          "longitude": 173.60579
+        },
+        {
+          "name": {
+            "en": "Arorae"
+          },
+          "latitude": -2.63493,
+          "longitude": 176.82229
+        },
+        {
+          "name": {
+            "en": "Bairiki Village"
+          },
+          "latitude": 1.32924,
+          "longitude": 172.97522
+        },
+        {
+          "name": {
+            "en": "Banaba"
+          },
+          "latitude": -0.855,
+          "longitude": 169.538
+        },
+        {
+          "name": {
+            "en": "Banraeaba Village"
+          },
+          "latitude": 1.3454,
+          "longitude": 173.03464
+        },
+        {
+          "name": {
+            "en": "Beru"
+          },
+          "latitude": -1.32957,
+          "longitude": 175.98072
+        },
+        {
+          "name": {
+            "en": "Betio Village"
+          },
+          "latitude": 1.35797,
+          "longitude": 172.92105
+        },
+        {
+          "name": {
+            "en": "Bikenibeu Village"
+          },
+          "latitude": 1.3673,
+          "longitude": 173.12415
+        },
+        {
+          "name": {
+            "en": "Bonriki Village"
+          },
+          "latitude": 1.38081,
+          "longitude": 173.13887
+        },
+        {
+          "name": {
+            "en": "Buota Village"
+          },
+          "latitude": 1.39078,
+          "longitude": 173.13082
+        },
+        {
+          "name": {
+            "en": "Butaritari"
+          },
+          "latitude": 3.17205,
+          "longitude": 172.79675
+        },
+        {
+          "name": {
+            "en": "Eita Village"
+          },
+          "latitude": 1.36154,
+          "longitude": 173.08113
+        },
+        {
+          "name": {
+            "en": "Kuria"
+          },
+          "latitude": 0.26522,
+          "longitude": 173.38881
+        },
+        {
+          "name": {
+            "en": "Maiana"
+          },
+          "latitude": 0.91869,
+          "longitude": 172.99759
+        },
+        {
+          "name": {
+            "en": "Makin"
+          },
+          "latitude": 3.38816,
+          "longitude": 172.99656
+        },
+        {
+          "name": {
+            "en": "Marakei"
+          },
+          "latitude": 2.01077,
+          "longitude": 173.27637
+        },
+        {
+          "name": {
+            "en": "Nawerewere Village"
+          },
+          "latitude": 1.36362,
+          "longitude": 173.13935
+        },
+        {
+          "name": {
+            "en": "Nikunau"
+          },
+          "latitude": -1.36567,
+          "longitude": 176.46412
+        },
+        {
+          "name": {
+            "en": "Nonouti"
+          },
+          "latitude": -0.66667,
+          "longitude": 174.35
+        },
+        {
+          "name": {
+            "en": "Onotoa"
+          },
+          "latitude": -1.88587,
+          "longitude": 175.56393
+        },
+        {
+          "name": {
+            "en": "Rawannawi Village"
+          },
+          "latitude": 2.05379,
+          "longitude": 173.26354
+        },
+        {
+          "name": {
+            "en": "Tabiteuea"
+          },
+          "latitude": -1.42241,
+          "longitude": 174.89805
+        },
+        {
+          "name": {
+            "en": "Tamana"
+          },
+          "latitude": -2.50113,
+          "longitude": 175.98621
+        },
+        {
+          "name": {
+            "en": "Tarawa"
+          },
+          "latitude": 1.3278,
+          "longitude": 172.97696
+        },
+        {
+          "name": {
+            "en": "Teaoraereke Village"
+          },
+          "latitude": 1.33309,
+          "longitude": 173.01162
+        },
+        {
+          "name": {
+            "en": "Temaiku Village"
+          },
+          "latitude": 1.36292,
+          "longitude": 173.16226
+        }
+      ]
+    },
+    {
+      "code": "KI-L",
+      "name": {
+        "en": "Line"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Banana Village"
+          },
+          "latitude": 1.98329,
+          "longitude": -157.36526
+        },
+        {
+          "name": {
+            "en": "Kiritimati"
+          },
+          "latitude": 1.94,
+          "longitude": -157.475
+        },
+        {
+          "name": {
+            "en": "London Village"
+          },
+          "latitude": 1.98487,
+          "longitude": -157.47502
+        },
+        {
+          "name": {
+            "en": "Napari Village"
+          },
+          "latitude": 3.90806,
+          "longitude": -159.38832
+        },
+        {
+          "name": {
+            "en": "Tabuaeran"
+          },
+          "latitude": 3.86667,
+          "longitude": -159.33333
+        },
+        {
+          "name": {
+            "en": "Tabwakea Village"
+          },
+          "latitude": 2.01643,
+          "longitude": -157.48773
+        },
+        {
+          "name": {
+            "en": "Teraina"
+          },
+          "latitude": 4.68764,
+          "longitude": -160.38803
+        }
+      ]
+    },
+    {
+      "code": "KI-P",
+      "name": {
+        "en": "Phoenix"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Kanton"
+          },
+          "latitude": -2.81,
+          "longitude": -171.678
+        }
+      ]
+    }
+  ]
+}

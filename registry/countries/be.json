@@ -1,0 +1,3923 @@
+{
+  "code": "BE",
+  "iso3": "BEL",
+  "name": {
+    "en": "Belgium",
+    "ar": "بلجيكا",
+    "de": "Belgien",
+    "es": "Bélgica",
+    "fr": "Belgique",
+    "hi": "बेल्जियम",
+    "it": "Belgio",
+    "ja": "ベルギー",
+    "ko": "벨기에",
+    "nl": "België",
+    "pl": "Belgia",
+    "pt": "Bélgica",
+    "pt-BR": "Bélgica",
+    "ru": "Бельгия",
+    "tr": "Belçika",
+    "uk": "Бельгія",
+    "zh": "比利时"
+  },
+  "phone": "+32",
+  "currency": "EUR",
+  "timezone": "Europe/Brussels",
+  "flag": "🇧🇪",
+  "regions": [
+    {
+      "code": "BE-BRU",
+      "name": {
+        "en": "Brussels-Capital "
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Brussels",
+            "ar": "بروكسل"
+          },
+          "latitude": 50.85045,
+          "longitude": 4.34878
+        }
+      ]
+    },
+    {
+      "code": "BE-VLG",
+      "name": {
+        "en": "Flanders"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Aalst"
+          },
+          "latitude": 50.93604,
+          "longitude": 4.0355
+        },
+        {
+          "name": {
+            "en": "Aalter"
+          },
+          "latitude": 51.09017,
+          "longitude": 3.44693
+        },
+        {
+          "name": {
+            "en": "Aarschot"
+          },
+          "latitude": 50.98715,
+          "longitude": 4.83695
+        },
+        {
+          "name": {
+            "en": "Aartselaar"
+          },
+          "latitude": 51.13412,
+          "longitude": 4.38678
+        },
+        {
+          "name": {
+            "en": "Alken"
+          },
+          "latitude": 50.87553,
+          "longitude": 5.30558
+        },
+        {
+          "name": {
+            "en": "Alveringem"
+          },
+          "latitude": 51.01238,
+          "longitude": 2.71117
+        },
+        {
+          "name": {
+            "en": "Antwerpen",
+            "ar": "أنتويرب"
+          },
+          "latitude": 51.21989,
+          "longitude": 4.40346
+        },
+        {
+          "name": {
+            "en": "Anzegem"
+          },
+          "latitude": 50.837,
+          "longitude": 3.47786
+        },
+        {
+          "name": {
+            "en": "Ardooie"
+          },
+          "latitude": 50.9757,
+          "longitude": 3.19736
+        },
+        {
+          "name": {
+            "en": "Arendonk"
+          },
+          "latitude": 51.32267,
+          "longitude": 5.08289
+        },
+        {
+          "name": {
+            "en": "As"
+          },
+          "latitude": 51.00755,
+          "longitude": 5.58453
+        },
+        {
+          "name": {
+            "en": "Asse"
+          },
+          "latitude": 50.91011,
+          "longitude": 4.19836
+        },
+        {
+          "name": {
+            "en": "Assenede"
+          },
+          "latitude": 51.22598,
+          "longitude": 3.75085
+        },
+        {
+          "name": {
+            "en": "Avelgem"
+          },
+          "latitude": 50.77618,
+          "longitude": 3.44502
+        },
+        {
+          "name": {
+            "en": "Baarle-Hertog"
+          },
+          "latitude": 51.40504,
+          "longitude": 4.89226
+        },
+        {
+          "name": {
+            "en": "Balen"
+          },
+          "latitude": 51.16837,
+          "longitude": 5.17027
+        },
+        {
+          "name": {
+            "en": "Beernem"
+          },
+          "latitude": 51.13981,
+          "longitude": 3.33896
+        },
+        {
+          "name": {
+            "en": "Beerse"
+          },
+          "latitude": 51.31927,
+          "longitude": 4.85304
+        },
+        {
+          "name": {
+            "en": "Beersel"
+          },
+          "latitude": 50.76589,
+          "longitude": 4.3002
+        },
+        {
+          "name": {
+            "en": "Begijnendijk"
+          },
+          "latitude": 51.01942,
+          "longitude": 4.78377
+        },
+        {
+          "name": {
+            "en": "Bekkevoort"
+          },
+          "latitude": 50.94074,
+          "longitude": 4.969
+        },
+        {
+          "name": {
+            "en": "Beringen"
+          },
+          "latitude": 51.04954,
+          "longitude": 5.22606
+        },
+        {
+          "name": {
+            "en": "Berlaar"
+          },
+          "latitude": 51.1176,
+          "longitude": 4.65835
+        },
+        {
+          "name": {
+            "en": "Berlare"
+          },
+          "latitude": 51.03333,
+          "longitude": 4
+        },
+        {
+          "name": {
+            "en": "Bertem"
+          },
+          "latitude": 50.86403,
+          "longitude": 4.62918
+        },
+        {
+          "name": {
+            "en": "Bever"
+          },
+          "latitude": 50.91667,
+          "longitude": 4.31667
+        },
+        {
+          "name": {
+            "en": "Beveren"
+          },
+          "latitude": 51.21187,
+          "longitude": 4.25633
+        },
+        {
+          "name": {
+            "en": "Bierbeek"
+          },
+          "latitude": 50.82876,
+          "longitude": 4.75949
+        },
+        {
+          "name": {
+            "en": "Bilzen"
+          },
+          "latitude": 50.87325,
+          "longitude": 5.5184
+        },
+        {
+          "name": {
+            "en": "Blankenberge"
+          },
+          "latitude": 51.31306,
+          "longitude": 3.13227
+        },
+        {
+          "name": {
+            "en": "Bocholt"
+          },
+          "latitude": 51.17337,
+          "longitude": 5.57994
+        },
+        {
+          "name": {
+            "en": "Boechout"
+          },
+          "latitude": 51.15959,
+          "longitude": 4.49195
+        },
+        {
+          "name": {
+            "en": "Bonheiden"
+          },
+          "latitude": 51.02261,
+          "longitude": 4.54714
+        },
+        {
+          "name": {
+            "en": "Boom"
+          },
+          "latitude": 51.09242,
+          "longitude": 4.3717
+        },
+        {
+          "name": {
+            "en": "Boortmeerbeek"
+          },
+          "latitude": 50.97929,
+          "longitude": 4.57443
+        },
+        {
+          "name": {
+            "en": "Borgloon"
+          },
+          "latitude": 50.80505,
+          "longitude": 5.34366
+        },
+        {
+          "name": {
+            "en": "Bornem"
+          },
+          "latitude": 51.09716,
+          "longitude": 4.24364
+        },
+        {
+          "name": {
+            "en": "Borsbeek"
+          },
+          "latitude": 51.19661,
+          "longitude": 4.48543
+        },
+        {
+          "name": {
+            "en": "Boutersem"
+          },
+          "latitude": 50.83511,
+          "longitude": 4.8345
+        },
+        {
+          "name": {
+            "en": "Brasschaat"
+          },
+          "latitude": 51.2912,
+          "longitude": 4.49182
+        },
+        {
+          "name": {
+            "en": "Brecht"
+          },
+          "latitude": 51.35024,
+          "longitude": 4.63829
+        },
+        {
+          "name": {
+            "en": "Bredene"
+          },
+          "latitude": 51.23489,
+          "longitude": 2.97559
+        },
+        {
+          "name": {
+            "en": "Bree"
+          },
+          "latitude": 51.14152,
+          "longitude": 5.5969
+        },
+        {
+          "name": {
+            "en": "Brugge",
+            "ar": "بروج"
+          },
+          "latitude": 51.20892,
+          "longitude": 3.22424
+        },
+        {
+          "name": {
+            "en": "Buggenhout"
+          },
+          "latitude": 51.0159,
+          "longitude": 4.20173
+        },
+        {
+          "name": {
+            "en": "Damme"
+          },
+          "latitude": 51.25147,
+          "longitude": 3.28144
+        },
+        {
+          "name": {
+            "en": "De Haan"
+          },
+          "latitude": 51.27261,
+          "longitude": 3.03446
+        },
+        {
+          "name": {
+            "en": "De Panne"
+          },
+          "latitude": 51.09793,
+          "longitude": 2.59368
+        },
+        {
+          "name": {
+            "en": "De Pinte"
+          },
+          "latitude": 50.99339,
+          "longitude": 3.64747
+        },
+        {
+          "name": {
+            "en": "Deerlijk"
+          },
+          "latitude": 50.85337,
+          "longitude": 3.35416
+        },
+        {
+          "name": {
+            "en": "Deinze"
+          },
+          "latitude": 50.98175,
+          "longitude": 3.53096
+        },
+        {
+          "name": {
+            "en": "Denderleeuw"
+          },
+          "latitude": 50.88506,
+          "longitude": 4.07601
+        },
+        {
+          "name": {
+            "en": "Dendermonde"
+          },
+          "latitude": 51.02869,
+          "longitude": 4.10106
+        },
+        {
+          "name": {
+            "en": "Dentergem"
+          },
+          "latitude": 50.96429,
+          "longitude": 3.41617
+        },
+        {
+          "name": {
+            "en": "Dessel"
+          },
+          "latitude": 51.23855,
+          "longitude": 5.11448
+        },
+        {
+          "name": {
+            "en": "Destelbergen"
+          },
+          "latitude": 51.05952,
+          "longitude": 3.79899
+        },
+        {
+          "name": {
+            "en": "Deurne"
+          },
+          "latitude": 51.22134,
+          "longitude": 4.46595
+        },
+        {
+          "name": {
+            "en": "Diegem"
+          },
+          "latitude": 50.89727,
+          "longitude": 4.43354
+        },
+        {
+          "name": {
+            "en": "Diepenbeek"
+          },
+          "latitude": 50.90769,
+          "longitude": 5.41875
+        },
+        {
+          "name": {
+            "en": "Diest"
+          },
+          "latitude": 50.98923,
+          "longitude": 5.05062
+        },
+        {
+          "name": {
+            "en": "Diksmuide"
+          },
+          "latitude": 51.03248,
+          "longitude": 2.86384
+        },
+        {
+          "name": {
+            "en": "Dilbeek"
+          },
+          "latitude": 50.84799,
+          "longitude": 4.25972
+        },
+        {
+          "name": {
+            "en": "Drogenbos"
+          },
+          "latitude": 50.78733,
+          "longitude": 4.31471
+        },
+        {
+          "name": {
+            "en": "Duffel"
+          },
+          "latitude": 51.09554,
+          "longitude": 4.50903
+        },
+        {
+          "name": {
+            "en": "Edegem"
+          },
+          "latitude": 51.15662,
+          "longitude": 4.44504
+        },
+        {
+          "name": {
+            "en": "Eeklo"
+          },
+          "latitude": 51.18703,
+          "longitude": 3.55654
+        },
+        {
+          "name": {
+            "en": "Essen"
+          },
+          "latitude": 51.46791,
+          "longitude": 4.46901
+        },
+        {
+          "name": {
+            "en": "Evergem"
+          },
+          "latitude": 51.11306,
+          "longitude": 3.70976
+        },
+        {
+          "name": {
+            "en": "Galmaarden"
+          },
+          "latitude": 50.75389,
+          "longitude": 3.97121
+        },
+        {
+          "name": {
+            "en": "Gavere"
+          },
+          "latitude": 50.92917,
+          "longitude": 3.66184
+        },
+        {
+          "name": {
+            "en": "Geel"
+          },
+          "latitude": 51.16557,
+          "longitude": 4.98917
+        },
+        {
+          "name": {
+            "en": "Geetbets"
+          },
+          "latitude": 50.89431,
+          "longitude": 5.11199
+        },
+        {
+          "name": {
+            "en": "Genk"
+          },
+          "latitude": 50.965,
+          "longitude": 5.50082
+        },
+        {
+          "name": {
+            "en": "Gent",
+            "ar": "غنت"
+          },
+          "latitude": 51.05,
+          "longitude": 3.71667
+        },
+        {
+          "name": {
+            "en": "Geraardsbergen"
+          },
+          "latitude": 50.77343,
+          "longitude": 3.88223
+        },
+        {
+          "name": {
+            "en": "Gingelom"
+          },
+          "latitude": 50.74792,
+          "longitude": 5.13422
+        },
+        {
+          "name": {
+            "en": "Gistel"
+          },
+          "latitude": 51.15612,
+          "longitude": 2.96387
+        },
+        {
+          "name": {
+            "en": "Glabbeek"
+          },
+          "latitude": 50.87267,
+          "longitude": 4.95615
+        },
+        {
+          "name": {
+            "en": "Gooik"
+          },
+          "latitude": 50.79443,
+          "longitude": 4.11378
+        },
+        {
+          "name": {
+            "en": "Grimbergen"
+          },
+          "latitude": 50.93409,
+          "longitude": 4.37213
+        },
+        {
+          "name": {
+            "en": "Grobbendonk"
+          },
+          "latitude": 51.19043,
+          "longitude": 4.73562
+        },
+        {
+          "name": {
+            "en": "Haacht"
+          },
+          "latitude": 50.97737,
+          "longitude": 4.63777
+        },
+        {
+          "name": {
+            "en": "Haaltert"
+          },
+          "latitude": 50.90634,
+          "longitude": 4.00093
+        },
+        {
+          "name": {
+            "en": "Halen"
+          },
+          "latitude": 50.94837,
+          "longitude": 5.11096
+        },
+        {
+          "name": {
+            "en": "Halle",
+            "ar": "هاله"
+          },
+          "latitude": 50.73385,
+          "longitude": 4.23454
+        },
+        {
+          "name": {
+            "en": "Hamme"
+          },
+          "latitude": 51.09822,
+          "longitude": 4.13705
+        },
+        {
+          "name": {
+            "en": "Harelbeke"
+          },
+          "latitude": 50.85343,
+          "longitude": 3.30935
+        },
+        {
+          "name": {
+            "en": "Hasselt"
+          },
+          "latitude": 50.93106,
+          "longitude": 5.33781
+        },
+        {
+          "name": {
+            "en": "Heers"
+          },
+          "latitude": 50.75383,
+          "longitude": 5.3021
+        },
+        {
+          "name": {
+            "en": "Heist-op-den-Berg"
+          },
+          "latitude": 51.07537,
+          "longitude": 4.72827
+        },
+        {
+          "name": {
+            "en": "Helchteren"
+          },
+          "latitude": 51.05591,
+          "longitude": 5.38244
+        },
+        {
+          "name": {
+            "en": "Hemiksem"
+          },
+          "latitude": 51.14484,
+          "longitude": 4.33874
+        },
+        {
+          "name": {
+            "en": "Herent"
+          },
+          "latitude": 50.90861,
+          "longitude": 4.67056
+        },
+        {
+          "name": {
+            "en": "Herentals"
+          },
+          "latitude": 51.17655,
+          "longitude": 4.83248
+        },
+        {
+          "name": {
+            "en": "Herenthout"
+          },
+          "latitude": 51.1401,
+          "longitude": 4.75572
+        },
+        {
+          "name": {
+            "en": "Herk-de-Stad"
+          },
+          "latitude": 50.94013,
+          "longitude": 5.16636
+        },
+        {
+          "name": {
+            "en": "Herne"
+          },
+          "latitude": 50.72423,
+          "longitude": 4.03481
+        },
+        {
+          "name": {
+            "en": "Herselt"
+          },
+          "latitude": 51.05159,
+          "longitude": 4.88231
+        },
+        {
+          "name": {
+            "en": "Herzele"
+          },
+          "latitude": 50.88681,
+          "longitude": 3.89014
+        },
+        {
+          "name": {
+            "en": "Heusden"
+          },
+          "latitude": 51.03664,
+          "longitude": 5.28013
+        },
+        {
+          "name": {
+            "en": "Hoboken"
+          },
+          "latitude": 51.17611,
+          "longitude": 4.34844
+        },
+        {
+          "name": {
+            "en": "Hoegaarden"
+          },
+          "latitude": 50.7756,
+          "longitude": 4.88952
+        },
+        {
+          "name": {
+            "en": "Hoeilaart"
+          },
+          "latitude": 50.7673,
+          "longitude": 4.46835
+        },
+        {
+          "name": {
+            "en": "Hoeselt"
+          },
+          "latitude": 50.84714,
+          "longitude": 5.48767
+        },
+        {
+          "name": {
+            "en": "Holsbeek"
+          },
+          "latitude": 50.92097,
+          "longitude": 4.75747
+        },
+        {
+          "name": {
+            "en": "Hooglede"
+          },
+          "latitude": 50.98333,
+          "longitude": 3.08333
+        },
+        {
+          "name": {
+            "en": "Hoogstraten",
+            "ar": "هوخستراتن"
+          },
+          "latitude": 51.40029,
+          "longitude": 4.76034
+        },
+        {
+          "name": {
+            "en": "Houthalen"
+          },
+          "latitude": 51.03427,
+          "longitude": 5.37429
+        },
+        {
+          "name": {
+            "en": "Houthulst"
+          },
+          "latitude": 50.97824,
+          "longitude": 2.9505
+        },
+        {
+          "name": {
+            "en": "Hove"
+          },
+          "latitude": 51.15446,
+          "longitude": 4.4707
+        },
+        {
+          "name": {
+            "en": "Huldenberg"
+          },
+          "latitude": 50.78939,
+          "longitude": 4.5831
+        },
+        {
+          "name": {
+            "en": "Hulshout"
+          },
+          "latitude": 51.07451,
+          "longitude": 4.79081
+        },
+        {
+          "name": {
+            "en": "Ichtegem"
+          },
+          "latitude": 51.09572,
+          "longitude": 3.01549
+        },
+        {
+          "name": {
+            "en": "Ieper"
+          },
+          "latitude": 50.85114,
+          "longitude": 2.88569
+        },
+        {
+          "name": {
+            "en": "Ingelmunster"
+          },
+          "latitude": 50.92081,
+          "longitude": 3.25571
+        },
+        {
+          "name": {
+            "en": "Izegem"
+          },
+          "latitude": 50.91396,
+          "longitude": 3.21378
+        },
+        {
+          "name": {
+            "en": "Jabbeke"
+          },
+          "latitude": 51.18185,
+          "longitude": 3.08935
+        },
+        {
+          "name": {
+            "en": "Kalmthout"
+          },
+          "latitude": 51.38442,
+          "longitude": 4.47556
+        },
+        {
+          "name": {
+            "en": "Kampenhout"
+          },
+          "latitude": 50.9421,
+          "longitude": 4.55103
+        },
+        {
+          "name": {
+            "en": "Kapelle-op-den-Bos"
+          },
+          "latitude": 51.0097,
+          "longitude": 4.36303
+        },
+        {
+          "name": {
+            "en": "Kapellen"
+          },
+          "latitude": 51.31377,
+          "longitude": 4.43539
+        },
+        {
+          "name": {
+            "en": "Kaprijke"
+          },
+          "latitude": 51.2172,
+          "longitude": 3.61519
+        },
+        {
+          "name": {
+            "en": "Kasterlee"
+          },
+          "latitude": 51.24118,
+          "longitude": 4.96651
+        },
+        {
+          "name": {
+            "en": "Keerbergen"
+          },
+          "latitude": 51.00295,
+          "longitude": 4.63434
+        },
+        {
+          "name": {
+            "en": "Kinrooi"
+          },
+          "latitude": 51.14543,
+          "longitude": 5.74207
+        },
+        {
+          "name": {
+            "en": "Knesselare"
+          },
+          "latitude": 51.13932,
+          "longitude": 3.41282
+        },
+        {
+          "name": {
+            "en": "Knokke-Heist"
+          },
+          "latitude": 51.35,
+          "longitude": 3.26667
+        },
+        {
+          "name": {
+            "en": "Koekelare"
+          },
+          "latitude": 51.09047,
+          "longitude": 2.9783
+        },
+        {
+          "name": {
+            "en": "Koksijde"
+          },
+          "latitude": 51.11642,
+          "longitude": 2.63772
+        },
+        {
+          "name": {
+            "en": "Kontich"
+          },
+          "latitude": 51.13213,
+          "longitude": 4.44706
+        },
+        {
+          "name": {
+            "en": "Kortemark"
+          },
+          "latitude": 51.02951,
+          "longitude": 3.04112
+        },
+        {
+          "name": {
+            "en": "Kortenaken"
+          },
+          "latitude": 50.90862,
+          "longitude": 5.05968
+        },
+        {
+          "name": {
+            "en": "Kortenberg"
+          },
+          "latitude": 50.88982,
+          "longitude": 4.54353
+        },
+        {
+          "name": {
+            "en": "Kortessem"
+          },
+          "latitude": 50.8589,
+          "longitude": 5.38974
+        },
+        {
+          "name": {
+            "en": "Kortrijk"
+          },
+          "latitude": 50.82803,
+          "longitude": 3.26487
+        },
+        {
+          "name": {
+            "en": "Kraainem"
+          },
+          "latitude": 50.86155,
+          "longitude": 4.46946
+        },
+        {
+          "name": {
+            "en": "Kruibeke"
+          },
+          "latitude": 51.17048,
+          "longitude": 4.31444
+        },
+        {
+          "name": {
+            "en": "Kruishoutem"
+          },
+          "latitude": 50.90168,
+          "longitude": 3.52588
+        },
+        {
+          "name": {
+            "en": "Kuurne"
+          },
+          "latitude": 50.85143,
+          "longitude": 3.2824
+        },
+        {
+          "name": {
+            "en": "Laarne"
+          },
+          "latitude": 51.03078,
+          "longitude": 3.85077
+        },
+        {
+          "name": {
+            "en": "Lanaken"
+          },
+          "latitude": 50.89318,
+          "longitude": 5.6468
+        },
+        {
+          "name": {
+            "en": "Landen"
+          },
+          "latitude": 50.75267,
+          "longitude": 5.082
+        },
+        {
+          "name": {
+            "en": "Lebbeke"
+          },
+          "latitude": 51.00464,
+          "longitude": 4.13457
+        },
+        {
+          "name": {
+            "en": "Lede"
+          },
+          "latitude": 50.96626,
+          "longitude": 3.98594
+        },
+        {
+          "name": {
+            "en": "Ledeberg"
+          },
+          "latitude": 51.03859,
+          "longitude": 3.74458
+        },
+        {
+          "name": {
+            "en": "Ledegem"
+          },
+          "latitude": 50.85785,
+          "longitude": 3.12409
+        },
+        {
+          "name": {
+            "en": "Lendelede"
+          },
+          "latitude": 50.88626,
+          "longitude": 3.23747
+        },
+        {
+          "name": {
+            "en": "Leopoldsburg"
+          },
+          "latitude": 51.11667,
+          "longitude": 5.25
+        },
+        {
+          "name": {
+            "en": "Leuven"
+          },
+          "latitude": 50.87959,
+          "longitude": 4.70093
+        },
+        {
+          "name": {
+            "en": "Lichtervelde"
+          },
+          "latitude": 51.03333,
+          "longitude": 3.15
+        },
+        {
+          "name": {
+            "en": "Liedekerke"
+          },
+          "latitude": 50.86892,
+          "longitude": 4.08743
+        },
+        {
+          "name": {
+            "en": "Lier"
+          },
+          "latitude": 51.13128,
+          "longitude": 4.57041
+        },
+        {
+          "name": {
+            "en": "Lille"
+          },
+          "latitude": 51.24197,
+          "longitude": 4.82313
+        },
+        {
+          "name": {
+            "en": "Linkebeek"
+          },
+          "latitude": 50.76781,
+          "longitude": 4.33688
+        },
+        {
+          "name": {
+            "en": "Lint"
+          },
+          "latitude": 51.12707,
+          "longitude": 4.49669
+        },
+        {
+          "name": {
+            "en": "Lochristi"
+          },
+          "latitude": 51.09644,
+          "longitude": 3.83194
+        },
+        {
+          "name": {
+            "en": "Lokeren"
+          },
+          "latitude": 51.10364,
+          "longitude": 3.99339
+        },
+        {
+          "name": {
+            "en": "Lommel",
+            "ar": "لومل"
+          },
+          "latitude": 51.23074,
+          "longitude": 5.31349
+        },
+        {
+          "name": {
+            "en": "Londerzeel"
+          },
+          "latitude": 51.00468,
+          "longitude": 4.30304
+        },
+        {
+          "name": {
+            "en": "Lovendegem"
+          },
+          "latitude": 51.10168,
+          "longitude": 3.61298
+        },
+        {
+          "name": {
+            "en": "Lubbeek"
+          },
+          "latitude": 50.88278,
+          "longitude": 4.83896
+        },
+        {
+          "name": {
+            "en": "Lummen"
+          },
+          "latitude": 50.98772,
+          "longitude": 5.19121
+        },
+        {
+          "name": {
+            "en": "Maaseik",
+            "ar": "ماسايك"
+          },
+          "latitude": 51.09802,
+          "longitude": 5.78379
+        },
+        {
+          "name": {
+            "en": "Maasmechelen",
+            "ar": "ماسميخيلين"
+          },
+          "latitude": 50.96545,
+          "longitude": 5.69452
+        },
+        {
+          "name": {
+            "en": "Machelen"
+          },
+          "latitude": 50.91061,
+          "longitude": 4.44174
+        },
+        {
+          "name": {
+            "en": "Maldegem"
+          },
+          "latitude": 51.20737,
+          "longitude": 3.44511
+        },
+        {
+          "name": {
+            "en": "Mechelen"
+          },
+          "latitude": 51.02574,
+          "longitude": 4.47762
+        },
+        {
+          "name": {
+            "en": "Meerhout"
+          },
+          "latitude": 51.1321,
+          "longitude": 5.07842
+        },
+        {
+          "name": {
+            "en": "Meise"
+          },
+          "latitude": 50.93934,
+          "longitude": 4.32655
+        },
+        {
+          "name": {
+            "en": "Melle"
+          },
+          "latitude": 51.00232,
+          "longitude": 3.80526
+        },
+        {
+          "name": {
+            "en": "Menen"
+          },
+          "latitude": 50.79722,
+          "longitude": 3.12245
+        },
+        {
+          "name": {
+            "en": "Merchtem"
+          },
+          "latitude": 50.95129,
+          "longitude": 4.23197
+        },
+        {
+          "name": {
+            "en": "Merelbeke"
+          },
+          "latitude": 50.99447,
+          "longitude": 3.74621
+        },
+        {
+          "name": {
+            "en": "Merksplas"
+          },
+          "latitude": 51.35851,
+          "longitude": 4.86513
+        },
+        {
+          "name": {
+            "en": "Meulebeke"
+          },
+          "latitude": 50.95136,
+          "longitude": 3.28804
+        },
+        {
+          "name": {
+            "en": "Middelkerke"
+          },
+          "latitude": 51.18532,
+          "longitude": 2.82077
+        },
+        {
+          "name": {
+            "en": "Moerbeke"
+          },
+          "latitude": 51.17409,
+          "longitude": 3.93001
+        },
+        {
+          "name": {
+            "en": "Mol",
+            "ar": "مول، بلجيكا"
+          },
+          "latitude": 51.19188,
+          "longitude": 5.11662
+        },
+        {
+          "name": {
+            "en": "Moorslede"
+          },
+          "latitude": 50.8919,
+          "longitude": 3.06117
+        },
+        {
+          "name": {
+            "en": "Mortsel"
+          },
+          "latitude": 51.16697,
+          "longitude": 4.45127
+        },
+        {
+          "name": {
+            "en": "Nazareth"
+          },
+          "latitude": 50.95686,
+          "longitude": 3.59425
+        },
+        {
+          "name": {
+            "en": "Neerpelt"
+          },
+          "latitude": 51.22807,
+          "longitude": 5.4427
+        },
+        {
+          "name": {
+            "en": "Nevele"
+          },
+          "latitude": 51.03531,
+          "longitude": 3.54574
+        },
+        {
+          "name": {
+            "en": "Niel"
+          },
+          "latitude": 51.11096,
+          "longitude": 4.33428
+        },
+        {
+          "name": {
+            "en": "Nieuwerkerken"
+          },
+          "latitude": 50.8638,
+          "longitude": 5.19467
+        },
+        {
+          "name": {
+            "en": "Nieuwpoort"
+          },
+          "latitude": 51.13008,
+          "longitude": 2.75135
+        },
+        {
+          "name": {
+            "en": "Nijlen"
+          },
+          "latitude": 51.16096,
+          "longitude": 4.67008
+        },
+        {
+          "name": {
+            "en": "Ninove"
+          },
+          "latitude": 50.82776,
+          "longitude": 4.02657
+        },
+        {
+          "name": {
+            "en": "Olen"
+          },
+          "latitude": 51.14391,
+          "longitude": 4.8598
+        },
+        {
+          "name": {
+            "en": "Oostduinkerke"
+          },
+          "latitude": 51.11565,
+          "longitude": 2.68217
+        },
+        {
+          "name": {
+            "en": "Oosterzele"
+          },
+          "latitude": 50.95261,
+          "longitude": 3.79826
+        },
+        {
+          "name": {
+            "en": "Oostkamp"
+          },
+          "latitude": 51.15432,
+          "longitude": 3.23128
+        },
+        {
+          "name": {
+            "en": "Oostmalle"
+          },
+          "latitude": 51.3,
+          "longitude": 4.73333
+        },
+        {
+          "name": {
+            "en": "Oostrozebeke"
+          },
+          "latitude": 50.92093,
+          "longitude": 3.33799
+        },
+        {
+          "name": {
+            "en": "Opglabbeek"
+          },
+          "latitude": 51.04258,
+          "longitude": 5.58346
+        },
+        {
+          "name": {
+            "en": "Opwijk"
+          },
+          "latitude": 50.96724,
+          "longitude": 4.18442
+        },
+        {
+          "name": {
+            "en": "Ostend"
+          },
+          "latitude": 51.21551,
+          "longitude": 2.927
+        },
+        {
+          "name": {
+            "en": "Oud-Heverlee"
+          },
+          "latitude": 50.83522,
+          "longitude": 4.66421
+        },
+        {
+          "name": {
+            "en": "Oud-Turnhout"
+          },
+          "latitude": 51.31978,
+          "longitude": 4.9841
+        },
+        {
+          "name": {
+            "en": "Oudenaarde"
+          },
+          "latitude": 50.85168,
+          "longitude": 3.60891
+        },
+        {
+          "name": {
+            "en": "Oudenburg"
+          },
+          "latitude": 51.18489,
+          "longitude": 3.00035
+        },
+        {
+          "name": {
+            "en": "Overijse"
+          },
+          "latitude": 50.77436,
+          "longitude": 4.53461
+        },
+        {
+          "name": {
+            "en": "Overpelt"
+          },
+          "latitude": 51.21038,
+          "longitude": 5.41557
+        },
+        {
+          "name": {
+            "en": "Peer"
+          },
+          "latitude": 51.1303,
+          "longitude": 5.45952
+        },
+        {
+          "name": {
+            "en": "Pepingen"
+          },
+          "latitude": 50.75922,
+          "longitude": 4.15983
+        },
+        {
+          "name": {
+            "en": "Perre"
+          },
+          "latitude": 50.88914,
+          "longitude": 3.86098
+        },
+        {
+          "name": {
+            "en": "Pittem"
+          },
+          "latitude": 50.99279,
+          "longitude": 3.26317
+        },
+        {
+          "name": {
+            "en": "Poperinge"
+          },
+          "latitude": 50.85386,
+          "longitude": 2.72659
+        },
+        {
+          "name": {
+            "en": "Provincie Antwerpen"
+          },
+          "latitude": 51.16558,
+          "longitude": 4.83402
+        },
+        {
+          "name": {
+            "en": "Provincie Limburg"
+          },
+          "latitude": 51,
+          "longitude": 5.5
+        },
+        {
+          "name": {
+            "en": "Provincie Oost-Vlaanderen"
+          },
+          "latitude": 51,
+          "longitude": 3.75
+        },
+        {
+          "name": {
+            "en": "Provincie Vlaams-Brabant"
+          },
+          "latitude": 50.91667,
+          "longitude": 4.58333
+        },
+        {
+          "name": {
+            "en": "Provincie West-Vlaanderen"
+          },
+          "latitude": 51,
+          "longitude": 3
+        },
+        {
+          "name": {
+            "en": "Putte"
+          },
+          "latitude": 51.05337,
+          "longitude": 4.63263
+        },
+        {
+          "name": {
+            "en": "Puurs"
+          },
+          "latitude": 51.07409,
+          "longitude": 4.28844
+        },
+        {
+          "name": {
+            "en": "Ranst"
+          },
+          "latitude": 51.18983,
+          "longitude": 4.56533
+        },
+        {
+          "name": {
+            "en": "Ravels"
+          },
+          "latitude": 51.37274,
+          "longitude": 4.9921
+        },
+        {
+          "name": {
+            "en": "Retie"
+          },
+          "latitude": 51.26652,
+          "longitude": 5.08242
+        },
+        {
+          "name": {
+            "en": "Riemst"
+          },
+          "latitude": 50.80995,
+          "longitude": 5.60131
+        },
+        {
+          "name": {
+            "en": "Rijkevorsel"
+          },
+          "latitude": 51.34795,
+          "longitude": 4.76053
+        },
+        {
+          "name": {
+            "en": "Roeselare"
+          },
+          "latitude": 50.94653,
+          "longitude": 3.12269
+        },
+        {
+          "name": {
+            "en": "Ronse",
+            "ar": "رنز"
+          },
+          "latitude": 50.74574,
+          "longitude": 3.6005
+        },
+        {
+          "name": {
+            "en": "Rotselaar"
+          },
+          "latitude": 50.95302,
+          "longitude": 4.71665
+        },
+        {
+          "name": {
+            "en": "Ruiselede"
+          },
+          "latitude": 51.04039,
+          "longitude": 3.39416
+        },
+        {
+          "name": {
+            "en": "Rumst"
+          },
+          "latitude": 51.08153,
+          "longitude": 4.42217
+        },
+        {
+          "name": {
+            "en": "Schelle"
+          },
+          "latitude": 51.12615,
+          "longitude": 4.34114
+        },
+        {
+          "name": {
+            "en": "Schilde"
+          },
+          "latitude": 51.24107,
+          "longitude": 4.58336
+        },
+        {
+          "name": {
+            "en": "Schoten"
+          },
+          "latitude": 51.25251,
+          "longitude": 4.50268
+        },
+        {
+          "name": {
+            "en": "Sint-Amands"
+          },
+          "latitude": 51.05645,
+          "longitude": 4.20957
+        },
+        {
+          "name": {
+            "en": "Sint-Genesius-Rode"
+          },
+          "latitude": 50.74645,
+          "longitude": 4.35754
+        },
+        {
+          "name": {
+            "en": "Sint-Gillis-Waas"
+          },
+          "latitude": 51.21914,
+          "longitude": 4.12374
+        },
+        {
+          "name": {
+            "en": "Sint-Joris"
+          },
+          "latitude": 50.87117,
+          "longitude": 5.272
+        },
+        {
+          "name": {
+            "en": "Sint-Katelijne-Waver"
+          },
+          "latitude": 51.06691,
+          "longitude": 4.53469
+        },
+        {
+          "name": {
+            "en": "Sint-Kruis"
+          },
+          "latitude": 51.21399,
+          "longitude": 3.24949
+        },
+        {
+          "name": {
+            "en": "Sint-Laureins"
+          },
+          "latitude": 51.24202,
+          "longitude": 3.52441
+        },
+        {
+          "name": {
+            "en": "Sint-Lievens-Houtem"
+          },
+          "latitude": 50.9197,
+          "longitude": 3.86225
+        },
+        {
+          "name": {
+            "en": "Sint-Maria-Lierde"
+          },
+          "latitude": 50.81867,
+          "longitude": 3.84436
+        },
+        {
+          "name": {
+            "en": "Sint-Martens-Latem"
+          },
+          "latitude": 51.01459,
+          "longitude": 3.63779
+        },
+        {
+          "name": {
+            "en": "Sint-Martens-Lennik"
+          },
+          "latitude": 50.81158,
+          "longitude": 4.16965
+        },
+        {
+          "name": {
+            "en": "Sint-Niklaas"
+          },
+          "latitude": 51.16509,
+          "longitude": 4.1437
+        },
+        {
+          "name": {
+            "en": "Sint-Pieters-Leeuw"
+          },
+          "latitude": 50.77926,
+          "longitude": 4.24355
+        },
+        {
+          "name": {
+            "en": "Sint-Pieters-Voeren"
+          },
+          "latitude": 50.73863,
+          "longitude": 5.82224
+        },
+        {
+          "name": {
+            "en": "Sint-Truiden",
+            "ar": "سانت تروند"
+          },
+          "latitude": 50.81679,
+          "longitude": 5.18647
+        },
+        {
+          "name": {
+            "en": "Stabroek"
+          },
+          "latitude": 51.33189,
+          "longitude": 4.37127
+        },
+        {
+          "name": {
+            "en": "Staden"
+          },
+          "latitude": 50.97456,
+          "longitude": 3.01469
+        },
+        {
+          "name": {
+            "en": "Steenokkerzeel"
+          },
+          "latitude": 50.91851,
+          "longitude": 4.50989
+        },
+        {
+          "name": {
+            "en": "Stekene"
+          },
+          "latitude": 51.2099,
+          "longitude": 4.03651
+        },
+        {
+          "name": {
+            "en": "Temse"
+          },
+          "latitude": 51.12794,
+          "longitude": 4.21372
+        },
+        {
+          "name": {
+            "en": "Terkoest"
+          },
+          "latitude": 50.89832,
+          "longitude": 5.27623
+        },
+        {
+          "name": {
+            "en": "Ternat"
+          },
+          "latitude": 50.86654,
+          "longitude": 4.16682
+        },
+        {
+          "name": {
+            "en": "Tervuren"
+          },
+          "latitude": 50.82372,
+          "longitude": 4.51418
+        },
+        {
+          "name": {
+            "en": "Tessenderlo"
+          },
+          "latitude": 51.06513,
+          "longitude": 5.08856
+        },
+        {
+          "name": {
+            "en": "Tielt",
+            "ar": "تيلت"
+          },
+          "latitude": 50.99931,
+          "longitude": 3.32707
+        },
+        {
+          "name": {
+            "en": "Tienen"
+          },
+          "latitude": 50.80745,
+          "longitude": 4.9378
+        },
+        {
+          "name": {
+            "en": "Tongeren"
+          },
+          "latitude": 50.78054,
+          "longitude": 5.46484
+        },
+        {
+          "name": {
+            "en": "Torhout"
+          },
+          "latitude": 51.0656,
+          "longitude": 3.10085
+        },
+        {
+          "name": {
+            "en": "Tremelo"
+          },
+          "latitude": 50.99231,
+          "longitude": 4.70807
+        },
+        {
+          "name": {
+            "en": "Turnhout",
+            "ar": "تورنهاوت"
+          },
+          "latitude": 51.32254,
+          "longitude": 4.94471
+        },
+        {
+          "name": {
+            "en": "Veurne"
+          },
+          "latitude": 51.07316,
+          "longitude": 2.66803
+        },
+        {
+          "name": {
+            "en": "Vilvoorde"
+          },
+          "latitude": 50.92814,
+          "longitude": 4.42938
+        },
+        {
+          "name": {
+            "en": "Vorselaar"
+          },
+          "latitude": 51.20243,
+          "longitude": 4.77259
+        },
+        {
+          "name": {
+            "en": "Vosselaar"
+          },
+          "latitude": 51.30856,
+          "longitude": 4.8896
+        },
+        {
+          "name": {
+            "en": "Waarschoot"
+          },
+          "latitude": 51.1525,
+          "longitude": 3.605
+        },
+        {
+          "name": {
+            "en": "Waasmunster"
+          },
+          "latitude": 51.10572,
+          "longitude": 4.08573
+        },
+        {
+          "name": {
+            "en": "Wachtebeke"
+          },
+          "latitude": 51.16852,
+          "longitude": 3.87183
+        },
+        {
+          "name": {
+            "en": "Waregem"
+          },
+          "latitude": 50.88898,
+          "longitude": 3.42756
+        },
+        {
+          "name": {
+            "en": "Wellen"
+          },
+          "latitude": 50.84096,
+          "longitude": 5.33867
+        },
+        {
+          "name": {
+            "en": "Wemmel"
+          },
+          "latitude": 50.90812,
+          "longitude": 4.30613
+        },
+        {
+          "name": {
+            "en": "Wenduine"
+          },
+          "latitude": 51.2983,
+          "longitude": 3.08213
+        },
+        {
+          "name": {
+            "en": "Wervik"
+          },
+          "latitude": 50.78069,
+          "longitude": 3.03854
+        },
+        {
+          "name": {
+            "en": "Westerlo"
+          },
+          "latitude": 51.09049,
+          "longitude": 4.91544
+        },
+        {
+          "name": {
+            "en": "Wetteren"
+          },
+          "latitude": 51.00526,
+          "longitude": 3.88341
+        },
+        {
+          "name": {
+            "en": "Wevelgem",
+            "ar": "ويفلغم"
+          },
+          "latitude": 50.8,
+          "longitude": 3.16667
+        },
+        {
+          "name": {
+            "en": "Wezembeek-Oppem"
+          },
+          "latitude": 50.8395,
+          "longitude": 4.49427
+        },
+        {
+          "name": {
+            "en": "Wichelen"
+          },
+          "latitude": 51.00526,
+          "longitude": 3.97683
+        },
+        {
+          "name": {
+            "en": "Wielsbeke"
+          },
+          "latitude": 50.9,
+          "longitude": 3.36667
+        },
+        {
+          "name": {
+            "en": "Wijnegem"
+          },
+          "latitude": 51.22787,
+          "longitude": 4.51895
+        },
+        {
+          "name": {
+            "en": "Willebroek"
+          },
+          "latitude": 51.06041,
+          "longitude": 4.36019
+        },
+        {
+          "name": {
+            "en": "Wingene"
+          },
+          "latitude": 51.05782,
+          "longitude": 3.27359
+        },
+        {
+          "name": {
+            "en": "Wommelgem"
+          },
+          "latitude": 51.20452,
+          "longitude": 4.5225
+        },
+        {
+          "name": {
+            "en": "Wuustwezel"
+          },
+          "latitude": 51.39214,
+          "longitude": 4.59546
+        },
+        {
+          "name": {
+            "en": "Zandhoven"
+          },
+          "latitude": 51.21488,
+          "longitude": 4.66164
+        },
+        {
+          "name": {
+            "en": "Zaventem"
+          },
+          "latitude": 50.88365,
+          "longitude": 4.47298
+        },
+        {
+          "name": {
+            "en": "Zedelgem"
+          },
+          "latitude": 51.14236,
+          "longitude": 3.1368
+        },
+        {
+          "name": {
+            "en": "Zeebrugge"
+          },
+          "latitude": 51.32901,
+          "longitude": 3.18188
+        },
+        {
+          "name": {
+            "en": "Zele"
+          },
+          "latitude": 51.06566,
+          "longitude": 4.0403
+        },
+        {
+          "name": {
+            "en": "Zelzate"
+          },
+          "latitude": 51.18963,
+          "longitude": 3.80777
+        },
+        {
+          "name": {
+            "en": "Zemst"
+          },
+          "latitude": 50.98318,
+          "longitude": 4.46079
+        },
+        {
+          "name": {
+            "en": "Zingem"
+          },
+          "latitude": 50.90409,
+          "longitude": 3.65305
+        },
+        {
+          "name": {
+            "en": "Zoersel"
+          },
+          "latitude": 51.26825,
+          "longitude": 4.71296
+        },
+        {
+          "name": {
+            "en": "Zomergem"
+          },
+          "latitude": 51.11994,
+          "longitude": 3.56496
+        },
+        {
+          "name": {
+            "en": "Zonhoven"
+          },
+          "latitude": 50.99064,
+          "longitude": 5.36819
+        },
+        {
+          "name": {
+            "en": "Zonnebeke"
+          },
+          "latitude": 50.8726,
+          "longitude": 2.98725
+        },
+        {
+          "name": {
+            "en": "Zottegem"
+          },
+          "latitude": 50.86955,
+          "longitude": 3.81052
+        },
+        {
+          "name": {
+            "en": "Zoutleeuw"
+          },
+          "latitude": 50.83316,
+          "longitude": 5.10376
+        },
+        {
+          "name": {
+            "en": "Zuienkerke"
+          },
+          "latitude": 51.26511,
+          "longitude": 3.15506
+        },
+        {
+          "name": {
+            "en": "Zulte"
+          },
+          "latitude": 50.91954,
+          "longitude": 3.44859
+        },
+        {
+          "name": {
+            "en": "Zutendaal"
+          },
+          "latitude": 50.93306,
+          "longitude": 5.5753
+        },
+        {
+          "name": {
+            "en": "Zwevegem"
+          },
+          "latitude": 50.81268,
+          "longitude": 3.33848
+        },
+        {
+          "name": {
+            "en": "Zwijndrecht"
+          },
+          "latitude": 51.21979,
+          "longitude": 4.32664
+        }
+      ]
+    },
+    {
+      "code": "BE-WAL",
+      "name": {
+        "en": "Wallonia"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Aiseau"
+          },
+          "latitude": 50.41158,
+          "longitude": 4.58671
+        },
+        {
+          "name": {
+            "en": "Amay"
+          },
+          "latitude": 50.54829,
+          "longitude": 5.30974
+        },
+        {
+          "name": {
+            "en": "Amblève"
+          },
+          "latitude": 50.35357,
+          "longitude": 6.17002
+        },
+        {
+          "name": {
+            "en": "Andenne"
+          },
+          "latitude": 50.48941,
+          "longitude": 5.09513
+        },
+        {
+          "name": {
+            "en": "Anderlues"
+          },
+          "latitude": 50.40704,
+          "longitude": 4.27136
+        },
+        {
+          "name": {
+            "en": "Anhée"
+          },
+          "latitude": 50.31039,
+          "longitude": 4.87827
+        },
+        {
+          "name": {
+            "en": "Ans"
+          },
+          "latitude": 50.6623,
+          "longitude": 5.52029
+        },
+        {
+          "name": {
+            "en": "Anthisnes"
+          },
+          "latitude": 50.48323,
+          "longitude": 5.519
+        },
+        {
+          "name": {
+            "en": "Antoing"
+          },
+          "latitude": 50.56765,
+          "longitude": 3.4492
+        },
+        {
+          "name": {
+            "en": "Arlon",
+            "ar": "آرلون"
+          },
+          "latitude": 49.68333,
+          "longitude": 5.81667
+        },
+        {
+          "name": {
+            "en": "Assesse"
+          },
+          "latitude": 50.36934,
+          "longitude": 5.02204
+        },
+        {
+          "name": {
+            "en": "Ath"
+          },
+          "latitude": 50.62937,
+          "longitude": 3.77801
+        },
+        {
+          "name": {
+            "en": "Attert"
+          },
+          "latitude": 49.75035,
+          "longitude": 5.78634
+        },
+        {
+          "name": {
+            "en": "Aubange"
+          },
+          "latitude": 49.56652,
+          "longitude": 5.80492
+        },
+        {
+          "name": {
+            "en": "Aubel"
+          },
+          "latitude": 50.70189,
+          "longitude": 5.85812
+        },
+        {
+          "name": {
+            "en": "Awans"
+          },
+          "latitude": 50.66774,
+          "longitude": 5.46329
+        },
+        {
+          "name": {
+            "en": "Aywaille"
+          },
+          "latitude": 50.47411,
+          "longitude": 5.67684
+        },
+        {
+          "name": {
+            "en": "Baelen"
+          },
+          "latitude": 50.63131,
+          "longitude": 5.97433
+        },
+        {
+          "name": {
+            "en": "Basse Lasne"
+          },
+          "latitude": 50.69503,
+          "longitude": 4.49218
+        },
+        {
+          "name": {
+            "en": "Bassenge"
+          },
+          "latitude": 50.75883,
+          "longitude": 5.60989
+        },
+        {
+          "name": {
+            "en": "Bastogne"
+          },
+          "latitude": 50.00347,
+          "longitude": 5.71844
+        },
+        {
+          "name": {
+            "en": "Beaumont"
+          },
+          "latitude": 50.23699,
+          "longitude": 4.23926
+        },
+        {
+          "name": {
+            "en": "Beauraing"
+          },
+          "latitude": 50.11042,
+          "longitude": 4.95554
+        },
+        {
+          "name": {
+            "en": "Beauvechain"
+          },
+          "latitude": 50.78195,
+          "longitude": 4.7718
+        },
+        {
+          "name": {
+            "en": "Beloeil"
+          },
+          "latitude": 50.55047,
+          "longitude": 3.73484
+        },
+        {
+          "name": {
+            "en": "Berloz"
+          },
+          "latitude": 50.69829,
+          "longitude": 5.21236
+        },
+        {
+          "name": {
+            "en": "Bernissart"
+          },
+          "latitude": 50.4746,
+          "longitude": 3.64961
+        },
+        {
+          "name": {
+            "en": "Bertogne"
+          },
+          "latitude": 50.08364,
+          "longitude": 5.66689
+        },
+        {
+          "name": {
+            "en": "Bertrix"
+          },
+          "latitude": 49.85596,
+          "longitude": 5.25539
+        },
+        {
+          "name": {
+            "en": "Beyne-Heusay"
+          },
+          "latitude": 50.62251,
+          "longitude": 5.66508
+        },
+        {
+          "name": {
+            "en": "Bièvre"
+          },
+          "latitude": 49.94085,
+          "longitude": 5.01591
+        },
+        {
+          "name": {
+            "en": "Binche"
+          },
+          "latitude": 50.41155,
+          "longitude": 4.16469
+        },
+        {
+          "name": {
+            "en": "Blégny"
+          },
+          "latitude": 50.67255,
+          "longitude": 5.72508
+        },
+        {
+          "name": {
+            "en": "Bouillon"
+          },
+          "latitude": 49.79324,
+          "longitude": 5.06703
+        },
+        {
+          "name": {
+            "en": "Boussu"
+          },
+          "latitude": 50.43417,
+          "longitude": 3.7944
+        },
+        {
+          "name": {
+            "en": "Braine-l'Alleud"
+          },
+          "latitude": 50.68363,
+          "longitude": 4.36784
+        },
+        {
+          "name": {
+            "en": "Braine-le-Château"
+          },
+          "latitude": 50.6799,
+          "longitude": 4.27385
+        },
+        {
+          "name": {
+            "en": "Braine-le-Comte"
+          },
+          "latitude": 50.60979,
+          "longitude": 4.14658
+        },
+        {
+          "name": {
+            "en": "Braives"
+          },
+          "latitude": 50.61745,
+          "longitude": 5.13302
+        },
+        {
+          "name": {
+            "en": "Brugelette"
+          },
+          "latitude": 50.59577,
+          "longitude": 3.85363
+        },
+        {
+          "name": {
+            "en": "Brunehault"
+          },
+          "latitude": 50.50524,
+          "longitude": 4.43209
+        },
+        {
+          "name": {
+            "en": "Bullange"
+          },
+          "latitude": 50.40731,
+          "longitude": 6.25749
+        },
+        {
+          "name": {
+            "en": "Burdinne"
+          },
+          "latitude": 50.58454,
+          "longitude": 5.07663
+        },
+        {
+          "name": {
+            "en": "Butgenbach"
+          },
+          "latitude": 50.42689,
+          "longitude": 6.20504
+        },
+        {
+          "name": {
+            "en": "Celles"
+          },
+          "latitude": 50.71229,
+          "longitude": 3.45733
+        },
+        {
+          "name": {
+            "en": "Cerfontaine"
+          },
+          "latitude": 50.17047,
+          "longitude": 4.41028
+        },
+        {
+          "name": {
+            "en": "Chapelle-lez-Herlaimont"
+          },
+          "latitude": 50.4713,
+          "longitude": 4.28227
+        },
+        {
+          "name": {
+            "en": "Charleroi",
+            "ar": "شارلوروا"
+          },
+          "latitude": 50.41136,
+          "longitude": 4.44448
+        },
+        {
+          "name": {
+            "en": "Chastre-Villeroux-Blanmont"
+          },
+          "latitude": 50.60857,
+          "longitude": 4.64198
+        },
+        {
+          "name": {
+            "en": "Châtelet"
+          },
+          "latitude": 50.40338,
+          "longitude": 4.52826
+        },
+        {
+          "name": {
+            "en": "Chaudfontaine"
+          },
+          "latitude": 50.5828,
+          "longitude": 5.6341
+        },
+        {
+          "name": {
+            "en": "Chaumont-Gistoux"
+          },
+          "latitude": 50.67753,
+          "longitude": 4.7212
+        },
+        {
+          "name": {
+            "en": "Chièvres"
+          },
+          "latitude": 50.58787,
+          "longitude": 3.80711
+        },
+        {
+          "name": {
+            "en": "Chimay"
+          },
+          "latitude": 50.04856,
+          "longitude": 4.31712
+        },
+        {
+          "name": {
+            "en": "Chiny"
+          },
+          "latitude": 49.73833,
+          "longitude": 5.34104
+        },
+        {
+          "name": {
+            "en": "Ciney"
+          },
+          "latitude": 50.29449,
+          "longitude": 5.10015
+        },
+        {
+          "name": {
+            "en": "Clavier"
+          },
+          "latitude": 50.40069,
+          "longitude": 5.35154
+        },
+        {
+          "name": {
+            "en": "Colfontaine"
+          },
+          "latitude": 50.4141,
+          "longitude": 3.85569
+        },
+        {
+          "name": {
+            "en": "Comblain-au-Pont"
+          },
+          "latitude": 50.47488,
+          "longitude": 5.57711
+        },
+        {
+          "name": {
+            "en": "Courcelles",
+            "ar": "كورسيل"
+          },
+          "latitude": 50.46379,
+          "longitude": 4.3747
+        },
+        {
+          "name": {
+            "en": "Court-Saint-Étienne"
+          },
+          "latitude": 50.63378,
+          "longitude": 4.56851
+        },
+        {
+          "name": {
+            "en": "Couvin"
+          },
+          "latitude": 50.05284,
+          "longitude": 4.49495
+        },
+        {
+          "name": {
+            "en": "Crisnée"
+          },
+          "latitude": 50.71703,
+          "longitude": 5.39802
+        },
+        {
+          "name": {
+            "en": "Dalhem"
+          },
+          "latitude": 50.71315,
+          "longitude": 5.72774
+        },
+        {
+          "name": {
+            "en": "Daverdisse"
+          },
+          "latitude": 50.02161,
+          "longitude": 5.11811
+        },
+        {
+          "name": {
+            "en": "Dinant"
+          },
+          "latitude": 50.25807,
+          "longitude": 4.91166
+        },
+        {
+          "name": {
+            "en": "Dison"
+          },
+          "latitude": 50.61004,
+          "longitude": 5.8534
+        },
+        {
+          "name": {
+            "en": "Doische"
+          },
+          "latitude": 50.13356,
+          "longitude": 4.73545
+        },
+        {
+          "name": {
+            "en": "Donceel"
+          },
+          "latitude": 50.64827,
+          "longitude": 5.32
+        },
+        {
+          "name": {
+            "en": "Dour"
+          },
+          "latitude": 50.39583,
+          "longitude": 3.77792
+        },
+        {
+          "name": {
+            "en": "Durbuy"
+          },
+          "latitude": 50.35291,
+          "longitude": 5.45631
+        },
+        {
+          "name": {
+            "en": "Écaussinnes-d’Enghien"
+          },
+          "latitude": 50.56822,
+          "longitude": 4.1658
+        },
+        {
+          "name": {
+            "en": "Éghezée"
+          },
+          "latitude": 50.59076,
+          "longitude": 4.91175
+        },
+        {
+          "name": {
+            "en": "Ellezelles"
+          },
+          "latitude": 50.73512,
+          "longitude": 3.67985
+        },
+        {
+          "name": {
+            "en": "Enghien"
+          },
+          "latitude": 50.68373,
+          "longitude": 4.03284
+        },
+        {
+          "name": {
+            "en": "Engis"
+          },
+          "latitude": 50.58156,
+          "longitude": 5.39916
+        },
+        {
+          "name": {
+            "en": "Érezée"
+          },
+          "latitude": 50.29292,
+          "longitude": 5.55815
+        },
+        {
+          "name": {
+            "en": "Erquelinnes"
+          },
+          "latitude": 50.30688,
+          "longitude": 4.11129
+        },
+        {
+          "name": {
+            "en": "Esneux"
+          },
+          "latitude": 50.53596,
+          "longitude": 5.56775
+        },
+        {
+          "name": {
+            "en": "Estaimpuis"
+          },
+          "latitude": 50.70485,
+          "longitude": 3.26785
+        },
+        {
+          "name": {
+            "en": "Estinnes-au-Val"
+          },
+          "latitude": 50.41016,
+          "longitude": 4.10477
+        },
+        {
+          "name": {
+            "en": "Étalle"
+          },
+          "latitude": 49.67385,
+          "longitude": 5.60019
+        },
+        {
+          "name": {
+            "en": "Eupen"
+          },
+          "latitude": 50.6279,
+          "longitude": 6.03647
+        },
+        {
+          "name": {
+            "en": "Faimes"
+          },
+          "latitude": 50.66252,
+          "longitude": 5.26005
+        },
+        {
+          "name": {
+            "en": "Farciennes"
+          },
+          "latitude": 50.43006,
+          "longitude": 4.54152
+        },
+        {
+          "name": {
+            "en": "Fauvillers"
+          },
+          "latitude": 49.85116,
+          "longitude": 5.66405
+        },
+        {
+          "name": {
+            "en": "Ferrières"
+          },
+          "latitude": 50.40157,
+          "longitude": 5.61092
+        },
+        {
+          "name": {
+            "en": "Fexhe-le-Haut-Clocher"
+          },
+          "latitude": 50.6654,
+          "longitude": 5.39978
+        },
+        {
+          "name": {
+            "en": "Flémalle-Haute"
+          },
+          "latitude": 50.59994,
+          "longitude": 5.44471
+        },
+        {
+          "name": {
+            "en": "Fléron"
+          },
+          "latitude": 50.61516,
+          "longitude": 5.68062
+        },
+        {
+          "name": {
+            "en": "Fleurus"
+          },
+          "latitude": 50.48351,
+          "longitude": 4.55006
+        },
+        {
+          "name": {
+            "en": "Flobecq"
+          },
+          "latitude": 50.73733,
+          "longitude": 3.73876
+        },
+        {
+          "name": {
+            "en": "Floreffe"
+          },
+          "latitude": 50.43452,
+          "longitude": 4.7596
+        },
+        {
+          "name": {
+            "en": "Florennes"
+          },
+          "latitude": 50.25127,
+          "longitude": 4.60636
+        },
+        {
+          "name": {
+            "en": "Florenville"
+          },
+          "latitude": 49.69983,
+          "longitude": 5.3074
+        },
+        {
+          "name": {
+            "en": "Forville"
+          },
+          "latitude": 50.57424,
+          "longitude": 4.99861
+        },
+        {
+          "name": {
+            "en": "Fosses-la-Ville"
+          },
+          "latitude": 50.39517,
+          "longitude": 4.69623
+        },
+        {
+          "name": {
+            "en": "Frameries"
+          },
+          "latitude": 50.40578,
+          "longitude": 3.89603
+        },
+        {
+          "name": {
+            "en": "Frasnes-lez-Buissenal"
+          },
+          "latitude": 50.66783,
+          "longitude": 3.62047
+        },
+        {
+          "name": {
+            "en": "Froidchapelle"
+          },
+          "latitude": 50.15106,
+          "longitude": 4.32742
+        },
+        {
+          "name": {
+            "en": "Gedinne"
+          },
+          "latitude": 49.98037,
+          "longitude": 4.93674
+        },
+        {
+          "name": {
+            "en": "Geer"
+          },
+          "latitude": 50.6699,
+          "longitude": 5.17364
+        },
+        {
+          "name": {
+            "en": "Gembloux"
+          },
+          "latitude": 50.56149,
+          "longitude": 4.69889
+        },
+        {
+          "name": {
+            "en": "Genappe"
+          },
+          "latitude": 50.61173,
+          "longitude": 4.45152
+        },
+        {
+          "name": {
+            "en": "Gerpinnes"
+          },
+          "latitude": 50.33789,
+          "longitude": 4.52731
+        },
+        {
+          "name": {
+            "en": "Gesves"
+          },
+          "latitude": 50.40146,
+          "longitude": 5.07457
+        },
+        {
+          "name": {
+            "en": "Gouvy"
+          },
+          "latitude": 50.186,
+          "longitude": 5.93917
+        },
+        {
+          "name": {
+            "en": "Grez-Doiceau"
+          },
+          "latitude": 50.73901,
+          "longitude": 4.69829
+        },
+        {
+          "name": {
+            "en": "Habay-la-Vieille"
+          },
+          "latitude": 49.72329,
+          "longitude": 5.61999
+        },
+        {
+          "name": {
+            "en": "Hamoir"
+          },
+          "latitude": 50.42675,
+          "longitude": 5.53304
+        },
+        {
+          "name": {
+            "en": "Hamois"
+          },
+          "latitude": 50.3402,
+          "longitude": 5.15619
+        },
+        {
+          "name": {
+            "en": "Hannut"
+          },
+          "latitude": 50.67142,
+          "longitude": 5.07898
+        },
+        {
+          "name": {
+            "en": "Hastière-Lavaux"
+          },
+          "latitude": 50.21849,
+          "longitude": 4.82446
+        },
+        {
+          "name": {
+            "en": "Havelange"
+          },
+          "latitude": 50.38931,
+          "longitude": 5.23816
+        },
+        {
+          "name": {
+            "en": "Hensies"
+          },
+          "latitude": 50.43263,
+          "longitude": 3.68411
+        },
+        {
+          "name": {
+            "en": "Herbeumont"
+          },
+          "latitude": 49.78086,
+          "longitude": 5.2358
+        },
+        {
+          "name": {
+            "en": "Héron"
+          },
+          "latitude": 50.54731,
+          "longitude": 5.09774
+        },
+        {
+          "name": {
+            "en": "Herstal"
+          },
+          "latitude": 50.66415,
+          "longitude": 5.62346
+        },
+        {
+          "name": {
+            "en": "Herve"
+          },
+          "latitude": 50.64083,
+          "longitude": 5.79353
+        },
+        {
+          "name": {
+            "en": "Hotton"
+          },
+          "latitude": 50.26742,
+          "longitude": 5.44609
+        },
+        {
+          "name": {
+            "en": "Houffalize"
+          },
+          "latitude": 50.13235,
+          "longitude": 5.78962
+        },
+        {
+          "name": {
+            "en": "Houyet"
+          },
+          "latitude": 50.18619,
+          "longitude": 5.00762
+        },
+        {
+          "name": {
+            "en": "Huy",
+            "ar": "هوي"
+          },
+          "latitude": 50.51894,
+          "longitude": 5.23284
+        },
+        {
+          "name": {
+            "en": "Incourt"
+          },
+          "latitude": 50.69151,
+          "longitude": 4.79816
+        },
+        {
+          "name": {
+            "en": "Ittre"
+          },
+          "latitude": 50.64396,
+          "longitude": 4.26476
+        },
+        {
+          "name": {
+            "en": "Jalhay"
+          },
+          "latitude": 50.55876,
+          "longitude": 5.96764
+        },
+        {
+          "name": {
+            "en": "Jodoigne"
+          },
+          "latitude": 50.72357,
+          "longitude": 4.86914
+        },
+        {
+          "name": {
+            "en": "Juprelle"
+          },
+          "latitude": 50.7076,
+          "longitude": 5.53127
+        },
+        {
+          "name": {
+            "en": "Jurbise"
+          },
+          "latitude": 50.531,
+          "longitude": 3.90942
+        },
+        {
+          "name": {
+            "en": "La Bruyère"
+          },
+          "latitude": 50.39478,
+          "longitude": 4.61444
+        },
+        {
+          "name": {
+            "en": "La Calamine"
+          },
+          "latitude": 50.71809,
+          "longitude": 6.01107
+        },
+        {
+          "name": {
+            "en": "La Hulpe"
+          },
+          "latitude": 50.73091,
+          "longitude": 4.48577
+        },
+        {
+          "name": {
+            "en": "La Louvière"
+          },
+          "latitude": 50.48657,
+          "longitude": 4.18785
+        },
+        {
+          "name": {
+            "en": "La Roche-en-Ardenne"
+          },
+          "latitude": 50.18361,
+          "longitude": 5.57547
+        },
+        {
+          "name": {
+            "en": "Léglise"
+          },
+          "latitude": 49.79985,
+          "longitude": 5.53652
+        },
+        {
+          "name": {
+            "en": "Lens"
+          },
+          "latitude": 50.55696,
+          "longitude": 3.89946
+        },
+        {
+          "name": {
+            "en": "Lessines"
+          },
+          "latitude": 50.71104,
+          "longitude": 3.83579
+        },
+        {
+          "name": {
+            "en": "Libin"
+          },
+          "latitude": 49.98107,
+          "longitude": 5.25612
+        },
+        {
+          "name": {
+            "en": "Liège",
+            "ar": "لييج"
+          },
+          "latitude": 50.63373,
+          "longitude": 5.56749
+        },
+        {
+          "name": {
+            "en": "Lierneux"
+          },
+          "latitude": 50.28477,
+          "longitude": 5.79236
+        },
+        {
+          "name": {
+            "en": "Limbourg"
+          },
+          "latitude": 50.61222,
+          "longitude": 5.9412
+        },
+        {
+          "name": {
+            "en": "Lincent"
+          },
+          "latitude": 50.71222,
+          "longitude": 5.03654
+        },
+        {
+          "name": {
+            "en": "Lobbes"
+          },
+          "latitude": 50.35258,
+          "longitude": 4.26716
+        },
+        {
+          "name": {
+            "en": "Lontzen"
+          },
+          "latitude": 50.68126,
+          "longitude": 6.00712
+        },
+        {
+          "name": {
+            "en": "Louvain-la-Neuve",
+            "ar": "لوفان لا نوف"
+          },
+          "latitude": 50.66829,
+          "longitude": 4.61443
+        },
+        {
+          "name": {
+            "en": "Malmédy"
+          },
+          "latitude": 50.42686,
+          "longitude": 6.02794
+        },
+        {
+          "name": {
+            "en": "Manage"
+          },
+          "latitude": 50.50312,
+          "longitude": 4.23589
+        },
+        {
+          "name": {
+            "en": "Manhay"
+          },
+          "latitude": 50.29219,
+          "longitude": 5.67562
+        },
+        {
+          "name": {
+            "en": "Marche-en-Famenne"
+          },
+          "latitude": 50.22678,
+          "longitude": 5.34416
+        },
+        {
+          "name": {
+            "en": "Marchin"
+          },
+          "latitude": 50.46707,
+          "longitude": 5.2428
+        },
+        {
+          "name": {
+            "en": "Martelange"
+          },
+          "latitude": 49.83195,
+          "longitude": 5.73655
+        },
+        {
+          "name": {
+            "en": "Meix-devant-Virton"
+          },
+          "latitude": 49.60581,
+          "longitude": 5.48045
+        },
+        {
+          "name": {
+            "en": "Merbes-le-Château"
+          },
+          "latitude": 50.32449,
+          "longitude": 4.16489
+        },
+        {
+          "name": {
+            "en": "Messancy"
+          },
+          "latitude": 49.59201,
+          "longitude": 5.81879
+        },
+        {
+          "name": {
+            "en": "Mettet"
+          },
+          "latitude": 50.32119,
+          "longitude": 4.66232
+        },
+        {
+          "name": {
+            "en": "Modave"
+          },
+          "latitude": 50.44614,
+          "longitude": 5.29532
+        },
+        {
+          "name": {
+            "en": "Momignies"
+          },
+          "latitude": 50.0271,
+          "longitude": 4.16519
+        },
+        {
+          "name": {
+            "en": "Mons",
+            "ar": "مونس"
+          },
+          "latitude": 50.45413,
+          "longitude": 3.95229
+        },
+        {
+          "name": {
+            "en": "Mons-lez-Liège"
+          },
+          "latitude": 50.61667,
+          "longitude": 5.46667
+        },
+        {
+          "name": {
+            "en": "Mont-Saint-Guibert"
+          },
+          "latitude": 50.63427,
+          "longitude": 4.61061
+        },
+        {
+          "name": {
+            "en": "Morlanwelz-Mariemont"
+          },
+          "latitude": 50.45502,
+          "longitude": 4.24519
+        },
+        {
+          "name": {
+            "en": "Mouscron"
+          },
+          "latitude": 50.74497,
+          "longitude": 3.20639
+        },
+        {
+          "name": {
+            "en": "Musson"
+          },
+          "latitude": 49.55835,
+          "longitude": 5.70525
+        },
+        {
+          "name": {
+            "en": "Namur",
+            "ar": "نامور"
+          },
+          "latitude": 50.4669,
+          "longitude": 4.86746
+        },
+        {
+          "name": {
+            "en": "Nandrin"
+          },
+          "latitude": 50.50675,
+          "longitude": 5.41905
+        },
+        {
+          "name": {
+            "en": "Nassogne"
+          },
+          "latitude": 50.12849,
+          "longitude": 5.34274
+        },
+        {
+          "name": {
+            "en": "Neufchâteau"
+          },
+          "latitude": 49.84074,
+          "longitude": 5.43535
+        },
+        {
+          "name": {
+            "en": "Nivelles"
+          },
+          "latitude": 50.59833,
+          "longitude": 4.32848
+        },
+        {
+          "name": {
+            "en": "Noville-les-Bois"
+          },
+          "latitude": 50.55702,
+          "longitude": 4.98466
+        },
+        {
+          "name": {
+            "en": "Ohey"
+          },
+          "latitude": 50.4357,
+          "longitude": 5.12375
+        },
+        {
+          "name": {
+            "en": "Olne"
+          },
+          "latitude": 50.58994,
+          "longitude": 5.74662
+        },
+        {
+          "name": {
+            "en": "Onhaye"
+          },
+          "latitude": 50.24148,
+          "longitude": 4.84069
+        },
+        {
+          "name": {
+            "en": "Oreye"
+          },
+          "latitude": 50.71749,
+          "longitude": 5.3488
+        },
+        {
+          "name": {
+            "en": "Ottignies"
+          },
+          "latitude": 50.66535,
+          "longitude": 4.56679
+        },
+        {
+          "name": {
+            "en": "Ouffet"
+          },
+          "latitude": 50.4387,
+          "longitude": 5.4657
+        },
+        {
+          "name": {
+            "en": "Oupeye"
+          },
+          "latitude": 50.71184,
+          "longitude": 5.6468
+        },
+        {
+          "name": {
+            "en": "Paliseul"
+          },
+          "latitude": 49.90395,
+          "longitude": 5.13537
+        },
+        {
+          "name": {
+            "en": "Pecq"
+          },
+          "latitude": 50.68619,
+          "longitude": 3.33789
+        },
+        {
+          "name": {
+            "en": "Pepinster"
+          },
+          "latitude": 50.57375,
+          "longitude": 5.8049
+        },
+        {
+          "name": {
+            "en": "Péruwelz"
+          },
+          "latitude": 50.50819,
+          "longitude": 3.59373
+        },
+        {
+          "name": {
+            "en": "Perwez"
+          },
+          "latitude": 50.62426,
+          "longitude": 4.81354
+        },
+        {
+          "name": {
+            "en": "Philippeville"
+          },
+          "latitude": 50.19612,
+          "longitude": 4.54374
+        },
+        {
+          "name": {
+            "en": "Plombières"
+          },
+          "latitude": 50.73656,
+          "longitude": 5.95922
+        },
+        {
+          "name": {
+            "en": "Pont-à-Celles"
+          },
+          "latitude": 50.50518,
+          "longitude": 4.36887
+        },
+        {
+          "name": {
+            "en": "Profondeville"
+          },
+          "latitude": 50.37581,
+          "longitude": 4.86506
+        },
+        {
+          "name": {
+            "en": "Province de Liège",
+            "ar": "لييج"
+          },
+          "latitude": 50.63427,
+          "longitude": 5.56543
+        },
+        {
+          "name": {
+            "en": "Province de Namur"
+          },
+          "latitude": 50.33333,
+          "longitude": 4.83333
+        },
+        {
+          "name": {
+            "en": "Province du Brabant Wallon"
+          },
+          "latitude": 50.75,
+          "longitude": 4.58333
+        },
+        {
+          "name": {
+            "en": "Province du Hainaut"
+          },
+          "latitude": 50.5,
+          "longitude": 3.83333
+        },
+        {
+          "name": {
+            "en": "Quaregnon"
+          },
+          "latitude": 50.44067,
+          "longitude": 3.8653
+        },
+        {
+          "name": {
+            "en": "Quévy-le-Petit"
+          },
+          "latitude": 50.36879,
+          "longitude": 3.93602
+        },
+        {
+          "name": {
+            "en": "Quiévrain"
+          },
+          "latitude": 50.40737,
+          "longitude": 3.68351
+        },
+        {
+          "name": {
+            "en": "Raeren"
+          },
+          "latitude": 50.6672,
+          "longitude": 6.11535
+        },
+        {
+          "name": {
+            "en": "Ramillies"
+          },
+          "latitude": 50.63395,
+          "longitude": 4.90119
+        },
+        {
+          "name": {
+            "en": "Rebecq-Rognon"
+          },
+          "latitude": 50.65147,
+          "longitude": 4.10683
+        },
+        {
+          "name": {
+            "en": "Remicourt"
+          },
+          "latitude": 50.68069,
+          "longitude": 5.32785
+        },
+        {
+          "name": {
+            "en": "Rendeux"
+          },
+          "latitude": 50.23423,
+          "longitude": 5.50414
+        },
+        {
+          "name": {
+            "en": "Rixensart"
+          },
+          "latitude": 50.71229,
+          "longitude": 4.52529
+        },
+        {
+          "name": {
+            "en": "Rochefort"
+          },
+          "latitude": 50.1631,
+          "longitude": 5.2216
+        },
+        {
+          "name": {
+            "en": "Roeulx"
+          },
+          "latitude": 50.50365,
+          "longitude": 4.11163
+        },
+        {
+          "name": {
+            "en": "Rouvroy"
+          },
+          "latitude": 49.53771,
+          "longitude": 5.49031
+        },
+        {
+          "name": {
+            "en": "Rumes"
+          },
+          "latitude": 50.5545,
+          "longitude": 3.30535
+        },
+        {
+          "name": {
+            "en": "Saint-Ghislain"
+          },
+          "latitude": 50.44816,
+          "longitude": 3.81886
+        },
+        {
+          "name": {
+            "en": "Saint-Hubert"
+          },
+          "latitude": 50.02668,
+          "longitude": 5.37401
+        },
+        {
+          "name": {
+            "en": "Saint-Léger"
+          },
+          "latitude": 49.61196,
+          "longitude": 5.65688
+        },
+        {
+          "name": {
+            "en": "Saint-Nicolas"
+          },
+          "latitude": 50.62837,
+          "longitude": 5.53243
+        },
+        {
+          "name": {
+            "en": "Saint-Vith"
+          },
+          "latitude": 50.28146,
+          "longitude": 6.12724
+        },
+        {
+          "name": {
+            "en": "Sainte-Ode"
+          },
+          "latitude": 50.01723,
+          "longitude": 5.51926
+        },
+        {
+          "name": {
+            "en": "Seneffe"
+          },
+          "latitude": 50.53135,
+          "longitude": 4.26301
+        },
+        {
+          "name": {
+            "en": "Seraing"
+          },
+          "latitude": 50.58362,
+          "longitude": 5.50115
+        },
+        {
+          "name": {
+            "en": "Silly"
+          },
+          "latitude": 50.64877,
+          "longitude": 3.92363
+        },
+        {
+          "name": {
+            "en": "Soignies"
+          },
+          "latitude": 50.57904,
+          "longitude": 4.07129
+        },
+        {
+          "name": {
+            "en": "Sombreffe"
+          },
+          "latitude": 50.52865,
+          "longitude": 4.60087
+        },
+        {
+          "name": {
+            "en": "Somme-Leuze"
+          },
+          "latitude": 50.33699,
+          "longitude": 5.36705
+        },
+        {
+          "name": {
+            "en": "Soumagne"
+          },
+          "latitude": 50.61385,
+          "longitude": 5.74679
+        },
+        {
+          "name": {
+            "en": "Spa"
+          },
+          "latitude": 50.48375,
+          "longitude": 5.86674
+        },
+        {
+          "name": {
+            "en": "Sprimont"
+          },
+          "latitude": 50.50922,
+          "longitude": 5.6595
+        },
+        {
+          "name": {
+            "en": "Stavelot"
+          },
+          "latitude": 50.395,
+          "longitude": 5.93124
+        },
+        {
+          "name": {
+            "en": "Stoumont"
+          },
+          "latitude": 50.40667,
+          "longitude": 5.80838
+        },
+        {
+          "name": {
+            "en": "Tellin"
+          },
+          "latitude": 50.08038,
+          "longitude": 5.21638
+        },
+        {
+          "name": {
+            "en": "Tenneville"
+          },
+          "latitude": 50.09501,
+          "longitude": 5.52895
+        },
+        {
+          "name": {
+            "en": "Theux"
+          },
+          "latitude": 50.53323,
+          "longitude": 5.81245
+        },
+        {
+          "name": {
+            "en": "Thuin"
+          },
+          "latitude": 50.33933,
+          "longitude": 4.28604
+        },
+        {
+          "name": {
+            "en": "Tinlot"
+          },
+          "latitude": 50.47493,
+          "longitude": 5.37755
+        },
+        {
+          "name": {
+            "en": "Tintigny"
+          },
+          "latitude": 49.68326,
+          "longitude": 5.51349
+        },
+        {
+          "name": {
+            "en": "Tournai",
+            "ar": "تورناي"
+          },
+          "latitude": 50.60715,
+          "longitude": 3.38932
+        },
+        {
+          "name": {
+            "en": "Trois-Ponts"
+          },
+          "latitude": 50.37128,
+          "longitude": 5.87146
+        },
+        {
+          "name": {
+            "en": "Trooz"
+          },
+          "latitude": 50.57026,
+          "longitude": 5.69521
+        },
+        {
+          "name": {
+            "en": "Tubize",
+            "ar": "توبيز"
+          },
+          "latitude": 50.69059,
+          "longitude": 4.2009
+        },
+        {
+          "name": {
+            "en": "Vaux-sur-Sûre"
+          },
+          "latitude": 49.911,
+          "longitude": 5.57848
+        },
+        {
+          "name": {
+            "en": "Verlaine"
+          },
+          "latitude": 50.60743,
+          "longitude": 5.3174
+        },
+        {
+          "name": {
+            "en": "Verviers"
+          },
+          "latitude": 50.58907,
+          "longitude": 5.86241
+        },
+        {
+          "name": {
+            "en": "Vielsalm"
+          },
+          "latitude": 50.28407,
+          "longitude": 5.91502
+        },
+        {
+          "name": {
+            "en": "Villers-la-Ville"
+          },
+          "latitude": 50.56667,
+          "longitude": 4.51667
+        },
+        {
+          "name": {
+            "en": "Villers-le-Bouillet"
+          },
+          "latitude": 50.57708,
+          "longitude": 5.25945
+        },
+        {
+          "name": {
+            "en": "Virton"
+          },
+          "latitude": 49.56824,
+          "longitude": 5.53259
+        },
+        {
+          "name": {
+            "en": "Visé"
+          },
+          "latitude": 50.7376,
+          "longitude": 5.69907
+        },
+        {
+          "name": {
+            "en": "Waimes"
+          },
+          "latitude": 50.41488,
+          "longitude": 6.11207
+        },
+        {
+          "name": {
+            "en": "Walcourt"
+          },
+          "latitude": 50.25401,
+          "longitude": 4.43796
+        },
+        {
+          "name": {
+            "en": "Walhain-Saint-Paul"
+          },
+          "latitude": 50.62627,
+          "longitude": 4.69837
+        },
+        {
+          "name": {
+            "en": "Wanze"
+          },
+          "latitude": 50.53907,
+          "longitude": 5.20846
+        },
+        {
+          "name": {
+            "en": "Waremme"
+          },
+          "latitude": 50.6976,
+          "longitude": 5.25524
+        },
+        {
+          "name": {
+            "en": "Wasseiges"
+          },
+          "latitude": 50.62186,
+          "longitude": 5.00528
+        },
+        {
+          "name": {
+            "en": "Waterloo",
+            "ar": "واترلو"
+          },
+          "latitude": 50.71469,
+          "longitude": 4.3991
+        },
+        {
+          "name": {
+            "en": "Wavre"
+          },
+          "latitude": 50.71717,
+          "longitude": 4.60138
+        },
+        {
+          "name": {
+            "en": "Welkenraedt"
+          },
+          "latitude": 50.6605,
+          "longitude": 5.97034
+        },
+        {
+          "name": {
+            "en": "Wellin"
+          },
+          "latitude": 50.08133,
+          "longitude": 5.11413
+        },
+        {
+          "name": {
+            "en": "Yvoir"
+          },
+          "latitude": 50.3279,
+          "longitude": 4.88059
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,492 @@
+{
+  "code": "XK",
+  "iso3": "XKX",
+  "name": {
+    "en": "Kosovo",
+    "ar": "كوسوفو",
+    "hi": "कोसोवो",
+    "ko": "코소보",
+    "pl": "Kosowo",
+    "ru": "Косово",
+    "tr": "Kosova",
+    "uk": "Косово",
+    "zh": "科索沃"
+  },
+  "phone": "+383",
+  "currency": "EUR",
+  "timezone": "Europe/Belgrade",
+  "flag": "🇽🇰",
+  "regions": [
+    {
+      "code": "XK-XUF",
+      "name": {
+        "en": "Ferizaj"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ferizaj"
+          },
+          "latitude": 42.37056,
+          "longitude": 21.15528
+        },
+        {
+          "name": {
+            "en": "Hani i Elezit"
+          },
+          "latitude": 42.15,
+          "longitude": 21.29667
+        },
+        {
+          "name": {
+            "en": "Kačanik"
+          },
+          "latitude": 42.23194,
+          "longitude": 21.25944
+        },
+        {
+          "name": {
+            "en": "Shtime"
+          },
+          "latitude": 42.43306,
+          "longitude": 21.03972
+        },
+        {
+          "name": {
+            "en": "Štrpce"
+          },
+          "latitude": 42.23944,
+          "longitude": 21.02722
+        }
+      ]
+    },
+    {
+      "code": "XK-XDG",
+      "name": {
+        "en": "Gjakove"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Deçan"
+          },
+          "latitude": 42.54018,
+          "longitude": 20.28793
+        },
+        {
+          "name": {
+            "en": "Dranoc"
+          },
+          "latitude": 42.51556,
+          "longitude": 20.29222
+        },
+        {
+          "name": {
+            "en": "Gjakovë"
+          },
+          "latitude": 42.38028,
+          "longitude": 20.43083
+        },
+        {
+          "name": {
+            "en": "Gllogjan"
+          },
+          "latitude": 42.50722,
+          "longitude": 20.36278
+        },
+        {
+          "name": {
+            "en": "Irzniq"
+          },
+          "latitude": 42.52,
+          "longitude": 20.34722
+        },
+        {
+          "name": {
+            "en": "Isniq"
+          },
+          "latitude": 42.5575,
+          "longitude": 20.30278
+        },
+        {
+          "name": {
+            "en": "Lëbushë"
+          },
+          "latitude": 42.56306,
+          "longitude": 20.29083
+        },
+        {
+          "name": {
+            "en": "Lloqan"
+          },
+          "latitude": 42.52444,
+          "longitude": 20.28083
+        },
+        {
+          "name": {
+            "en": "Lluka e Eperme"
+          },
+          "latitude": 42.545,
+          "longitude": 20.30778
+        },
+        {
+          "name": {
+            "en": "Lumbardhi"
+          },
+          "latitude": 42.54667,
+          "longitude": 20.34667
+        },
+        {
+          "name": {
+            "en": "Orahovac"
+          },
+          "latitude": 42.39944,
+          "longitude": 20.65472
+        },
+        {
+          "name": {
+            "en": "Papraqan"
+          },
+          "latitude": 42.55278,
+          "longitude": 20.33111
+        },
+        {
+          "name": {
+            "en": "Prilep"
+          },
+          "latitude": 42.5075,
+          "longitude": 20.31778
+        },
+        {
+          "name": {
+            "en": "Strellc i Epërm"
+          },
+          "latitude": 42.57843,
+          "longitude": 20.29398
+        },
+        {
+          "name": {
+            "en": "Strellc i Ulët"
+          },
+          "latitude": 42.58063,
+          "longitude": 20.31619
+        }
+      ]
+    },
+    {
+      "code": "XK-XGJ",
+      "name": {
+        "en": "Gjilan"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Gjilan"
+          },
+          "latitude": 42.46045,
+          "longitude": 21.46986
+        },
+        {
+          "name": {
+            "en": "Kamenica"
+          },
+          "latitude": 42.57806,
+          "longitude": 21.58028
+        },
+        {
+          "name": {
+            "en": "Klokot"
+          },
+          "latitude": 42.37139,
+          "longitude": 21.37444
+        },
+        {
+          "name": {
+            "en": "Partesh"
+          },
+          "latitude": 42.40194,
+          "longitude": 21.43361
+        },
+        {
+          "name": {
+            "en": "Pasjane"
+          },
+          "latitude": 42.40694,
+          "longitude": 21.49556
+        },
+        {
+          "name": {
+            "en": "Ranilug"
+          },
+          "latitude": 42.49222,
+          "longitude": 21.59889
+        },
+        {
+          "name": {
+            "en": "Vitina"
+          },
+          "latitude": 42.32139,
+          "longitude": 21.35833
+        }
+      ]
+    },
+    {
+      "code": "XK-XKM",
+      "name": {
+        "en": "Mitrovica"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Leposaviq"
+          },
+          "latitude": 43.10389,
+          "longitude": 20.80278
+        },
+        {
+          "name": {
+            "en": "Mitrovicë"
+          },
+          "latitude": 42.88333,
+          "longitude": 20.86667
+        },
+        {
+          "name": {
+            "en": "Srbica"
+          },
+          "latitude": 42.74667,
+          "longitude": 20.78861
+        },
+        {
+          "name": {
+            "en": "Vushtrri"
+          },
+          "latitude": 42.82306,
+          "longitude": 20.9675
+        },
+        {
+          "name": {
+            "en": "Zubin Potok"
+          },
+          "latitude": 42.91444,
+          "longitude": 20.68972
+        },
+        {
+          "name": {
+            "en": "Zvečan"
+          },
+          "latitude": 42.9075,
+          "longitude": 20.84028
+        }
+      ]
+    },
+    {
+      "code": "XK-PEJ",
+      "name": {
+        "en": "Peja"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Dubova (Driloni)"
+          },
+          "latitude": 42.71194,
+          "longitude": 20.36972
+        },
+        {
+          "name": {
+            "en": "Istok"
+          },
+          "latitude": 42.78083,
+          "longitude": 20.4875
+        },
+        {
+          "name": {
+            "en": "Klina"
+          },
+          "latitude": 42.62167,
+          "longitude": 20.57778
+        },
+        {
+          "name": {
+            "en": "Kosuriq"
+          },
+          "latitude": 42.57028,
+          "longitude": 20.46472
+        },
+        {
+          "name": {
+            "en": "Pejë"
+          },
+          "latitude": 42.65913,
+          "longitude": 20.28828
+        }
+      ]
+    },
+    {
+      "code": "XK-XPI",
+      "name": {
+        "en": "Pristina"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bradash"
+          },
+          "latitude": 42.94028,
+          "longitude": 21.13806
+        },
+        {
+          "name": {
+            "en": "Glogovac"
+          },
+          "latitude": 42.62833,
+          "longitude": 20.89389
+        },
+        {
+          "name": {
+            "en": "Gračanica"
+          },
+          "latitude": 42.60111,
+          "longitude": 21.19583
+        },
+        {
+          "name": {
+            "en": "Kosovo Polje"
+          },
+          "latitude": 42.66394,
+          "longitude": 21.09611
+        },
+        {
+          "name": {
+            "en": "Lipljan"
+          },
+          "latitude": 42.52167,
+          "longitude": 21.12583
+        },
+        {
+          "name": {
+            "en": "Novo Brdo"
+          },
+          "latitude": 42.6159,
+          "longitude": 21.43405
+        },
+        {
+          "name": {
+            "en": "Obiliq"
+          },
+          "latitude": 42.68694,
+          "longitude": 21.07028
+        },
+        {
+          "name": {
+            "en": "Podujeva"
+          },
+          "latitude": 42.91056,
+          "longitude": 21.19306
+        },
+        {
+          "name": {
+            "en": "Pristina",
+            "ar": "بريشتينا"
+          },
+          "latitude": 42.67272,
+          "longitude": 21.16688
+        }
+      ]
+    },
+    {
+      "code": "XK-PRI",
+      "name": {
+        "en": "Prizren"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Budakovo"
+          },
+          "latitude": 42.355,
+          "longitude": 20.925
+        },
+        {
+          "name": {
+            "en": "Dragash"
+          },
+          "latitude": 42.0265,
+          "longitude": 20.65333
+        },
+        {
+          "name": {
+            "en": "Gjinoc"
+          },
+          "latitude": 42.31833,
+          "longitude": 20.81861
+        },
+        {
+          "name": {
+            "en": "Leshan"
+          },
+          "latitude": 42.32778,
+          "longitude": 20.78111
+        },
+        {
+          "name": {
+            "en": "Llazicë"
+          },
+          "latitude": 42.55528,
+          "longitude": 20.76333
+        },
+        {
+          "name": {
+            "en": "Mališevo"
+          },
+          "latitude": 42.48222,
+          "longitude": 20.74583
+        },
+        {
+          "name": {
+            "en": "Mamuša"
+          },
+          "latitude": 42.33083,
+          "longitude": 20.72694
+        },
+        {
+          "name": {
+            "en": "Nishor"
+          },
+          "latitude": 42.42389,
+          "longitude": 20.80167
+        },
+        {
+          "name": {
+            "en": "Pagaruša"
+          },
+          "latitude": 42.42,
+          "longitude": 20.74222
+        },
+        {
+          "name": {
+            "en": "Peqan"
+          },
+          "latitude": 42.38361,
+          "longitude": 20.82194
+        },
+        {
+          "name": {
+            "en": "Prizren",
+            "ar": "بريزرن"
+          },
+          "latitude": 42.21389,
+          "longitude": 20.73972
+        },
+        {
+          "name": {
+            "en": "Suva Reka"
+          },
+          "latitude": 42.35861,
+          "longitude": 20.825
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "code": "TV",
+  "iso3": "TUV",
+  "name": {
+    "en": "Tuvalu",
+    "ar": "توفالو",
+    "de": "Tuvalu",
+    "es": "Tuvalu",
+    "fr": "Tuvalu",
+    "hi": "तुवालू",
+    "it": "Tuvalu",
+    "ja": "ツバル",
+    "ko": "투발루",
+    "nl": "Tuvalu",
+    "pl": "Tuvalu",
+    "pt": "Tuvalu",
+    "pt-BR": "Tuvalu",
+    "ru": "Тувалу",
+    "tr": "Tuvalu",
+    "uk": "Тувалу",
+    "zh": "图瓦卢"
+  },
+  "phone": "+688",
+  "currency": "AUD",
+  "timezone": "Pacific/Funafuti",
+  "flag": "🇹🇻",
+  "regions": [
+    {
+      "code": "TV-FUN",
+      "name": {
+        "en": "Funafuti"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Alapi Village"
+          },
+          "latitude": -8.52074,
+          "longitude": 179.1968
+        },
+        {
+          "name": {
+            "en": "Fakaifou Village"
+          },
+          "latitude": -8.51758,
+          "longitude": 179.20094
+        },
+        {
+          "name": {
+            "en": "Funafuti"
+          },
+          "latitude": -8.52425,
+          "longitude": 179.19417
+        }
+      ]
+    },
+    {
+      "code": "TV-NMG",
+      "name": {
+        "en": "Nanumanga"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Toga Village"
+          },
+          "latitude": -6.28764,
+          "longitude": 176.31472
+        }
+      ]
+    },
+    {
+      "code": "TV-NIT",
+      "name": {
+        "en": "Niutao Island Council"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Kulia Village"
+          },
+          "latitude": -6.10819,
+          "longitude": 177.33393
+        },
+        {
+          "name": {
+            "en": "Niulakita"
+          },
+          "latitude": -10.788,
+          "longitude": 179.466
+        }
+      ]
+    },
+    {
+      "code": "TV-NUI",
+      "name": {
+        "en": "Nui"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Tanrake Village"
+          },
+          "latitude": -7.24562,
+          "longitude": 177.14511
+        }
+      ]
+    },
+    {
+      "code": "TV-NKF",
+      "name": {
+        "en": "Nukufetau"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Savave Village"
+          },
+          "latitude": -8.02731,
+          "longitude": 178.31351
+        }
+      ]
+    },
+    {
+      "code": "TV-VAI",
+      "name": {
+        "en": "Vaitupu"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Asau Village"
+          },
+          "latitude": -7.49026,
+          "longitude": 178.68016
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,349 @@
+{
+  "code": "GU",
+  "iso3": "GUM",
+  "name": {
+    "en": "Guam",
+    "ar": "غوام",
+    "de": "Guam",
+    "es": "Guam",
+    "fr": "Guam",
+    "hi": "गुआम",
+    "it": "Guam",
+    "ja": "グアム",
+    "ko": "괌",
+    "nl": "Guam",
+    "pl": "Guam",
+    "pt": "Guame",
+    "pt-BR": "Guam",
+    "ru": "Гуам",
+    "tr": "Guam",
+    "uk": "Гуам",
+    "zh": "关岛"
+  },
+  "phone": "+1",
+  "currency": "USD",
+  "timezone": "Pacific/Guam",
+  "flag": "🇬🇺",
+  "regions": [
+    {
+      "code": "GU-01",
+      "name": {
+        "en": "Agana Heights"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Agana Heights Village"
+          },
+          "latitude": 13.46559,
+          "longitude": 144.74795
+        }
+      ]
+    },
+    {
+      "code": "GU-02",
+      "name": {
+        "en": "Asan-Maina"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Asan-Maina Village"
+          },
+          "latitude": 13.47215,
+          "longitude": 144.71654
+        }
+      ]
+    },
+    {
+      "code": "GU-03",
+      "name": {
+        "en": "Barrigada"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Barrigada Village"
+          },
+          "latitude": 13.46913,
+          "longitude": 144.79901
+        }
+      ]
+    },
+    {
+      "code": "GU-04",
+      "name": {
+        "en": "Chalan Pago-Ordot"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Chalan Pago-Ordot Village"
+          },
+          "latitude": 13.44741,
+          "longitude": 144.75902
+        }
+      ]
+    },
+    {
+      "code": "GU-05",
+      "name": {
+        "en": "Dededo"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Dededo Village"
+          },
+          "latitude": 13.51777,
+          "longitude": 144.8391
+        }
+      ]
+    },
+    {
+      "code": "GU-06",
+      "name": {
+        "en": "Hågat"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Agat Village"
+          },
+          "latitude": 13.383,
+          "longitude": 144.66003
+        }
+      ]
+    },
+    {
+      "code": "GU-12",
+      "name": {
+        "en": "Hagåtña"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Hagåtña",
+            "ar": "هاغاتنيا"
+          },
+          "latitude": 13.47567,
+          "longitude": 144.74886
+        },
+        {
+          "name": {
+            "en": "Hagåtña Village"
+          },
+          "latitude": 13.47279,
+          "longitude": 144.75802
+        }
+      ]
+    },
+    {
+      "code": "GU-08",
+      "name": {
+        "en": "Inarajan (Inalåhan)"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Inarajan Village"
+          },
+          "latitude": 13.27363,
+          "longitude": 144.74845
+        }
+      ]
+    },
+    {
+      "code": "GU-10",
+      "name": {
+        "en": "Mangilao"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Adacao"
+          },
+          "latitude": 13.49242,
+          "longitude": 144.8447
+        },
+        {
+          "name": {
+            "en": "Mangilao Village"
+          },
+          "latitude": 13.44761,
+          "longitude": 144.80109
+        }
+      ]
+    },
+    {
+      "code": "GU-09",
+      "name": {
+        "en": "Merizo (Malesso)"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Merizo Village"
+          },
+          "latitude": 13.26584,
+          "longitude": 144.66908
+        }
+      ]
+    },
+    {
+      "code": "GU-11",
+      "name": {
+        "en": "Mongmong-Toto-Maite"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Mongmong-Toto-Maite Village"
+          },
+          "latitude": 13.46857,
+          "longitude": 144.78214
+        }
+      ]
+    },
+    {
+      "code": "GU-13",
+      "name": {
+        "en": "Piti"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Piti Village"
+          },
+          "latitude": 13.46256,
+          "longitude": 144.69331
+        }
+      ]
+    },
+    {
+      "code": "GU-14",
+      "name": {
+        "en": "Santa Rita (Sånta Rita-Sumai)"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Apra Harbor"
+          },
+          "latitude": 13.42827,
+          "longitude": 144.65252
+        },
+        {
+          "name": {
+            "en": "Santa Rita Village"
+          },
+          "latitude": 13.38608,
+          "longitude": 144.67226
+        }
+      ]
+    },
+    {
+      "code": "GU-15",
+      "name": {
+        "en": "Sinajana"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Sinajana Village"
+          },
+          "latitude": 13.46334,
+          "longitude": 144.75406
+        }
+      ]
+    },
+    {
+      "code": "GU-16",
+      "name": {
+        "en": "Talofofo (Talo'fo'fo)"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Talofofo Village"
+          },
+          "latitude": 13.35513,
+          "longitude": 144.75835
+        }
+      ]
+    },
+    {
+      "code": "GU-17",
+      "name": {
+        "en": "Tamuning"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Apotgan"
+          },
+          "latitude": 13.48817,
+          "longitude": 144.77644
+        },
+        {
+          "name": {
+            "en": "Tamuning"
+          },
+          "latitude": 13.48754,
+          "longitude": 144.78143
+        },
+        {
+          "name": {
+            "en": "Tamuning-Tumon-Harmon Village"
+          },
+          "latitude": 13.48773,
+          "longitude": 144.78138
+        }
+      ]
+    },
+    {
+      "code": "GU-18",
+      "name": {
+        "en": "Yigo"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Anao"
+          },
+          "latitude": 13.5289,
+          "longitude": 144.9182
+        },
+        {
+          "name": {
+            "en": "Chaguian"
+          },
+          "latitude": 13.57175,
+          "longitude": 144.88058
+        },
+        {
+          "name": {
+            "en": "Yigo Village"
+          },
+          "latitude": 13.53605,
+          "longitude": 144.88855
+        }
+      ]
+    },
+    {
+      "code": "GU-19",
+      "name": {
+        "en": "Yona"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Yona Village"
+          },
+          "latitude": 13.40974,
+          "longitude": 144.77697
+        }
+      ]
+    }
+  ]
+}

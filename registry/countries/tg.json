@@ -1,0 +1,229 @@
+{
+  "code": "TG",
+  "iso3": "TGO",
+  "name": {
+    "en": "Togo",
+    "ar": "توغو",
+    "de": "Togo",
+    "es": "Togo",
+    "fr": "Togo",
+    "hi": "टोगो",
+    "it": "Togo",
+    "ja": "トーゴ",
+    "ko": "토고",
+    "nl": "Togo",
+    "pl": "Togo",
+    "pt": "Togo",
+    "pt-BR": "Togo",
+    "ru": "Того",
+    "tr": "Togo",
+    "uk": "Того",
+    "zh": "多哥"
+  },
+  "phone": "+228",
+  "currency": "XOF",
+  "timezone": "Africa/Lome",
+  "flag": "🇹🇬",
+  "regions": [
+    {
+      "code": "TG-C",
+      "name": {
+        "en": "Centrale"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Sokodé"
+          },
+          "latitude": 8.98333,
+          "longitude": 1.13333
+        },
+        {
+          "name": {
+            "en": "Sotouboua",
+            "ar": "سوتاوبوا"
+          },
+          "latitude": 8.5634,
+          "longitude": 0.98399
+        },
+        {
+          "name": {
+            "en": "Tchamba"
+          },
+          "latitude": 9.03333,
+          "longitude": 1.41667
+        }
+      ]
+    },
+    {
+      "code": "TG-K",
+      "name": {
+        "en": "Kara"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bafilo"
+          },
+          "latitude": 9.35,
+          "longitude": 1.26667
+        },
+        {
+          "name": {
+            "en": "Bassar",
+            "ar": "باسار"
+          },
+          "latitude": 9.25025,
+          "longitude": 0.78213
+        },
+        {
+          "name": {
+            "en": "Kandé"
+          },
+          "latitude": 9.95778,
+          "longitude": 1.04472
+        },
+        {
+          "name": {
+            "en": "Kara"
+          },
+          "latitude": 9.55111,
+          "longitude": 1.18611
+        },
+        {
+          "name": {
+            "en": "Niamtougou"
+          },
+          "latitude": 9.76806,
+          "longitude": 1.10528
+        },
+        {
+          "name": {
+            "en": "Pagouda"
+          },
+          "latitude": 9.7525,
+          "longitude": 1.32778
+        },
+        {
+          "name": {
+            "en": "Préfecture de Bassar"
+          },
+          "latitude": 9.25,
+          "longitude": 0.75
+        }
+      ]
+    },
+    {
+      "code": "TG-M",
+      "name": {
+        "en": "Maritime"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Aného"
+          },
+          "latitude": 6.22798,
+          "longitude": 1.5919
+        },
+        {
+          "name": {
+            "en": "Lomé",
+            "ar": "لومي"
+          },
+          "latitude": 6.12874,
+          "longitude": 1.22154
+        },
+        {
+          "name": {
+            "en": "Tabligbo"
+          },
+          "latitude": 6.58333,
+          "longitude": 1.5
+        },
+        {
+          "name": {
+            "en": "Tsévié",
+            "ar": "سيفييه"
+          },
+          "latitude": 6.42611,
+          "longitude": 1.21333
+        },
+        {
+          "name": {
+            "en": "Vogan"
+          },
+          "latitude": 6.33333,
+          "longitude": 1.53333
+        }
+      ]
+    },
+    {
+      "code": "TG-P",
+      "name": {
+        "en": "Plateaux"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Amlamé"
+          },
+          "latitude": 7.46667,
+          "longitude": 0.9
+        },
+        {
+          "name": {
+            "en": "Atakpamé"
+          },
+          "latitude": 7.53333,
+          "longitude": 1.13333
+        },
+        {
+          "name": {
+            "en": "Badou"
+          },
+          "latitude": 7.58333,
+          "longitude": 0.6
+        },
+        {
+          "name": {
+            "en": "Kpalimé"
+          },
+          "latitude": 6.9,
+          "longitude": 0.63333
+        },
+        {
+          "name": {
+            "en": "Notsé",
+            "ar": "نوتسي"
+          },
+          "latitude": 6.95,
+          "longitude": 1.16667
+        }
+      ]
+    },
+    {
+      "code": "TG-S",
+      "name": {
+        "en": "Savanes"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Dapaong",
+            "ar": "داباونق"
+          },
+          "latitude": 10.86225,
+          "longitude": 0.20762
+        },
+        {
+          "name": {
+            "en": "Sansanné-Mango"
+          },
+          "latitude": 10.35917,
+          "longitude": 0.47083
+        }
+      ]
+    }
+  ]
+}

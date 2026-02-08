@@ -1,0 +1,1276 @@
+{
+  "code": "NZ",
+  "iso3": "NZL",
+  "name": {
+    "en": "New Zealand",
+    "ar": "نيوزيلندا",
+    "de": "Neuseeland",
+    "es": "Nueva Zelanda",
+    "fr": "Nouvelle-Zélande",
+    "hi": "न्यूज़ीलैंड",
+    "it": "Nuova Zelanda",
+    "ja": "ニュージーランド",
+    "ko": "뉴질랜드",
+    "nl": "Nieuw-Zeeland",
+    "pl": "Nowa Zelandia",
+    "pt": "Nova Zelândia",
+    "pt-BR": "Nova Zelândia",
+    "ru": "Новая Зеландия",
+    "tr": "Yeni Zelanda",
+    "uk": "Нова Зеландія",
+    "zh": "新西兰"
+  },
+  "phone": "+64",
+  "currency": "NZD",
+  "timezone": "Pacific/Auckland",
+  "flag": "🇳🇿",
+  "regions": [
+    {
+      "code": "NZ-AUK",
+      "name": {
+        "en": "Auckland"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Auckland",
+            "ar": "أوكلاند"
+          },
+          "latitude": -36.84853,
+          "longitude": 174.76349
+        },
+        {
+          "name": {
+            "en": "Mangere"
+          },
+          "latitude": -36.96807,
+          "longitude": 174.79875
+        },
+        {
+          "name": {
+            "en": "Manukau City"
+          },
+          "latitude": -36.99282,
+          "longitude": 174.87986
+        },
+        {
+          "name": {
+            "en": "Muriwai Beach"
+          },
+          "latitude": -36.81667,
+          "longitude": 174.45
+        },
+        {
+          "name": {
+            "en": "Murrays Bay"
+          },
+          "latitude": -36.72819,
+          "longitude": 174.75019
+        },
+        {
+          "name": {
+            "en": "North Shore"
+          },
+          "latitude": -36.8,
+          "longitude": 174.75
+        },
+        {
+          "name": {
+            "en": "Pakuranga"
+          },
+          "latitude": -36.88333,
+          "longitude": 174.91667
+        },
+        {
+          "name": {
+            "en": "Papakura"
+          },
+          "latitude": -37.06573,
+          "longitude": 174.94393
+        },
+        {
+          "name": {
+            "en": "Parakai"
+          },
+          "latitude": -36.65,
+          "longitude": 174.43333
+        },
+        {
+          "name": {
+            "en": "Pukekohe East"
+          },
+          "latitude": -37.2,
+          "longitude": 174.95
+        },
+        {
+          "name": {
+            "en": "Red Hill"
+          },
+          "latitude": -37.0582,
+          "longitude": 174.97019
+        },
+        {
+          "name": {
+            "en": "Rosebank"
+          },
+          "latitude": -36.87495,
+          "longitude": 174.66991
+        },
+        {
+          "name": {
+            "en": "Rothesay Bay"
+          },
+          "latitude": -36.72602,
+          "longitude": 174.74064
+        },
+        {
+          "name": {
+            "en": "Takanini"
+          },
+          "latitude": -37.0482,
+          "longitude": 174.90019
+        },
+        {
+          "name": {
+            "en": "Tamaki"
+          },
+          "latitude": -36.8882,
+          "longitude": 174.86019
+        },
+        {
+          "name": {
+            "en": "Titirangi"
+          },
+          "latitude": -36.93754,
+          "longitude": 174.65584
+        },
+        {
+          "name": {
+            "en": "Waitakere"
+          },
+          "latitude": -36.91754,
+          "longitude": 174.65773
+        },
+        {
+          "name": {
+            "en": "Waiuku"
+          },
+          "latitude": -37.24806,
+          "longitude": 174.73489
+        },
+        {
+          "name": {
+            "en": "Warkworth"
+          },
+          "latitude": -36.4,
+          "longitude": 174.66667
+        },
+        {
+          "name": {
+            "en": "Wellsford"
+          },
+          "latitude": -36.28333,
+          "longitude": 174.51667
+        },
+        {
+          "name": {
+            "en": "Wiri"
+          },
+          "latitude": -36.9982,
+          "longitude": 174.86019
+        }
+      ]
+    },
+    {
+      "code": "NZ-BOP",
+      "name": {
+        "en": "Bay of Plenty"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Edgecumbe"
+          },
+          "latitude": -37.98333,
+          "longitude": 176.83333
+        },
+        {
+          "name": {
+            "en": "Katikati"
+          },
+          "latitude": -37.55,
+          "longitude": 175.91667
+        },
+        {
+          "name": {
+            "en": "Kawerau"
+          },
+          "latitude": -38.1,
+          "longitude": 176.7
+        },
+        {
+          "name": {
+            "en": "Maketu"
+          },
+          "latitude": -37.76667,
+          "longitude": 176.45
+        },
+        {
+          "name": {
+            "en": "Murupara"
+          },
+          "latitude": -38.46667,
+          "longitude": 176.7
+        },
+        {
+          "name": {
+            "en": "Opotiki"
+          },
+          "latitude": -38.00915,
+          "longitude": 177.28706
+        },
+        {
+          "name": {
+            "en": "Rotorua",
+            "ar": "روتوروا"
+          },
+          "latitude": -38.13874,
+          "longitude": 176.24516
+        },
+        {
+          "name": {
+            "en": "Tauranga"
+          },
+          "latitude": -37.68611,
+          "longitude": 176.16667
+        },
+        {
+          "name": {
+            "en": "Waihi Beach"
+          },
+          "latitude": -37.4,
+          "longitude": 175.93333
+        },
+        {
+          "name": {
+            "en": "Whakatane"
+          },
+          "latitude": -37.95855,
+          "longitude": 176.98545
+        }
+      ]
+    },
+    {
+      "code": "NZ-CAN",
+      "name": {
+        "en": "Canterbury"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Amberley"
+          },
+          "latitude": -43.15589,
+          "longitude": 172.72975
+        },
+        {
+          "name": {
+            "en": "Ashburton"
+          },
+          "latitude": -43.89834,
+          "longitude": 171.73011
+        },
+        {
+          "name": {
+            "en": "Ashburton District"
+          },
+          "latitude": -43.9,
+          "longitude": 171.75
+        },
+        {
+          "name": {
+            "en": "Burnham"
+          },
+          "latitude": -43.61667,
+          "longitude": 172.31667
+        },
+        {
+          "name": {
+            "en": "Christchurch",
+            "ar": "كرايستشرش"
+          },
+          "latitude": -43.53333,
+          "longitude": 172.63333
+        },
+        {
+          "name": {
+            "en": "Darfield"
+          },
+          "latitude": -43.48333,
+          "longitude": 172.11667
+        },
+        {
+          "name": {
+            "en": "Geraldine"
+          },
+          "latitude": -44.09061,
+          "longitude": 171.24458
+        },
+        {
+          "name": {
+            "en": "Kaiapoi"
+          },
+          "latitude": -43.37832,
+          "longitude": 172.64013
+        },
+        {
+          "name": {
+            "en": "Leeston"
+          },
+          "latitude": -43.76667,
+          "longitude": 172.3
+        },
+        {
+          "name": {
+            "en": "Lincoln"
+          },
+          "latitude": -43.65,
+          "longitude": 172.48333
+        },
+        {
+          "name": {
+            "en": "Mackenzie"
+          },
+          "latitude": -43.93987,
+          "longitude": 170.51913
+        },
+        {
+          "name": {
+            "en": "Methven"
+          },
+          "latitude": -43.63333,
+          "longitude": 171.65
+        },
+        {
+          "name": {
+            "en": "Oxford"
+          },
+          "latitude": -43.3,
+          "longitude": 172.18333
+        },
+        {
+          "name": {
+            "en": "Pleasant Point"
+          },
+          "latitude": -44.26667,
+          "longitude": 171.13333
+        },
+        {
+          "name": {
+            "en": "Prebbleton"
+          },
+          "latitude": -43.58333,
+          "longitude": 172.51667
+        },
+        {
+          "name": {
+            "en": "Rakaia"
+          },
+          "latitude": -43.75,
+          "longitude": 172.01667
+        },
+        {
+          "name": {
+            "en": "Rolleston"
+          },
+          "latitude": -43.58333,
+          "longitude": 172.38333
+        },
+        {
+          "name": {
+            "en": "Selwyn"
+          },
+          "latitude": -43.32226,
+          "longitude": 171.87064
+        },
+        {
+          "name": {
+            "en": "Timaru"
+          },
+          "latitude": -44.39672,
+          "longitude": 171.25364
+        },
+        {
+          "name": {
+            "en": "Timaru District"
+          },
+          "latitude": -44.4,
+          "longitude": 171.21667
+        },
+        {
+          "name": {
+            "en": "Tinwald"
+          },
+          "latitude": -43.91667,
+          "longitude": 171.71667
+        },
+        {
+          "name": {
+            "en": "Waimakariri"
+          },
+          "latitude": -43.2075,
+          "longitude": 172.33286
+        },
+        {
+          "name": {
+            "en": "Woodend"
+          },
+          "latitude": -43.31667,
+          "longitude": 172.66667
+        }
+      ]
+    },
+    {
+      "code": "NZ-CIT",
+      "name": {
+        "en": "Chatham Islands"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Waitangi"
+          },
+          "latitude": -43.95353,
+          "longitude": -176.55973
+        }
+      ]
+    },
+    {
+      "code": "NZ-GIS",
+      "name": {
+        "en": "Gisborne"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Gisborne"
+          },
+          "latitude": -38.65333,
+          "longitude": 178.00417
+        }
+      ]
+    },
+    {
+      "code": "NZ-HKB",
+      "name": {
+        "en": "Hawke's Bay"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Hastings",
+            "ar": "هاستينجس"
+          },
+          "latitude": -39.6381,
+          "longitude": 176.84918
+        },
+        {
+          "name": {
+            "en": "Napier"
+          },
+          "latitude": -39.4926,
+          "longitude": 176.91233
+        },
+        {
+          "name": {
+            "en": "Taradale"
+          },
+          "latitude": -39.53333,
+          "longitude": 176.85
+        },
+        {
+          "name": {
+            "en": "Wairoa"
+          },
+          "latitude": -39.03333,
+          "longitude": 177.36667
+        }
+      ]
+    },
+    {
+      "code": "NZ-MWT",
+      "name": {
+        "en": "Manawatu-Whanganui"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bulls"
+          },
+          "latitude": -40.17487,
+          "longitude": 175.38463
+        },
+        {
+          "name": {
+            "en": "Foxton"
+          },
+          "latitude": -40.46667,
+          "longitude": 175.3
+        },
+        {
+          "name": {
+            "en": "Horowhenua"
+          },
+          "latitude": -40.57733,
+          "longitude": 175.38071
+        },
+        {
+          "name": {
+            "en": "Levin"
+          },
+          "latitude": -40.63333,
+          "longitude": 175.275
+        },
+        {
+          "name": {
+            "en": "Manawatu"
+          },
+          "latitude": -40.11979,
+          "longitude": 175.67426
+        },
+        {
+          "name": {
+            "en": "Palmerston North"
+          },
+          "latitude": -40.35636,
+          "longitude": 175.61113
+        },
+        {
+          "name": {
+            "en": "Waiouru"
+          },
+          "latitude": -39.47753,
+          "longitude": 175.66834
+        },
+        {
+          "name": {
+            "en": "Wanganui",
+            "ar": "وانجانوي"
+          },
+          "latitude": -39.93333,
+          "longitude": 175.05
+        }
+      ]
+    },
+    {
+      "code": "NZ-MBH",
+      "name": {
+        "en": "Marlborough"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Blenheim"
+          },
+          "latitude": -41.51603,
+          "longitude": 173.9528
+        },
+        {
+          "name": {
+            "en": "Picton"
+          },
+          "latitude": -41.29067,
+          "longitude": 174.00801
+        }
+      ]
+    },
+    {
+      "code": "NZ-NSN",
+      "name": {
+        "en": "Nelson"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Nelson",
+            "ar": "نيلسون"
+          },
+          "latitude": -41.27078,
+          "longitude": 173.28404
+        }
+      ]
+    },
+    {
+      "code": "NZ-NTL",
+      "name": {
+        "en": "Northland"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ahipara"
+          },
+          "latitude": -35.16667,
+          "longitude": 173.16667
+        },
+        {
+          "name": {
+            "en": "Dargaville"
+          },
+          "latitude": -35.93333,
+          "longitude": 173.88333
+        },
+        {
+          "name": {
+            "en": "Far North"
+          },
+          "latitude": -35.03359,
+          "longitude": 173.48841
+        },
+        {
+          "name": {
+            "en": "Kaipara"
+          },
+          "latitude": -35.99546,
+          "longitude": 174.04688
+        },
+        {
+          "name": {
+            "en": "Kaitaia"
+          },
+          "latitude": -35.11485,
+          "longitude": 173.26366
+        },
+        {
+          "name": {
+            "en": "Kawakawa"
+          },
+          "latitude": -35.38333,
+          "longitude": 174.06667
+        },
+        {
+          "name": {
+            "en": "Kerikeri"
+          },
+          "latitude": -35.22676,
+          "longitude": 173.94739
+        },
+        {
+          "name": {
+            "en": "Maungatapere"
+          },
+          "latitude": -35.75,
+          "longitude": 174.2
+        },
+        {
+          "name": {
+            "en": "Moerewa"
+          },
+          "latitude": -35.38333,
+          "longitude": 174.03333
+        },
+        {
+          "name": {
+            "en": "Ngunguru"
+          },
+          "latitude": -35.61667,
+          "longitude": 174.5
+        },
+        {
+          "name": {
+            "en": "Paihia"
+          },
+          "latitude": -35.28067,
+          "longitude": 174.09103
+        },
+        {
+          "name": {
+            "en": "Ruakaka"
+          },
+          "latitude": -35.90818,
+          "longitude": 174.45019
+        },
+        {
+          "name": {
+            "en": "Taipa"
+          },
+          "latitude": -34.99604,
+          "longitude": 173.46665
+        },
+        {
+          "name": {
+            "en": "Waimate North"
+          },
+          "latitude": -35.31667,
+          "longitude": 173.88333
+        },
+        {
+          "name": {
+            "en": "Whangarei"
+          },
+          "latitude": -35.73167,
+          "longitude": 174.32391
+        }
+      ]
+    },
+    {
+      "code": "NZ-OTA",
+      "name": {
+        "en": "Otago"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Arrowtown"
+          },
+          "latitude": -44.93837,
+          "longitude": 168.81007
+        },
+        {
+          "name": {
+            "en": "Balclutha"
+          },
+          "latitude": -46.23389,
+          "longitude": 169.75
+        },
+        {
+          "name": {
+            "en": "Clutha"
+          },
+          "latitude": -46.03883,
+          "longitude": 169.60617
+        },
+        {
+          "name": {
+            "en": "Cromwell"
+          },
+          "latitude": -45.03837,
+          "longitude": 169.20008
+        },
+        {
+          "name": {
+            "en": "Dunedin"
+          },
+          "latitude": -45.87416,
+          "longitude": 170.50361
+        },
+        {
+          "name": {
+            "en": "Kingston"
+          },
+          "latitude": -45.33288,
+          "longitude": 168.71476
+        },
+        {
+          "name": {
+            "en": "Milton"
+          },
+          "latitude": -46.12083,
+          "longitude": 169.96944
+        },
+        {
+          "name": {
+            "en": "Oamaru"
+          },
+          "latitude": -45.09758,
+          "longitude": 170.97087
+        },
+        {
+          "name": {
+            "en": "Papatowai"
+          },
+          "latitude": -46.56069,
+          "longitude": 169.47068
+        },
+        {
+          "name": {
+            "en": "Portobello"
+          },
+          "latitude": -45.85,
+          "longitude": 170.65
+        },
+        {
+          "name": {
+            "en": "Queenstown"
+          },
+          "latitude": -45.03023,
+          "longitude": 168.66271
+        },
+        {
+          "name": {
+            "en": "Wanaka"
+          },
+          "latitude": -44.7,
+          "longitude": 169.15
+        }
+      ]
+    },
+    {
+      "code": "NZ-STL",
+      "name": {
+        "en": "Southland"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bluff"
+          },
+          "latitude": -46.6,
+          "longitude": 168.33333
+        },
+        {
+          "name": {
+            "en": "Gore"
+          },
+          "latitude": -46.10282,
+          "longitude": 168.94357
+        },
+        {
+          "name": {
+            "en": "Invercargill",
+            "ar": "إنفركارجل"
+          },
+          "latitude": -46.4,
+          "longitude": 168.35
+        },
+        {
+          "name": {
+            "en": "Riverton"
+          },
+          "latitude": -46.35,
+          "longitude": 168.01667
+        },
+        {
+          "name": {
+            "en": "Southland"
+          },
+          "latitude": -45.77256,
+          "longitude": 167.85266
+        },
+        {
+          "name": {
+            "en": "Te Anau"
+          },
+          "latitude": -45.41667,
+          "longitude": 167.71667
+        },
+        {
+          "name": {
+            "en": "Winton"
+          },
+          "latitude": -46.15,
+          "longitude": 168.33333
+        }
+      ]
+    },
+    {
+      "code": "NZ-TKI",
+      "name": {
+        "en": "Taranaki"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Eltham"
+          },
+          "latitude": -39.42917,
+          "longitude": 174.3
+        },
+        {
+          "name": {
+            "en": "Hawera"
+          },
+          "latitude": -39.59167,
+          "longitude": 174.28333
+        },
+        {
+          "name": {
+            "en": "New Plymouth"
+          },
+          "latitude": -39.06667,
+          "longitude": 174.08333
+        },
+        {
+          "name": {
+            "en": "New Plymouth District"
+          },
+          "latitude": -39.05865,
+          "longitude": 174.10309
+        },
+        {
+          "name": {
+            "en": "Opunake"
+          },
+          "latitude": -39.45556,
+          "longitude": 173.85833
+        },
+        {
+          "name": {
+            "en": "Patea"
+          },
+          "latitude": -39.75833,
+          "longitude": 174.48333
+        },
+        {
+          "name": {
+            "en": "South Taranaki"
+          },
+          "latitude": -39.52156,
+          "longitude": 174.3716
+        },
+        {
+          "name": {
+            "en": "Stratford"
+          },
+          "latitude": -39.3221517,
+          "longitude": 174.2629816
+        },
+        {
+          "name": {
+            "en": "Waitara"
+          },
+          "latitude": -39.00158,
+          "longitude": 174.23836
+        }
+      ]
+    },
+    {
+      "code": "NZ-TAS",
+      "name": {
+        "en": "Tasman"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Brightwater"
+          },
+          "latitude": -41.38333,
+          "longitude": 173.11667
+        },
+        {
+          "name": {
+            "en": "Mapua"
+          },
+          "latitude": -41.25,
+          "longitude": 173.1
+        },
+        {
+          "name": {
+            "en": "Motueka"
+          },
+          "latitude": -41.13333,
+          "longitude": 173.01667
+        },
+        {
+          "name": {
+            "en": "Richmond"
+          },
+          "latitude": -41.33333,
+          "longitude": 173.18333
+        },
+        {
+          "name": {
+            "en": "Takaka"
+          },
+          "latitude": -40.85,
+          "longitude": 172.8
+        },
+        {
+          "name": {
+            "en": "Wakefield"
+          },
+          "latitude": -41.4,
+          "longitude": 173.05
+        }
+      ]
+    },
+    {
+      "code": "NZ-WKO",
+      "name": {
+        "en": "Waikato"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Cambridge"
+          },
+          "latitude": -37.87822,
+          "longitude": 175.4402
+        },
+        {
+          "name": {
+            "en": "Coromandel"
+          },
+          "latitude": -36.7611,
+          "longitude": 175.49634
+        },
+        {
+          "name": {
+            "en": "Hamilton",
+            "ar": "هاميلتون"
+          },
+          "latitude": -37.78333,
+          "longitude": 175.28333
+        },
+        {
+          "name": {
+            "en": "Matamata"
+          },
+          "latitude": -37.8106,
+          "longitude": 175.76237
+        },
+        {
+          "name": {
+            "en": "Ngaruawahia"
+          },
+          "latitude": -37.66738,
+          "longitude": 175.15554
+        },
+        {
+          "name": {
+            "en": "Ngatea"
+          },
+          "latitude": -37.28333,
+          "longitude": 175.5
+        },
+        {
+          "name": {
+            "en": "Otorohanga"
+          },
+          "latitude": -38.18333,
+          "longitude": 175.2
+        },
+        {
+          "name": {
+            "en": "Paeroa"
+          },
+          "latitude": -37.36667,
+          "longitude": 175.66667
+        },
+        {
+          "name": {
+            "en": "Raglan"
+          },
+          "latitude": -37.8,
+          "longitude": 174.88333
+        },
+        {
+          "name": {
+            "en": "South Waikato"
+          },
+          "latitude": -38.16797,
+          "longitude": 175.88624
+        },
+        {
+          "name": {
+            "en": "Tairua"
+          },
+          "latitude": -37.01667,
+          "longitude": 175.85
+        },
+        {
+          "name": {
+            "en": "Taupo"
+          },
+          "latitude": -38.68333,
+          "longitude": 176.08333
+        },
+        {
+          "name": {
+            "en": "Te Kauwhata"
+          },
+          "latitude": -37.4,
+          "longitude": 175.15
+        },
+        {
+          "name": {
+            "en": "Thames"
+          },
+          "latitude": -37.13832,
+          "longitude": 175.54011
+        },
+        {
+          "name": {
+            "en": "Tokoroa"
+          },
+          "latitude": -38.23333,
+          "longitude": 175.86667
+        },
+        {
+          "name": {
+            "en": "Turangi"
+          },
+          "latitude": -38.99037,
+          "longitude": 175.80837
+        },
+        {
+          "name": {
+            "en": "Waihi"
+          },
+          "latitude": -37.38333,
+          "longitude": 175.83333
+        },
+        {
+          "name": {
+            "en": "Whangamata"
+          },
+          "latitude": -37.2,
+          "longitude": 175.86667
+        },
+        {
+          "name": {
+            "en": "Whitianga"
+          },
+          "latitude": -36.83333,
+          "longitude": 175.7
+        }
+      ]
+    },
+    {
+      "code": "NZ-WGN",
+      "name": {
+        "en": "Wellington"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Brooklyn"
+          },
+          "latitude": -41.30586,
+          "longitude": 174.76257
+        },
+        {
+          "name": {
+            "en": "Castlepoint"
+          },
+          "latitude": -40.9,
+          "longitude": 176.21667
+        },
+        {
+          "name": {
+            "en": "Kapiti Coast"
+          },
+          "latitude": -40.85682,
+          "longitude": 175.1469
+        },
+        {
+          "name": {
+            "en": "Kelburn"
+          },
+          "latitude": -41.28333,
+          "longitude": 174.76667
+        },
+        {
+          "name": {
+            "en": "Khandallah"
+          },
+          "latitude": -41.245,
+          "longitude": 174.79422
+        },
+        {
+          "name": {
+            "en": "Lower Hutt",
+            "ar": "لور هوت"
+          },
+          "latitude": -41.21667,
+          "longitude": 174.91667
+        },
+        {
+          "name": {
+            "en": "Masterton"
+          },
+          "latitude": -40.95972,
+          "longitude": 175.6575
+        },
+        {
+          "name": {
+            "en": "Otaki"
+          },
+          "latitude": -40.75833,
+          "longitude": 175.15
+        },
+        {
+          "name": {
+            "en": "Paraparaumu"
+          },
+          "latitude": -40.91667,
+          "longitude": 175.01667
+        },
+        {
+          "name": {
+            "en": "Petone"
+          },
+          "latitude": -41.22827,
+          "longitude": 174.87019
+        },
+        {
+          "name": {
+            "en": "Porirua",
+            "ar": "بوريريوا"
+          },
+          "latitude": -41.13333,
+          "longitude": 174.85
+        },
+        {
+          "name": {
+            "en": "South Wairarapa"
+          },
+          "latitude": -41.26731,
+          "longitude": 175.38442
+        },
+        {
+          "name": {
+            "en": "Upper Hutt",
+            "ar": "هوت العليا"
+          },
+          "latitude": -41.13827,
+          "longitude": 175.0502
+        },
+        {
+          "name": {
+            "en": "Waipawa"
+          },
+          "latitude": -41.41222,
+          "longitude": 175.51528
+        },
+        {
+          "name": {
+            "en": "Wellington",
+            "ar": "ويلينغتون"
+          },
+          "latitude": -41.28664,
+          "longitude": 174.77557
+        }
+      ]
+    },
+    {
+      "code": "NZ-WTC",
+      "name": {
+        "en": "West Coast"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Greymouth"
+          },
+          "latitude": -42.46667,
+          "longitude": 171.2
+        },
+        {
+          "name": {
+            "en": "Hokitika"
+          },
+          "latitude": -42.71667,
+          "longitude": 170.96667
+        },
+        {
+          "name": {
+            "en": "Westport"
+          },
+          "latitude": -41.75262,
+          "longitude": 171.6037
+        }
+      ]
+    }
+  ]
+}

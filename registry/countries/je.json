@@ -1,0 +1,482 @@
+{
+  "code": "JE",
+  "iso3": "JEY",
+  "name": {
+    "en": "Jersey",
+    "ar": "جيرسي",
+    "de": "Jersey",
+    "es": "Jersey",
+    "fr": "Jersey",
+    "hi": "जर्सी",
+    "it": "Isola di Jersey",
+    "ja": "ジャージー",
+    "ko": "저지 섬",
+    "nl": "Jersey",
+    "pl": "Jersey",
+    "pt": "Jersey",
+    "pt-BR": "Jersey",
+    "ru": "Джерси",
+    "tr": "Jersey",
+    "uk": "Джерсі",
+    "zh": "泽西岛"
+  },
+  "phone": "+44",
+  "currency": "GBP",
+  "timezone": "Europe/Jersey",
+  "flag": "🇯🇪",
+  "regions": [
+    {
+      "code": "JE-01",
+      "name": {
+        "en": "Grouville"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Vingtaine de la Rocque"
+          },
+          "latitude": 49.1704888,
+          "longitude": -2.0338914
+        },
+        {
+          "name": {
+            "en": "Vingtaine de la Rue"
+          },
+          "latitude": 49.1866123,
+          "longitude": -2.0531613
+        },
+        {
+          "name": {
+            "en": "Vingtaine de Longueville"
+          },
+          "latitude": 49.1900183,
+          "longitude": -2.049178
+        },
+        {
+          "name": {
+            "en": "Vingtaine des Marais"
+          },
+          "latitude": 49.185563,
+          "longitude": -2.050422
+        }
+      ]
+    },
+    {
+      "code": "JE-02",
+      "name": {
+        "en": "St Brelade"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Vingtaine de la Moye"
+          },
+          "latitude": 49.1844548,
+          "longitude": -2.2395047
+        },
+        {
+          "name": {
+            "en": "Vingtaine de Noirmont"
+          },
+          "latitude": 49.1726985,
+          "longitude": -2.2255051
+        },
+        {
+          "name": {
+            "en": "Vingtaine des Quennevais"
+          },
+          "latitude": 49.1970432,
+          "longitude": -2.2161808
+        },
+        {
+          "name": {
+            "en": "Vingtaine du Coin"
+          },
+          "latitude": 49.1875396,
+          "longitude": -2.1847371
+        }
+      ]
+    },
+    {
+      "code": "JE-03",
+      "name": {
+        "en": "St Clement"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Grande Vingtaine"
+          },
+          "latitude": 49.1720713,
+          "longitude": -2.0619937
+        },
+        {
+          "name": {
+            "en": "Vingtaine de Samarès"
+          },
+          "latitude": 49.1649758,
+          "longitude": -2.0988029
+        },
+        {
+          "name": {
+            "en": "Vingtaine du Rocquier"
+          },
+          "latitude": 49.172505,
+          "longitude": -2.0654384
+        }
+      ]
+    },
+    {
+      "code": "JE-04",
+      "name": {
+        "en": "St Helier"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Vingtaine de Bas du Mont au Prêtre"
+          },
+          "latitude": 49.1993959,
+          "longitude": -2.1196408
+        },
+        {
+          "name": {
+            "en": "Vingtaine de Haut du Mont au Prêtre"
+          },
+          "latitude": 49.2024251,
+          "longitude": -2.0991923
+        },
+        {
+          "name": {
+            "en": "Vingtaine de la Ville"
+          },
+          "latitude": 49.1788332,
+          "longitude": -2.1035759
+        },
+        {
+          "name": {
+            "en": "Vingtaine du Mont à l'Abbé"
+          },
+          "latitude": 49.2003633,
+          "longitude": -2.1338439
+        },
+        {
+          "name": {
+            "en": "Vingtaine du Mont Cochon"
+          },
+          "latitude": 49.1997537,
+          "longitude": -2.1475755
+        },
+        {
+          "name": {
+            "en": "Vingtaine du Rouge Bouillon"
+          },
+          "latitude": 49.192912,
+          "longitude": -2.109353
+        }
+      ]
+    },
+    {
+      "code": "JE-05",
+      "name": {
+        "en": "St John"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Vingtaine de Hérupe"
+          },
+          "latitude": 49.2333012,
+          "longitude": -2.1235708
+        },
+        {
+          "name": {
+            "en": "Vingtaine du Douet"
+          },
+          "latitude": 49.2345962,
+          "longitude": -2.1722771
+        },
+        {
+          "name": {
+            "en": "Vingtaine du Nord"
+          },
+          "latitude": 49.2393878,
+          "longitude": -2.1206972
+        }
+      ]
+    },
+    {
+      "code": "JE-06",
+      "name": {
+        "en": "St Lawrence"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Vingtaine Bas de la Vallée"
+          },
+          "latitude": 49.1958468,
+          "longitude": -2.1566922
+        },
+        {
+          "name": {
+            "en": "Vingtaine du Coin Hatain"
+          },
+          "latitude": 49.2207436,
+          "longitude": -2.1269749
+        },
+        {
+          "name": {
+            "en": "Vingtaine du Coin Motier"
+          },
+          "latitude": 49.2249017,
+          "longitude": -2.139654
+        },
+        {
+          "name": {
+            "en": "Vingtaine du Coin Tourgis Nord"
+          },
+          "latitude": 49.2292499,
+          "longitude": -2.1509257
+        },
+        {
+          "name": {
+            "en": "Vingtaine du Coin Tourgis Sud"
+          },
+          "latitude": 49.2105946,
+          "longitude": -2.1526433
+        }
+      ]
+    },
+    {
+      "code": "JE-07",
+      "name": {
+        "en": "St Martin"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Vingtaine de Faldouet"
+          },
+          "latitude": 49.2032204,
+          "longitude": -2.0526972
+        },
+        {
+          "name": {
+            "en": "Vingtaine de la Quéruée"
+          },
+          "latitude": 49.214991,
+          "longitude": -2.0560363
+        },
+        {
+          "name": {
+            "en": "Vingtaine de Rozel"
+          },
+          "latitude": 49.235695,
+          "longitude": -2.0504847
+        },
+        {
+          "name": {
+            "en": "Vingtaine du Fief de la Reine"
+          },
+          "latitude": 49.2184277,
+          "longitude": -2.0351879
+        }
+      ]
+    },
+    {
+      "code": "JE-08",
+      "name": {
+        "en": "St Mary"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Vingtaine du Nord"
+          },
+          "latitude": 49.2442639,
+          "longitude": -2.1808226
+        },
+        {
+          "name": {
+            "en": "Vingtaine du Sud"
+          },
+          "latitude": 49.2340425,
+          "longitude": -2.1673084
+        }
+      ]
+    },
+    {
+      "code": "JE-09",
+      "name": {
+        "en": "St Ouen"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Cueillette de Grantez"
+          },
+          "latitude": 49.2312397,
+          "longitude": -2.2233903
+        },
+        {
+          "name": {
+            "en": "Cueillette de Léoville"
+          },
+          "latitude": 49.2380324,
+          "longitude": -2.2263487
+        },
+        {
+          "name": {
+            "en": "Cueillette de Millais"
+          },
+          "latitude": 49.2408537,
+          "longitude": -2.2433042
+        },
+        {
+          "name": {
+            "en": "Cueillette de Vinchelez"
+          },
+          "latitude": 49.244478,
+          "longitude": -2.2390543
+        },
+        {
+          "name": {
+            "en": "Grande Cueillette"
+          },
+          "latitude": 49.22331,
+          "longitude": -2.2160988
+        },
+        {
+          "name": {
+            "en": "Petite Cueillette"
+          },
+          "latitude": 49.2245677,
+          "longitude": -2.1965655
+        }
+      ]
+    },
+    {
+      "code": "JE-10",
+      "name": {
+        "en": "St Peter"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Grande Vingtaine"
+          },
+          "latitude": 49.210655,
+          "longitude": -2.1960636
+        },
+        {
+          "name": {
+            "en": "Vingtaine des Augerez"
+          },
+          "latitude": 49.2077679,
+          "longitude": -2.1862978
+        },
+        {
+          "name": {
+            "en": "Vingtaine du Coin Varin"
+          },
+          "latitude": 49.2145195,
+          "longitude": -2.1872255
+        },
+        {
+          "name": {
+            "en": "Vingtaine du Douet"
+          },
+          "latitude": 49.2098807,
+          "longitude": -2.1845342
+        }
+      ]
+    },
+    {
+      "code": "JE-11",
+      "name": {
+        "en": "St Saviour"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Vingtaine de la Grande Longueville"
+          },
+          "latitude": 49.1878671,
+          "longitude": -2.0750215
+        },
+        {
+          "name": {
+            "en": "Vingtaine de la Petite Longueville"
+          },
+          "latitude": 49.1809034,
+          "longitude": -2.0812162
+        },
+        {
+          "name": {
+            "en": "Vingtaine de Maufant"
+          },
+          "latitude": 49.2082296,
+          "longitude": -2.100606
+        },
+        {
+          "name": {
+            "en": "Vingtaine de Sous la Hougue"
+          },
+          "latitude": 49.2137711,
+          "longitude": -2.1357662
+        },
+        {
+          "name": {
+            "en": "Vingtaine des Pigneaux"
+          },
+          "latitude": 49.202627,
+          "longitude": -2.0708067
+        }
+      ]
+    },
+    {
+      "code": "JE-12",
+      "name": {
+        "en": "Trinity"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Vingtaine de la Croiserie"
+          },
+          "latitude": 49.2164693,
+          "longitude": -2.0916441
+        },
+        {
+          "name": {
+            "en": "Vingtaine de la Ville-à-l'Évêque"
+          },
+          "latitude": 49.2317648,
+          "longitude": -2.1223684
+        },
+        {
+          "name": {
+            "en": "Vingtaine de Rozel"
+          },
+          "latitude": 49.2384287,
+          "longitude": -2.0670406
+        },
+        {
+          "name": {
+            "en": "Vingtaine des Augrès"
+          },
+          "latitude": 49.2285729,
+          "longitude": -2.0823505
+        },
+        {
+          "name": {
+            "en": "Vingtaine du Rondin"
+          },
+          "latitude": 49.2370624,
+          "longitude": -2.0875331
+        }
+      ]
+    }
+  ]
+}

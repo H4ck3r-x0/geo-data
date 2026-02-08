@@ -1,0 +1,483 @@
+{
+  "code": "MW",
+  "iso3": "MWI",
+  "name": {
+    "en": "Malawi",
+    "ar": "ملاوي",
+    "de": "Malawi",
+    "es": "Malawi",
+    "fr": "Malawi",
+    "hi": "मलावी",
+    "it": "Malawi",
+    "ja": "マラウイ",
+    "ko": "말라위",
+    "nl": "Malawi",
+    "pl": "Malawi",
+    "pt": "Malávi",
+    "pt-BR": "Malawi",
+    "ru": "Малави",
+    "tr": "Malavi",
+    "uk": "Малаві",
+    "zh": "马拉维"
+  },
+  "phone": "+265",
+  "currency": "MWK",
+  "timezone": "Africa/Blantyre",
+  "flag": "🇲🇼",
+  "regions": [
+    {
+      "code": "MW-C",
+      "name": {
+        "en": "Central"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Chipoka"
+          },
+          "latitude": -13.99329,
+          "longitude": 34.51566
+        },
+        {
+          "name": {
+            "en": "Dedza"
+          },
+          "latitude": -14.3779,
+          "longitude": 34.33322
+        },
+        {
+          "name": {
+            "en": "Dedza District"
+          },
+          "latitude": -14.26273,
+          "longitude": 34.18559
+        },
+        {
+          "name": {
+            "en": "Dowa"
+          },
+          "latitude": -13.65399,
+          "longitude": 33.93754
+        },
+        {
+          "name": {
+            "en": "Dowa District"
+          },
+          "latitude": -13.60098,
+          "longitude": 33.82378
+        },
+        {
+          "name": {
+            "en": "Kasungu"
+          },
+          "latitude": -13.03333,
+          "longitude": 33.48333
+        },
+        {
+          "name": {
+            "en": "Kasungu District"
+          },
+          "latitude": -13,
+          "longitude": 33.41667
+        },
+        {
+          "name": {
+            "en": "Lilongwe",
+            "ar": "ليلونغوي"
+          },
+          "latitude": -13.96692,
+          "longitude": 33.78725
+        },
+        {
+          "name": {
+            "en": "Lilongwe District"
+          },
+          "latitude": -14.01962,
+          "longitude": 33.68407
+        },
+        {
+          "name": {
+            "en": "Mchinji"
+          },
+          "latitude": -13.79841,
+          "longitude": 32.88019
+        },
+        {
+          "name": {
+            "en": "Mchinji District"
+          },
+          "latitude": -13.7623,
+          "longitude": 33.07998
+        },
+        {
+          "name": {
+            "en": "Mponela"
+          },
+          "latitude": -13.53194,
+          "longitude": 33.74008
+        },
+        {
+          "name": {
+            "en": "Nkhotakota"
+          },
+          "latitude": -12.92744,
+          "longitude": 34.29614
+        },
+        {
+          "name": {
+            "en": "Nkhotakota District"
+          },
+          "latitude": -12.80417,
+          "longitude": 34.08298
+        },
+        {
+          "name": {
+            "en": "Ntcheu"
+          },
+          "latitude": -14.82027,
+          "longitude": 34.63586
+        },
+        {
+          "name": {
+            "en": "Ntcheu District"
+          },
+          "latitude": -14.75,
+          "longitude": 34.75
+        },
+        {
+          "name": {
+            "en": "Ntchisi"
+          },
+          "latitude": -13.52775,
+          "longitude": 33.9149
+        },
+        {
+          "name": {
+            "en": "Ntchisi District"
+          },
+          "latitude": -13.29574,
+          "longitude": 33.90798
+        },
+        {
+          "name": {
+            "en": "Salima"
+          },
+          "latitude": -13.7804,
+          "longitude": 34.4587
+        },
+        {
+          "name": {
+            "en": "Salima District"
+          },
+          "latitude": -13.71959,
+          "longitude": 34.40184
+        }
+      ]
+    },
+    {
+      "code": "MW-N",
+      "name": {
+        "en": "Northern"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Chitipa"
+          },
+          "latitude": -9.70237,
+          "longitude": 33.26969
+        },
+        {
+          "name": {
+            "en": "Chitipa District"
+          },
+          "latitude": -9.92727,
+          "longitude": 33.42541
+        },
+        {
+          "name": {
+            "en": "Karonga"
+          },
+          "latitude": -9.93333,
+          "longitude": 33.93333
+        },
+        {
+          "name": {
+            "en": "Karonga District"
+          },
+          "latitude": -10.11153,
+          "longitude": 33.88151
+        },
+        {
+          "name": {
+            "en": "Likoma"
+          },
+          "latitude": -12.06065,
+          "longitude": 34.73608
+        },
+        {
+          "name": {
+            "en": "Livingstonia"
+          },
+          "latitude": -10.60602,
+          "longitude": 34.10628
+        },
+        {
+          "name": {
+            "en": "Mzimba"
+          },
+          "latitude": -11.9,
+          "longitude": 33.6
+        },
+        {
+          "name": {
+            "en": "Mzimba District"
+          },
+          "latitude": -11.85428,
+          "longitude": 33.60778
+        },
+        {
+          "name": {
+            "en": "Mzuzu",
+            "ar": "مزوزو"
+          },
+          "latitude": -11.46556,
+          "longitude": 34.02071
+        },
+        {
+          "name": {
+            "en": "Nkhata Bay"
+          },
+          "latitude": -11.60659,
+          "longitude": 34.29073
+        },
+        {
+          "name": {
+            "en": "Nkhata Bay District"
+          },
+          "latitude": -11.65304,
+          "longitude": 34.05322
+        },
+        {
+          "name": {
+            "en": "Rumphi"
+          },
+          "latitude": -11.01863,
+          "longitude": 33.85746
+        },
+        {
+          "name": {
+            "en": "Rumphi District"
+          },
+          "latitude": -10.80292,
+          "longitude": 33.80524
+        }
+      ]
+    },
+    {
+      "code": "MW-S",
+      "name": {
+        "en": "Southern"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Balaka"
+          },
+          "latitude": -14.97928,
+          "longitude": 34.95575
+        },
+        {
+          "name": {
+            "en": "Balaka District"
+          },
+          "latitude": -15.04839,
+          "longitude": 35.0591
+        },
+        {
+          "name": {
+            "en": "Blantyre",
+            "ar": "بلانتاير"
+          },
+          "latitude": -15.78499,
+          "longitude": 35.00854
+        },
+        {
+          "name": {
+            "en": "Blantyre District"
+          },
+          "latitude": -15.64732,
+          "longitude": 34.93956
+        },
+        {
+          "name": {
+            "en": "Chikwawa"
+          },
+          "latitude": -16.03352,
+          "longitude": 34.80091
+        },
+        {
+          "name": {
+            "en": "Chikwawa District"
+          },
+          "latitude": -16.16667,
+          "longitude": 34.75
+        },
+        {
+          "name": {
+            "en": "Chiradzulu"
+          },
+          "latitude": -15.67461,
+          "longitude": 35.14071
+        },
+        {
+          "name": {
+            "en": "Chiradzulu District"
+          },
+          "latitude": -15.75268,
+          "longitude": 35.21576
+        },
+        {
+          "name": {
+            "en": "Liwonde"
+          },
+          "latitude": -15.06665,
+          "longitude": 35.22543
+        },
+        {
+          "name": {
+            "en": "Luchenza"
+          },
+          "latitude": -16.00693,
+          "longitude": 35.30947
+        },
+        {
+          "name": {
+            "en": "Machinga"
+          },
+          "latitude": -15.16849,
+          "longitude": 35.30002
+        },
+        {
+          "name": {
+            "en": "Machinga District"
+          },
+          "latitude": -14.94583,
+          "longitude": 35.57367
+        },
+        {
+          "name": {
+            "en": "Mangochi"
+          },
+          "latitude": -14.47815,
+          "longitude": 35.26448
+        },
+        {
+          "name": {
+            "en": "Mangochi District"
+          },
+          "latitude": -14.39296,
+          "longitude": 35.34658
+        },
+        {
+          "name": {
+            "en": "Monkey Bay"
+          },
+          "latitude": -14.08239,
+          "longitude": 34.91652
+        },
+        {
+          "name": {
+            "en": "Mulanje"
+          },
+          "latitude": -16.03163,
+          "longitude": 35.5
+        },
+        {
+          "name": {
+            "en": "Mulanje District"
+          },
+          "latitude": -15.9344,
+          "longitude": 35.4999
+        },
+        {
+          "name": {
+            "en": "Mwanza"
+          },
+          "latitude": -15.60262,
+          "longitude": 34.52479
+        },
+        {
+          "name": {
+            "en": "Mwanza District"
+          },
+          "latitude": -15.63337,
+          "longitude": 34.51682
+        },
+        {
+          "name": {
+            "en": "Neno"
+          },
+          "latitude": -15.45051,
+          "longitude": 34.70034
+        },
+        {
+          "name": {
+            "en": "Nsanje"
+          },
+          "latitude": -16.91995,
+          "longitude": 35.26199
+        },
+        {
+          "name": {
+            "en": "Nsanje District"
+          },
+          "latitude": -16.75,
+          "longitude": 35.16667
+        },
+        {
+          "name": {
+            "en": "Phalombe"
+          },
+          "latitude": -15.80635,
+          "longitude": 35.65067
+        },
+        {
+          "name": {
+            "en": "Phalombe District"
+          },
+          "latitude": -15.66667,
+          "longitude": 35.66667
+        },
+        {
+          "name": {
+            "en": "Thyolo"
+          },
+          "latitude": -16.06775,
+          "longitude": 35.14046
+        },
+        {
+          "name": {
+            "en": "Thyolo District"
+          },
+          "latitude": -16.10583,
+          "longitude": 35.1506
+        },
+        {
+          "name": {
+            "en": "Zomba"
+          },
+          "latitude": -15.38596,
+          "longitude": 35.3188
+        },
+        {
+          "name": {
+            "en": "Zomba District"
+          },
+          "latitude": -15.43007,
+          "longitude": 35.41829
+        }
+      ]
+    }
+  ]
+}

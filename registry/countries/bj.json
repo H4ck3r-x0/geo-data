@@ -1,0 +1,379 @@
+{
+  "code": "BJ",
+  "iso3": "BEN",
+  "name": {
+    "en": "Benin",
+    "ar": "بنين",
+    "de": "Benin",
+    "es": "Benín",
+    "fr": "Bénin",
+    "hi": "बेनिन",
+    "it": "Benin",
+    "ja": "ベナン",
+    "ko": "베냉",
+    "nl": "Benin",
+    "pl": "Benin",
+    "pt": "Benim",
+    "pt-BR": "Benin",
+    "ru": "Бенин",
+    "tr": "Benin",
+    "uk": "Бенін",
+    "zh": "贝宁"
+  },
+  "phone": "+229",
+  "currency": "XOF",
+  "timezone": "Africa/Porto-Novo",
+  "flag": "🇧🇯",
+  "regions": [
+    {
+      "code": "BJ-AL",
+      "name": {
+        "en": "Alibori"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Banikoara"
+          },
+          "latitude": 11.29845,
+          "longitude": 2.43856
+        },
+        {
+          "name": {
+            "en": "Kandi"
+          },
+          "latitude": 11.13417,
+          "longitude": 2.93861
+        },
+        {
+          "name": {
+            "en": "Malanville"
+          },
+          "latitude": 11.86819,
+          "longitude": 3.38327
+        }
+      ]
+    },
+    {
+      "code": "BJ-AK",
+      "name": {
+        "en": "Atakora"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Guilmaro"
+          },
+          "latitude": 10.56583,
+          "longitude": 1.72444
+        },
+        {
+          "name": {
+            "en": "Natitingou"
+          },
+          "latitude": 10.30416,
+          "longitude": 1.37962
+        },
+        {
+          "name": {
+            "en": "Tanguieta"
+          },
+          "latitude": 11.03621,
+          "longitude": 1.41757
+        }
+      ]
+    },
+    {
+      "code": "BJ-AQ",
+      "name": {
+        "en": "Atlantique"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Abomey-Calavi"
+          },
+          "latitude": 6.44852,
+          "longitude": 2.35566
+        },
+        {
+          "name": {
+            "en": "Allada"
+          },
+          "latitude": 6.66547,
+          "longitude": 2.15138
+        },
+        {
+          "name": {
+            "en": "Hévié"
+          },
+          "latitude": 6.41667,
+          "longitude": 2.25
+        },
+        {
+          "name": {
+            "en": "Hinvi"
+          },
+          "latitude": 6.76667,
+          "longitude": 2.16667
+        },
+        {
+          "name": {
+            "en": "Ouidah"
+          },
+          "latitude": 6.36307,
+          "longitude": 2.08506
+        }
+      ]
+    },
+    {
+      "code": "BJ-BO",
+      "name": {
+        "en": "Borgou"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bembèrèkè"
+          },
+          "latitude": 10.22827,
+          "longitude": 2.66335
+        },
+        {
+          "name": {
+            "en": "Bétérou"
+          },
+          "latitude": 9.19916,
+          "longitude": 2.25855
+        },
+        {
+          "name": {
+            "en": "Nikki"
+          },
+          "latitude": 9.94009,
+          "longitude": 3.21075
+        },
+        {
+          "name": {
+            "en": "Parakou"
+          },
+          "latitude": 9.33716,
+          "longitude": 2.63031
+        },
+        {
+          "name": {
+            "en": "Tchaourou"
+          },
+          "latitude": 8.88649,
+          "longitude": 2.59753
+        }
+      ]
+    },
+    {
+      "code": "BJ-CO",
+      "name": {
+        "en": "Collines"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Comé"
+          },
+          "latitude": 6.40764,
+          "longitude": 1.88198
+        },
+        {
+          "name": {
+            "en": "Dassa-Zoumé"
+          },
+          "latitude": 7.75,
+          "longitude": 2.18333
+        },
+        {
+          "name": {
+            "en": "Savalou"
+          },
+          "latitude": 7.92807,
+          "longitude": 1.97558
+        },
+        {
+          "name": {
+            "en": "Savé"
+          },
+          "latitude": 8.03424,
+          "longitude": 2.4866
+        }
+      ]
+    },
+    {
+      "code": "BJ-DO",
+      "name": {
+        "en": "Donga"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bassila"
+          },
+          "latitude": 9.00814,
+          "longitude": 1.6654
+        },
+        {
+          "name": {
+            "en": "Commune of Djougou"
+          },
+          "latitude": 9.643,
+          "longitude": 1.896
+        },
+        {
+          "name": {
+            "en": "Djougou"
+          },
+          "latitude": 9.70853,
+          "longitude": 1.66598
+        }
+      ]
+    },
+    {
+      "code": "BJ-KO",
+      "name": {
+        "en": "Kouffo"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Djakotomey"
+          },
+          "latitude": 6.9,
+          "longitude": 1.71667
+        },
+        {
+          "name": {
+            "en": "Dogbo"
+          },
+          "latitude": 6.79911,
+          "longitude": 1.78073
+        }
+      ]
+    },
+    {
+      "code": "BJ-LI",
+      "name": {
+        "en": "Littoral"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Cotonou",
+            "ar": "كوتونو"
+          },
+          "latitude": 6.36536,
+          "longitude": 2.41833
+        }
+      ]
+    },
+    {
+      "code": "BJ-MO",
+      "name": {
+        "en": "Mono"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Commune of Athieme"
+          },
+          "latitude": 6.56924,
+          "longitude": 1.70259
+        },
+        {
+          "name": {
+            "en": "Lokossa"
+          },
+          "latitude": 6.63869,
+          "longitude": 1.71674
+        }
+      ]
+    },
+    {
+      "code": "BJ-OU",
+      "name": {
+        "en": "Ouémé"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Porto-Novo",
+            "ar": "بورتو نوفو"
+          },
+          "latitude": 6.49646,
+          "longitude": 2.60359
+        }
+      ]
+    },
+    {
+      "code": "BJ-PL",
+      "name": {
+        "en": "Plateau"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Kétou"
+          },
+          "latitude": 7.36332,
+          "longitude": 2.59978
+        },
+        {
+          "name": {
+            "en": "Pobé"
+          },
+          "latitude": 6.98008,
+          "longitude": 2.6649
+        },
+        {
+          "name": {
+            "en": "Sakété"
+          },
+          "latitude": 6.73618,
+          "longitude": 2.65866
+        }
+      ]
+    },
+    {
+      "code": "BJ-ZO",
+      "name": {
+        "en": "Zou"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Abomey"
+          },
+          "latitude": 7.18286,
+          "longitude": 1.99119
+        },
+        {
+          "name": {
+            "en": "Bohicon"
+          },
+          "latitude": 7.17826,
+          "longitude": 2.0667
+        },
+        {
+          "name": {
+            "en": "Commune of Agbangnizoun"
+          },
+          "latitude": 7.076,
+          "longitude": 1.961
+        },
+        {
+          "name": {
+            "en": "Cové"
+          },
+          "latitude": 7.22097,
+          "longitude": 2.34017
+        }
+      ]
+    }
+  ]
+}

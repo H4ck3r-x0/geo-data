@@ -1,0 +1,135 @@
+{
+  "code": "ST",
+  "iso3": "STP",
+  "name": {
+    "en": "Sao Tome and Principe",
+    "ar": "ساو تومي وبرينسيبي",
+    "de": "São Tomé und Príncipe",
+    "es": "Santo Tomé y Príncipe",
+    "fr": "Sao Tomé-et-Principe",
+    "hi": "साओ टोम और प्रिंसिप",
+    "it": "São Tomé e Príncipe",
+    "ja": "サントメ・プリンシペ",
+    "ko": "상투메 프린시페",
+    "nl": "Sao Tomé en Principe",
+    "pl": "Wyspy Świętego Tomasza i Książęca",
+    "pt": "São Tomé e Príncipe",
+    "pt-BR": "São Tomé e Príncipe",
+    "ru": "Сан-Томе и Принсипи",
+    "tr": "Sao Tome Ve Prinsipe",
+    "uk": "Сан-Томе і Принсіпі",
+    "zh": "圣多美和普林西比"
+  },
+  "phone": "+239",
+  "currency": "STN",
+  "timezone": "Africa/Sao_Tome",
+  "flag": "🇸🇹",
+  "regions": [
+    {
+      "code": "ST-01",
+      "name": {
+        "en": "Água Grande"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "São Tomé",
+            "ar": "ساو تومي"
+          },
+          "latitude": 0.33654,
+          "longitude": 6.72732
+        }
+      ]
+    },
+    {
+      "code": "ST-02",
+      "name": {
+        "en": "Cantagalo"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Santana"
+          },
+          "latitude": 0.25389,
+          "longitude": 6.73444
+        }
+      ]
+    },
+    {
+      "code": "ST-03",
+      "name": {
+        "en": "Caué"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "São João dos Angolares"
+          },
+          "latitude": 0.1372,
+          "longitude": 6.64972
+        }
+      ]
+    },
+    {
+      "code": "ST-04",
+      "name": {
+        "en": "Lemba"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Neves"
+          },
+          "latitude": 0.36667,
+          "longitude": 6.55
+        }
+      ]
+    },
+    {
+      "code": "ST-05",
+      "name": {
+        "en": "Lobata"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Guadalupe"
+          },
+          "latitude": 0.38333,
+          "longitude": 6.61667
+        }
+      ]
+    },
+    {
+      "code": "ST-06",
+      "name": {
+        "en": "Mé-Zóchi"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Trindade"
+          },
+          "latitude": 0.29667,
+          "longitude": 6.68139
+        }
+      ]
+    },
+    {
+      "code": "ST-P",
+      "name": {
+        "en": "Príncipe"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Santo António"
+          },
+          "latitude": 1.63943,
+          "longitude": 7.41951
+        }
+      ]
+    }
+  ]
+}

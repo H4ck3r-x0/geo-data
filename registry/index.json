@@ -1,0 +1,5661 @@
+{
+  "version": "0.0.1",
+  "countries": {
+    "af": {
+      "name": {
+        "en": "Afghanistan",
+        "ar": "أفغانستان"
+      },
+      "flag": "🇦🇫",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "ax": {
+      "name": {
+        "en": "Aland Islands",
+        "ar": "جزر آلاند"
+      },
+      "flag": "🇦🇽",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "al": {
+      "name": {
+        "en": "Albania",
+        "ar": "ألبانيا"
+      },
+      "flag": "🇦🇱",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "dz": {
+      "name": {
+        "en": "Algeria",
+        "ar": "الجزائر"
+      },
+      "flag": "🇩🇿",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "as": {
+      "name": {
+        "en": "American Samoa",
+        "ar": "ساموا الأمريكية"
+      },
+      "flag": "🇦🇸",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "ad": {
+      "name": {
+        "en": "Andorra",
+        "ar": "أندورا"
+      },
+      "flag": "🇦🇩",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "ao": {
+      "name": {
+        "en": "Angola",
+        "ar": "أنغولا"
+      },
+      "flag": "🇦🇴",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "ag": {
+      "name": {
+        "en": "Antigua and Barbuda",
+        "ar": "أنتيغوا وبربودا"
+      },
+      "flag": "🇦🇬",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "ar": {
+      "name": {
+        "en": "Argentina",
+        "ar": "الأرجنتين"
+      },
+      "flag": "🇦🇷",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "am": {
+      "name": {
+        "en": "Armenia",
+        "ar": "أرمينيا"
+      },
+      "flag": "🇦🇲",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "aw": {
+      "name": {
+        "en": "Aruba",
+        "ar": "أروبا"
+      },
+      "flag": "🇦🇼",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "au": {
+      "name": {
+        "en": "Australia",
+        "ar": "أستراليا"
+      },
+      "flag": "🇦🇺",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "at": {
+      "name": {
+        "en": "Austria",
+        "ar": "النمسا"
+      },
+      "flag": "🇦🇹",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "az": {
+      "name": {
+        "en": "Azerbaijan",
+        "ar": "أذربيجان"
+      },
+      "flag": "🇦🇿",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "bh": {
+      "name": {
+        "en": "Bahrain",
+        "ar": "البحرين"
+      },
+      "flag": "🇧🇭",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "bd": {
+      "name": {
+        "en": "Bangladesh",
+        "ar": "بنغلاديش"
+      },
+      "flag": "🇧🇩",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "bb": {
+      "name": {
+        "en": "Barbados",
+        "ar": "بربادوس"
+      },
+      "flag": "🇧🇧",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "by": {
+      "name": {
+        "en": "Belarus",
+        "ar": "بيلاروسيا"
+      },
+      "flag": "🇧🇾",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "be": {
+      "name": {
+        "en": "Belgium",
+        "ar": "بلجيكا"
+      },
+      "flag": "🇧🇪",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "bz": {
+      "name": {
+        "en": "Belize",
+        "ar": "بليز"
+      },
+      "flag": "🇧🇿",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "bj": {
+      "name": {
+        "en": "Benin",
+        "ar": "بنين"
+      },
+      "flag": "🇧🇯",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "bm": {
+      "name": {
+        "en": "Bermuda",
+        "ar": "برمودا"
+      },
+      "flag": "🇧🇲",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "bt": {
+      "name": {
+        "en": "Bhutan",
+        "ar": "بوتان"
+      },
+      "flag": "🇧🇹",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "bo": {
+      "name": {
+        "en": "Bolivia",
+        "ar": "بوليفيا"
+      },
+      "flag": "🇧🇴",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "bq": {
+      "name": {
+        "en": "Bonaire, Sint Eustatius and Saba",
+        "ar": "بونير، سينت أوستاتيوس وسابا"
+      },
+      "flag": "🇧🇶",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "fr",
+        "hi",
+        "it",
+        "ko",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "ba": {
+      "name": {
+        "en": "Bosnia and Herzegovina",
+        "ar": "البوسنة والهرسك"
+      },
+      "flag": "🇧🇦",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "bw": {
+      "name": {
+        "en": "Botswana",
+        "ar": "بوتسوانا"
+      },
+      "flag": "🇧🇼",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "br": {
+      "name": {
+        "en": "Brazil",
+        "ar": "البرازيل"
+      },
+      "flag": "🇧🇷",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "bn": {
+      "name": {
+        "en": "Brunei",
+        "ar": "بروناي"
+      },
+      "flag": "🇧🇳",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "bg": {
+      "name": {
+        "en": "Bulgaria",
+        "ar": "بلغاريا"
+      },
+      "flag": "🇧🇬",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "bf": {
+      "name": {
+        "en": "Burkina Faso",
+        "ar": "بوركينا فاسو"
+      },
+      "flag": "🇧🇫",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "bi": {
+      "name": {
+        "en": "Burundi",
+        "ar": "بوروندي"
+      },
+      "flag": "🇧🇮",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "kh": {
+      "name": {
+        "en": "Cambodia",
+        "ar": "كمبوديا"
+      },
+      "flag": "🇰🇭",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "cm": {
+      "name": {
+        "en": "Cameroon",
+        "ar": " "
+      },
+      "flag": "🇨🇲",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "ca": {
+      "name": {
+        "en": "Canada",
+        "ar": "كندا"
+      },
+      "flag": "🇨🇦",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "cv": {
+      "name": {
+        "en": "Cape Verde",
+        "ar": "الرأس الأخضر"
+      },
+      "flag": "🇨🇻",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "ky": {
+      "name": {
+        "en": "Cayman Islands",
+        "ar": "جزر كايمان"
+      },
+      "flag": "🇰🇾",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "cf": {
+      "name": {
+        "en": "Central African Republic",
+        "ar": "جمهورية أفريقيا الوسطى"
+      },
+      "flag": "🇨🇫",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "td": {
+      "name": {
+        "en": "Chad",
+        "ar": "تشاد"
+      },
+      "flag": "🇹🇩",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "cl": {
+      "name": {
+        "en": "Chile",
+        "ar": "تشيلي"
+      },
+      "flag": "🇨🇱",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "cn": {
+      "name": {
+        "en": "China",
+        "ar": "الصين"
+      },
+      "flag": "🇨🇳",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "co": {
+      "name": {
+        "en": "Colombia",
+        "ar": "كولومبيا"
+      },
+      "flag": "🇨🇴",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "km": {
+      "name": {
+        "en": "Comoros",
+        "ar": "جزر القمر"
+      },
+      "flag": "🇰🇲",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "cg": {
+      "name": {
+        "en": "Congo",
+        "ar": "الكونغو"
+      },
+      "flag": "🇨🇬",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "cr": {
+      "name": {
+        "en": "Costa Rica",
+        "ar": "كوستاريكا"
+      },
+      "flag": "🇨🇷",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "hr": {
+      "name": {
+        "en": "Croatia",
+        "ar": "كرواتيا"
+      },
+      "flag": "🇭🇷",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "cu": {
+      "name": {
+        "en": "Cuba",
+        "ar": "كوبا"
+      },
+      "flag": "🇨🇺",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "cy": {
+      "name": {
+        "en": "Cyprus",
+        "ar": "قبرص"
+      },
+      "flag": "🇨🇾",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "cz": {
+      "name": {
+        "en": "Czech Republic",
+        "ar": "الجمهورية التشيكية"
+      },
+      "flag": "🇨🇿",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "cd": {
+      "name": {
+        "en": "Democratic Republic of the Congo",
+        "ar": "جمهورية الكونغو الديمقراطية"
+      },
+      "flag": "🇨🇩",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "dk": {
+      "name": {
+        "en": "Denmark",
+        "ar": "الدنمارك"
+      },
+      "flag": "🇩🇰",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "dj": {
+      "name": {
+        "en": "Djibouti",
+        "ar": "جيبوتي"
+      },
+      "flag": "🇩🇯",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "dm": {
+      "name": {
+        "en": "Dominica",
+        "ar": "دومينيكا"
+      },
+      "flag": "🇩🇲",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "do": {
+      "name": {
+        "en": "Dominican Republic",
+        "ar": "جمهورية الدومينيكان"
+      },
+      "flag": "🇩🇴",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "ec": {
+      "name": {
+        "en": "Ecuador",
+        "ar": "الاكوادور"
+      },
+      "flag": "🇪🇨",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "eg": {
+      "name": {
+        "en": "Egypt",
+        "ar": "مصر"
+      },
+      "flag": "🇪🇬",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "sv": {
+      "name": {
+        "en": "El Salvador",
+        "ar": "السلفادور"
+      },
+      "flag": "🇸🇻",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "gq": {
+      "name": {
+        "en": "Equatorial Guinea",
+        "ar": "غينيا الاستوائية"
+      },
+      "flag": "🇬🇶",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "er": {
+      "name": {
+        "en": "Eritrea",
+        "ar": "إريتريا"
+      },
+      "flag": "🇪🇷",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "ee": {
+      "name": {
+        "en": "Estonia",
+        "ar": "إستونيا"
+      },
+      "flag": "🇪🇪",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "sz": {
+      "name": {
+        "en": "Eswatini",
+        "ar": "الإسواتين"
+      },
+      "flag": "🇸🇿",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "et": {
+      "name": {
+        "en": "Ethiopia",
+        "ar": "أثيوبيا"
+      },
+      "flag": "🇪🇹",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "fo": {
+      "name": {
+        "en": "Faroe Islands",
+        "ar": "جزر فارو"
+      },
+      "flag": "🇫🇴",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "fj": {
+      "name": {
+        "en": "Fiji Islands",
+        "ar": "جزر فيجي"
+      },
+      "flag": "🇫🇯",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "fi": {
+      "name": {
+        "en": "Finland",
+        "ar": "فنلندا"
+      },
+      "flag": "🇫🇮",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "fr": {
+      "name": {
+        "en": "France",
+        "ar": "فرنسا"
+      },
+      "flag": "🇫🇷",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "pf": {
+      "name": {
+        "en": "French Polynesia",
+        "ar": "بولينيزيا الفرنسية"
+      },
+      "flag": "🇵🇫",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "ga": {
+      "name": {
+        "en": "Gabon",
+        "ar": "الجابون"
+      },
+      "flag": "🇬🇦",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "ge": {
+      "name": {
+        "en": "Georgia",
+        "ar": "جورجيا"
+      },
+      "flag": "🇬🇪",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "de": {
+      "name": {
+        "en": "Germany",
+        "ar": "ألمانيا"
+      },
+      "flag": "🇩🇪",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "gh": {
+      "name": {
+        "en": "Ghana",
+        "ar": "غانا"
+      },
+      "flag": "🇬🇭",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "gr": {
+      "name": {
+        "en": "Greece",
+        "ar": "اليونان"
+      },
+      "flag": "🇬🇷",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "gl": {
+      "name": {
+        "en": "Greenland",
+        "ar": "غرينلاند"
+      },
+      "flag": "🇬🇱",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "gd": {
+      "name": {
+        "en": "Grenada",
+        "ar": "غرينادا"
+      },
+      "flag": "🇬🇩",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "gp": {
+      "name": {
+        "en": "Guadeloupe",
+        "ar": "غواديلوب"
+      },
+      "flag": "🇬🇵",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "gu": {
+      "name": {
+        "en": "Guam",
+        "ar": "غوام"
+      },
+      "flag": "🇬🇺",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "gt": {
+      "name": {
+        "en": "Guatemala",
+        "ar": "غواتيمالا"
+      },
+      "flag": "🇬🇹",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "gg": {
+      "name": {
+        "en": "Guernsey",
+        "ar": "غيرنسي"
+      },
+      "flag": "🇬🇬",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "gn": {
+      "name": {
+        "en": "Guinea",
+        "ar": "غينيا"
+      },
+      "flag": "🇬🇳",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "gw": {
+      "name": {
+        "en": "Guinea-Bissau",
+        "ar": "غينيا بيساو"
+      },
+      "flag": "🇬🇼",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "gy": {
+      "name": {
+        "en": "Guyana",
+        "ar": "غيانا"
+      },
+      "flag": "🇬🇾",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "ht": {
+      "name": {
+        "en": "Haiti",
+        "ar": "هايتي"
+      },
+      "flag": "🇭🇹",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "hn": {
+      "name": {
+        "en": "Honduras",
+        "ar": "هندوراس"
+      },
+      "flag": "🇭🇳",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "hk": {
+      "name": {
+        "en": "Hong Kong S.A.R.",
+        "ar": "هونغ كونغ س."
+      },
+      "flag": "🇭🇰",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "hu": {
+      "name": {
+        "en": "Hungary",
+        "ar": "هنغاريا"
+      },
+      "flag": "🇭🇺",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "is": {
+      "name": {
+        "en": "Iceland",
+        "ar": "أيسلندا"
+      },
+      "flag": "🇮🇸",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "in": {
+      "name": {
+        "en": "India",
+        "ar": "الهند"
+      },
+      "flag": "🇮🇳",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "id": {
+      "name": {
+        "en": "Indonesia",
+        "ar": "أندونيسيا"
+      },
+      "flag": "🇮🇩",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "ir": {
+      "name": {
+        "en": "Iran",
+        "ar": "إيران"
+      },
+      "flag": "🇮🇷",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "iq": {
+      "name": {
+        "en": "Iraq",
+        "ar": "العراق"
+      },
+      "flag": "🇮🇶",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "ie": {
+      "name": {
+        "en": "Ireland",
+        "ar": "أيرلندا"
+      },
+      "flag": "🇮🇪",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "il": {
+      "name": {
+        "en": "Israel",
+        "ar": "إسرائيل"
+      },
+      "flag": "🇮🇱",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "it": {
+      "name": {
+        "en": "Italy",
+        "ar": "إيطاليا"
+      },
+      "flag": "🇮🇹",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "ci": {
+      "name": {
+        "en": "Ivory Coast",
+        "ar": "كوت ديفوار (ساحل العاج)"
+      },
+      "flag": "🇨🇮",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "jm": {
+      "name": {
+        "en": "Jamaica",
+        "ar": "جامايكا"
+      },
+      "flag": "🇯🇲",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "jp": {
+      "name": {
+        "en": "Japan",
+        "ar": "اليابان"
+      },
+      "flag": "🇯🇵",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "je": {
+      "name": {
+        "en": "Jersey",
+        "ar": "جيرسي"
+      },
+      "flag": "🇯🇪",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "jo": {
+      "name": {
+        "en": "Jordan",
+        "ar": "الأردن"
+      },
+      "flag": "🇯🇴",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "kz": {
+      "name": {
+        "en": "Kazakhstan",
+        "ar": "كازاخستان"
+      },
+      "flag": "🇰🇿",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "ke": {
+      "name": {
+        "en": "Kenya",
+        "ar": "كينيا"
+      },
+      "flag": "🇰🇪",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "ki": {
+      "name": {
+        "en": "Kiribati",
+        "ar": "كيريباتي"
+      },
+      "flag": "🇰🇮",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "xk": {
+      "name": {
+        "en": "Kosovo",
+        "ar": "كوسوفو"
+      },
+      "flag": "🇽🇰",
+      "languages": [
+        "ar",
+        "en",
+        "hi",
+        "ko",
+        "pl",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "kw": {
+      "name": {
+        "en": "Kuwait",
+        "ar": "الكويت"
+      },
+      "flag": "🇰🇼",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "kg": {
+      "name": {
+        "en": "Kyrgyzstan",
+        "ar": "قيرغيزستان"
+      },
+      "flag": "🇰🇬",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "la": {
+      "name": {
+        "en": "Laos",
+        "ar": "لاوس"
+      },
+      "flag": "🇱🇦",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "lv": {
+      "name": {
+        "en": "Latvia",
+        "ar": "لاتفيا"
+      },
+      "flag": "🇱🇻",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "lb": {
+      "name": {
+        "en": "Lebanon",
+        "ar": "لبنان"
+      },
+      "flag": "🇱🇧",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "ls": {
+      "name": {
+        "en": "Lesotho",
+        "ar": "ليسوتو"
+      },
+      "flag": "🇱🇸",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "lr": {
+      "name": {
+        "en": "Liberia",
+        "ar": "ليبيريا"
+      },
+      "flag": "🇱🇷",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "ly": {
+      "name": {
+        "en": "Libya",
+        "ar": "ليبيا"
+      },
+      "flag": "🇱🇾",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "li": {
+      "name": {
+        "en": "Liechtenstein",
+        "ar": "ليختنشتاين"
+      },
+      "flag": "🇱🇮",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "lt": {
+      "name": {
+        "en": "Lithuania",
+        "ar": "ليتوانيا"
+      },
+      "flag": "🇱🇹",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "lu": {
+      "name": {
+        "en": "Luxembourg",
+        "ar": "لوكسمبورغ"
+      },
+      "flag": "🇱🇺",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "mg": {
+      "name": {
+        "en": "Madagascar",
+        "ar": "مدغشقر"
+      },
+      "flag": "🇲🇬",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "mw": {
+      "name": {
+        "en": "Malawi",
+        "ar": "ملاوي"
+      },
+      "flag": "🇲🇼",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "my": {
+      "name": {
+        "en": "Malaysia",
+        "ar": "ماليزيا"
+      },
+      "flag": "🇲🇾",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "mv": {
+      "name": {
+        "en": "Maldives",
+        "ar": "جزر المالديف"
+      },
+      "flag": "🇲🇻",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "ml": {
+      "name": {
+        "en": "Mali",
+        "ar": "مالي"
+      },
+      "flag": "🇲🇱",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "mt": {
+      "name": {
+        "en": "Malta",
+        "ar": "مالطا"
+      },
+      "flag": "🇲🇹",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "im": {
+      "name": {
+        "en": "Man (Isle of)",
+        "ar": "رجل (جزيرة)"
+      },
+      "flag": "🇮🇲",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "mh": {
+      "name": {
+        "en": "Marshall Islands",
+        "ar": "جزر مارشال"
+      },
+      "flag": "🇲🇭",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "mq": {
+      "name": {
+        "en": "Martinique",
+        "ar": "مارتينيك"
+      },
+      "flag": "🇲🇶",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "mr": {
+      "name": {
+        "en": "Mauritania",
+        "ar": "موريتانيا"
+      },
+      "flag": "🇲🇷",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "mu": {
+      "name": {
+        "en": "Mauritius",
+        "ar": "موريشيوس"
+      },
+      "flag": "🇲🇺",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "yt": {
+      "name": {
+        "en": "Mayotte",
+        "ar": "مايوت"
+      },
+      "flag": "🇾🇹",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "mx": {
+      "name": {
+        "en": "Mexico",
+        "ar": "المكسيك"
+      },
+      "flag": "🇲🇽",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "fm": {
+      "name": {
+        "en": "Micronesia",
+        "ar": "ميكرونيسيا"
+      },
+      "flag": "🇫🇲",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "md": {
+      "name": {
+        "en": "Moldova",
+        "ar": "مولدوفا"
+      },
+      "flag": "🇲🇩",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "mc": {
+      "name": {
+        "en": "Monaco",
+        "ar": "موناكو"
+      },
+      "flag": "🇲🇨",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "mn": {
+      "name": {
+        "en": "Mongolia",
+        "ar": "منغوليا"
+      },
+      "flag": "🇲🇳",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "me": {
+      "name": {
+        "en": "Montenegro",
+        "ar": "الجبل الأسود"
+      },
+      "flag": "🇲🇪",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "ma": {
+      "name": {
+        "en": "Morocco",
+        "ar": "المغرب"
+      },
+      "flag": "🇲🇦",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "mz": {
+      "name": {
+        "en": "Mozambique",
+        "ar": "موزمبيق"
+      },
+      "flag": "🇲🇿",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "mm": {
+      "name": {
+        "en": "Myanmar",
+        "ar": "ميانمار"
+      },
+      "flag": "🇲🇲",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "na": {
+      "name": {
+        "en": "Namibia",
+        "ar": "ناميبيا"
+      },
+      "flag": "🇳🇦",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "nr": {
+      "name": {
+        "en": "Nauru",
+        "ar": "ناورو"
+      },
+      "flag": "🇳🇷",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "np": {
+      "name": {
+        "en": "Nepal",
+        "ar": "نيبال"
+      },
+      "flag": "🇳🇵",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "nl": {
+      "name": {
+        "en": "Netherlands",
+        "ar": "هولندا"
+      },
+      "flag": "🇳🇱",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "nc": {
+      "name": {
+        "en": "New Caledonia",
+        "ar": "كاليدونيا الجديدة"
+      },
+      "flag": "🇳🇨",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "nz": {
+      "name": {
+        "en": "New Zealand",
+        "ar": "نيوزيلندا"
+      },
+      "flag": "🇳🇿",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "ni": {
+      "name": {
+        "en": "Nicaragua",
+        "ar": "نيكاراغوا"
+      },
+      "flag": "🇳🇮",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "ne": {
+      "name": {
+        "en": "Niger",
+        "ar": "النيجر"
+      },
+      "flag": "🇳🇪",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "ng": {
+      "name": {
+        "en": "Nigeria",
+        "ar": "نيجيريا"
+      },
+      "flag": "🇳🇬",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "kp": {
+      "name": {
+        "en": "North Korea",
+        "ar": "كوريا الشمالية"
+      },
+      "flag": "🇰🇵",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "mk": {
+      "name": {
+        "en": "North Macedonia",
+        "ar": "شمال مقدونيا"
+      },
+      "flag": "🇲🇰",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "no": {
+      "name": {
+        "en": "Norway",
+        "ar": "النرويج"
+      },
+      "flag": "🇳🇴",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "om": {
+      "name": {
+        "en": "Oman",
+        "ar": "عمان"
+      },
+      "flag": "🇴🇲",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "pk": {
+      "name": {
+        "en": "Pakistan",
+        "ar": "باكستان"
+      },
+      "flag": "🇵🇰",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "pw": {
+      "name": {
+        "en": "Palau",
+        "ar": "بالاو"
+      },
+      "flag": "🇵🇼",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "ps": {
+      "name": {
+        "en": "Palestinian Territory Occupied",
+        "ar": "احتلت الأراضي الفلسطينية"
+      },
+      "flag": "🇵🇸",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "pa": {
+      "name": {
+        "en": "Panama",
+        "ar": "بنما"
+      },
+      "flag": "🇵🇦",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "pg": {
+      "name": {
+        "en": "Papua New Guinea",
+        "ar": "بابوا غينيا الجديدة"
+      },
+      "flag": "🇵🇬",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "py": {
+      "name": {
+        "en": "Paraguay",
+        "ar": "باراجواي"
+      },
+      "flag": "🇵🇾",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "pe": {
+      "name": {
+        "en": "Peru",
+        "ar": "بيرو"
+      },
+      "flag": "🇵🇪",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "ph": {
+      "name": {
+        "en": "Philippines",
+        "ar": "فيلبيني"
+      },
+      "flag": "🇵🇭",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "pl": {
+      "name": {
+        "en": "Poland",
+        "ar": "بولندا"
+      },
+      "flag": "🇵🇱",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "pt": {
+      "name": {
+        "en": "Portugal",
+        "ar": "البرتغال"
+      },
+      "flag": "🇵🇹",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "pr": {
+      "name": {
+        "en": "Puerto Rico",
+        "ar": "بورتوريكو"
+      },
+      "flag": "🇵🇷",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "qa": {
+      "name": {
+        "en": "Qatar",
+        "ar": "قطر"
+      },
+      "flag": "🇶🇦",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "re": {
+      "name": {
+        "en": "Reunion",
+        "ar": "جمع شمل"
+      },
+      "flag": "🇷🇪",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "ro": {
+      "name": {
+        "en": "Romania",
+        "ar": "رومانيا"
+      },
+      "flag": "🇷🇴",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "ru": {
+      "name": {
+        "en": "Russia",
+        "ar": "روسيا"
+      },
+      "flag": "🇷🇺",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "rw": {
+      "name": {
+        "en": "Rwanda",
+        "ar": "رواندا"
+      },
+      "flag": "🇷🇼",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "kn": {
+      "name": {
+        "en": "Saint Kitts and Nevis",
+        "ar": "سانت كيتس ونيفيس"
+      },
+      "flag": "🇰🇳",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "lc": {
+      "name": {
+        "en": "Saint Lucia",
+        "ar": "سانت لوسيا"
+      },
+      "flag": "🇱🇨",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "vc": {
+      "name": {
+        "en": "Saint Vincent and the Grenadines",
+        "ar": "القديس فنسنت وجرينادين"
+      },
+      "flag": "🇻🇨",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "ws": {
+      "name": {
+        "en": "Samoa",
+        "ar": "ساموا"
+      },
+      "flag": "🇼🇸",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "sm": {
+      "name": {
+        "en": "San Marino",
+        "ar": "سان مارينو"
+      },
+      "flag": "🇸🇲",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "st": {
+      "name": {
+        "en": "Sao Tome and Principe",
+        "ar": "ساو تومي وبرينسيبي"
+      },
+      "flag": "🇸🇹",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "sa": {
+      "name": {
+        "en": "Saudi Arabia",
+        "ar": "المملكة العربية السعودية"
+      },
+      "flag": "🇸🇦",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "sn": {
+      "name": {
+        "en": "Senegal",
+        "ar": "السنغال"
+      },
+      "flag": "🇸🇳",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "rs": {
+      "name": {
+        "en": "Serbia",
+        "ar": "صربيا"
+      },
+      "flag": "🇷🇸",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "sc": {
+      "name": {
+        "en": "Seychelles",
+        "ar": "سيشيل"
+      },
+      "flag": "🇸🇨",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "sl": {
+      "name": {
+        "en": "Sierra Leone",
+        "ar": "سيراليون"
+      },
+      "flag": "🇸🇱",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "sg": {
+      "name": {
+        "en": "Singapore",
+        "ar": "سنغافورة"
+      },
+      "flag": "🇸🇬",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "sk": {
+      "name": {
+        "en": "Slovakia",
+        "ar": "سلوفاكيا"
+      },
+      "flag": "🇸🇰",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "si": {
+      "name": {
+        "en": "Slovenia",
+        "ar": "سلوفينيا"
+      },
+      "flag": "🇸🇮",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "sb": {
+      "name": {
+        "en": "Solomon Islands",
+        "ar": "جزر سليمان"
+      },
+      "flag": "🇸🇧",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "so": {
+      "name": {
+        "en": "Somalia",
+        "ar": "الصومال"
+      },
+      "flag": "🇸🇴",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "za": {
+      "name": {
+        "en": "South Africa",
+        "ar": "جنوب أفريقيا"
+      },
+      "flag": "🇿🇦",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "kr": {
+      "name": {
+        "en": "South Korea",
+        "ar": "كوريا الجنوبية"
+      },
+      "flag": "🇰🇷",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "ss": {
+      "name": {
+        "en": "South Sudan",
+        "ar": "جنوب السودان"
+      },
+      "flag": "🇸🇸",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "es": {
+      "name": {
+        "en": "Spain",
+        "ar": "إسبانيا"
+      },
+      "flag": "🇪🇸",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "lk": {
+      "name": {
+        "en": "Sri Lanka",
+        "ar": "سري لانكا"
+      },
+      "flag": "🇱🇰",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "sd": {
+      "name": {
+        "en": "Sudan",
+        "ar": "السودان"
+      },
+      "flag": "🇸🇩",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "sr": {
+      "name": {
+        "en": "Suriname",
+        "ar": "سورينام"
+      },
+      "flag": "🇸🇷",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "se": {
+      "name": {
+        "en": "Sweden",
+        "ar": "السويد"
+      },
+      "flag": "🇸🇪",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "ch": {
+      "name": {
+        "en": "Switzerland",
+        "ar": "سويسرا"
+      },
+      "flag": "🇨🇭",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "sy": {
+      "name": {
+        "en": "Syria",
+        "ar": "سوريا"
+      },
+      "flag": "🇸🇾",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "tw": {
+      "name": {
+        "en": "Taiwan",
+        "ar": "تايوان"
+      },
+      "flag": "🇹🇼",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "tj": {
+      "name": {
+        "en": "Tajikistan",
+        "ar": "طاجيكستان"
+      },
+      "flag": "🇹🇯",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "tz": {
+      "name": {
+        "en": "Tanzania",
+        "ar": "تنزانيا"
+      },
+      "flag": "🇹🇿",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "th": {
+      "name": {
+        "en": "Thailand",
+        "ar": "تايلاند"
+      },
+      "flag": "🇹🇭",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "bs": {
+      "name": {
+        "en": "The Bahamas",
+        "ar": "جزر البهاما"
+      },
+      "flag": "🇧🇸",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "gm": {
+      "name": {
+        "en": "The Gambia",
+        "ar": "غامبيا"
+      },
+      "flag": "🇬🇲",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "tl": {
+      "name": {
+        "en": "Timor-Leste",
+        "ar": "تيمور قراءة"
+      },
+      "flag": "🇹🇱",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "tg": {
+      "name": {
+        "en": "Togo",
+        "ar": "توغو"
+      },
+      "flag": "🇹🇬",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "to": {
+      "name": {
+        "en": "Tonga",
+        "ar": "تونغا"
+      },
+      "flag": "🇹🇴",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "tt": {
+      "name": {
+        "en": "Trinidad and Tobago",
+        "ar": "ترينيداد وتوباغو"
+      },
+      "flag": "🇹🇹",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "tn": {
+      "name": {
+        "en": "Tunisia",
+        "ar": "تونس"
+      },
+      "flag": "🇹🇳",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "tr": {
+      "name": {
+        "en": "Turkey",
+        "ar": "ديك رومى"
+      },
+      "flag": "🇹🇷",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "tm": {
+      "name": {
+        "en": "Turkmenistan",
+        "ar": "تركمانستان"
+      },
+      "flag": "🇹🇲",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "tv": {
+      "name": {
+        "en": "Tuvalu",
+        "ar": "توفالو"
+      },
+      "flag": "🇹🇻",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "ug": {
+      "name": {
+        "en": "Uganda",
+        "ar": "أوغندا"
+      },
+      "flag": "🇺🇬",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "ua": {
+      "name": {
+        "en": "Ukraine",
+        "ar": "أوكرانيا"
+      },
+      "flag": "🇺🇦",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "ae": {
+      "name": {
+        "en": "United Arab Emirates",
+        "ar": "الإمارات العربية المتحدة"
+      },
+      "flag": "🇦🇪",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "gb": {
+      "name": {
+        "en": "United Kingdom",
+        "ar": "المملكة المتحدة"
+      },
+      "flag": "🇬🇧",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "us": {
+      "name": {
+        "en": "United States",
+        "ar": "الولايات المتحدة"
+      },
+      "flag": "🇺🇸",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "uy": {
+      "name": {
+        "en": "Uruguay",
+        "ar": "أوروغواي"
+      },
+      "flag": "🇺🇾",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "uz": {
+      "name": {
+        "en": "Uzbekistan",
+        "ar": "أوزبكستان"
+      },
+      "flag": "🇺🇿",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "vu": {
+      "name": {
+        "en": "Vanuatu",
+        "ar": "فانواتو"
+      },
+      "flag": "🇻🇺",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "ve": {
+      "name": {
+        "en": "Venezuela",
+        "ar": "فنزويلا"
+      },
+      "flag": "🇻🇪",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "vn": {
+      "name": {
+        "en": "Vietnam",
+        "ar": "فيتنام"
+      },
+      "flag": "🇻🇳",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "vi": {
+      "name": {
+        "en": "Virgin Islands (US)",
+        "ar": "جزر فيرجن (الولايات المتحدة)"
+      },
+      "flag": "🇻🇮",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "wf": {
+      "name": {
+        "en": "Wallis and Futuna Islands",
+        "ar": "جزر واليس وفوتونا"
+      },
+      "flag": "🇼🇫",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "ye": {
+      "name": {
+        "en": "Yemen",
+        "ar": "اليمن"
+      },
+      "flag": "🇾🇪",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "zm": {
+      "name": {
+        "en": "Zambia",
+        "ar": "زامبيا"
+      },
+      "flag": "🇿🇲",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    },
+    "zw": {
+      "name": {
+        "en": "Zimbabwe",
+        "ar": "زيمبابوي"
+      },
+      "flag": "🇿🇼",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hi",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+      ]
+    }
+  }
+}

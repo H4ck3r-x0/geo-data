@@ -1,0 +1,328 @@
+{
+  "code": "BS",
+  "iso3": "BHS",
+  "name": {
+    "en": "The Bahamas",
+    "ar": "جزر البهاما",
+    "de": "Bahamas",
+    "es": "Bahamas",
+    "fr": "Bahamas",
+    "hi": "बहामास",
+    "it": "Bahamas",
+    "ja": "バハマ",
+    "ko": "바하마",
+    "nl": "Bahama’s",
+    "pl": "Bahamy",
+    "pt": "Baamas",
+    "pt-BR": "Bahamas",
+    "ru": "Багамы",
+    "tr": "Bahamalar",
+    "uk": "Багамські острови",
+    "zh": "巴哈马"
+  },
+  "phone": "+1",
+  "currency": "BSD",
+  "timezone": "America/Nassau",
+  "flag": "🇧🇸",
+  "regions": [
+    {
+      "code": "BS-BI",
+      "name": {
+        "en": "Bimini"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Alice Town"
+          },
+          "latitude": 25.728,
+          "longitude": -79.29721
+        }
+      ]
+    },
+    {
+      "code": "BS-CI",
+      "name": {
+        "en": "Cat Island"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Arthur’s Town"
+          },
+          "latitude": 24.6224,
+          "longitude": -75.67151
+        }
+      ]
+    },
+    {
+      "code": "BS-CO",
+      "name": {
+        "en": "Central Abaco"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Marsh Harbour"
+          },
+          "latitude": 26.54124,
+          "longitude": -77.0636
+        }
+      ]
+    },
+    {
+      "code": "BS-CK",
+      "name": {
+        "en": "Crooked Island"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Colonel Hill"
+          },
+          "latitude": 22.7545,
+          "longitude": -74.20415
+        }
+      ]
+    },
+    {
+      "code": "BS-EG",
+      "name": {
+        "en": "East Grand Bahama"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "High Rock"
+          },
+          "latitude": 26.60999,
+          "longitude": -78.27863
+        }
+      ]
+    },
+    {
+      "code": "BS-EX",
+      "name": {
+        "en": "Exuma"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "George Town"
+          },
+          "latitude": 23.51616,
+          "longitude": -75.78665
+        }
+      ]
+    },
+    {
+      "code": "BS-FP",
+      "name": {
+        "en": "Freeport"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Freeport"
+          },
+          "latitude": 26.53333,
+          "longitude": -78.7
+        },
+        {
+          "name": {
+            "en": "Lucaya"
+          },
+          "latitude": 26.53333,
+          "longitude": -78.66667
+        }
+      ]
+    },
+    {
+      "code": "BS-HI",
+      "name": {
+        "en": "Harbour Island"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Dunmore Town"
+          },
+          "latitude": 25.50216,
+          "longitude": -76.63633
+        }
+      ]
+    },
+    {
+      "code": "BS-IN",
+      "name": {
+        "en": "Inagua"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Matthew Town"
+          },
+          "latitude": 20.94982,
+          "longitude": -73.67346
+        }
+      ]
+    },
+    {
+      "code": "BS-LI",
+      "name": {
+        "en": "Long Island"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Clarence Town"
+          },
+          "latitude": 23.1,
+          "longitude": -74.98333
+        }
+      ]
+    },
+    {
+      "code": "BS-MG",
+      "name": {
+        "en": "Mayaguana"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Abraham’s Bay"
+          },
+          "latitude": 22.36667,
+          "longitude": -72.96667
+        }
+      ]
+    },
+    {
+      "code": "BS-NP",
+      "name": {
+        "en": "New Providence"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Nassau"
+          },
+          "latitude": 25.06666667,
+          "longitude": -77.33333333
+        }
+      ]
+    },
+    {
+      "code": "BS-NO",
+      "name": {
+        "en": "North Abaco"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Cooper’s Town"
+          },
+          "latitude": 26.87137,
+          "longitude": -77.51131
+        }
+      ]
+    },
+    {
+      "code": "BS-NS",
+      "name": {
+        "en": "North Andros"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Andros Town"
+          },
+          "latitude": 24.70502,
+          "longitude": -77.76912
+        },
+        {
+          "name": {
+            "en": "San Andros"
+          },
+          "latitude": 25.06667,
+          "longitude": -78.05
+        }
+      ]
+    },
+    {
+      "code": "BS-RI",
+      "name": {
+        "en": "Ragged Island"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Duncan Town"
+          },
+          "latitude": 22.19083,
+          "longitude": -75.72583
+        }
+      ]
+    },
+    {
+      "code": "BS-RC",
+      "name": {
+        "en": "Rum Cay"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Port Nelson"
+          },
+          "latitude": 23.64967,
+          "longitude": -74.84157
+        }
+      ]
+    },
+    {
+      "code": "BS-SS",
+      "name": {
+        "en": "San Salvador Island"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Cockburn Town"
+          },
+          "latitude": 24.05179,
+          "longitude": -74.53138
+        }
+      ]
+    },
+    {
+      "code": "BS-SW",
+      "name": {
+        "en": "Spanish Wells"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Spanish Wells"
+          },
+          "latitude": 25.54717,
+          "longitude": -76.76405
+        }
+      ]
+    },
+    {
+      "code": "BS-WG",
+      "name": {
+        "en": "West Grand Bahama"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "West End"
+          },
+          "latitude": 26.68711,
+          "longitude": -78.97702
+        }
+      ]
+    }
+  ]
+}

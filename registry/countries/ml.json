@@ -1,0 +1,438 @@
+{
+  "code": "ML",
+  "iso3": "MLI",
+  "name": {
+    "en": "Mali",
+    "ar": "مالي",
+    "de": "Mali",
+    "es": "Mali",
+    "fr": "Mali",
+    "hi": "माली",
+    "it": "Mali",
+    "ja": "マリ",
+    "ko": "말리",
+    "nl": "Mali",
+    "pl": "Mali",
+    "pt": "Mali",
+    "pt-BR": "Mali",
+    "ru": "Мали",
+    "tr": "Mali",
+    "uk": "Малі",
+    "zh": "马里"
+  },
+  "phone": "+223",
+  "currency": "XOF",
+  "timezone": "Africa/Bamako",
+  "flag": "🇲🇱",
+  "regions": [
+    {
+      "code": "ML-BKO",
+      "name": {
+        "en": "Bamako"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bamako"
+          },
+          "latitude": 12.65,
+          "longitude": -8
+        }
+      ]
+    },
+    {
+      "code": "ML-7",
+      "name": {
+        "en": "Gao"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ansongo"
+          },
+          "latitude": 15.6597,
+          "longitude": 0.5022
+        },
+        {
+          "name": {
+            "en": "Cercle de Bourem"
+          },
+          "latitude": 17.71192,
+          "longitude": -0.34284
+        },
+        {
+          "name": {
+            "en": "Gao",
+            "ar": "جاو"
+          },
+          "latitude": 16.27167,
+          "longitude": -0.04472
+        },
+        {
+          "name": {
+            "en": "Gao Cercle"
+          },
+          "latitude": 16.72237,
+          "longitude": 0.43984
+        },
+        {
+          "name": {
+            "en": "Inékar"
+          },
+          "latitude": 15.95944,
+          "longitude": 3.14111
+        }
+      ]
+    },
+    {
+      "code": "ML-1",
+      "name": {
+        "en": "Kayes"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bafoulabé"
+          },
+          "latitude": 13.8065,
+          "longitude": -10.8321
+        },
+        {
+          "name": {
+            "en": "Kayes",
+            "ar": "كايس"
+          },
+          "latitude": 14.44693,
+          "longitude": -11.44448
+        },
+        {
+          "name": {
+            "en": "Kita"
+          },
+          "latitude": 13.0349,
+          "longitude": -9.4895
+        },
+        {
+          "name": {
+            "en": "Kokofata"
+          },
+          "latitude": 12.88333,
+          "longitude": -9.95
+        },
+        {
+          "name": {
+            "en": "Sagalo"
+          },
+          "latitude": 12.2,
+          "longitude": -10.7
+        }
+      ]
+    },
+    {
+      "code": "ML-8",
+      "name": {
+        "en": "Kidal"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Abeïbara"
+          },
+          "latitude": 19.11667,
+          "longitude": 1.75
+        },
+        {
+          "name": {
+            "en": "Cercle d’Abeïbara"
+          },
+          "latitude": 19.48878,
+          "longitude": 2.20025
+        },
+        {
+          "name": {
+            "en": "Kidal",
+            "ar": "كيدال"
+          },
+          "latitude": 18.44111,
+          "longitude": 1.40778
+        }
+      ]
+    },
+    {
+      "code": "ML-2",
+      "name": {
+        "en": "Koulikoro"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Banamba"
+          },
+          "latitude": 13.54773,
+          "longitude": -7.44808
+        },
+        {
+          "name": {
+            "en": "Kangaba"
+          },
+          "latitude": 11.93333,
+          "longitude": -8.41667
+        },
+        {
+          "name": {
+            "en": "Kati",
+            "ar": "كاتي"
+          },
+          "latitude": 12.74409,
+          "longitude": -8.07257
+        },
+        {
+          "name": {
+            "en": "Kolokani"
+          },
+          "latitude": 13.5728,
+          "longitude": -8.0339
+        },
+        {
+          "name": {
+            "en": "Koulikoro",
+            "ar": "كوليكورو"
+          },
+          "latitude": 12.86273,
+          "longitude": -7.55985
+        }
+      ]
+    },
+    {
+      "code": "ML-5",
+      "name": {
+        "en": "Mopti"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bandiagara"
+          },
+          "latitude": 14.35005,
+          "longitude": -3.61038
+        },
+        {
+          "name": {
+            "en": "Djénné"
+          },
+          "latitude": 13.90608,
+          "longitude": -4.55332
+        },
+        {
+          "name": {
+            "en": "Douentza"
+          },
+          "latitude": 15.00155,
+          "longitude": -2.94978
+        },
+        {
+          "name": {
+            "en": "Douentza Cercle"
+          },
+          "latitude": 15.06947,
+          "longitude": -2.40875
+        },
+        {
+          "name": {
+            "en": "Mopti",
+            "ar": "موبتي"
+          },
+          "latitude": 14.4843,
+          "longitude": -4.18296
+        },
+        {
+          "name": {
+            "en": "Ténenkou"
+          },
+          "latitude": 14.45722,
+          "longitude": -4.9169
+        }
+      ]
+    },
+    {
+      "code": "ML-4",
+      "name": {
+        "en": "Ségou"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Baroueli"
+          },
+          "latitude": 13.07489,
+          "longitude": -6.57171
+        },
+        {
+          "name": {
+            "en": "Cercle de San"
+          },
+          "latitude": 13.17895,
+          "longitude": -5.01617
+        },
+        {
+          "name": {
+            "en": "Ké-Macina"
+          },
+          "latitude": 13.9641,
+          "longitude": -5.35791
+        },
+        {
+          "name": {
+            "en": "Kinmparana"
+          },
+          "latitude": 12.84217,
+          "longitude": -4.9245
+        },
+        {
+          "name": {
+            "en": "Markala"
+          },
+          "latitude": 13.7021,
+          "longitude": -6.0659
+        },
+        {
+          "name": {
+            "en": "San"
+          },
+          "latitude": 13.30335,
+          "longitude": -4.89562
+        },
+        {
+          "name": {
+            "en": "Ségou"
+          },
+          "latitude": 13.4317,
+          "longitude": -6.2157
+        },
+        {
+          "name": {
+            "en": "Sokolo"
+          },
+          "latitude": 14.7328,
+          "longitude": -6.1219
+        }
+      ]
+    },
+    {
+      "code": "ML-3",
+      "name": {
+        "en": "Sikasso"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bougouni"
+          },
+          "latitude": 11.41769,
+          "longitude": -7.48323
+        },
+        {
+          "name": {
+            "en": "Kolondiéba"
+          },
+          "latitude": 11.08943,
+          "longitude": -6.8929
+        },
+        {
+          "name": {
+            "en": "Koutiala"
+          },
+          "latitude": 12.39173,
+          "longitude": -5.46421
+        },
+        {
+          "name": {
+            "en": "Koutiala Cercle"
+          },
+          "latitude": 12.35311,
+          "longitude": -5.5839
+        },
+        {
+          "name": {
+            "en": "Ntossoni"
+          },
+          "latitude": 12.5304,
+          "longitude": -5.77003
+        },
+        {
+          "name": {
+            "en": "Sikasso",
+            "ar": "سيكاسو"
+          },
+          "latitude": 11.31755,
+          "longitude": -5.66654
+        },
+        {
+          "name": {
+            "en": "Yorosso"
+          },
+          "latitude": 12.35811,
+          "longitude": -4.77688
+        }
+      ]
+    },
+    {
+      "code": "ML-6",
+      "name": {
+        "en": "Tombouctou"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Araouane"
+          },
+          "latitude": 18.90476,
+          "longitude": -3.52649
+        },
+        {
+          "name": {
+            "en": "Cercle de Goundam"
+          },
+          "latitude": 18.60035,
+          "longitude": -4.99306
+        },
+        {
+          "name": {
+            "en": "Dire"
+          },
+          "latitude": 16.28017,
+          "longitude": -3.31302
+        },
+        {
+          "name": {
+            "en": "Goundam"
+          },
+          "latitude": 16.41453,
+          "longitude": -3.67075
+        },
+        {
+          "name": {
+            "en": "Gourma-Rharous Cercle"
+          },
+          "latitude": 16.07979,
+          "longitude": -1.76981
+        },
+        {
+          "name": {
+            "en": "Niafunké"
+          },
+          "latitude": 15.9322,
+          "longitude": -3.9906
+        },
+        {
+          "name": {
+            "en": "Timbuktu",
+            "ar": "تمبكتو"
+          },
+          "latitude": 16.77348,
+          "longitude": -3.00742
+        }
+      ]
+    }
+  ]
+}

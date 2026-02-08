@@ -1,0 +1,700 @@
+{
+  "code": "UG",
+  "iso3": "UGA",
+  "name": {
+    "en": "Uganda",
+    "ar": "أوغندا",
+    "de": "Uganda",
+    "es": "Uganda",
+    "fr": "Uganda",
+    "hi": "युगांडा",
+    "it": "Uganda",
+    "ja": "ウガンダ",
+    "ko": "우간다",
+    "nl": "Oeganda",
+    "pl": "Uganda",
+    "pt": "Uganda",
+    "pt-BR": "Uganda",
+    "ru": "Уганда",
+    "tr": "Uganda",
+    "uk": "Уганда",
+    "zh": "乌干达"
+  },
+  "phone": "+256",
+  "currency": "UGX",
+  "timezone": "Africa/Kampala",
+  "flag": "🇺🇬",
+  "regions": [
+    {
+      "code": "UG-C",
+      "name": {
+        "en": "Central"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bukomansimbi"
+          },
+          "latitude": -0.12855,
+          "longitude": 31.62527
+        },
+        {
+          "name": {
+            "en": "Buvuma"
+          },
+          "latitude": -0.36744,
+          "longitude": 33.20071
+        },
+        {
+          "name": {
+            "en": "Bweyogerere"
+          },
+          "latitude": 0.35773,
+          "longitude": 32.66332
+        },
+        {
+          "name": {
+            "en": "Byakabanda"
+          },
+          "latitude": -0.7425,
+          "longitude": 31.40639
+        },
+        {
+          "name": {
+            "en": "Entebbe",
+            "ar": "إنتيبي"
+          },
+          "latitude": 0.05621,
+          "longitude": 32.47949
+        },
+        {
+          "name": {
+            "en": "Gomba"
+          },
+          "latitude": 0.20017,
+          "longitude": 31.75023
+        },
+        {
+          "name": {
+            "en": "Kajansi"
+          },
+          "latitude": 0.21548,
+          "longitude": 32.53453
+        },
+        {
+          "name": {
+            "en": "Kampala",
+            "ar": "كامبالا"
+          },
+          "latitude": 0.31628,
+          "longitude": 32.58219
+        },
+        {
+          "name": {
+            "en": "Kampala District"
+          },
+          "latitude": 0.33508,
+          "longitude": 32.58313
+        },
+        {
+          "name": {
+            "en": "Kanoni"
+          },
+          "latitude": 0.17722,
+          "longitude": 31.88111
+        },
+        {
+          "name": {
+            "en": "Kayunga"
+          },
+          "latitude": 0.7025,
+          "longitude": 32.88861
+        },
+        {
+          "name": {
+            "en": "Kiboga"
+          },
+          "latitude": 0.91611,
+          "longitude": 31.77417
+        },
+        {
+          "name": {
+            "en": "Kireka"
+          },
+          "latitude": 0.3475,
+          "longitude": 32.64917
+        },
+        {
+          "name": {
+            "en": "Kyotera"
+          },
+          "latitude": -0.61556,
+          "longitude": 31.5175
+        },
+        {
+          "name": {
+            "en": "Lugazi"
+          },
+          "latitude": 0.36788,
+          "longitude": 32.9376
+        },
+        {
+          "name": {
+            "en": "Luwero"
+          },
+          "latitude": 0.84917,
+          "longitude": 32.47306
+        },
+        {
+          "name": {
+            "en": "Lyantonde"
+          },
+          "latitude": -0.40306,
+          "longitude": 31.15722
+        },
+        {
+          "name": {
+            "en": "Masaka"
+          },
+          "latitude": -0.33379,
+          "longitude": 31.73409
+        },
+        {
+          "name": {
+            "en": "Mityana"
+          },
+          "latitude": 0.4175,
+          "longitude": 32.02278
+        },
+        {
+          "name": {
+            "en": "Mpigi"
+          },
+          "latitude": 0.225,
+          "longitude": 32.31361
+        },
+        {
+          "name": {
+            "en": "Mubende"
+          },
+          "latitude": 0.55849,
+          "longitude": 31.39489
+        },
+        {
+          "name": {
+            "en": "Mubende District"
+          },
+          "latitude": 0.5,
+          "longitude": 31.5
+        },
+        {
+          "name": {
+            "en": "Mukono"
+          },
+          "latitude": 0.35333,
+          "longitude": 32.75528
+        },
+        {
+          "name": {
+            "en": "Nakasongola"
+          },
+          "latitude": 1.30889,
+          "longitude": 32.45639
+        },
+        {
+          "name": {
+            "en": "Namasuba"
+          },
+          "latitude": 0.68944,
+          "longitude": 32.42139
+        },
+        {
+          "name": {
+            "en": "Njeru"
+          },
+          "latitude": 0.44166,
+          "longitude": 33.17917
+        },
+        {
+          "name": {
+            "en": "Sembabule"
+          },
+          "latitude": -0.07722,
+          "longitude": 31.45667
+        },
+        {
+          "name": {
+            "en": "Wakiso"
+          },
+          "latitude": 0.40444,
+          "longitude": 32.45944
+        },
+        {
+          "name": {
+            "en": "Wakiso District"
+          },
+          "latitude": 0.23763,
+          "longitude": 32.47836
+        },
+        {
+          "name": {
+            "en": "Wobulenzi"
+          },
+          "latitude": 0.72833,
+          "longitude": 32.51222
+        }
+      ]
+    },
+    {
+      "code": "UG-E",
+      "name": {
+        "en": "Eastern"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bugembe"
+          },
+          "latitude": 0.48213,
+          "longitude": 33.24065
+        },
+        {
+          "name": {
+            "en": "Bugiri"
+          },
+          "latitude": 0.57139,
+          "longitude": 33.74167
+        },
+        {
+          "name": {
+            "en": "Bukwa"
+          },
+          "latitude": 1.27115,
+          "longitude": 34.66778
+        },
+        {
+          "name": {
+            "en": "Bulambuli"
+          },
+          "latitude": 1.32055,
+          "longitude": 34.28062
+        },
+        {
+          "name": {
+            "en": "Busembatia"
+          },
+          "latitude": 0.77725,
+          "longitude": 33.62364
+        },
+        {
+          "name": {
+            "en": "Busia"
+          },
+          "latitude": 0.46588,
+          "longitude": 34.09221
+        },
+        {
+          "name": {
+            "en": "Buwenge"
+          },
+          "latitude": 0.64996,
+          "longitude": 33.17128
+        },
+        {
+          "name": {
+            "en": "Iganga"
+          },
+          "latitude": 0.60917,
+          "longitude": 33.46861
+        },
+        {
+          "name": {
+            "en": "Jinja"
+          },
+          "latitude": 0.43902,
+          "longitude": 33.20317
+        },
+        {
+          "name": {
+            "en": "Kamuli"
+          },
+          "latitude": 0.94722,
+          "longitude": 33.11972
+        },
+        {
+          "name": {
+            "en": "Kapchorwa"
+          },
+          "latitude": 1.40096,
+          "longitude": 34.45038
+        },
+        {
+          "name": {
+            "en": "Kibuku"
+          },
+          "latitude": 1.05,
+          "longitude": 33.80879
+        },
+        {
+          "name": {
+            "en": "Kumi"
+          },
+          "latitude": 1.46083,
+          "longitude": 33.93611
+        },
+        {
+          "name": {
+            "en": "Mayuge"
+          },
+          "latitude": 0.45972,
+          "longitude": 33.48028
+        },
+        {
+          "name": {
+            "en": "Mbale"
+          },
+          "latitude": 1.08209,
+          "longitude": 34.17503
+        },
+        {
+          "name": {
+            "en": "Pallisa"
+          },
+          "latitude": 1.145,
+          "longitude": 33.70944
+        },
+        {
+          "name": {
+            "en": "Sironko"
+          },
+          "latitude": 1.23132,
+          "longitude": 34.24773
+        },
+        {
+          "name": {
+            "en": "Soroti"
+          },
+          "latitude": 1.71464,
+          "longitude": 33.61113
+        },
+        {
+          "name": {
+            "en": "Tororo"
+          },
+          "latitude": 0.69299,
+          "longitude": 34.18085
+        }
+      ]
+    },
+    {
+      "code": "UG-N",
+      "name": {
+        "en": "Northern"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Adjumani"
+          },
+          "latitude": 3.37786,
+          "longitude": 31.7909
+        },
+        {
+          "name": {
+            "en": "Amudat"
+          },
+          "latitude": 1.95,
+          "longitude": 34.95
+        },
+        {
+          "name": {
+            "en": "Apac"
+          },
+          "latitude": 1.97556,
+          "longitude": 32.53861
+        },
+        {
+          "name": {
+            "en": "Arua"
+          },
+          "latitude": 3.02013,
+          "longitude": 30.91105
+        },
+        {
+          "name": {
+            "en": "Gulu"
+          },
+          "latitude": 2.77457,
+          "longitude": 32.29899
+        },
+        {
+          "name": {
+            "en": "Kitgum"
+          },
+          "latitude": 3.27833,
+          "longitude": 32.88667
+        },
+        {
+          "name": {
+            "en": "Kotido"
+          },
+          "latitude": 2.98056,
+          "longitude": 34.13306
+        },
+        {
+          "name": {
+            "en": "Lira"
+          },
+          "latitude": 2.2499,
+          "longitude": 32.89985
+        },
+        {
+          "name": {
+            "en": "Moroto"
+          },
+          "latitude": 2.53453,
+          "longitude": 34.66659
+        },
+        {
+          "name": {
+            "en": "Moyo"
+          },
+          "latitude": 3.66088,
+          "longitude": 31.72474
+        },
+        {
+          "name": {
+            "en": "Nebbi"
+          },
+          "latitude": 2.47826,
+          "longitude": 31.08893
+        },
+        {
+          "name": {
+            "en": "Otuke"
+          },
+          "latitude": 2.48372,
+          "longitude": 33.34201
+        },
+        {
+          "name": {
+            "en": "Oyam"
+          },
+          "latitude": 2.38129,
+          "longitude": 32.50071
+        },
+        {
+          "name": {
+            "en": "Pader"
+          },
+          "latitude": 3.05,
+          "longitude": 33.21667
+        },
+        {
+          "name": {
+            "en": "Pader Palwo"
+          },
+          "latitude": 2.80056,
+          "longitude": 33.135
+        },
+        {
+          "name": {
+            "en": "Paidha"
+          },
+          "latitude": 2.41669,
+          "longitude": 30.98551
+        },
+        {
+          "name": {
+            "en": "Yumbe"
+          },
+          "latitude": 3.46506,
+          "longitude": 31.24689
+        }
+      ]
+    },
+    {
+      "code": "UG-W",
+      "name": {
+        "en": "Western"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bundibugyo"
+          },
+          "latitude": 0.71117,
+          "longitude": 30.06469
+        },
+        {
+          "name": {
+            "en": "Bwizibwera"
+          },
+          "latitude": -0.59167,
+          "longitude": 30.62861
+        },
+        {
+          "name": {
+            "en": "Fort Portal"
+          },
+          "latitude": 0.66174,
+          "longitude": 30.2748
+        },
+        {
+          "name": {
+            "en": "Hoima"
+          },
+          "latitude": 1.43314,
+          "longitude": 31.35241
+        },
+        {
+          "name": {
+            "en": "Ibanda"
+          },
+          "latitude": -0.13398,
+          "longitude": 30.49616
+        },
+        {
+          "name": {
+            "en": "Ibanda District"
+          },
+          "latitude": -0.081,
+          "longitude": 30.556
+        },
+        {
+          "name": {
+            "en": "Kabale"
+          },
+          "latitude": -1.24857,
+          "longitude": 29.98993
+        },
+        {
+          "name": {
+            "en": "Kagadi"
+          },
+          "latitude": 0.93778,
+          "longitude": 30.80889
+        },
+        {
+          "name": {
+            "en": "Kamwenge"
+          },
+          "latitude": 0.1866,
+          "longitude": 30.45393
+        },
+        {
+          "name": {
+            "en": "Kanungu"
+          },
+          "latitude": -0.9575,
+          "longitude": 29.78972
+        },
+        {
+          "name": {
+            "en": "Kasese"
+          },
+          "latitude": 0.18333,
+          "longitude": 30.08333
+        },
+        {
+          "name": {
+            "en": "Kibale"
+          },
+          "latitude": 0.8,
+          "longitude": 31.06667
+        },
+        {
+          "name": {
+            "en": "Kigorobya"
+          },
+          "latitude": 1.6162,
+          "longitude": 31.3089
+        },
+        {
+          "name": {
+            "en": "Kilembe"
+          },
+          "latitude": 0.19835,
+          "longitude": 30.01302
+        },
+        {
+          "name": {
+            "en": "Kiruhura"
+          },
+          "latitude": -0.19664,
+          "longitude": 30.84446
+        },
+        {
+          "name": {
+            "en": "Kisoro"
+          },
+          "latitude": -1.28538,
+          "longitude": 29.68497
+        },
+        {
+          "name": {
+            "en": "Kyenjojo"
+          },
+          "latitude": 0.63278,
+          "longitude": 30.62139
+        },
+        {
+          "name": {
+            "en": "Margherita"
+          },
+          "latitude": 0.41861,
+          "longitude": 29.89111
+        },
+        {
+          "name": {
+            "en": "Masindi"
+          },
+          "latitude": 1.67444,
+          "longitude": 31.715
+        },
+        {
+          "name": {
+            "en": "Masindi Port"
+          },
+          "latitude": 1.69606,
+          "longitude": 32.08608
+        },
+        {
+          "name": {
+            "en": "Mbarara"
+          },
+          "latitude": -0.60467,
+          "longitude": 30.64851
+        },
+        {
+          "name": {
+            "en": "Muhororo"
+          },
+          "latitude": 0.93806,
+          "longitude": 30.75944
+        },
+        {
+          "name": {
+            "en": "Ntungamo"
+          },
+          "latitude": -0.87944,
+          "longitude": 30.26417
+        },
+        {
+          "name": {
+            "en": "Nyachera"
+          },
+          "latitude": -0.9,
+          "longitude": 30.41667
+        },
+        {
+          "name": {
+            "en": "Rukungiri"
+          },
+          "latitude": -0.84111,
+          "longitude": 29.94194
+        }
+      ]
+    }
+  ]
+}

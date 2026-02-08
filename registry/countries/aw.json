@@ -1,0 +1,122 @@
+{
+  "code": "AW",
+  "iso3": "ABW",
+  "name": {
+    "en": "Aruba",
+    "ar": "أروبا",
+    "de": "Aruba",
+    "es": "Aruba",
+    "fr": "Aruba",
+    "hi": "अरूबा",
+    "it": "Aruba",
+    "ja": "アルバ",
+    "ko": "아루바",
+    "nl": "Aruba",
+    "pl": "Aruba",
+    "pt": "Aruba",
+    "pt-BR": "Aruba",
+    "ru": "Аруба",
+    "tr": "Aruba",
+    "uk": "Аруба",
+    "zh": "阿鲁巴"
+  },
+  "phone": "+297",
+  "currency": "AWG",
+  "timezone": "America/Aruba",
+  "flag": "🇦🇼",
+  "regions": [
+    {
+      "code": "AW-09",
+      "name": {
+        "en": "Oranjestad"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Alto Vista"
+          },
+          "latitude": 12.5705,
+          "longitude": -70.01912
+        },
+        {
+          "name": {
+            "en": "Moco"
+          },
+          "latitude": 12.55134,
+          "longitude": -70.00843
+        },
+        {
+          "name": {
+            "en": "Noord"
+          },
+          "latitude": 12.56596,
+          "longitude": -70.03198
+        },
+        {
+          "name": {
+            "en": "Oranjestad",
+            "ar": "أورنجستاد"
+          },
+          "latitude": 12.52398,
+          "longitude": -70.02703
+        },
+        {
+          "name": {
+            "en": "Palm Beach"
+          },
+          "latitude": 12.56847,
+          "longitude": -70.03887
+        },
+        {
+          "name": {
+            "en": "Paradera"
+          },
+          "latitude": 12.5351,
+          "longitude": -70.00688
+        },
+        {
+          "name": {
+            "en": "Pos Chiquito"
+          },
+          "latitude": 12.46497,
+          "longitude": -69.96233
+        },
+        {
+          "name": {
+            "en": "San Nicolas"
+          },
+          "latitude": 12.43624,
+          "longitude": -69.90713
+        },
+        {
+          "name": {
+            "en": "Santa Cruz"
+          },
+          "latitude": 12.50953,
+          "longitude": -69.98094
+        },
+        {
+          "name": {
+            "en": "Savaneta"
+          },
+          "latitude": 12.45026,
+          "longitude": -69.93811
+        },
+        {
+          "name": {
+            "en": "Tanki Leendert"
+          },
+          "latitude": 12.53914,
+          "longitude": -70.02004
+        },
+        {
+          "name": {
+            "en": "Washington"
+          },
+          "latitude": 12.55837,
+          "longitude": -70.03816
+        }
+      ]
+    }
+  ]
+}

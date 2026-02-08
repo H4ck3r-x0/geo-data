@@ -1,0 +1,978 @@
+{
+  "code": "HT",
+  "iso3": "HTI",
+  "name": {
+    "en": "Haiti",
+    "ar": "هايتي",
+    "de": "Haiti",
+    "es": "Haiti",
+    "fr": "Haïti",
+    "hi": "हैती",
+    "it": "Haiti",
+    "ja": "ハイチ",
+    "ko": "아이티",
+    "nl": "Haïti",
+    "pl": "Haiti",
+    "pt": "Haiti",
+    "pt-BR": "Haiti",
+    "ru": "Гаити",
+    "tr": "Haiti",
+    "uk": "Гаїті",
+    "zh": "海地"
+  },
+  "phone": "+509",
+  "currency": "HTG",
+  "timezone": "America/Port-au-Prince",
+  "flag": "🇭🇹",
+  "regions": [
+    {
+      "code": "HT-AR",
+      "name": {
+        "en": "Artibonite"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Anse Rouge"
+          },
+          "latitude": 19.63382,
+          "longitude": -73.0553
+        },
+        {
+          "name": {
+            "en": "Arrondissement de Saint-Marc"
+          },
+          "latitude": 19,
+          "longitude": -72.5
+        },
+        {
+          "name": {
+            "en": "Désarmes"
+          },
+          "latitude": 18.99345,
+          "longitude": -72.39058
+        },
+        {
+          "name": {
+            "en": "Dessalines"
+          },
+          "latitude": 19.26177,
+          "longitude": -72.51611
+        },
+        {
+          "name": {
+            "en": "Ennery"
+          },
+          "latitude": 19.48342,
+          "longitude": -72.48537
+        },
+        {
+          "name": {
+            "en": "Gonaïves"
+          },
+          "latitude": 19.44755,
+          "longitude": -72.68928
+        },
+        {
+          "name": {
+            "en": "Grande Saline"
+          },
+          "latitude": 19.26513,
+          "longitude": -72.76897
+        },
+        {
+          "name": {
+            "en": "Gros Morne"
+          },
+          "latitude": 19.6708,
+          "longitude": -72.67808
+        },
+        {
+          "name": {
+            "en": "Marmelade"
+          },
+          "latitude": 19.51736,
+          "longitude": -72.36133
+        },
+        {
+          "name": {
+            "en": "Saint-Marc"
+          },
+          "latitude": 19.10819,
+          "longitude": -72.69379
+        },
+        {
+          "name": {
+            "en": "Verrettes"
+          },
+          "latitude": 19.0505,
+          "longitude": -72.46585
+        }
+      ]
+    },
+    {
+      "code": "HT-CE",
+      "name": {
+        "en": "Centre"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Arrondissement de Cerca La Source"
+          },
+          "latitude": 19.11667,
+          "longitude": -71.75
+        },
+        {
+          "name": {
+            "en": "Cerca la Source"
+          },
+          "latitude": 19.16696,
+          "longitude": -71.79015
+        },
+        {
+          "name": {
+            "en": "Hinche"
+          },
+          "latitude": 19.15,
+          "longitude": -72.01667
+        },
+        {
+          "name": {
+            "en": "Lascahobas"
+          },
+          "latitude": 18.83047,
+          "longitude": -71.93563
+        },
+        {
+          "name": {
+            "en": "Mayisad"
+          },
+          "latitude": 19.17607,
+          "longitude": -72.13958
+        },
+        {
+          "name": {
+            "en": "Mirebalais"
+          },
+          "latitude": 18.83455,
+          "longitude": -72.1048
+        },
+        {
+          "name": {
+            "en": "Thomassique"
+          },
+          "latitude": 19.08209,
+          "longitude": -71.83855
+        },
+        {
+          "name": {
+            "en": "Thomonde"
+          },
+          "latitude": 19.0173,
+          "longitude": -71.96235
+        }
+      ]
+    },
+    {
+      "code": "HT-GA",
+      "name": {
+        "en": "Grand'Anse"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Anse-à-Veau"
+          },
+          "latitude": 18.5011,
+          "longitude": -73.3449
+        },
+        {
+          "name": {
+            "en": "Chambellan"
+          },
+          "latitude": 18.55037,
+          "longitude": -74.31317
+        },
+        {
+          "name": {
+            "en": "Corail"
+          },
+          "latitude": 18.56766,
+          "longitude": -73.88942
+        },
+        {
+          "name": {
+            "en": "Dame-Marie"
+          },
+          "latitude": 18.56107,
+          "longitude": -74.42167
+        },
+        {
+          "name": {
+            "en": "Jeremi"
+          },
+          "latitude": 18.58333,
+          "longitude": -74.2
+        },
+        {
+          "name": {
+            "en": "Jérémie"
+          },
+          "latitude": 18.65,
+          "longitude": -74.11667
+        },
+        {
+          "name": {
+            "en": "Les Abricots"
+          },
+          "latitude": 18.64901,
+          "longitude": -74.30786
+        },
+        {
+          "name": {
+            "en": "Les Irois"
+          },
+          "latitude": 18.4049,
+          "longitude": -74.4528
+        },
+        {
+          "name": {
+            "en": "Moron"
+          },
+          "latitude": 18.56039,
+          "longitude": -74.25777
+        },
+        {
+          "name": {
+            "en": "Petite Rivière de Nippes"
+          },
+          "latitude": 18.47611,
+          "longitude": -73.23495
+        }
+      ]
+    },
+    {
+      "code": "HT-NI",
+      "name": {
+        "en": "Nippes"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ansavo"
+          },
+          "latitude": 18.41667,
+          "longitude": -73.5
+        },
+        {
+          "name": {
+            "en": "Baradères"
+          },
+          "latitude": 18.48255,
+          "longitude": -73.63884
+        },
+        {
+          "name": {
+            "en": "Miragoâne"
+          },
+          "latitude": 18.44599,
+          "longitude": -73.08957
+        },
+        {
+          "name": {
+            "en": "Petit Trou de Nippes"
+          },
+          "latitude": 18.52535,
+          "longitude": -73.50815
+        }
+      ]
+    },
+    {
+      "code": "HT-ND",
+      "name": {
+        "en": "Nord"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Acul du Nord"
+          },
+          "latitude": 19.66667,
+          "longitude": -72.28333
+        },
+        {
+          "name": {
+            "en": "Arrondissement de la Grande Rivière du Nord"
+          },
+          "latitude": 19.51667,
+          "longitude": -72.16667
+        },
+        {
+          "name": {
+            "en": "Arrondissement de Plaisance"
+          },
+          "latitude": 19.66756,
+          "longitude": -72.54908
+        },
+        {
+          "name": {
+            "en": "Arrondissement du Borgne"
+          },
+          "latitude": 19.75,
+          "longitude": -72.5
+        },
+        {
+          "name": {
+            "en": "Bahon"
+          },
+          "latitude": 19.46959,
+          "longitude": -72.11466
+        },
+        {
+          "name": {
+            "en": "Borgne"
+          },
+          "latitude": 19.84507,
+          "longitude": -72.52349
+        },
+        {
+          "name": {
+            "en": "Dondon"
+          },
+          "latitude": 19.52734,
+          "longitude": -72.24337
+        },
+        {
+          "name": {
+            "en": "Grande Rivière du Nord"
+          },
+          "latitude": 19.57744,
+          "longitude": -72.16872
+        },
+        {
+          "name": {
+            "en": "Lenbe"
+          },
+          "latitude": 19.70603,
+          "longitude": -72.40336
+        },
+        {
+          "name": {
+            "en": "Limonade"
+          },
+          "latitude": 19.67014,
+          "longitude": -72.1243
+        },
+        {
+          "name": {
+            "en": "Milot"
+          },
+          "latitude": 19.60837,
+          "longitude": -72.21319
+        },
+        {
+          "name": {
+            "en": "Okap"
+          },
+          "latitude": 19.75938,
+          "longitude": -72.19815
+        },
+        {
+          "name": {
+            "en": "Pignon"
+          },
+          "latitude": 19.33594,
+          "longitude": -72.11662
+        },
+        {
+          "name": {
+            "en": "Pilate"
+          },
+          "latitude": 19.66745,
+          "longitude": -72.55229
+        },
+        {
+          "name": {
+            "en": "Plaine du Nord"
+          },
+          "latitude": 19.67707,
+          "longitude": -72.26969
+        },
+        {
+          "name": {
+            "en": "Plaisance"
+          },
+          "latitude": 19.59795,
+          "longitude": -72.46994
+        },
+        {
+          "name": {
+            "en": "Port-Margot"
+          },
+          "latitude": 19.7518,
+          "longitude": -72.43006
+        },
+        {
+          "name": {
+            "en": "Quartier Morin"
+          },
+          "latitude": 19.69696,
+          "longitude": -72.15712
+        },
+        {
+          "name": {
+            "en": "Ranquitte"
+          },
+          "latitude": 19.41327,
+          "longitude": -72.08077
+        },
+        {
+          "name": {
+            "en": "Saint-Raphaël"
+          },
+          "latitude": 19.43877,
+          "longitude": -72.1991
+        }
+      ]
+    },
+    {
+      "code": "HT-NE",
+      "name": {
+        "en": "Nord-Est"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Arrondissement de Fort Liberté"
+          },
+          "latitude": 19.56667,
+          "longitude": -71.83333
+        },
+        {
+          "name": {
+            "en": "Arrondissement du Trou du Nord"
+          },
+          "latitude": 19.55,
+          "longitude": -71.98333
+        },
+        {
+          "name": {
+            "en": "Caracol"
+          },
+          "latitude": 19.69274,
+          "longitude": -72.01733
+        },
+        {
+          "name": {
+            "en": "Carice"
+          },
+          "latitude": 19.37795,
+          "longitude": -71.8303
+        },
+        {
+          "name": {
+            "en": "Dérac"
+          },
+          "latitude": 19.65476,
+          "longitude": -71.81451
+        },
+        {
+          "name": {
+            "en": "Ferrier"
+          },
+          "latitude": 19.61549,
+          "longitude": -71.77792
+        },
+        {
+          "name": {
+            "en": "Fort Liberté"
+          },
+          "latitude": 19.66273,
+          "longitude": -71.83798
+        },
+        {
+          "name": {
+            "en": "Montòrganize"
+          },
+          "latitude": 19.40815,
+          "longitude": -71.78132
+        },
+        {
+          "name": {
+            "en": "Ouanaminthe"
+          },
+          "latitude": 19.54934,
+          "longitude": -71.72475
+        },
+        {
+          "name": {
+            "en": "Perches"
+          },
+          "latitude": 19.52201,
+          "longitude": -71.92323
+        },
+        {
+          "name": {
+            "en": "Phaëton"
+          },
+          "latitude": 19.67525,
+          "longitude": -71.89691
+        },
+        {
+          "name": {
+            "en": "Trou du Nord"
+          },
+          "latitude": 19.61668,
+          "longitude": -72.02442
+        },
+        {
+          "name": {
+            "en": "Wanament"
+          },
+          "latitude": 19.48333,
+          "longitude": -71.76667
+        }
+      ]
+    },
+    {
+      "code": "HT-NO",
+      "name": {
+        "en": "Nord-Ouest"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Arcahaie"
+          },
+          "latitude": 19.81667,
+          "longitude": -72.91667
+        },
+        {
+          "name": {
+            "en": "Arrondissement de Port-de-Paix"
+          },
+          "latitude": 19.83333,
+          "longitude": -72.88333
+        },
+        {
+          "name": {
+            "en": "Arrondissement de Saint-Louis du Nord"
+          },
+          "latitude": 19.85,
+          "longitude": -72.66667
+        },
+        {
+          "name": {
+            "en": "Arrondissement du Môle Saint-Nicolas"
+          },
+          "latitude": 19.75,
+          "longitude": -73.25
+        },
+        {
+          "name": {
+            "en": "Baie de Henne"
+          },
+          "latitude": 19.66307,
+          "longitude": -73.20943
+        },
+        {
+          "name": {
+            "en": "Bombardopolis"
+          },
+          "latitude": 19.69142,
+          "longitude": -73.33769
+        },
+        {
+          "name": {
+            "en": "Fond Bassin Bleu"
+          },
+          "latitude": 19.79445,
+          "longitude": -72.79949
+        },
+        {
+          "name": {
+            "en": "Jean-Rabel"
+          },
+          "latitude": 19.85379,
+          "longitude": -73.19131
+        },
+        {
+          "name": {
+            "en": "Môle Saint-Nicolas"
+          },
+          "latitude": 19.807,
+          "longitude": -73.37605
+        },
+        {
+          "name": {
+            "en": "Petite Anse"
+          },
+          "latitude": 19.63011,
+          "longitude": -73.15499
+        },
+        {
+          "name": {
+            "en": "Port-de-Paix"
+          },
+          "latitude": 19.93984,
+          "longitude": -72.83037
+        },
+        {
+          "name": {
+            "en": "Saint-Louis du Nord"
+          },
+          "latitude": 19.93397,
+          "longitude": -72.72138
+        },
+        {
+          "name": {
+            "en": "Ti Port-de-Paix"
+          },
+          "latitude": 19.93333,
+          "longitude": -72.83333
+        }
+      ]
+    },
+    {
+      "code": "HT-OU",
+      "name": {
+        "en": "Ouest"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Anse à Galets"
+          },
+          "latitude": 18.83449,
+          "longitude": -72.86644
+        },
+        {
+          "name": {
+            "en": "Arcahaie"
+          },
+          "latitude": 18.83333,
+          "longitude": -72.41667
+        },
+        {
+          "name": {
+            "en": "Arrondissement de Croix des Bouquets"
+          },
+          "latitude": 18.48333,
+          "longitude": -72.01667
+        },
+        {
+          "name": {
+            "en": "Arrondissement de Léogâne"
+          },
+          "latitude": 18.41667,
+          "longitude": -72.75
+        },
+        {
+          "name": {
+            "en": "Arrondissement de Port-au-Prince"
+          },
+          "latitude": 18.5,
+          "longitude": -72.36667
+        },
+        {
+          "name": {
+            "en": "Cabaret"
+          },
+          "latitude": 18.73582,
+          "longitude": -72.41929
+        },
+        {
+          "name": {
+            "en": "Carrefour"
+          },
+          "latitude": 18.54114,
+          "longitude": -72.39922
+        },
+        {
+          "name": {
+            "en": "Cornillon"
+          },
+          "latitude": 18.67546,
+          "longitude": -71.95271
+        },
+        {
+          "name": {
+            "en": "Croix-des-Bouquets"
+          },
+          "latitude": 18.57677,
+          "longitude": -72.22625
+        },
+        {
+          "name": {
+            "en": "Delmas 73"
+          },
+          "latitude": 18.54472,
+          "longitude": -72.30278
+        },
+        {
+          "name": {
+            "en": "Fond Parisien"
+          },
+          "latitude": 18.50547,
+          "longitude": -71.98122
+        },
+        {
+          "name": {
+            "en": "Fonds Verrettes"
+          },
+          "latitude": 18.39566,
+          "longitude": -71.85634
+        },
+        {
+          "name": {
+            "en": "Grangwav"
+          },
+          "latitude": 18.4259,
+          "longitude": -72.76995
+        },
+        {
+          "name": {
+            "en": "Gressier"
+          },
+          "latitude": 18.54091,
+          "longitude": -72.52679
+        },
+        {
+          "name": {
+            "en": "Kenscoff"
+          },
+          "latitude": 18.44773,
+          "longitude": -72.28398
+        },
+        {
+          "name": {
+            "en": "Lagonav"
+          },
+          "latitude": 18.85,
+          "longitude": -73.05
+        },
+        {
+          "name": {
+            "en": "Léogâne"
+          },
+          "latitude": 18.5111,
+          "longitude": -72.63343
+        },
+        {
+          "name": {
+            "en": "Pétionville"
+          },
+          "latitude": 18.5125,
+          "longitude": -72.28528
+        },
+        {
+          "name": {
+            "en": "Port-au-Prince",
+            "ar": "بورت أو برانس"
+          },
+          "latitude": 18.54349,
+          "longitude": -72.33881
+        },
+        {
+          "name": {
+            "en": "Thomazeau"
+          },
+          "latitude": 18.65297,
+          "longitude": -72.09391
+        },
+        {
+          "name": {
+            "en": "Tigwav"
+          },
+          "latitude": 18.43117,
+          "longitude": -72.86521
+        }
+      ]
+    },
+    {
+      "code": "HT-SD",
+      "name": {
+        "en": "Sud"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Aquin"
+          },
+          "latitude": 18.27974,
+          "longitude": -73.39433
+        },
+        {
+          "name": {
+            "en": "Arrondissement de Port-Salut"
+          },
+          "latitude": 18.13333,
+          "longitude": -73.9
+        },
+        {
+          "name": {
+            "en": "Arrondissement des Cayes"
+          },
+          "latitude": 18.3,
+          "longitude": -73.83333
+        },
+        {
+          "name": {
+            "en": "Cavaillon"
+          },
+          "latitude": 18.29987,
+          "longitude": -73.65455
+        },
+        {
+          "name": {
+            "en": "Chantal"
+          },
+          "latitude": 18.20169,
+          "longitude": -73.88957
+        },
+        {
+          "name": {
+            "en": "Chardonnière"
+          },
+          "latitude": 18.27484,
+          "longitude": -74.16613
+        },
+        {
+          "name": {
+            "en": "Fond des Blancs"
+          },
+          "latitude": 18.27782,
+          "longitude": -73.12733
+        },
+        {
+          "name": {
+            "en": "Koto"
+          },
+          "latitude": 18.20601,
+          "longitude": -74.04013
+        },
+        {
+          "name": {
+            "en": "Les Anglais"
+          },
+          "latitude": 18.3054,
+          "longitude": -74.21968
+        },
+        {
+          "name": {
+            "en": "Les Cayes"
+          },
+          "latitude": 18.19331,
+          "longitude": -73.74601
+        },
+        {
+          "name": {
+            "en": "Port-à-Piment"
+          },
+          "latitude": 18.24963,
+          "longitude": -74.0971
+        },
+        {
+          "name": {
+            "en": "Roche-à-Bateau"
+          },
+          "latitude": 18.18182,
+          "longitude": -74.00345
+        },
+        {
+          "name": {
+            "en": "Saint-Louis du Sud"
+          },
+          "latitude": 18.26241,
+          "longitude": -73.54603
+        },
+        {
+          "name": {
+            "en": "Tiburon"
+          },
+          "latitude": 18.32589,
+          "longitude": -74.39598
+        },
+        {
+          "name": {
+            "en": "Torbeck"
+          },
+          "latitude": 18.16338,
+          "longitude": -73.80949
+        }
+      ]
+    },
+    {
+      "code": "HT-SE",
+      "name": {
+        "en": "Sud-Est"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Anse-à-Pitre"
+          },
+          "latitude": 18.05,
+          "longitude": -71.75
+        },
+        {
+          "name": {
+            "en": "Arrondissement de Bainet"
+          },
+          "latitude": 18.25,
+          "longitude": -72.85
+        },
+        {
+          "name": {
+            "en": "Arrondissement de Jacmel"
+          },
+          "latitude": 18.33333,
+          "longitude": -72.5
+        },
+        {
+          "name": {
+            "en": "Belle-Anse"
+          },
+          "latitude": 18.23768,
+          "longitude": -72.06638
+        },
+        {
+          "name": {
+            "en": "Cayes-Jacmel"
+          },
+          "latitude": 18.2311,
+          "longitude": -72.39545
+        },
+        {
+          "name": {
+            "en": "Jacmel"
+          },
+          "latitude": 18.23427,
+          "longitude": -72.53539
+        },
+        {
+          "name": {
+            "en": "Kotdefè"
+          },
+          "latitude": 18.18872,
+          "longitude": -73.00287
+        },
+        {
+          "name": {
+            "en": "Marigot"
+          },
+          "latitude": 18.23167,
+          "longitude": -72.32289
+        },
+        {
+          "name": {
+            "en": "Thiotte"
+          },
+          "latitude": 18.24384,
+          "longitude": -71.84157
+        }
+      ]
+    }
+  ]
+}

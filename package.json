@@ -1,0 +1,25 @@
+{
+  "name": "geo-data-monorepo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Copy only the countries you need. No bloat.",
+  "scripts": {
+    "build:registry": "tsx scripts/build-registry.ts",
+    "build:cli": "cd packages/cli && npm run build",
+    "lint": "biome lint .",
+    "format": "biome format --write .",
+    "check": "biome check --write .",
+    "test": "cd packages/cli && npm test"
+  },
+  "keywords": [],
+  "author": "Mohammed",
+  "license": "MIT",
+  "devDependencies": {
+    "@biomejs/biome": "^2.3.14",
+    "@types/fs-extra": "^11.0.4",
+    "@types/node": "^25.0.10",
+    "fs-extra": "^11.3.3",
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.3"
+  }
+}

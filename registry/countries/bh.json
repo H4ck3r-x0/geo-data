@@ -1,0 +1,132 @@
+{
+  "code": "BH",
+  "iso3": "BHR",
+  "name": {
+    "en": "Bahrain",
+    "ar": "البحرين",
+    "de": "Bahrain",
+    "es": "Bahrein",
+    "fr": "Bahreïn",
+    "hi": "बहरीन",
+    "it": "Bahrein",
+    "ja": "バーレーン",
+    "ko": "바레인",
+    "nl": "Bahrein",
+    "pl": "Bahrajn",
+    "pt": "Barém",
+    "pt-BR": "Bahrein",
+    "ru": "Бахрейн",
+    "tr": "Bahreyn",
+    "uk": "Бахрейн",
+    "zh": "巴林"
+  },
+  "phone": "+973",
+  "currency": "BHD",
+  "timezone": "Asia/Bahrain",
+  "flag": "🇧🇭",
+  "regions": [
+    {
+      "code": "BH-13",
+      "name": {
+        "en": "Capital"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Jidd Ḩafş",
+            "ar": "جِدّ حَفْص"
+          },
+          "latitude": 26.21861,
+          "longitude": 50.54778
+        },
+        {
+          "name": {
+            "en": "Manama",
+            "ar": "المنامة"
+          },
+          "latitude": 26.22787,
+          "longitude": 50.58565
+        },
+        {
+          "name": {
+            "en": "Sitrah",
+            "ar": "سِتْرَة"
+          },
+          "latitude": 26.15472,
+          "longitude": 50.62056
+        }
+      ]
+    },
+    {
+      "code": "BH-15",
+      "name": {
+        "en": "Muharraq"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Al Ḩadd"
+          },
+          "latitude": 26.24556,
+          "longitude": 50.65417
+        },
+        {
+          "name": {
+            "en": "Al Muharraq",
+            "ar": "المحرق"
+          },
+          "latitude": 26.25722,
+          "longitude": 50.61194
+        }
+      ]
+    },
+    {
+      "code": "BH-17",
+      "name": {
+        "en": "Northern"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Madīnat Ḩamad",
+            "ar": "مَدِينَة حَمَد"
+          },
+          "latitude": 26.11528,
+          "longitude": 50.50694
+        }
+      ]
+    },
+    {
+      "code": "BH-14",
+      "name": {
+        "en": "Southern"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ar Rifā‘",
+            "ar": "اَلرِّفَاع"
+          },
+          "latitude": 26.13,
+          "longitude": 50.555
+        },
+        {
+          "name": {
+            "en": "Dār Kulayb",
+            "ar": "دَار كُلَيْب"
+          },
+          "latitude": 26.06861,
+          "longitude": 50.50389
+        },
+        {
+          "name": {
+            "en": "Madīnat ‘Īsá",
+            "ar": "مَدِينَة عِيسَى"
+          },
+          "latitude": 26.17361,
+          "longitude": 50.54778
+        }
+      ]
+    }
+  ]
+}

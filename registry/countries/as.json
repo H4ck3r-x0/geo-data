@@ -1,0 +1,151 @@
+{
+  "code": "AS",
+  "iso3": "ASM",
+  "name": {
+    "en": "American Samoa",
+    "ar": "ساموا الأمريكية",
+    "de": "Amerikanisch-Samoa",
+    "es": "Samoa Americana",
+    "fr": "Samoa américaines",
+    "hi": "अमेरिकी समोआ",
+    "it": "Samoa Americane",
+    "ja": "アメリカ領サモア",
+    "ko": "아메리칸사모아",
+    "nl": "Amerikaans Samoa",
+    "pl": "Samoa Amerykańskie",
+    "pt": "Samoa Americana",
+    "pt-BR": "Samoa Americana",
+    "ru": "Американское Самоа",
+    "tr": "Amerikan Samoasi",
+    "uk": "Американське Самоа",
+    "zh": "美属萨摩亚"
+  },
+  "phone": "+1",
+  "currency": "USD",
+  "timezone": "Pacific/Pago_Pago",
+  "flag": "🇦🇸",
+  "regions": [
+    {
+      "code": "AS-02",
+      "name": {
+        "en": "Eastern"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ituʻau"
+          },
+          "latitude": -14.3061643,
+          "longitude": -170.8069144
+        },
+        {
+          "name": {
+            "en": "Maʻoputasi"
+          },
+          "latitude": -14.2521685,
+          "longitude": -170.7418767
+        },
+        {
+          "name": {
+            "en": "Saʻole"
+          },
+          "latitude": -14.299957,
+          "longitude": -170.6176337
+        },
+        {
+          "name": {
+            "en": "Sua"
+          },
+          "latitude": -14.2771088,
+          "longitude": -170.7144263
+        },
+        {
+          "name": {
+            "en": "Vaifanua"
+          },
+          "latitude": -14.2557804,
+          "longitude": -170.7630181
+        }
+      ]
+    },
+    {
+      "code": "AS-03",
+      "name": {
+        "en": "Manuʻa"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Faleasao"
+          },
+          "latitude": -14.2038549,
+          "longitude": -169.5490737
+        },
+        {
+          "name": {
+            "en": "Fitiuta"
+          },
+          "latitude": -14.2038634,
+          "longitude": -169.5169044
+        },
+        {
+          "name": {
+            "en": "Ofu"
+          },
+          "latitude": -14.1713595,
+          "longitude": -169.7193912
+        },
+        {
+          "name": {
+            "en": "Olosega"
+          },
+          "latitude": -14.1742227,
+          "longitude": -169.6398124
+        },
+        {
+          "name": {
+            "en": "Tau"
+          },
+          "latitude": -14.2421501,
+          "longitude": -169.5510165
+        }
+      ]
+    },
+    {
+      "code": "AS-01",
+      "name": {
+        "en": "Western"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Lealataua"
+          },
+          "latitude": -14.3226152,
+          "longitude": -170.9084993
+        },
+        {
+          "name": {
+            "en": "Leasina"
+          },
+          "latitude": -14.2958164,
+          "longitude": -170.8045932
+        },
+        {
+          "name": {
+            "en": "Tualatai"
+          },
+          "latitude": -14.3792354,
+          "longitude": -170.8103312
+        },
+        {
+          "name": {
+            "en": "Tualauta"
+          },
+          "latitude": -14.3587689,
+          "longitude": -170.7558332
+        }
+      ]
+    }
+  ]
+}

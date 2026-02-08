@@ -1,0 +1,160 @@
+{
+  "code": "ER",
+  "iso3": "ERI",
+  "name": {
+    "en": "Eritrea",
+    "ar": "إريتريا",
+    "de": "Eritrea",
+    "es": "Eritrea",
+    "fr": "Érythrée",
+    "hi": "इरिट्रिया",
+    "it": "Eritrea",
+    "ja": "エリトリア",
+    "ko": "에리트레아",
+    "nl": "Eritrea",
+    "pl": "Erytrea",
+    "pt": "Eritreia",
+    "pt-BR": "Eritreia",
+    "ru": "Эритрея",
+    "tr": "Eritre",
+    "uk": "Еритрея",
+    "zh": "厄立特里亚"
+  },
+  "phone": "+291",
+  "currency": "ERN",
+  "timezone": "Africa/Asmara",
+  "flag": "🇪🇷",
+  "regions": [
+    {
+      "code": "ER-AN",
+      "name": {
+        "en": "Anseba"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Keren",
+            "ar": "كرن"
+          },
+          "latitude": 15.77792,
+          "longitude": 38.45107
+        }
+      ]
+    },
+    {
+      "code": "ER-DU",
+      "name": {
+        "en": "Debub"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Adi Keyh"
+          },
+          "latitude": 14.84444,
+          "longitude": 39.37722
+        },
+        {
+          "name": {
+            "en": "Dek’emhāre"
+          },
+          "latitude": 15.07,
+          "longitude": 39.0475
+        },
+        {
+          "name": {
+            "en": "Mendefera",
+            "ar": "مندفرا"
+          },
+          "latitude": 14.88722,
+          "longitude": 38.81528
+        }
+      ]
+    },
+    {
+      "code": "ER-GB",
+      "name": {
+        "en": "Gash-Barka"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ak’ordat"
+          },
+          "latitude": 15.54798,
+          "longitude": 37.88291
+        },
+        {
+          "name": {
+            "en": "Barentu",
+            "ar": "بارنتو"
+          },
+          "latitude": 15.10582,
+          "longitude": 37.59067
+        },
+        {
+          "name": {
+            "en": "Teseney"
+          },
+          "latitude": 15.11,
+          "longitude": 36.6575
+        }
+      ]
+    },
+    {
+      "code": "ER-MA",
+      "name": {
+        "en": "Maekel"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Asmara",
+            "ar": "أسمرة"
+          },
+          "latitude": 15.33805,
+          "longitude": 38.93184
+        }
+      ]
+    },
+    {
+      "code": "ER-SK",
+      "name": {
+        "en": "Northern Red Sea"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Massawa",
+            "ar": "مصوع"
+          },
+          "latitude": 15.60811,
+          "longitude": 39.47455
+        }
+      ]
+    },
+    {
+      "code": "ER-DK",
+      "name": {
+        "en": "Southern Red Sea"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Assab",
+            "ar": "عصب"
+          },
+          "latitude": 13.00917,
+          "longitude": 42.73944
+        },
+        {
+          "name": {
+            "en": "Edd"
+          },
+          "latitude": 13.93088,
+          "longitude": 41.6938
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,312 @@
+{
+  "code": "MV",
+  "iso3": "MDV",
+  "name": {
+    "en": "Maldives",
+    "ar": "جزر المالديف",
+    "de": "Malediven",
+    "es": "Maldivas",
+    "fr": "Maldives",
+    "hi": "मालदीव",
+    "it": "Maldive",
+    "ja": "モルディブ",
+    "ko": "몰디브",
+    "nl": "Maldiven",
+    "pl": "Malediwy",
+    "pt": "Maldivas",
+    "pt-BR": "Maldivas",
+    "ru": "Мальдивы",
+    "tr": "Maldivler",
+    "uk": "Мальдіви",
+    "zh": "马尔代夫"
+  },
+  "phone": "+960",
+  "currency": "MVR",
+  "timezone": "Indian/Maldives",
+  "flag": "🇲🇻",
+  "regions": [
+    {
+      "code": "MV-01",
+      "name": {
+        "en": "Addu"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Hithadhoo"
+          },
+          "latitude": -0.6,
+          "longitude": 73.08333
+        },
+        {
+          "name": {
+            "en": "Meedhoo"
+          },
+          "latitude": -0.58333,
+          "longitude": 73.23333
+        }
+      ]
+    },
+    {
+      "code": "MV-00",
+      "name": {
+        "en": "Alif Dhaal"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Mahibadhoo"
+          },
+          "latitude": 3.75713,
+          "longitude": 72.96893
+        }
+      ]
+    },
+    {
+      "code": "MV-17",
+      "name": {
+        "en": "Dhaalu"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Kudahuvadhoo"
+          },
+          "latitude": 2.67075,
+          "longitude": 72.89437
+        }
+      ]
+    },
+    {
+      "code": "MV-27",
+      "name": {
+        "en": "Gaafu Alif"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Viligili"
+          },
+          "latitude": 0.75906,
+          "longitude": 73.43296
+        }
+      ]
+    },
+    {
+      "code": "MV-28",
+      "name": {
+        "en": "Gaafu Dhaalu"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Thinadhoo"
+          },
+          "latitude": 0.5306,
+          "longitude": 72.99969
+        }
+      ]
+    },
+    {
+      "code": "MV-29",
+      "name": {
+        "en": "Gnaviyani"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Fuvahmulah"
+          },
+          "latitude": -0.29878,
+          "longitude": 73.42403
+        }
+      ]
+    },
+    {
+      "code": "MV-07",
+      "name": {
+        "en": "Haa Alif"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Dhidhdhoo"
+          },
+          "latitude": 6.88744,
+          "longitude": 73.11402
+        }
+      ]
+    },
+    {
+      "code": "MV-23",
+      "name": {
+        "en": "Haa Dhaalu"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Kulhudhuffushi"
+          },
+          "latitude": 6.62207,
+          "longitude": 73.06998
+        }
+      ]
+    },
+    {
+      "code": "MV-26",
+      "name": {
+        "en": "Kaafu"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Guraidhoo"
+          },
+          "latitude": 3.90045,
+          "longitude": 73.46623
+        },
+        {
+          "name": {
+            "en": "Hulhumale"
+          },
+          "latitude": 4.21169,
+          "longitude": 73.54008
+        },
+        {
+          "name": {
+            "en": "Maafushi"
+          },
+          "latitude": 3.94231,
+          "longitude": 73.4907
+        },
+        {
+          "name": {
+            "en": "Male"
+          },
+          "latitude": 4.17521,
+          "longitude": 73.50916
+        }
+      ]
+    },
+    {
+      "code": "MV-05",
+      "name": {
+        "en": "Laamu"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Fonadhoo"
+          },
+          "latitude": 1.83243,
+          "longitude": 73.50257
+        }
+      ]
+    },
+    {
+      "code": "MV-03",
+      "name": {
+        "en": "Lhaviyani"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Naifaru"
+          },
+          "latitude": 5.44438,
+          "longitude": 73.36571
+        }
+      ]
+    },
+    {
+      "code": "MV-12",
+      "name": {
+        "en": "Meemu"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Muli"
+          },
+          "latitude": 2.91667,
+          "longitude": 73.56667
+        }
+      ]
+    },
+    {
+      "code": "MV-25",
+      "name": {
+        "en": "Noonu"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Manadhoo"
+          },
+          "latitude": 5.76687,
+          "longitude": 73.4136
+        }
+      ]
+    },
+    {
+      "code": "MV-13",
+      "name": {
+        "en": "Raa"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ugoofaaru"
+          },
+          "latitude": 5.66812,
+          "longitude": 73.03017
+        }
+      ]
+    },
+    {
+      "code": "MV-24",
+      "name": {
+        "en": "Shaviyani"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Funadhoo"
+          },
+          "latitude": 6.15091,
+          "longitude": 73.29013
+        }
+      ]
+    },
+    {
+      "code": "MV-08",
+      "name": {
+        "en": "Thaa"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Veymandoo"
+          },
+          "latitude": 2.18772,
+          "longitude": 73.09556
+        }
+      ]
+    },
+    {
+      "code": "MV-04",
+      "name": {
+        "en": "Vaavu"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Felidhoo"
+          },
+          "latitude": 3.47182,
+          "longitude": 73.54699
+        }
+      ]
+    }
+  ]
+}

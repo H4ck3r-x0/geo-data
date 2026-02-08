@@ -1,0 +1,2018 @@
+{
+  "code": "MK",
+  "iso3": "MKD",
+  "name": {
+    "en": "North Macedonia",
+    "ar": "شمال مقدونيا",
+    "de": "Nordmazedonien",
+    "es": "Macedonia del Norte",
+    "fr": "Macédoine du Nord",
+    "hi": "नॉर्थ मैसेडोनिया",
+    "it": "Macedonia del Nord",
+    "ja": "北マケドニア",
+    "ko": "북마케도니아",
+    "nl": "Noord-Macedonië",
+    "pl": "Macedonia Północna",
+    "pt": "Macedónia do Norte",
+    "pt-BR": "Macedônia do Norte",
+    "ru": "Северная Македония",
+    "tr": "Kuzey Makedonya",
+    "uk": "Північна Македонія",
+    "zh": "北馬其頓"
+  },
+  "phone": "+389",
+  "currency": "MKD",
+  "timezone": "Europe/Skopje",
+  "flag": "🇲🇰",
+  "regions": [
+    {
+      "code": "MK-801",
+      "name": {
+        "en": "Aerodrom"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Usje"
+          },
+          "latitude": 41.95871,
+          "longitude": 21.45835
+        }
+      ]
+    },
+    {
+      "code": "MK-802",
+      "name": {
+        "en": "Aračinovo"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Арачиново"
+          },
+          "latitude": 42.02639,
+          "longitude": 21.56194
+        }
+      ]
+    },
+    {
+      "code": "MK-201",
+      "name": {
+        "en": "Berovo"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Berovo"
+          },
+          "latitude": 41.70306,
+          "longitude": 22.85778
+        },
+        {
+          "name": {
+            "en": "Rusinovo"
+          },
+          "latitude": 41.68728,
+          "longitude": 22.80849
+        },
+        {
+          "name": {
+            "en": "Vladimirovo"
+          },
+          "latitude": 41.71,
+          "longitude": 22.79278
+        }
+      ]
+    },
+    {
+      "code": "MK-501",
+      "name": {
+        "en": "Bitola"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bistrica"
+          },
+          "latitude": 40.97892,
+          "longitude": 21.3658
+        },
+        {
+          "name": {
+            "en": "Bitola"
+          },
+          "latitude": 41.03143,
+          "longitude": 21.33474
+        },
+        {
+          "name": {
+            "en": "Capari"
+          },
+          "latitude": 41.05656,
+          "longitude": 21.17884
+        },
+        {
+          "name": {
+            "en": "Dolno Orizari"
+          },
+          "latitude": 41.05028,
+          "longitude": 21.37944
+        },
+        {
+          "name": {
+            "en": "Kukurečani"
+          },
+          "latitude": 41.09562,
+          "longitude": 21.32454
+        },
+        {
+          "name": {
+            "en": "Logovardi"
+          },
+          "latitude": 41.03096,
+          "longitude": 21.40967
+        }
+      ]
+    },
+    {
+      "code": "MK-401",
+      "name": {
+        "en": "Bogdanci"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bogdanci"
+          },
+          "latitude": 41.20306,
+          "longitude": 22.57556
+        },
+        {
+          "name": {
+            "en": "Stojakovo"
+          },
+          "latitude": 41.15556,
+          "longitude": 22.5775
+        }
+      ]
+    },
+    {
+      "code": "MK-601",
+      "name": {
+        "en": "Bogovinje"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bogovinje"
+          },
+          "latitude": 41.92361,
+          "longitude": 20.91361
+        },
+        {
+          "name": {
+            "en": "Dolno Palčište"
+          },
+          "latitude": 41.96859,
+          "longitude": 20.92899
+        },
+        {
+          "name": {
+            "en": "Kamenjane"
+          },
+          "latitude": 41.94568,
+          "longitude": 20.92894
+        }
+      ]
+    },
+    {
+      "code": "MK-402",
+      "name": {
+        "en": "Bosilovo"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bosilovo"
+          },
+          "latitude": 41.44056,
+          "longitude": 22.72778
+        },
+        {
+          "name": {
+            "en": "Ilovica"
+          },
+          "latitude": 41.47224,
+          "longitude": 22.8048
+        },
+        {
+          "name": {
+            "en": "Sekirnik"
+          },
+          "latitude": 41.43999,
+          "longitude": 22.79536
+        }
+      ]
+    },
+    {
+      "code": "MK-602",
+      "name": {
+        "en": "Brvenica"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Brvenica"
+          },
+          "latitude": 41.96722,
+          "longitude": 20.98083
+        },
+        {
+          "name": {
+            "en": "Čelopek"
+          },
+          "latitude": 41.93167,
+          "longitude": 21.01333
+        },
+        {
+          "name": {
+            "en": "Gurgurnica"
+          },
+          "latitude": 41.84508,
+          "longitude": 21.10538
+        },
+        {
+          "name": {
+            "en": "Miletino"
+          },
+          "latitude": 41.90753,
+          "longitude": 21.01601
+        }
+      ]
+    },
+    {
+      "code": "MK-803",
+      "name": {
+        "en": "Butel"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Butel"
+          },
+          "latitude": 42.03083,
+          "longitude": 21.44667
+        },
+        {
+          "name": {
+            "en": "Radishani"
+          },
+          "latitude": 42.06111,
+          "longitude": 21.44778
+        }
+      ]
+    },
+    {
+      "code": "MK-815",
+      "name": {
+        "en": "Čair"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Čair"
+          },
+          "latitude": 42.01528,
+          "longitude": 21.44111
+        }
+      ]
+    },
+    {
+      "code": "MK-109",
+      "name": {
+        "en": "Čaška"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bogomila"
+          },
+          "latitude": 41.59306,
+          "longitude": 21.47167
+        },
+        {
+          "name": {
+            "en": "Čaška"
+          },
+          "latitude": 41.65056,
+          "longitude": 21.66222
+        }
+      ]
+    },
+    {
+      "code": "MK-313",
+      "name": {
+        "en": "Centar Župa"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Centar Župa"
+          },
+          "latitude": 41.47849,
+          "longitude": 20.55945
+        }
+      ]
+    },
+    {
+      "code": "MK-210",
+      "name": {
+        "en": "Češinovo-Obleševo"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Češinovo"
+          },
+          "latitude": 41.87148,
+          "longitude": 22.28961
+        },
+        {
+          "name": {
+            "en": "Oblesevo"
+          },
+          "latitude": 41.88333,
+          "longitude": 22.33389
+        }
+      ]
+    },
+    {
+      "code": "MK-816",
+      "name": {
+        "en": "Čučer-Sandevo"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Чучер - Сандево"
+          },
+          "latitude": 42.10361,
+          "longitude": 21.38222
+        }
+      ]
+    },
+    {
+      "code": "MK-304",
+      "name": {
+        "en": "Debarca"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Belčišta"
+          },
+          "latitude": 41.30278,
+          "longitude": 20.83028
+        },
+        {
+          "name": {
+            "en": "Mešeišta"
+          },
+          "latitude": 41.23814,
+          "longitude": 20.77414
+        }
+      ]
+    },
+    {
+      "code": "MK-203",
+      "name": {
+        "en": "Delčevo"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Delcevo"
+          },
+          "latitude": 41.96722,
+          "longitude": 22.76944
+        }
+      ]
+    },
+    {
+      "code": "MK-502",
+      "name": {
+        "en": "Demir Hisar"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Demir Hisar"
+          },
+          "latitude": 41.22097,
+          "longitude": 21.20302
+        },
+        {
+          "name": {
+            "en": "Slepče"
+          },
+          "latitude": 41.23333,
+          "longitude": 21.175
+        },
+        {
+          "name": {
+            "en": "Sopotnica"
+          },
+          "latitude": 41.29594,
+          "longitude": 21.15357
+        }
+      ]
+    },
+    {
+      "code": "MK-103",
+      "name": {
+        "en": "Demir Kapija"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Demir Kapija"
+          },
+          "latitude": 41.40613,
+          "longitude": 22.24631
+        }
+      ]
+    },
+    {
+      "code": "MK-406",
+      "name": {
+        "en": "Dojran"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Star Dojran"
+          },
+          "latitude": 41.18647,
+          "longitude": 22.7203
+        }
+      ]
+    },
+    {
+      "code": "MK-503",
+      "name": {
+        "en": "Dolneni"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Crnilište"
+          },
+          "latitude": 41.53025,
+          "longitude": 21.41416
+        },
+        {
+          "name": {
+            "en": "Desovo"
+          },
+          "latitude": 41.46278,
+          "longitude": 21.49111
+        },
+        {
+          "name": {
+            "en": "Dolneni"
+          },
+          "latitude": 41.42579,
+          "longitude": 21.45402
+        },
+        {
+          "name": {
+            "en": "Lažani"
+          },
+          "latitude": 41.44222,
+          "longitude": 21.31583
+        },
+        {
+          "name": {
+            "en": "Žitoše"
+          },
+          "latitude": 41.41991,
+          "longitude": 21.29078
+        }
+      ]
+    },
+    {
+      "code": "MK-804",
+      "name": {
+        "en": "Gazi Baba"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Cresevo"
+          },
+          "latitude": 42.05083,
+          "longitude": 21.50972
+        }
+      ]
+    },
+    {
+      "code": "MK-405",
+      "name": {
+        "en": "Gevgelija"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Gevgelija",
+            "ar": "غيفغليا"
+          },
+          "latitude": 41.14166,
+          "longitude": 22.50141
+        },
+        {
+          "name": {
+            "en": "Miravci"
+          },
+          "latitude": 41.30925,
+          "longitude": 22.43641
+        }
+      ]
+    },
+    {
+      "code": "MK-805",
+      "name": {
+        "en": "Gjorče Petrov"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Gjorče Petro"
+          },
+          "latitude": 42.00778,
+          "longitude": 21.35306
+        }
+      ]
+    },
+    {
+      "code": "MK-604",
+      "name": {
+        "en": "Gostivar"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Cegrane"
+          },
+          "latitude": 41.83889,
+          "longitude": 20.97583
+        },
+        {
+          "name": {
+            "en": "Dolna Banjica"
+          },
+          "latitude": 41.78611,
+          "longitude": 20.90611
+        },
+        {
+          "name": {
+            "en": "Forino"
+          },
+          "latitude": 41.82334,
+          "longitude": 20.96174
+        },
+        {
+          "name": {
+            "en": "Gostivar",
+            "ar": "غوستيفار"
+          },
+          "latitude": 41.79601,
+          "longitude": 20.90819
+        },
+        {
+          "name": {
+            "en": "Srbinovo"
+          },
+          "latitude": 41.70586,
+          "longitude": 20.95859
+        },
+        {
+          "name": {
+            "en": "Vrutok"
+          },
+          "latitude": 41.76861,
+          "longitude": 20.83917
+        }
+      ]
+    },
+    {
+      "code": "MK-102",
+      "name": {
+        "en": "Gradsko"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Gradsko"
+          },
+          "latitude": 41.5775,
+          "longitude": 21.94278
+        }
+      ]
+    },
+    {
+      "code": "MK-807",
+      "name": {
+        "en": "Ilinden"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ilinden"
+          },
+          "latitude": 41.99451,
+          "longitude": 21.58002
+        },
+        {
+          "name": {
+            "en": "Kadino"
+          },
+          "latitude": 41.96889,
+          "longitude": 21.60139
+        },
+        {
+          "name": {
+            "en": "Marino"
+          },
+          "latitude": 41.98776,
+          "longitude": 21.59148
+        },
+        {
+          "name": {
+            "en": "Miladinovci"
+          },
+          "latitude": 41.98029,
+          "longitude": 21.64982
+        },
+        {
+          "name": {
+            "en": "Идризово"
+          },
+          "latitude": 41.96083,
+          "longitude": 21.57556
+        },
+        {
+          "name": {
+            "en": "Јурумлери"
+          },
+          "latitude": 41.96722,
+          "longitude": 21.55694
+        }
+      ]
+    },
+    {
+      "code": "MK-606",
+      "name": {
+        "en": "Jegunovce"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Jegunovce"
+          },
+          "latitude": 42.07238,
+          "longitude": 21.12367
+        },
+        {
+          "name": {
+            "en": "Vratnica"
+          },
+          "latitude": 42.14333,
+          "longitude": 21.11694
+        }
+      ]
+    },
+    {
+      "code": "MK-205",
+      "name": {
+        "en": "Karbinci"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Karbinci"
+          },
+          "latitude": 41.81758,
+          "longitude": 22.23529
+        }
+      ]
+    },
+    {
+      "code": "MK-808",
+      "name": {
+        "en": "Karpoš"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Skopje",
+            "ar": "سكوبيه"
+          },
+          "latitude": 41.99646,
+          "longitude": 21.43141
+        }
+      ]
+    },
+    {
+      "code": "MK-104",
+      "name": {
+        "en": "Kavadarci"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Kavadarci"
+          },
+          "latitude": 41.43306,
+          "longitude": 22.01194
+        },
+        {
+          "name": {
+            "en": "Vataša"
+          },
+          "latitude": 41.41694,
+          "longitude": 22.01889
+        }
+      ]
+    },
+    {
+      "code": "MK-307",
+      "name": {
+        "en": "Kičevo"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Drugovo"
+          },
+          "latitude": 41.4849,
+          "longitude": 20.92636
+        },
+        {
+          "name": {
+            "en": "Kičevo",
+            "ar": "كيتشيفو"
+          },
+          "latitude": 41.51267,
+          "longitude": 20.95886
+        },
+        {
+          "name": {
+            "en": "Srbica"
+          },
+          "latitude": 41.58672,
+          "longitude": 21.03027
+        },
+        {
+          "name": {
+            "en": "Strelci"
+          },
+          "latitude": 41.54046,
+          "longitude": 21.00563
+        },
+        {
+          "name": {
+            "en": "Tuin"
+          },
+          "latitude": 41.61944,
+          "longitude": 21.04528
+        },
+        {
+          "name": {
+            "en": "Vraneštica"
+          },
+          "latitude": 41.44496,
+          "longitude": 21.02683
+        },
+        {
+          "name": {
+            "en": "Zajas"
+          },
+          "latitude": 41.60722,
+          "longitude": 20.93833
+        }
+      ]
+    },
+    {
+      "code": "MK-809",
+      "name": {
+        "en": "Kisela Voda"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Dračevo"
+          },
+          "latitude": 41.93667,
+          "longitude": 21.52167
+        },
+        {
+          "name": {
+            "en": "Kisela Voda"
+          },
+          "latitude": 41.94889,
+          "longitude": 21.50278
+        }
+      ]
+    },
+    {
+      "code": "MK-206",
+      "name": {
+        "en": "Kočani"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Kochani"
+          },
+          "latitude": 41.91639,
+          "longitude": 22.41278
+        },
+        {
+          "name": {
+            "en": "Orizari"
+          },
+          "latitude": 41.92262,
+          "longitude": 22.44628
+        }
+      ]
+    },
+    {
+      "code": "MK-407",
+      "name": {
+        "en": "Konče"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Konče"
+          },
+          "latitude": 41.49511,
+          "longitude": 22.38359
+        }
+      ]
+    },
+    {
+      "code": "MK-701",
+      "name": {
+        "en": "Kratovo"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Kratovo"
+          },
+          "latitude": 42.07838,
+          "longitude": 22.1807
+        }
+      ]
+    },
+    {
+      "code": "MK-702",
+      "name": {
+        "en": "Kriva Palanka"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Kriva Palanka"
+          },
+          "latitude": 42.20088,
+          "longitude": 22.33244
+        }
+      ]
+    },
+    {
+      "code": "MK-504",
+      "name": {
+        "en": "Krivogaštani"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Krivogashtani"
+          },
+          "latitude": 41.33611,
+          "longitude": 21.33306
+        },
+        {
+          "name": {
+            "en": "Obršani"
+          },
+          "latitude": 41.28168,
+          "longitude": 21.3615
+        },
+        {
+          "name": {
+            "en": "Клечовце"
+          },
+          "latitude": 42.11611,
+          "longitude": 21.85722
+        }
+      ]
+    },
+    {
+      "code": "MK-505",
+      "name": {
+        "en": "Kruševo"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bučin"
+          },
+          "latitude": 41.27377,
+          "longitude": 21.31692
+        },
+        {
+          "name": {
+            "en": "Krusevo"
+          },
+          "latitude": 41.36889,
+          "longitude": 21.24889
+        }
+      ]
+    },
+    {
+      "code": "MK-703",
+      "name": {
+        "en": "Kumanovo"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bedinje"
+          },
+          "latitude": 42.14167,
+          "longitude": 21.69639
+        },
+        {
+          "name": {
+            "en": "Kumanovo"
+          },
+          "latitude": 42.13222,
+          "longitude": 21.71444
+        },
+        {
+          "name": {
+            "en": "Romanovci"
+          },
+          "latitude": 42.09472,
+          "longitude": 21.69306
+        }
+      ]
+    },
+    {
+      "code": "MK-704",
+      "name": {
+        "en": "Lipkovo"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Izvor"
+          },
+          "latitude": 42.20322,
+          "longitude": 21.57812
+        },
+        {
+          "name": {
+            "en": "Lipkovo"
+          },
+          "latitude": 42.15639,
+          "longitude": 21.58528
+        },
+        {
+          "name": {
+            "en": "Lojane"
+          },
+          "latitude": 42.23276,
+          "longitude": 21.6655
+        },
+        {
+          "name": {
+            "en": "Matejce"
+          },
+          "latitude": 42.12556,
+          "longitude": 21.59778
+        },
+        {
+          "name": {
+            "en": "Otlja"
+          },
+          "latitude": 42.14315,
+          "longitude": 21.58675
+        },
+        {
+          "name": {
+            "en": "Vaksince"
+          },
+          "latitude": 42.20611,
+          "longitude": 21.66306
+        },
+        {
+          "name": {
+            "en": "Слупчане"
+          },
+          "latitude": 42.17333,
+          "longitude": 21.62778
+        }
+      ]
+    },
+    {
+      "code": "MK-105",
+      "name": {
+        "en": "Lozovo"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Lozovo"
+          },
+          "latitude": 41.78389,
+          "longitude": 21.90556
+        }
+      ]
+    },
+    {
+      "code": "MK-207",
+      "name": {
+        "en": "Makedonska Kamenica"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Makedonska Kamenica"
+          },
+          "latitude": 42.02079,
+          "longitude": 22.5876
+        }
+      ]
+    },
+    {
+      "code": "MK-308",
+      "name": {
+        "en": "Makedonski Brod"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Makedonski Brod"
+          },
+          "latitude": 41.51361,
+          "longitude": 21.21528
+        },
+        {
+          "name": {
+            "en": "Samokov"
+          },
+          "latitude": 41.68331,
+          "longitude": 21.14625
+        }
+      ]
+    },
+    {
+      "code": "MK-607",
+      "name": {
+        "en": "Mavrovo and Rostuša"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Rostusa"
+          },
+          "latitude": 41.61,
+          "longitude": 20.6
+        }
+      ]
+    },
+    {
+      "code": "MK-506",
+      "name": {
+        "en": "Mogila"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Beranci"
+          },
+          "latitude": 41.15969,
+          "longitude": 21.35963
+        },
+        {
+          "name": {
+            "en": "Dobruševo"
+          },
+          "latitude": 41.16861,
+          "longitude": 21.4825
+        },
+        {
+          "name": {
+            "en": "Dolno Srpci"
+          },
+          "latitude": 41.1748,
+          "longitude": 21.36464
+        },
+        {
+          "name": {
+            "en": "Mogila"
+          },
+          "latitude": 41.10833,
+          "longitude": 21.37861
+        }
+      ]
+    },
+    {
+      "code": "MK-106",
+      "name": {
+        "en": "Negotino"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Negotino"
+          },
+          "latitude": 41.48456,
+          "longitude": 22.09056
+        }
+      ]
+    },
+    {
+      "code": "MK-507",
+      "name": {
+        "en": "Novaci"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Novaci"
+          },
+          "latitude": 41.04197,
+          "longitude": 21.45866
+        }
+      ]
+    },
+    {
+      "code": "MK-408",
+      "name": {
+        "en": "Novo Selo"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Novo Selo"
+          },
+          "latitude": 41.41486,
+          "longitude": 22.88164
+        },
+        {
+          "name": {
+            "en": "Sušica"
+          },
+          "latitude": 41.43982,
+          "longitude": 22.83676
+        }
+      ]
+    },
+    {
+      "code": "MK-310",
+      "name": {
+        "en": "Ohrid"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Kosel"
+          },
+          "latitude": 41.17444,
+          "longitude": 20.83556
+        },
+        {
+          "name": {
+            "en": "Ohrid",
+            "ar": "أوخريد"
+          },
+          "latitude": 41.11722,
+          "longitude": 20.80194
+        },
+        {
+          "name": {
+            "en": "Ohrid Opština"
+          },
+          "latitude": 41.16667,
+          "longitude": 20.83333
+        }
+      ]
+    },
+    {
+      "code": "MK-208",
+      "name": {
+        "en": "Pehčevo"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Pehčevo"
+          },
+          "latitude": 41.76226,
+          "longitude": 22.88921
+        }
+      ]
+    },
+    {
+      "code": "MK-810",
+      "name": {
+        "en": "Petrovec"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Sredno Konjare"
+          },
+          "latitude": 41.95743,
+          "longitude": 21.71494
+        },
+        {
+          "name": {
+            "en": "Петровец"
+          },
+          "latitude": 41.93889,
+          "longitude": 21.615
+        }
+      ]
+    },
+    {
+      "code": "MK-311",
+      "name": {
+        "en": "Plasnica"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Lisičani"
+          },
+          "latitude": 41.46139,
+          "longitude": 21.05444
+        },
+        {
+          "name": {
+            "en": "Plasnica"
+          },
+          "latitude": 41.46722,
+          "longitude": 21.12306
+        }
+      ]
+    },
+    {
+      "code": "MK-508",
+      "name": {
+        "en": "Prilep"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Kanatlarci"
+          },
+          "latitude": 41.21028,
+          "longitude": 21.50333
+        },
+        {
+          "name": {
+            "en": "Markov Grad"
+          },
+          "latitude": 41.35722,
+          "longitude": 21.5325
+        },
+        {
+          "name": {
+            "en": "Prilep"
+          },
+          "latitude": 41.34514,
+          "longitude": 21.55504
+        },
+        {
+          "name": {
+            "en": "Topolčani"
+          },
+          "latitude": 41.22772,
+          "longitude": 21.43113
+        }
+      ]
+    },
+    {
+      "code": "MK-209",
+      "name": {
+        "en": "Probištip"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Probishtip"
+          },
+          "latitude": 42.00306,
+          "longitude": 22.17861
+        },
+        {
+          "name": {
+            "en": "Zletovo"
+          },
+          "latitude": 41.98861,
+          "longitude": 22.23611
+        }
+      ]
+    },
+    {
+      "code": "MK-409",
+      "name": {
+        "en": "Radoviš"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Oraovica"
+          },
+          "latitude": 41.62583,
+          "longitude": 22.51333
+        },
+        {
+          "name": {
+            "en": "Podareš"
+          },
+          "latitude": 41.61389,
+          "longitude": 22.54222
+        },
+        {
+          "name": {
+            "en": "Radovis"
+          },
+          "latitude": 41.63833,
+          "longitude": 22.46472
+        }
+      ]
+    },
+    {
+      "code": "MK-705",
+      "name": {
+        "en": "Rankovce"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ранковце"
+          },
+          "latitude": 42.16964,
+          "longitude": 22.11617
+        }
+      ]
+    },
+    {
+      "code": "MK-509",
+      "name": {
+        "en": "Resen"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Grnčari"
+          },
+          "latitude": 41.01722,
+          "longitude": 21.05333
+        },
+        {
+          "name": {
+            "en": "Jankovec"
+          },
+          "latitude": 41.11028,
+          "longitude": 21.01139
+        },
+        {
+          "name": {
+            "en": "Krani"
+          },
+          "latitude": 40.93934,
+          "longitude": 21.10911
+        },
+        {
+          "name": {
+            "en": "Resen"
+          },
+          "latitude": 41.08934,
+          "longitude": 21.01092
+        }
+      ]
+    },
+    {
+      "code": "MK-107",
+      "name": {
+        "en": "Rosoman"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Rosoman"
+          },
+          "latitude": 41.51671,
+          "longitude": 21.94585
+        }
+      ]
+    },
+    {
+      "code": "MK-811",
+      "name": {
+        "en": "Saraj"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bojane"
+          },
+          "latitude": 42.00009,
+          "longitude": 21.19265
+        },
+        {
+          "name": {
+            "en": "Bukovik"
+          },
+          "latitude": 41.96833,
+          "longitude": 21.23694
+        },
+        {
+          "name": {
+            "en": "Grčec"
+          },
+          "latitude": 41.98806,
+          "longitude": 21.33028
+        },
+        {
+          "name": {
+            "en": "Kondovo"
+          },
+          "latitude": 42.01167,
+          "longitude": 21.31361
+        },
+        {
+          "name": {
+            "en": "Krušopek"
+          },
+          "latitude": 41.97833,
+          "longitude": 21.35444
+        },
+        {
+          "name": {
+            "en": "Ljubin"
+          },
+          "latitude": 42.00139,
+          "longitude": 21.30917
+        },
+        {
+          "name": {
+            "en": "Saraj"
+          },
+          "latitude": 42,
+          "longitude": 21.32778
+        }
+      ]
+    },
+    {
+      "code": "MK-812",
+      "name": {
+        "en": "Sopište"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Сопиште"
+          },
+          "latitude": 41.95472,
+          "longitude": 21.4275
+        }
+      ]
+    },
+    {
+      "code": "MK-706",
+      "name": {
+        "en": "Staro Nagoričane"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Старо Нагоричане"
+          },
+          "latitude": 42.19806,
+          "longitude": 21.82861
+        }
+      ]
+    },
+    {
+      "code": "MK-211",
+      "name": {
+        "en": "Štip"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Shtip"
+          },
+          "latitude": 41.74583,
+          "longitude": 22.19583
+        }
+      ]
+    },
+    {
+      "code": "MK-312",
+      "name": {
+        "en": "Struga"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Delogožda"
+          },
+          "latitude": 41.25728,
+          "longitude": 20.7218
+        },
+        {
+          "name": {
+            "en": "Labunista"
+          },
+          "latitude": 41.26861,
+          "longitude": 20.59611
+        },
+        {
+          "name": {
+            "en": "Lukovo"
+          },
+          "latitude": 41.35339,
+          "longitude": 20.60637
+        },
+        {
+          "name": {
+            "en": "Mislesevo"
+          },
+          "latitude": 41.185,
+          "longitude": 20.70861
+        },
+        {
+          "name": {
+            "en": "Oktisi"
+          },
+          "latitude": 41.2325,
+          "longitude": 20.60722
+        },
+        {
+          "name": {
+            "en": "Radolista"
+          },
+          "latitude": 41.16417,
+          "longitude": 20.62333
+        },
+        {
+          "name": {
+            "en": "Struga",
+            "ar": "ستروغا"
+          },
+          "latitude": 41.17799,
+          "longitude": 20.67784
+        },
+        {
+          "name": {
+            "en": "Velesta"
+          },
+          "latitude": 41.24083,
+          "longitude": 20.64389
+        }
+      ]
+    },
+    {
+      "code": "MK-410",
+      "name": {
+        "en": "Strumica"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Kuklis"
+          },
+          "latitude": 41.40528,
+          "longitude": 22.66528
+        },
+        {
+          "name": {
+            "en": "Murtino"
+          },
+          "latitude": 41.41537,
+          "longitude": 22.72589
+        },
+        {
+          "name": {
+            "en": "Strumica"
+          },
+          "latitude": 41.4375,
+          "longitude": 22.64333
+        },
+        {
+          "name": {
+            "en": "Veljusa"
+          },
+          "latitude": 41.47611,
+          "longitude": 22.5675
+        }
+      ]
+    },
+    {
+      "code": "MK-813",
+      "name": {
+        "en": "Studeničani"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Batinci"
+          },
+          "latitude": 41.91909,
+          "longitude": 21.47978
+        },
+        {
+          "name": {
+            "en": "Dolno Količani"
+          },
+          "latitude": 41.88639,
+          "longitude": 21.48556
+        },
+        {
+          "name": {
+            "en": "Morani"
+          },
+          "latitude": 41.90978,
+          "longitude": 21.54997
+        },
+        {
+          "name": {
+            "en": "Studeničane"
+          },
+          "latitude": 41.92208,
+          "longitude": 21.53483
+        }
+      ]
+    },
+    {
+      "code": "MK-817",
+      "name": {
+        "en": "Šuto Orizari"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Šuto Orizare"
+          },
+          "latitude": 42.04,
+          "longitude": 21.425
+        }
+      ]
+    },
+    {
+      "code": "MK-108",
+      "name": {
+        "en": "Sveti Nikole"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Gorobinci"
+          },
+          "latitude": 41.87507,
+          "longitude": 21.87599
+        },
+        {
+          "name": {
+            "en": "Sveti Nikole"
+          },
+          "latitude": 41.86956,
+          "longitude": 21.95274
+        }
+      ]
+    },
+    {
+      "code": "MK-608",
+      "name": {
+        "en": "Tearce"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Nerašte"
+          },
+          "latitude": 42.10711,
+          "longitude": 21.1081
+        },
+        {
+          "name": {
+            "en": "Orashac"
+          },
+          "latitude": 42.0625,
+          "longitude": 21.79972
+        },
+        {
+          "name": {
+            "en": "Pršovce"
+          },
+          "latitude": 42.08336,
+          "longitude": 21.05994
+        },
+        {
+          "name": {
+            "en": "Slatino"
+          },
+          "latitude": 42.06784,
+          "longitude": 21.03902
+        },
+        {
+          "name": {
+            "en": "Tearce"
+          },
+          "latitude": 42.07666,
+          "longitude": 21.0531
+        }
+      ]
+    },
+    {
+      "code": "MK-609",
+      "name": {
+        "en": "Tetovo"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Dobrošte"
+          },
+          "latitude": 42.10333,
+          "longitude": 21.07778
+        },
+        {
+          "name": {
+            "en": "Džepčište"
+          },
+          "latitude": 42.03287,
+          "longitude": 20.99817
+        },
+        {
+          "name": {
+            "en": "Golema Rečica"
+          },
+          "latitude": 41.98803,
+          "longitude": 20.94517
+        },
+        {
+          "name": {
+            "en": "Pirok"
+          },
+          "latitude": 41.91083,
+          "longitude": 20.91056
+        },
+        {
+          "name": {
+            "en": "Poroj"
+          },
+          "latitude": 42.02913,
+          "longitude": 20.99266
+        },
+        {
+          "name": {
+            "en": "Selce"
+          },
+          "latitude": 42.03482,
+          "longitude": 20.94035
+        },
+        {
+          "name": {
+            "en": "Šipkovica"
+          },
+          "latitude": 42.035,
+          "longitude": 20.91556
+        },
+        {
+          "name": {
+            "en": "Tetovo",
+            "ar": "تيتوفو"
+          },
+          "latitude": 42.00973,
+          "longitude": 20.97155
+        }
+      ]
+    },
+    {
+      "code": "MK-403",
+      "name": {
+        "en": "Valandovo"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Pirava"
+          },
+          "latitude": 41.32042,
+          "longitude": 22.53047
+        },
+        {
+          "name": {
+            "en": "Valandovo"
+          },
+          "latitude": 41.31744,
+          "longitude": 22.56002
+        }
+      ]
+    },
+    {
+      "code": "MK-404",
+      "name": {
+        "en": "Vasilevo"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Vasilevo"
+          },
+          "latitude": 41.47408,
+          "longitude": 22.64301
+        }
+      ]
+    },
+    {
+      "code": "MK-101",
+      "name": {
+        "en": "Veles"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Gorno Orizari"
+          },
+          "latitude": 41.68583,
+          "longitude": 21.73475
+        },
+        {
+          "name": {
+            "en": "Ivankovci"
+          },
+          "latitude": 41.84889,
+          "longitude": 21.82028
+        },
+        {
+          "name": {
+            "en": "Veles"
+          },
+          "latitude": 41.71556,
+          "longitude": 21.77556
+        }
+      ]
+    },
+    {
+      "code": "MK-301",
+      "name": {
+        "en": "Vevčani"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Vevčani"
+          },
+          "latitude": 41.24056,
+          "longitude": 20.59333
+        }
+      ]
+    },
+    {
+      "code": "MK-202",
+      "name": {
+        "en": "Vinica"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Blatec"
+          },
+          "latitude": 41.83668,
+          "longitude": 22.57909
+        },
+        {
+          "name": {
+            "en": "Gradec"
+          },
+          "latitude": 41.85068,
+          "longitude": 22.51132
+        },
+        {
+          "name": {
+            "en": "Vinica"
+          },
+          "latitude": 41.88278,
+          "longitude": 22.50917
+        }
+      ]
+    },
+    {
+      "code": "MK-603",
+      "name": {
+        "en": "Vrapčište"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Dobri Dol"
+          },
+          "latitude": 41.8652,
+          "longitude": 20.89009
+        },
+        {
+          "name": {
+            "en": "Vrapčište"
+          },
+          "latitude": 41.83439,
+          "longitude": 20.88563
+        }
+      ]
+    },
+    {
+      "code": "MK-806",
+      "name": {
+        "en": "Zelenikovo"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Zelenikovo"
+          },
+          "latitude": 41.88413,
+          "longitude": 21.58848
+        }
+      ]
+    },
+    {
+      "code": "MK-605",
+      "name": {
+        "en": "Želino"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Dobarce"
+          },
+          "latitude": 41.9553,
+          "longitude": 21.08875
+        },
+        {
+          "name": {
+            "en": "Larce"
+          },
+          "latitude": 41.93319,
+          "longitude": 21.12628
+        },
+        {
+          "name": {
+            "en": "Sedlarevo"
+          },
+          "latitude": 41.88306,
+          "longitude": 21.1275
+        },
+        {
+          "name": {
+            "en": "Strimnica"
+          },
+          "latitude": 41.96719,
+          "longitude": 21.03598
+        },
+        {
+          "name": {
+            "en": "Zelino"
+          },
+          "latitude": 41.98028,
+          "longitude": 21.06417
+        }
+      ]
+    },
+    {
+      "code": "MK-204",
+      "name": {
+        "en": "Zrnovci"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Zrnovci"
+          },
+          "latitude": 41.85417,
+          "longitude": 22.44444
+        }
+      ]
+    }
+  ]
+}

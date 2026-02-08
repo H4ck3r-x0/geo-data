@@ -1,0 +1,276 @@
+{
+  "code": "LR",
+  "iso3": "LBR",
+  "name": {
+    "en": "Liberia",
+    "ar": "ليبيريا",
+    "de": "Liberia",
+    "es": "Liberia",
+    "fr": "Liberia",
+    "hi": "लाइबेरिया",
+    "it": "Liberia",
+    "ja": "リベリア",
+    "ko": "라이베리아",
+    "nl": "Liberia",
+    "pl": "Liberia",
+    "pt": "Libéria",
+    "pt-BR": "Libéria",
+    "ru": "Либерия",
+    "tr": "Liberya",
+    "uk": "Ліберія",
+    "zh": "利比里亚"
+  },
+  "phone": "+231",
+  "currency": "LRD",
+  "timezone": "Africa/Monrovia",
+  "flag": "🇱🇷",
+  "regions": [
+    {
+      "code": "LR-BM",
+      "name": {
+        "en": "Bomi"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Tubmanburg"
+          },
+          "latitude": 6.87064,
+          "longitude": -10.8211
+        }
+      ]
+    },
+    {
+      "code": "LR-BG",
+      "name": {
+        "en": "Bong"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Gbarnga"
+          },
+          "latitude": 6.99543,
+          "longitude": -9.47122
+        }
+      ]
+    },
+    {
+      "code": "LR-GP",
+      "name": {
+        "en": "Gbarpolu"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bopolu"
+          },
+          "latitude": 7.06667,
+          "longitude": -10.4875
+        }
+      ]
+    },
+    {
+      "code": "LR-GB",
+      "name": {
+        "en": "Grand Bassa"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Buchanan"
+          },
+          "latitude": 5.87693,
+          "longitude": -10.04964
+        }
+      ]
+    },
+    {
+      "code": "LR-CM",
+      "name": {
+        "en": "Grand Cape Mount"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Robertsport"
+          },
+          "latitude": 6.75329,
+          "longitude": -11.3671
+        }
+      ]
+    },
+    {
+      "code": "LR-GG",
+      "name": {
+        "en": "Grand Gedeh"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Zwedru"
+          },
+          "latitude": 6.06846,
+          "longitude": -8.13559
+        }
+      ]
+    },
+    {
+      "code": "LR-GK",
+      "name": {
+        "en": "Grand Kru"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Barclayville"
+          },
+          "latitude": 4.67443,
+          "longitude": -8.23306
+        }
+      ]
+    },
+    {
+      "code": "LR-LO",
+      "name": {
+        "en": "Lofa"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Voinjama"
+          },
+          "latitude": 8.42194,
+          "longitude": -9.74778
+        }
+      ]
+    },
+    {
+      "code": "LR-MG",
+      "name": {
+        "en": "Margibi"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Kakata"
+          },
+          "latitude": 6.53104,
+          "longitude": -10.35368
+        }
+      ]
+    },
+    {
+      "code": "LR-MY",
+      "name": {
+        "en": "Maryland"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Harper"
+          },
+          "latitude": 4.3782,
+          "longitude": -7.71081
+        }
+      ]
+    },
+    {
+      "code": "LR-MO",
+      "name": {
+        "en": "Montserrado"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bensonville"
+          },
+          "latitude": 6.44716,
+          "longitude": -10.61283
+        },
+        {
+          "name": {
+            "en": "Monrovia",
+            "ar": "مونروفيا"
+          },
+          "latitude": 6.30054,
+          "longitude": -10.7969
+        }
+      ]
+    },
+    {
+      "code": "LR-NI",
+      "name": {
+        "en": "Nimba"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ganta"
+          },
+          "latitude": 7.30222,
+          "longitude": -8.53083
+        },
+        {
+          "name": {
+            "en": "New Yekepa"
+          },
+          "latitude": 7.57944,
+          "longitude": -8.53778
+        },
+        {
+          "name": {
+            "en": "Sanniquellie"
+          },
+          "latitude": 7.36215,
+          "longitude": -8.71326
+        }
+      ]
+    },
+    {
+      "code": "LR-RI",
+      "name": {
+        "en": "River Cess"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Cestos City"
+          },
+          "latitude": 5.45683,
+          "longitude": -9.58167
+        }
+      ]
+    },
+    {
+      "code": "LR-RG",
+      "name": {
+        "en": "River Gee"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Fish Town"
+          },
+          "latitude": 5.19739,
+          "longitude": -7.87579
+        }
+      ]
+    },
+    {
+      "code": "LR-SI",
+      "name": {
+        "en": "Sinoe"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Greenville"
+          },
+          "latitude": 5.01133,
+          "longitude": -9.0388
+        }
+      ]
+    }
+  ]
+}

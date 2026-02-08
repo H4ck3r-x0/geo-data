@@ -1,0 +1,898 @@
+{
+  "code": "PG",
+  "iso3": "PNG",
+  "name": {
+    "en": "Papua New Guinea",
+    "ar": "بابوا غينيا الجديدة",
+    "de": "Papua-Neuguinea",
+    "es": "Papúa Nueva Guinea",
+    "fr": "Papouasie-Nouvelle-Guinée",
+    "hi": "पापुआ न्यू गिनी",
+    "it": "Papua Nuova Guinea",
+    "ja": "パプアニューギニア",
+    "ko": "파푸아뉴기니",
+    "nl": "Papoea-Nieuw-Guinea",
+    "pl": "Papua-Nowa Gwinea",
+    "pt": "Papua Nova Guiné",
+    "pt-BR": "Papua Nova Guiné",
+    "ru": "Папуа - Новая Гвинея",
+    "tr": "Papua Yeni Gine",
+    "uk": "Папуа-Нова Гвінея",
+    "zh": "巴布亚新几内亚"
+  },
+  "phone": "+675",
+  "currency": "PGK",
+  "timezone": "Pacific/Bougainville",
+  "flag": "🇵🇬",
+  "regions": [
+    {
+      "code": "PG-NSB",
+      "name": {
+        "en": "Bougainville"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Arawa"
+          },
+          "latitude": -6.22977,
+          "longitude": 155.56598
+        },
+        {
+          "name": {
+            "en": "Central Bougainville"
+          },
+          "latitude": -6.22806,
+          "longitude": 155.56583
+        },
+        {
+          "name": {
+            "en": "Kieta"
+          },
+          "latitude": -6.21462,
+          "longitude": 155.63251
+        },
+        {
+          "name": {
+            "en": "North Bougainville"
+          },
+          "latitude": -5.42194,
+          "longitude": 154.67278
+        },
+        {
+          "name": {
+            "en": "Panguna"
+          },
+          "latitude": -6.31639,
+          "longitude": 155.48483
+        },
+        {
+          "name": {
+            "en": "South Bougainville"
+          },
+          "latitude": -6.74593,
+          "longitude": 155.6964
+        }
+      ]
+    },
+    {
+      "code": "PG-CPM",
+      "name": {
+        "en": "Central"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Abau"
+          },
+          "latitude": -10.08333,
+          "longitude": 148.91667
+        },
+        {
+          "name": {
+            "en": "Goilala"
+          },
+          "latitude": -8.33333,
+          "longitude": 147
+        },
+        {
+          "name": {
+            "en": "Kairuku-Hiri"
+          },
+          "latitude": -9.13648,
+          "longitude": 147.27905
+        },
+        {
+          "name": {
+            "en": "Rigo"
+          },
+          "latitude": -9.75,
+          "longitude": 147.83333
+        }
+      ]
+    },
+    {
+      "code": "PG-CPK",
+      "name": {
+        "en": "Chimbu"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Chuave"
+          },
+          "latitude": -6.16667,
+          "longitude": 145.08333
+        },
+        {
+          "name": {
+            "en": "Gumine"
+          },
+          "latitude": -6.25,
+          "longitude": 144.88333
+        },
+        {
+          "name": {
+            "en": "Karimui Nomane"
+          },
+          "latitude": -6.58333,
+          "longitude": 144.83333
+        },
+        {
+          "name": {
+            "en": "Kerowagi"
+          },
+          "latitude": -5.93333,
+          "longitude": 144.88333
+        },
+        {
+          "name": {
+            "en": "Kundiawa"
+          },
+          "latitude": -5.91667,
+          "longitude": 145.05
+        },
+        {
+          "name": {
+            "en": "Sinasina Yonggamugl"
+          },
+          "latitude": -6.08333,
+          "longitude": 145.01667
+        }
+      ]
+    },
+    {
+      "code": "PG-EBR",
+      "name": {
+        "en": "East New Britain"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Gazelle"
+          },
+          "latitude": -4.48333,
+          "longitude": 151.86667
+        },
+        {
+          "name": {
+            "en": "Kokopo"
+          },
+          "latitude": -4.4,
+          "longitude": 152.28333
+        },
+        {
+          "name": {
+            "en": "Pomio"
+          },
+          "latitude": -5.5,
+          "longitude": 151.33333
+        },
+        {
+          "name": {
+            "en": "Rabaul"
+          },
+          "latitude": -4.18333,
+          "longitude": 152.16667
+        }
+      ]
+    },
+    {
+      "code": "PG-EHG",
+      "name": {
+        "en": "Eastern Highlands"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Daulo"
+          },
+          "latitude": -5.98333,
+          "longitude": 145.23333
+        },
+        {
+          "name": {
+            "en": "Goroka"
+          },
+          "latitude": -6.05,
+          "longitude": 145.38333
+        },
+        {
+          "name": {
+            "en": "Henganofi"
+          },
+          "latitude": -6.21667,
+          "longitude": 145.66667
+        },
+        {
+          "name": {
+            "en": "Kainantu"
+          },
+          "latitude": -6.41667,
+          "longitude": 145.91667
+        },
+        {
+          "name": {
+            "en": "Lufa"
+          },
+          "latitude": -6.45,
+          "longitude": 145.25
+        },
+        {
+          "name": {
+            "en": "Obura Wonenara"
+          },
+          "latitude": -6.55434,
+          "longitude": 145.97328
+        },
+        {
+          "name": {
+            "en": "Okapa"
+          },
+          "latitude": -6.63333,
+          "longitude": 145.5
+        },
+        {
+          "name": {
+            "en": "Unggai Bena"
+          },
+          "latitude": -6.11667,
+          "longitude": 145.51667
+        }
+      ]
+    },
+    {
+      "code": "PG-EPW",
+      "name": {
+        "en": "Enga"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Kandep"
+          },
+          "latitude": -5.83333,
+          "longitude": 143.55
+        },
+        {
+          "name": {
+            "en": "Kompiam Ambum"
+          },
+          "latitude": -5.25,
+          "longitude": 144
+        },
+        {
+          "name": {
+            "en": "Lagaip Porgera"
+          },
+          "latitude": -5.38333,
+          "longitude": 143.16667
+        },
+        {
+          "name": {
+            "en": "Porgera"
+          },
+          "latitude": -5.463,
+          "longitude": 143.148
+        },
+        {
+          "name": {
+            "en": "Wabag"
+          },
+          "latitude": -5.33333,
+          "longitude": 143.65
+        },
+        {
+          "name": {
+            "en": "Wapenamanda"
+          },
+          "latitude": -5.66667,
+          "longitude": 143.91667
+        }
+      ]
+    },
+    {
+      "code": "PG-GPK",
+      "name": {
+        "en": "Gulf"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Kerema"
+          },
+          "latitude": -7.796,
+          "longitude": 146.093
+        },
+        {
+          "name": {
+            "en": "Kikori"
+          },
+          "latitude": -7.25,
+          "longitude": 144.33333
+        }
+      ]
+    },
+    {
+      "code": "PG-HLA",
+      "name": {
+        "en": "Hela"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Komo Margarima"
+          },
+          "latitude": -6.11667,
+          "longitude": 143
+        },
+        {
+          "name": {
+            "en": "Koroba-Lake Kopiago"
+          },
+          "latitude": -5.41667,
+          "longitude": 142.5
+        },
+        {
+          "name": {
+            "en": "Tari"
+          },
+          "latitude": -5.845,
+          "longitude": 142.94667
+        },
+        {
+          "name": {
+            "en": "Tari Pori"
+          },
+          "latitude": -6.28333,
+          "longitude": 142.83333
+        }
+      ]
+    },
+    {
+      "code": "PG-JWK",
+      "name": {
+        "en": "Jiwaka"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Angalimp South Wahgi"
+          },
+          "latitude": -6.05,
+          "longitude": 144.56667
+        },
+        {
+          "name": {
+            "en": "Jimi"
+          },
+          "latitude": -5.53333,
+          "longitude": 144.56667
+        },
+        {
+          "name": {
+            "en": "North Wahgi"
+          },
+          "latitude": -5.8,
+          "longitude": 144.68333
+        }
+      ]
+    },
+    {
+      "code": "PG-MPM",
+      "name": {
+        "en": "Madang"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bogia"
+          },
+          "latitude": -4.5,
+          "longitude": 145
+        },
+        {
+          "name": {
+            "en": "Madang"
+          },
+          "latitude": -5.22152,
+          "longitude": 145.78695
+        },
+        {
+          "name": {
+            "en": "Middle Ramu"
+          },
+          "latitude": -4.91667,
+          "longitude": 144.75
+        },
+        {
+          "name": {
+            "en": "Rai Coast"
+          },
+          "latitude": -5.72303,
+          "longitude": 146.46149
+        },
+        {
+          "name": {
+            "en": "Sumkar"
+          },
+          "latitude": -4.8,
+          "longitude": 145.55
+        },
+        {
+          "name": {
+            "en": "Usino Bundi"
+          },
+          "latitude": -5.53333,
+          "longitude": 145.16667
+        }
+      ]
+    },
+    {
+      "code": "PG-MRL",
+      "name": {
+        "en": "Manus"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Lorengau"
+          },
+          "latitude": -2.0341,
+          "longitude": 147.27173
+        },
+        {
+          "name": {
+            "en": "Manus"
+          },
+          "latitude": -2.09626,
+          "longitude": 146.96612
+        }
+      ]
+    },
+    {
+      "code": "PG-MBA",
+      "name": {
+        "en": "Milne Bay"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Alotau"
+          },
+          "latitude": -10.25,
+          "longitude": 150.08333
+        },
+        {
+          "name": {
+            "en": "Esa’ala"
+          },
+          "latitude": -9.58333,
+          "longitude": 150.75
+        },
+        {
+          "name": {
+            "en": "Kiriwina Goodenough"
+          },
+          "latitude": -8.48333,
+          "longitude": 151.06667
+        },
+        {
+          "name": {
+            "en": "Samarai"
+          },
+          "latitude": -10.61038,
+          "longitude": 150.66207
+        },
+        {
+          "name": {
+            "en": "Samarai Murua"
+          },
+          "latitude": -10.49636,
+          "longitude": 150.54703
+        }
+      ]
+    },
+    {
+      "code": "PG-MPL",
+      "name": {
+        "en": "Morobe"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bulolo"
+          },
+          "latitude": -7.41667,
+          "longitude": 146.75
+        },
+        {
+          "name": {
+            "en": "Finschhafen"
+          },
+          "latitude": -6.41667,
+          "longitude": 147.5
+        },
+        {
+          "name": {
+            "en": "Huon Gulf"
+          },
+          "latitude": -7.18333,
+          "longitude": 146.95
+        },
+        {
+          "name": {
+            "en": "Kabwum"
+          },
+          "latitude": -6.08333,
+          "longitude": 147
+        },
+        {
+          "name": {
+            "en": "Lae"
+          },
+          "latitude": -6.5,
+          "longitude": 146.83333
+        },
+        {
+          "name": {
+            "en": "Markham"
+          },
+          "latitude": -6.64153,
+          "longitude": 146.86043
+        },
+        {
+          "name": {
+            "en": "Menyamya"
+          },
+          "latitude": -7.25,
+          "longitude": 146.16667
+        },
+        {
+          "name": {
+            "en": "Nawae"
+          },
+          "latitude": -6.46667,
+          "longitude": 146.96667
+        },
+        {
+          "name": {
+            "en": "Tewai Siassi"
+          },
+          "latitude": -6.15,
+          "longitude": 147.53333
+        },
+        {
+          "name": {
+            "en": "Wau"
+          },
+          "latitude": -7.33778,
+          "longitude": 146.71649
+        }
+      ]
+    },
+    {
+      "code": "PG-NIK",
+      "name": {
+        "en": "New Ireland"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Kavieng"
+          },
+          "latitude": -3,
+          "longitude": 151.41667
+        },
+        {
+          "name": {
+            "en": "Namatanai"
+          },
+          "latitude": -4.33333,
+          "longitude": 152.83333
+        }
+      ]
+    },
+    {
+      "code": "PG-NPP",
+      "name": {
+        "en": "Oro"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ijivitari"
+          },
+          "latitude": -9.33333,
+          "longitude": 148.58333
+        },
+        {
+          "name": {
+            "en": "Kokoda"
+          },
+          "latitude": -8.87778,
+          "longitude": 147.73642
+        },
+        {
+          "name": {
+            "en": "Popondetta"
+          },
+          "latitude": -8.76536,
+          "longitude": 148.23252
+        },
+        {
+          "name": {
+            "en": "Sohe"
+          },
+          "latitude": -9,
+          "longitude": 147.91667
+        }
+      ]
+    },
+    {
+      "code": "PG-NCD",
+      "name": {
+        "en": "Port Moresby"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "National Capital"
+          },
+          "latitude": -9.42257,
+          "longitude": 147.16641
+        },
+        {
+          "name": {
+            "en": "Port Moresby",
+            "ar": "بورت مورسبي"
+          },
+          "latitude": -9.47723,
+          "longitude": 147.15089
+        }
+      ]
+    },
+    {
+      "code": "PG-SAN",
+      "name": {
+        "en": "Sandaun"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Aitape"
+          },
+          "latitude": -3.13697,
+          "longitude": 142.34913
+        },
+        {
+          "name": {
+            "en": "Aitape Lumi"
+          },
+          "latitude": -3.25,
+          "longitude": 142.08333
+        },
+        {
+          "name": {
+            "en": "Nuku"
+          },
+          "latitude": -3.66667,
+          "longitude": 142.41667
+        },
+        {
+          "name": {
+            "en": "Telefomin"
+          },
+          "latitude": -4.91667,
+          "longitude": 141.66667
+        },
+        {
+          "name": {
+            "en": "Vanimo"
+          },
+          "latitude": -2.68372,
+          "longitude": 141.30195
+        },
+        {
+          "name": {
+            "en": "Vanimo Green"
+          },
+          "latitude": -3.36667,
+          "longitude": 141.35
+        }
+      ]
+    },
+    {
+      "code": "PG-SHM",
+      "name": {
+        "en": "Southern Highlands"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ialibu"
+          },
+          "latitude": -6.28208,
+          "longitude": 143.99354
+        },
+        {
+          "name": {
+            "en": "Ialibu Pangia"
+          },
+          "latitude": -6.3840188,
+          "longitude": 144.083819
+        },
+        {
+          "name": {
+            "en": "Kagua Erave"
+          },
+          "latitude": -6.66667,
+          "longitude": 144
+        },
+        {
+          "name": {
+            "en": "Mendi"
+          },
+          "latitude": -6.14755,
+          "longitude": 143.65633
+        },
+        {
+          "name": {
+            "en": "Nipa Kutubu"
+          },
+          "latitude": -6.33333,
+          "longitude": 143.33333
+        }
+      ]
+    },
+    {
+      "code": "PG-WBK",
+      "name": {
+        "en": "West New Britain"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Kandrian"
+          },
+          "latitude": -6.20655,
+          "longitude": 149.54744
+        },
+        {
+          "name": {
+            "en": "Kandrian Gloucester"
+          },
+          "latitude": -6.08333,
+          "longitude": 149.91667
+        },
+        {
+          "name": {
+            "en": "Kimbe"
+          },
+          "latitude": -5.55085,
+          "longitude": 150.13766
+        },
+        {
+          "name": {
+            "en": "Talasea"
+          },
+          "latitude": -5.66667,
+          "longitude": 149.58333
+        }
+      ]
+    },
+    {
+      "code": "PG-WPD",
+      "name": {
+        "en": "Western"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Daru"
+          },
+          "latitude": -9.07786,
+          "longitude": 143.20893
+        },
+        {
+          "name": {
+            "en": "Kiunga"
+          },
+          "latitude": -6.12193,
+          "longitude": 141.29061
+        },
+        {
+          "name": {
+            "en": "Middle Fly"
+          },
+          "latitude": -7.16667,
+          "longitude": 142.03333
+        },
+        {
+          "name": {
+            "en": "Morehead"
+          },
+          "latitude": -8.71065,
+          "longitude": 141.63668
+        },
+        {
+          "name": {
+            "en": "North Fly"
+          },
+          "latitude": -5.72896,
+          "longitude": 141.37482
+        },
+        {
+          "name": {
+            "en": "South Fly"
+          },
+          "latitude": -8.61667,
+          "longitude": 142.11667
+        }
+      ]
+    },
+    {
+      "code": "PG-WHM",
+      "name": {
+        "en": "Western Highlands"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Baiyer Mul"
+          },
+          "latitude": -5.53333,
+          "longitude": 144.15
+        },
+        {
+          "name": {
+            "en": "Dei"
+          },
+          "latitude": -5.68333,
+          "longitude": 144.36667
+        },
+        {
+          "name": {
+            "en": "Hagen"
+          },
+          "latitude": -5.83333,
+          "longitude": 144.28333
+        },
+        {
+          "name": {
+            "en": "Mount Hagen"
+          },
+          "latitude": -5.85746,
+          "longitude": 144.23058
+        },
+        {
+          "name": {
+            "en": "Tambul Nebilyer"
+          },
+          "latitude": -5.98333,
+          "longitude": 144.15
+        }
+      ]
+    }
+  ]
+}

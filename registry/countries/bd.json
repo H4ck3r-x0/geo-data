@@ -1,0 +1,989 @@
+{
+  "code": "BD",
+  "iso3": "BGD",
+  "name": {
+    "en": "Bangladesh",
+    "ar": "بنغلاديش",
+    "de": "Bangladesch",
+    "es": "Bangladesh",
+    "fr": "Bangladesh",
+    "hi": "बांग्लादेश",
+    "it": "Bangladesh",
+    "ja": "バングラデシュ",
+    "ko": "방글라데시",
+    "nl": "Bangladesh",
+    "pl": "Bangladesz",
+    "pt": "Bangladeche",
+    "pt-BR": "Bangladesh",
+    "ru": "Бангладеш",
+    "tr": "Bangladeş",
+    "uk": "Бангладеш",
+    "zh": "孟加拉"
+  },
+  "phone": "+880",
+  "currency": "BDT",
+  "timezone": "Asia/Dhaka",
+  "flag": "🇧🇩",
+  "regions": [
+    {
+      "code": "BD-05",
+      "name": {
+        "en": "Bagerhat"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bagerhat"
+          },
+          "latitude": 22.3488059,
+          "longitude": 89.0747025
+        }
+      ]
+    },
+    {
+      "code": "BD-01",
+      "name": {
+        "en": "Bandarban"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bandarban"
+          },
+          "latitude": 22,
+          "longitude": 92.33333
+        }
+      ]
+    },
+    {
+      "code": "BD-02",
+      "name": {
+        "en": "Barguna"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Barguna"
+          },
+          "latitude": 22.1716787,
+          "longitude": 89.7974024
+        }
+      ]
+    },
+    {
+      "code": "BD-06",
+      "name": {
+        "en": "Barishal"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Barisal"
+          },
+          "latitude": 22.4203579,
+          "longitude": 89.7825034
+        }
+      ]
+    },
+    {
+      "code": "BD-07",
+      "name": {
+        "en": "Bhola"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bhola"
+          },
+          "latitude": 22.3245248,
+          "longitude": 90.1056847
+        }
+      ]
+    },
+    {
+      "code": "BD-03",
+      "name": {
+        "en": "Bogura"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bogra"
+          },
+          "latitude": 24.8296645,
+          "longitude": 89.0259857
+        }
+      ]
+    },
+    {
+      "code": "BD-04",
+      "name": {
+        "en": "Brahmanbaria"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Brahmanbaria"
+          },
+          "latitude": 23.98333,
+          "longitude": 91.16667
+        }
+      ]
+    },
+    {
+      "code": "BD-09",
+      "name": {
+        "en": "Chandpur"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Chandpur"
+          },
+          "latitude": 23.25,
+          "longitude": 90.83333
+        }
+      ]
+    },
+    {
+      "code": "BD-45",
+      "name": {
+        "en": "Chapai Nawabganj"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Chapai Nawabganj"
+          },
+          "latitude": 24.5998869,
+          "longitude": 88.2850466
+        }
+      ]
+    },
+    {
+      "code": "BD-10",
+      "name": {
+        "en": "Chattogram"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Chittagong"
+          },
+          "latitude": 22.4875,
+          "longitude": 91.96333
+        }
+      ]
+    },
+    {
+      "code": "BD-12",
+      "name": {
+        "en": "Chuadanga"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Chuadanga"
+          },
+          "latitude": 23.6035273,
+          "longitude": 88.487324
+        }
+      ]
+    },
+    {
+      "code": "BD-11",
+      "name": {
+        "en": "Cox's Bazar"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Cox's Bazar"
+          },
+          "latitude": 21.58389,
+          "longitude": 92.01528
+        }
+      ]
+    },
+    {
+      "code": "BD-08",
+      "name": {
+        "en": "Cumilla"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Comilla"
+          },
+          "latitude": 23.4417,
+          "longitude": 91.00987
+        }
+      ]
+    },
+    {
+      "code": "BD-13",
+      "name": {
+        "en": "Dhaka"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Dhaka"
+          },
+          "latitude": 23.7841798,
+          "longitude": 89.9285983
+        }
+      ]
+    },
+    {
+      "code": "BD-14",
+      "name": {
+        "en": "Dinajpur"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Dinajpur"
+          },
+          "latitude": 25.6426103,
+          "longitude": 88.1834462
+        }
+      ]
+    },
+    {
+      "code": "BD-15",
+      "name": {
+        "en": "Faridpur"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Faridpur"
+          },
+          "latitude": 23.4511524,
+          "longitude": 89.5282038
+        }
+      ]
+    },
+    {
+      "code": "BD-16",
+      "name": {
+        "en": "Feni"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Feni"
+          },
+          "latitude": 22.96667,
+          "longitude": 91.31667
+        }
+      ]
+    },
+    {
+      "code": "BD-19",
+      "name": {
+        "en": "Gaibandha"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Gaibandha"
+          },
+          "latitude": 25.3431557,
+          "longitude": 89.1397857
+        }
+      ]
+    },
+    {
+      "code": "BD-18",
+      "name": {
+        "en": "Gazipur"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Gazipur"
+          },
+          "latitude": 24.1091452,
+          "longitude": 90.0959614
+        }
+      ]
+    },
+    {
+      "code": "BD-17",
+      "name": {
+        "en": "Gopalganj"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Gopalganj"
+          },
+          "latitude": 23.1066012,
+          "longitude": 89.5780271
+        }
+      ]
+    },
+    {
+      "code": "BD-20",
+      "name": {
+        "en": "Habiganj"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Habiganj"
+          },
+          "latitude": 24.3348197,
+          "longitude": 90.7489901
+        }
+      ]
+    },
+    {
+      "code": "BD-21",
+      "name": {
+        "en": "Jamalpur"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Jamalpur"
+          },
+          "latitude": 25.0010825,
+          "longitude": 89.2605013
+        }
+      ]
+    },
+    {
+      "code": "BD-22",
+      "name": {
+        "en": "Jashore"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Jessore"
+          },
+          "latitude": 23.0847356,
+          "longitude": 88.8748008
+        }
+      ]
+    },
+    {
+      "code": "BD-25",
+      "name": {
+        "en": "Jhalakathi"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Jhalokati"
+          },
+          "latitude": 22.5630352,
+          "longitude": 89.8719159
+        }
+      ]
+    },
+    {
+      "code": "BD-23",
+      "name": {
+        "en": "Jhenaidah"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Jhenaidah"
+          },
+          "latitude": 23.4952127,
+          "longitude": 88.7069493
+        }
+      ]
+    },
+    {
+      "code": "BD-24",
+      "name": {
+        "en": "Joypurhat"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Joypurhat"
+          },
+          "latitude": 25.0656707,
+          "longitude": 88.7683265
+        }
+      ]
+    },
+    {
+      "code": "BD-29",
+      "name": {
+        "en": "Khagrachhari"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Khagrachhari"
+          },
+          "latitude": 23.16667,
+          "longitude": 91.9
+        }
+      ]
+    },
+    {
+      "code": "BD-27",
+      "name": {
+        "en": "Khulna"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Khulna"
+          },
+          "latitude": 22.3535139,
+          "longitude": 88.8340709
+        }
+      ]
+    },
+    {
+      "code": "BD-26",
+      "name": {
+        "en": "Kishoreganj"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Kishoreganj"
+          },
+          "latitude": 24.3388803,
+          "longitude": 90.584998
+        }
+      ]
+    },
+    {
+      "code": "BD-28",
+      "name": {
+        "en": "Kurigram"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Kurigram"
+          },
+          "latitude": 25.8082722,
+          "longitude": 89.0091503
+        }
+      ]
+    },
+    {
+      "code": "BD-30",
+      "name": {
+        "en": "Kushtia"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Kushtia"
+          },
+          "latitude": 23.9459524,
+          "longitude": 88.7017929
+        }
+      ]
+    },
+    {
+      "code": "BD-31",
+      "name": {
+        "en": "Lakshmipur"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Lakshmipur"
+          },
+          "latitude": 22.91667,
+          "longitude": 90.83333
+        }
+      ]
+    },
+    {
+      "code": "BD-32",
+      "name": {
+        "en": "Lalmonirhat"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Lalmonirhat"
+          },
+          "latitude": 26.1244239,
+          "longitude": 88.910609
+        }
+      ]
+    },
+    {
+      "code": "BD-36",
+      "name": {
+        "en": "Madaripur"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Madaripur"
+          },
+          "latitude": 23.2345549,
+          "longitude": 89.8108903
+        }
+      ]
+    },
+    {
+      "code": "BD-37",
+      "name": {
+        "en": "Magura"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Magura"
+          },
+          "latitude": 23.4655774,
+          "longitude": 89.115473
+        }
+      ]
+    },
+    {
+      "code": "BD-33",
+      "name": {
+        "en": "Manikganj"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Manikganj"
+          },
+          "latitude": 23.8317408,
+          "longitude": 89.6409789
+        }
+      ]
+    },
+    {
+      "code": "BD-39",
+      "name": {
+        "en": "Meherpur"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Meherpur"
+          },
+          "latitude": 23.7897218,
+          "longitude": 88.3931949
+        }
+      ]
+    },
+    {
+      "code": "BD-38",
+      "name": {
+        "en": "Moulvibazar"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Moulvibazar"
+          },
+          "latitude": 24.4861771,
+          "longitude": 91.2874241
+        }
+      ]
+    },
+    {
+      "code": "BD-35",
+      "name": {
+        "en": "Munshiganj"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Munshiganj"
+          },
+          "latitude": 23.5261523,
+          "longitude": 90.1159091
+        }
+      ]
+    },
+    {
+      "code": "BD-34",
+      "name": {
+        "en": "Mymensingh"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Mymensingh"
+          },
+          "latitude": 24.7230985,
+          "longitude": 89.7841173
+        }
+      ]
+    },
+    {
+      "code": "BD-48",
+      "name": {
+        "en": "Naogaon"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Naogaon"
+          },
+          "latitude": 24.8742508,
+          "longitude": 88.4375191
+        }
+      ]
+    },
+    {
+      "code": "BD-43",
+      "name": {
+        "en": "Narail"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Narail"
+          },
+          "latitude": 23.131757,
+          "longitude": 89.2625844
+        }
+      ]
+    },
+    {
+      "code": "BD-40",
+      "name": {
+        "en": "Narayanganj"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Narayanganj"
+          },
+          "latitude": 23.7488013,
+          "longitude": 90.256385
+        }
+      ]
+    },
+    {
+      "code": "BD-42",
+      "name": {
+        "en": "Narsingdi"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Narsingdi"
+          },
+          "latitude": 24.00966,
+          "longitude": 90.4448042
+        }
+      ]
+    },
+    {
+      "code": "BD-44",
+      "name": {
+        "en": "Natore"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Natore"
+          },
+          "latitude": 24.3802107,
+          "longitude": 88.7630252
+        }
+      ]
+    },
+    {
+      "code": "BD-41",
+      "name": {
+        "en": "Netrakona"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Netrokona"
+          },
+          "latitude": 24.8720481,
+          "longitude": 90.5229381
+        }
+      ]
+    },
+    {
+      "code": "BD-46",
+      "name": {
+        "en": "Nilphamari"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Nilphamari"
+          },
+          "latitude": 26.0226425,
+          "longitude": 88.6341271
+        }
+      ]
+    },
+    {
+      "code": "BD-47",
+      "name": {
+        "en": "Noakhali"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Noakhali"
+          },
+          "latitude": 22.75,
+          "longitude": 91.16667
+        }
+      ]
+    },
+    {
+      "code": "BD-49",
+      "name": {
+        "en": "Pabna"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Pabna"
+          },
+          "latitude": 24.0812672,
+          "longitude": 89.0372442
+        }
+      ]
+    },
+    {
+      "code": "BD-52",
+      "name": {
+        "en": "Panchagarh"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Panchagarh"
+          },
+          "latitude": 26.3209446,
+          "longitude": 88.5471139
+        }
+      ]
+    },
+    {
+      "code": "BD-51",
+      "name": {
+        "en": "Patuakhali"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Patuakhali"
+          },
+          "latitude": 22.1870917,
+          "longitude": 89.7164706
+        }
+      ]
+    },
+    {
+      "code": "BD-50",
+      "name": {
+        "en": "Pirojpur"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Pirojpur"
+          },
+          "latitude": 22.5093791,
+          "longitude": 89.3643422
+        }
+      ]
+    },
+    {
+      "code": "BD-53",
+      "name": {
+        "en": "Rajbari"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Rajbari"
+          },
+          "latitude": 23.73843,
+          "longitude": 89.25547
+        }
+      ]
+    },
+    {
+      "code": "BD-54",
+      "name": {
+        "en": "Rajshahi"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Rajshahi"
+          },
+          "latitude": 24.4207336,
+          "longitude": 88.2960214
+        }
+      ]
+    },
+    {
+      "code": "BD-56",
+      "name": {
+        "en": "Rangamati"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Rangamati"
+          },
+          "latitude": 22.63333,
+          "longitude": 92.2
+        }
+      ]
+    },
+    {
+      "code": "BD-55",
+      "name": {
+        "en": "Rangpur"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Rangpur"
+          },
+          "latitude": 25.6239024,
+          "longitude": 88.9009498
+        }
+      ]
+    },
+    {
+      "code": "BD-58",
+      "name": {
+        "en": "Satkhira"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Satkhira"
+          },
+          "latitude": 22.2989859,
+          "longitude": 88.4754087
+        }
+      ]
+    },
+    {
+      "code": "BD-62",
+      "name": {
+        "en": "Shariatpur"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Shariatpur"
+          },
+          "latitude": 23.2312434,
+          "longitude": 90.0829347
+        }
+      ]
+    },
+    {
+      "code": "BD-57",
+      "name": {
+        "en": "Sherpur"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Sherpur"
+          },
+          "latitude": 25.0926038,
+          "longitude": 89.7635207
+        }
+      ]
+    },
+    {
+      "code": "BD-59",
+      "name": {
+        "en": "Sirajganj"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Sirajganj"
+          },
+          "latitude": 24.3987624,
+          "longitude": 88.8764181
+        }
+      ]
+    },
+    {
+      "code": "BD-61",
+      "name": {
+        "en": "Sunamganj"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Sunamganj"
+          },
+          "latitude": 24.8890554,
+          "longitude": 91.0024827
+        }
+      ]
+    },
+    {
+      "code": "BD-60",
+      "name": {
+        "en": "Sylhet"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Sylhet"
+          },
+          "latitude": 24.8918911,
+          "longitude": 91.7355495
+        }
+      ]
+    },
+    {
+      "code": "BD-63",
+      "name": {
+        "en": "Tangail"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Tangail"
+          },
+          "latitude": 24.376307,
+          "longitude": 89.3580461
+        }
+      ]
+    },
+    {
+      "code": "BD-64",
+      "name": {
+        "en": "Thakurgaon"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Thakurgaon"
+          },
+          "latitude": 25.9364842,
+          "longitude": 88.0336664
+        }
+      ]
+    }
+  ]
+}

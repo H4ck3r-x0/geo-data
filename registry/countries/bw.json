@@ -1,0 +1,626 @@
+{
+  "code": "BW",
+  "iso3": "BWA",
+  "name": {
+    "en": "Botswana",
+    "ar": "بوتسوانا",
+    "de": "Botswana",
+    "es": "Botswana",
+    "fr": "Botswana",
+    "hi": "बोत्सवाना",
+    "it": "Botswana",
+    "ja": "ボツワナ",
+    "ko": "보츠와나",
+    "nl": "Botswana",
+    "pl": "Botswana",
+    "pt": "Botsuana",
+    "pt-BR": "Botsuana",
+    "ru": "Ботсвана",
+    "tr": "Botsvana",
+    "uk": "Ботсвана",
+    "zh": "博茨瓦纳"
+  },
+  "phone": "+267",
+  "currency": "BWP",
+  "timezone": "Africa/Gaborone",
+  "flag": "🇧🇼",
+  "regions": [
+    {
+      "code": "BW-CE",
+      "name": {
+        "en": "Central"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Gobojango"
+          },
+          "latitude": -21.8327,
+          "longitude": 28.72882
+        },
+        {
+          "name": {
+            "en": "Gweta"
+          },
+          "latitude": -20.18333,
+          "longitude": 25.23333
+        },
+        {
+          "name": {
+            "en": "Kalamare"
+          },
+          "latitude": -22.93369,
+          "longitude": 26.57032
+        },
+        {
+          "name": {
+            "en": "Letlhakane"
+          },
+          "latitude": -21.41494,
+          "longitude": 25.59263
+        },
+        {
+          "name": {
+            "en": "Letsheng"
+          },
+          "latitude": -22.66384,
+          "longitude": 27.2239
+        },
+        {
+          "name": {
+            "en": "Maapi"
+          },
+          "latitude": -22.75785,
+          "longitude": 27.35001
+        },
+        {
+          "name": {
+            "en": "Machaneng"
+          },
+          "latitude": -23.18621,
+          "longitude": 27.48856
+        },
+        {
+          "name": {
+            "en": "Mahalapye"
+          },
+          "latitude": -23.10407,
+          "longitude": 26.81421
+        },
+        {
+          "name": {
+            "en": "Makobeng"
+          },
+          "latitude": -22.99637,
+          "longitude": 27.66766
+        },
+        {
+          "name": {
+            "en": "Makwata"
+          },
+          "latitude": -23.28333,
+          "longitude": 27.3
+        },
+        {
+          "name": {
+            "en": "Mathakola"
+          },
+          "latitude": -22.72125,
+          "longitude": 27.31057
+        },
+        {
+          "name": {
+            "en": "Mathambgwane"
+          },
+          "latitude": -20.99075,
+          "longitude": 27.33158
+        },
+        {
+          "name": {
+            "en": "Mathathane"
+          },
+          "latitude": -22.26875,
+          "longitude": 28.74946
+        },
+        {
+          "name": {
+            "en": "Maunatlala"
+          },
+          "latitude": -22.59701,
+          "longitude": 27.63006
+        },
+        {
+          "name": {
+            "en": "Mogapi"
+          },
+          "latitude": -22.32301,
+          "longitude": 27.83492
+        },
+        {
+          "name": {
+            "en": "Moijabana"
+          },
+          "latitude": -22.43333,
+          "longitude": 26.41667
+        },
+        {
+          "name": {
+            "en": "Mookane"
+          },
+          "latitude": -23.68805,
+          "longitude": 26.65948
+        },
+        {
+          "name": {
+            "en": "Mopipi"
+          },
+          "latitude": -21.18333,
+          "longitude": 24.88333
+        },
+        {
+          "name": {
+            "en": "Mosetse"
+          },
+          "latitude": -20.75,
+          "longitude": 26.65
+        },
+        {
+          "name": {
+            "en": "Nata"
+          },
+          "latitude": -20.21667,
+          "longitude": 26.18333
+        },
+        {
+          "name": {
+            "en": "Orapa"
+          },
+          "latitude": -21.3115,
+          "longitude": 25.37642
+        },
+        {
+          "name": {
+            "en": "Palapye"
+          },
+          "latitude": -22.54605,
+          "longitude": 27.12507
+        },
+        {
+          "name": {
+            "en": "Pilikwe"
+          },
+          "latitude": -22.79904,
+          "longitude": 27.19376
+        },
+        {
+          "name": {
+            "en": "Rakops"
+          },
+          "latitude": -21.02257,
+          "longitude": 24.36052
+        },
+        {
+          "name": {
+            "en": "Ramokgonami"
+          },
+          "latitude": -22.8645,
+          "longitude": 27.42391
+        },
+        {
+          "name": {
+            "en": "Ratholo"
+          },
+          "latitude": -22.72454,
+          "longitude": 27.57199
+        },
+        {
+          "name": {
+            "en": "Sefophe"
+          },
+          "latitude": -22.18333,
+          "longitude": 27.96667
+        },
+        {
+          "name": {
+            "en": "Serowe"
+          },
+          "latitude": -22.38754,
+          "longitude": 26.71077
+        },
+        {
+          "name": {
+            "en": "Sua"
+          },
+          "latitude": -20.05,
+          "longitude": 26.2
+        },
+        {
+          "name": {
+            "en": "Tamasane"
+          },
+          "latitude": -22.4184,
+          "longitude": 27.40127
+        },
+        {
+          "name": {
+            "en": "Tobane"
+          },
+          "latitude": -21.95,
+          "longitude": 27.9
+        },
+        {
+          "name": {
+            "en": "Tonota"
+          },
+          "latitude": -21.44236,
+          "longitude": 27.46153
+        }
+      ]
+    },
+    {
+      "code": "BW-GH",
+      "name": {
+        "en": "Ghanzi"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Dekar"
+          },
+          "latitude": -21.53333,
+          "longitude": 21.93333
+        },
+        {
+          "name": {
+            "en": "Ghanzi"
+          },
+          "latitude": -21.69785,
+          "longitude": 21.64581
+        }
+      ]
+    },
+    {
+      "code": "BW-KG",
+      "name": {
+        "en": "Kgalagadi"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Hukuntsi"
+          },
+          "latitude": -23.9988,
+          "longitude": 21.77962
+        },
+        {
+          "name": {
+            "en": "Kang"
+          },
+          "latitude": -23.67518,
+          "longitude": 22.78762
+        },
+        {
+          "name": {
+            "en": "Lehututu"
+          },
+          "latitude": -23.96667,
+          "longitude": 21.86667
+        },
+        {
+          "name": {
+            "en": "Manyana"
+          },
+          "latitude": -23.4,
+          "longitude": 21.71667
+        },
+        {
+          "name": {
+            "en": "Tshabong"
+          },
+          "latitude": -26.05,
+          "longitude": 22.45
+        },
+        {
+          "name": {
+            "en": "Werda"
+          },
+          "latitude": -25.26667,
+          "longitude": 23.28333
+        }
+      ]
+    },
+    {
+      "code": "BW-KL",
+      "name": {
+        "en": "Kgatleng"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bokaa"
+          },
+          "latitude": -24.45,
+          "longitude": 26.01667
+        },
+        {
+          "name": {
+            "en": "Mmathubudukwane"
+          },
+          "latitude": -24.6,
+          "longitude": 26.43333
+        },
+        {
+          "name": {
+            "en": "Mochudi"
+          },
+          "latitude": -24.41667,
+          "longitude": 26.15
+        },
+        {
+          "name": {
+            "en": "Pilane"
+          },
+          "latitude": -24.45,
+          "longitude": 26.13333
+        }
+      ]
+    },
+    {
+      "code": "BW-KW",
+      "name": {
+        "en": "Kweneng"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Botlhapatlou"
+          },
+          "latitude": -24.02591,
+          "longitude": 25.48976
+        },
+        {
+          "name": {
+            "en": "Dutlwe"
+          },
+          "latitude": -23.98333,
+          "longitude": 23.9
+        },
+        {
+          "name": {
+            "en": "Gabane"
+          },
+          "latitude": -24.66667,
+          "longitude": 25.78222
+        },
+        {
+          "name": {
+            "en": "Gaphatshwe"
+          },
+          "latitude": -24.57389,
+          "longitude": 25.83417
+        },
+        {
+          "name": {
+            "en": "Khudumelapye"
+          },
+          "latitude": -23.88333,
+          "longitude": 24.75
+        },
+        {
+          "name": {
+            "en": "Lenchwe Le Tau"
+          },
+          "latitude": -24.38333,
+          "longitude": 25.85
+        },
+        {
+          "name": {
+            "en": "Letlhakeng"
+          },
+          "latitude": -24.09442,
+          "longitude": 25.02977
+        },
+        {
+          "name": {
+            "en": "Metsemotlhaba"
+          },
+          "latitude": -24.55139,
+          "longitude": 25.80306
+        },
+        {
+          "name": {
+            "en": "Mmopone"
+          },
+          "latitude": -24.56694,
+          "longitude": 25.87417
+        },
+        {
+          "name": {
+            "en": "Mogoditshane"
+          },
+          "latitude": -24.62694,
+          "longitude": 25.86556
+        },
+        {
+          "name": {
+            "en": "Molepolole"
+          },
+          "latitude": -24.40659,
+          "longitude": 25.49508
+        },
+        {
+          "name": {
+            "en": "Nkoyaphiri"
+          },
+          "latitude": -24.63222,
+          "longitude": 25.83139
+        },
+        {
+          "name": {
+            "en": "Thamaga"
+          },
+          "latitude": -24.67014,
+          "longitude": 25.53975
+        }
+      ]
+    },
+    {
+      "code": "BW-NE",
+      "name": {
+        "en": "North-East"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Dukwe"
+          },
+          "latitude": -20.58333,
+          "longitude": 26.41667
+        },
+        {
+          "name": {
+            "en": "Makaleng"
+          },
+          "latitude": -20.9,
+          "longitude": 27.28333
+        },
+        {
+          "name": {
+            "en": "Masunga"
+          },
+          "latitude": -20.62455,
+          "longitude": 27.44875
+        },
+        {
+          "name": {
+            "en": "Sebina"
+          },
+          "latitude": -20.86667,
+          "longitude": 27.25
+        }
+      ]
+    },
+    {
+      "code": "BW-NW",
+      "name": {
+        "en": "North-West"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Maun"
+          },
+          "latitude": -19.98333,
+          "longitude": 23.41667
+        },
+        {
+          "name": {
+            "en": "Nokaneng"
+          },
+          "latitude": -19.66667,
+          "longitude": 22.26667
+        },
+        {
+          "name": {
+            "en": "Pandamatenga"
+          },
+          "latitude": -18.52779,
+          "longitude": 25.62698
+        },
+        {
+          "name": {
+            "en": "Sehithwa"
+          },
+          "latitude": -20.46667,
+          "longitude": 22.71667
+        },
+        {
+          "name": {
+            "en": "Shakawe"
+          },
+          "latitude": -18.36536,
+          "longitude": 21.84219
+        }
+      ]
+    },
+    {
+      "code": "BW-SE",
+      "name": {
+        "en": "South-East"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Gaborone"
+          },
+          "latitude": -24.76234,
+          "longitude": 25.7995
+        },
+        {
+          "name": {
+            "en": "Janeng"
+          },
+          "latitude": -25.41667,
+          "longitude": 25.55
+        },
+        {
+          "name": {
+            "en": "Kopong"
+          },
+          "latitude": -24.48333,
+          "longitude": 25.88333
+        },
+        {
+          "name": {
+            "en": "Otse"
+          },
+          "latitude": -25.01667,
+          "longitude": 25.73333
+        },
+        {
+          "name": {
+            "en": "Ramotswa"
+          },
+          "latitude": -24.87158,
+          "longitude": 25.86989
+        }
+      ]
+    },
+    {
+      "code": "BW-SO",
+      "name": {
+        "en": "Southern"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Kanye"
+          },
+          "latitude": -24.96675,
+          "longitude": 25.33273
+        },
+        {
+          "name": {
+            "en": "Khakhea"
+          },
+          "latitude": -24.68954,
+          "longitude": 23.49403
+        },
+        {
+          "name": {
+            "en": "Mosopa"
+          },
+          "latitude": -24.7718,
+          "longitude": 25.42156
+        },
+        {
+          "name": {
+            "en": "Sekoma"
+          },
+          "latitude": -24.4,
+          "longitude": 23.88333
+        }
+      ]
+    }
+  ]
+}

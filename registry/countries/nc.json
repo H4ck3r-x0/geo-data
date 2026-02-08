@@ -1,0 +1,123 @@
+{
+  "code": "NC",
+  "iso3": "NCL",
+  "name": {
+    "en": "New Caledonia",
+    "ar": "كاليدونيا الجديدة",
+    "de": "Neukaledonien",
+    "es": "Nueva Caledonia",
+    "fr": "Nouvelle-Calédonie",
+    "hi": "नया केलडोनिया",
+    "it": "Nuova Caledonia",
+    "ja": "ニューカレドニア",
+    "ko": "누벨칼레도니",
+    "nl": "Nieuw-Caledonië",
+    "pl": "Nowa Kaledonia",
+    "pt": "Nova Caledónia",
+    "pt-BR": "Nova Caledônia",
+    "ru": "Новая Каледония",
+    "tr": "Yeni Kaledonya",
+    "uk": "Нова Каледонія",
+    "zh": "新喀里多尼亚"
+  },
+  "phone": "+687",
+  "currency": "XPF",
+  "timezone": "Pacific/Noumea",
+  "flag": "🇳🇨",
+  "regions": [
+    {
+      "code": "NC-03",
+      "name": {
+        "en": "Loyalty Islands Province"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Lifou"
+          },
+          "latitude": -20.9667,
+          "longitude": 167.2333
+        },
+        {
+          "name": {
+            "en": "Maré"
+          },
+          "latitude": -21.5167,
+          "longitude": 167.9833
+        }
+      ]
+    },
+    {
+      "code": "NC-02",
+      "name": {
+        "en": "North Province"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Houaïlou"
+          },
+          "latitude": -21.2909,
+          "longitude": 165.6217
+        },
+        {
+          "name": {
+            "en": "Koné"
+          },
+          "latitude": -21.059,
+          "longitude": 164.8518
+        },
+        {
+          "name": {
+            "en": "Poindimié"
+          },
+          "latitude": -20.9496,
+          "longitude": 165.3293
+        }
+      ]
+    },
+    {
+      "code": "NC-01",
+      "name": {
+        "en": "South Province"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bourail"
+          },
+          "latitude": -21.5701,
+          "longitude": 165.4804
+        },
+        {
+          "name": {
+            "en": "Dumbéa"
+          },
+          "latitude": -22.15,
+          "longitude": 166.45
+        },
+        {
+          "name": {
+            "en": "Le Mont-Dore"
+          },
+          "latitude": -22.2157,
+          "longitude": 166.4665
+        },
+        {
+          "name": {
+            "en": "Nouméa"
+          },
+          "latitude": -22.2758,
+          "longitude": 166.458
+        },
+        {
+          "name": {
+            "en": "Païta"
+          },
+          "latitude": -22.1337,
+          "longitude": 166.3505
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "code": "MG",
+  "iso3": "MDG",
+  "name": {
+    "en": "Madagascar",
+    "ar": "مدغشقر",
+    "de": "Madagaskar",
+    "es": "Madagascar",
+    "fr": "Madagascar",
+    "hi": "मेडागास्कर",
+    "it": "Madagascar",
+    "ja": "マダガスカル",
+    "ko": "마다가스카르",
+    "nl": "Madagaskar",
+    "pl": "Madagaskar",
+    "pt": "Madagáscar",
+    "pt-BR": "Madagascar",
+    "ru": "Мадагаскар",
+    "tr": "Madagaskar",
+    "uk": "Мадагаскар",
+    "zh": "马达加斯加"
+  },
+  "phone": "+261",
+  "currency": "MGA",
+  "timezone": "Indian/Antananarivo",
+  "flag": "🇲🇬",
+  "regions": [
+    {
+      "code": "MG-D",
+      "name": {
+        "en": "Antsiranana"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ampasimanolotra"
+          },
+          "latitude": -18.81667,
+          "longitude": 49.06667
+        },
+        {
+          "name": {
+            "en": "Andovoranto"
+          },
+          "latitude": -18.95443,
+          "longitude": 49.1094
+        },
+        {
+          "name": {
+            "en": "Mahanoro"
+          },
+          "latitude": -19.9,
+          "longitude": 48.8
+        },
+        {
+          "name": {
+            "en": "Mahavelona"
+          },
+          "latitude": -17.68475,
+          "longitude": 49.50869
+        },
+        {
+          "name": {
+            "en": "Marolambo"
+          },
+          "latitude": -20.05,
+          "longitude": 48.11667
+        },
+        {
+          "name": {
+            "en": "Toamasina"
+          },
+          "latitude": -18.1492,
+          "longitude": 49.40234
+        },
+        {
+          "name": {
+            "en": "Toamasina I"
+          },
+          "latitude": -18.13863,
+          "longitude": 49.39203
+        },
+        {
+          "name": {
+            "en": "Toamasina II"
+          },
+          "latitude": -17.94053,
+          "longitude": 49.14608
+        },
+        {
+          "name": {
+            "en": "Vohibinany"
+          },
+          "latitude": -17.35,
+          "longitude": 49.03333
+        }
+      ]
+    }
+  ]
+}

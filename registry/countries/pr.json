@@ -1,0 +1,1200 @@
+{
+  "code": "PR",
+  "iso3": "PRI",
+  "name": {
+    "en": "Puerto Rico",
+    "ar": "بورتوريكو",
+    "de": "Puerto Rico",
+    "es": "Puerto Rico",
+    "fr": "Porto Rico",
+    "hi": "प्यूर्टो रिको",
+    "it": "Porto Rico",
+    "ja": "プエルトリコ",
+    "ko": "푸에르토리코",
+    "nl": "Puerto Rico",
+    "pl": "Puerto Rico",
+    "pt": "Porto Rico",
+    "pt-BR": "Porto Rico",
+    "ru": "Пуэрто-Рико",
+    "tr": "Porto Riko",
+    "uk": "Пуерто-Ріко",
+    "zh": "波多黎各"
+  },
+  "phone": "+1",
+  "currency": "USD",
+  "timezone": "America/Puerto_Rico",
+  "flag": "🇵🇷",
+  "regions": [
+    {
+      "code": "PR-001",
+      "name": {
+        "en": "Adjuntas"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Adjuntas"
+          },
+          "latitude": 18.1634848,
+          "longitude": -66.723158
+        }
+      ]
+    },
+    {
+      "code": "PR-003",
+      "name": {
+        "en": "Aguada"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Aguada"
+          },
+          "latitude": 18.3801579,
+          "longitude": -67.188704
+        }
+      ]
+    },
+    {
+      "code": "PR-005",
+      "name": {
+        "en": "Aguadilla"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Aguadilla"
+          },
+          "latitude": 18.4274454,
+          "longitude": -67.1540698
+        }
+      ]
+    },
+    {
+      "code": "PR-007",
+      "name": {
+        "en": "Aguas Buenas"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Aguas Buenas"
+          },
+          "latitude": 18.2568989,
+          "longitude": -66.1029442
+        }
+      ]
+    },
+    {
+      "code": "PR-009",
+      "name": {
+        "en": "Aibonito"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Aibonito"
+          },
+          "latitude": 18.1399594,
+          "longitude": -66.2660016
+        }
+      ]
+    },
+    {
+      "code": "PR-011",
+      "name": {
+        "en": "Añasco"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Añasco"
+          },
+          "latitude": 18.2854476,
+          "longitude": -67.1402935
+        }
+      ]
+    },
+    {
+      "code": "PR-AR",
+      "name": {
+        "en": "Arecibo"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Arecibo"
+          },
+          "latitude": 18.4705137,
+          "longitude": -66.7218472
+        }
+      ]
+    },
+    {
+      "code": "PR-015",
+      "name": {
+        "en": "Arroyo"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Arroyo"
+          },
+          "latitude": 17.996422,
+          "longitude": -66.0924879
+        }
+      ]
+    },
+    {
+      "code": "PR-017",
+      "name": {
+        "en": "Barceloneta"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Barceloneta"
+          },
+          "latitude": 41.3801061,
+          "longitude": 2.1896957
+        }
+      ]
+    },
+    {
+      "code": "PR-019",
+      "name": {
+        "en": "Barranquitas"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Barranquitas"
+          },
+          "latitude": 18.1866242,
+          "longitude": -66.3062802
+        }
+      ]
+    },
+    {
+      "code": "PR-BY",
+      "name": {
+        "en": "Bayamon"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bayamón"
+          },
+          "latitude": 18.389396,
+          "longitude": -66.1653224
+        }
+      ]
+    },
+    {
+      "code": "PR-023",
+      "name": {
+        "en": "Cabo Rojo"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Cabo Rojo"
+          },
+          "latitude": 18.0866265,
+          "longitude": -67.1457347
+        }
+      ]
+    },
+    {
+      "code": "PR-CG",
+      "name": {
+        "en": "Caguas"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Caguas"
+          },
+          "latitude": 18.2387995,
+          "longitude": -66.035249
+        }
+      ]
+    },
+    {
+      "code": "PR-027",
+      "name": {
+        "en": "Camuy"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Camuy"
+          },
+          "latitude": 18.483833,
+          "longitude": -66.8448994
+        }
+      ]
+    },
+    {
+      "code": "PR-029",
+      "name": {
+        "en": "Canóvanas"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Canóvanas"
+          },
+          "latitude": 18.3748748,
+          "longitude": -65.8997533
+        }
+      ]
+    },
+    {
+      "code": "PR-CL",
+      "name": {
+        "en": "Carolina"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Carolina"
+          },
+          "latitude": 18.3680877,
+          "longitude": -66.0424734
+        }
+      ]
+    },
+    {
+      "code": "PR-033",
+      "name": {
+        "en": "Cataño"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Cataño"
+          },
+          "latitude": 18.4465355,
+          "longitude": -66.1355775
+        }
+      ]
+    },
+    {
+      "code": "PR-035",
+      "name": {
+        "en": "Cayey"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Cayey"
+          },
+          "latitude": 18.1119051,
+          "longitude": -66.166
+        }
+      ]
+    },
+    {
+      "code": "PR-037",
+      "name": {
+        "en": "Ceiba"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ceiba"
+          },
+          "latitude": 18.2475177,
+          "longitude": -65.9084953
+        }
+      ]
+    },
+    {
+      "code": "PR-039",
+      "name": {
+        "en": "Ciales"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ciales"
+          },
+          "latitude": 18.3360622,
+          "longitude": -66.4687823
+        }
+      ]
+    },
+    {
+      "code": "PR-041",
+      "name": {
+        "en": "Cidra"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Cidra"
+          },
+          "latitude": 18.1757914,
+          "longitude": -66.1612779
+        }
+      ]
+    },
+    {
+      "code": "PR-043",
+      "name": {
+        "en": "Coamo"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Coamo"
+          },
+          "latitude": 18.0799616,
+          "longitude": -66.3579473
+        }
+      ]
+    },
+    {
+      "code": "PR-045",
+      "name": {
+        "en": "Comerío"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Comerío"
+          },
+          "latitude": 18.2192001,
+          "longitude": -66.2256022
+        }
+      ]
+    },
+    {
+      "code": "PR-047",
+      "name": {
+        "en": "Corozal"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Corozal"
+          },
+          "latitude": 18.4030802,
+          "longitude": -88.3967536
+        }
+      ]
+    },
+    {
+      "code": "PR-049",
+      "name": {
+        "en": "Culebra"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Culebra"
+          },
+          "latitude": 18.310394,
+          "longitude": -65.3030705
+        }
+      ]
+    },
+    {
+      "code": "PR-051",
+      "name": {
+        "en": "Dorado"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Dorado"
+          },
+          "latitude": 43.1480556,
+          "longitude": -77.5772222
+        }
+      ]
+    },
+    {
+      "code": "PR-053",
+      "name": {
+        "en": "Fajardo"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Fajardo"
+          },
+          "latitude": 18.3252148,
+          "longitude": -65.6539356
+        }
+      ]
+    },
+    {
+      "code": "PR-054",
+      "name": {
+        "en": "Florida"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Florida"
+          },
+          "latitude": 27.6648274,
+          "longitude": -81.5157535
+        }
+      ]
+    },
+    {
+      "code": "PR-055",
+      "name": {
+        "en": "Guánica"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Guánica"
+          },
+          "latitude": 17.9725145,
+          "longitude": -66.9086264
+        }
+      ]
+    },
+    {
+      "code": "PR-057",
+      "name": {
+        "en": "Guayama"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Guayama"
+          },
+          "latitude": 17.9841328,
+          "longitude": -66.1137767
+        }
+      ]
+    },
+    {
+      "code": "PR-059",
+      "name": {
+        "en": "Guayanilla"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Guayanilla"
+          },
+          "latitude": 18.0191314,
+          "longitude": -66.791842
+        }
+      ]
+    },
+    {
+      "code": "PR-GN",
+      "name": {
+        "en": "Guaynabo"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Guaynabo"
+          },
+          "latitude": 18.3612954,
+          "longitude": -66.1102957
+        }
+      ]
+    },
+    {
+      "code": "PR-063",
+      "name": {
+        "en": "Gurabo"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Gurabo"
+          },
+          "latitude": 18.2543987,
+          "longitude": -65.9729421
+        }
+      ]
+    },
+    {
+      "code": "PR-065",
+      "name": {
+        "en": "Hatillo"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Hatillo"
+          },
+          "latitude": 18.4284642,
+          "longitude": -66.7875321
+        }
+      ]
+    },
+    {
+      "code": "PR-067",
+      "name": {
+        "en": "Hormigueros"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Hormigueros"
+          },
+          "latitude": 18.1334638,
+          "longitude": -67.1128123
+        }
+      ]
+    },
+    {
+      "code": "PR-069",
+      "name": {
+        "en": "Humacao"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Humacao"
+          },
+          "latitude": 18.1515736,
+          "longitude": -65.8248529
+        }
+      ]
+    },
+    {
+      "code": "PR-071",
+      "name": {
+        "en": "Isabela"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Isabela"
+          },
+          "latitude": 16.9753758,
+          "longitude": 121.8107079
+        }
+      ]
+    },
+    {
+      "code": "PR-073",
+      "name": {
+        "en": "Jayuya"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Jayuya"
+          },
+          "latitude": 18.2185674,
+          "longitude": -66.5915617
+        }
+      ]
+    },
+    {
+      "code": "PR-075",
+      "name": {
+        "en": "Juana Díaz"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Juana Díaz"
+          },
+          "latitude": 18.0534372,
+          "longitude": -66.5075079
+        }
+      ]
+    },
+    {
+      "code": "PR-077",
+      "name": {
+        "en": "Juncos"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Juncos"
+          },
+          "latitude": 18.2274558,
+          "longitude": -65.920997
+        }
+      ]
+    },
+    {
+      "code": "PR-079",
+      "name": {
+        "en": "Lajas"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Lajas"
+          },
+          "latitude": 18.049962,
+          "longitude": -67.0593449
+        }
+      ]
+    },
+    {
+      "code": "PR-081",
+      "name": {
+        "en": "Lares"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Lares"
+          },
+          "latitude": 34.0250802,
+          "longitude": -118.4594593
+        }
+      ]
+    },
+    {
+      "code": "PR-083",
+      "name": {
+        "en": "Las Marías"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Las Marías"
+          },
+          "latitude": 35.8382238,
+          "longitude": -78.6103566
+        }
+      ]
+    },
+    {
+      "code": "PR-085",
+      "name": {
+        "en": "Las Piedras"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Las Piedras"
+          },
+          "latitude": 18.1855753,
+          "longitude": -65.8736245
+        }
+      ]
+    },
+    {
+      "code": "PR-087",
+      "name": {
+        "en": "Loíza"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Loíza"
+          },
+          "latitude": 18.4329904,
+          "longitude": -65.87836
+        }
+      ]
+    },
+    {
+      "code": "PR-089",
+      "name": {
+        "en": "Luquillo"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Luquillo"
+          },
+          "latitude": 18.3724507,
+          "longitude": -65.7165511
+        }
+      ]
+    },
+    {
+      "code": "PR-091",
+      "name": {
+        "en": "Manatí"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Manatí"
+          },
+          "latitude": 18.4181215,
+          "longitude": -66.5262783
+        }
+      ]
+    },
+    {
+      "code": "PR-093",
+      "name": {
+        "en": "Maricao"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Maricao"
+          },
+          "latitude": 18.1807902,
+          "longitude": -66.9799001
+        }
+      ]
+    },
+    {
+      "code": "PR-095",
+      "name": {
+        "en": "Maunabo"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Maunabo"
+          },
+          "latitude": 18.0071885,
+          "longitude": -65.8993289
+        }
+      ]
+    },
+    {
+      "code": "PR-MG",
+      "name": {
+        "en": "Mayagüez"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Mayagüez"
+          },
+          "latitude": 18.2013452,
+          "longitude": -67.1451549
+        }
+      ]
+    },
+    {
+      "code": "PR-099",
+      "name": {
+        "en": "Moca"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Moca"
+          },
+          "latitude": 18.3967929,
+          "longitude": -67.1479035
+        }
+      ]
+    },
+    {
+      "code": "PR-101",
+      "name": {
+        "en": "Morovis"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Morovis"
+          },
+          "latitude": 18.325785,
+          "longitude": -66.4065592
+        }
+      ]
+    },
+    {
+      "code": "PR-103",
+      "name": {
+        "en": "Naguabo"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Naguabo"
+          },
+          "latitude": 18.2116247,
+          "longitude": -65.7348841
+        }
+      ]
+    },
+    {
+      "code": "PR-105",
+      "name": {
+        "en": "Naranjito"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Naranjito"
+          },
+          "latitude": 18.3007861,
+          "longitude": -66.2448904
+        }
+      ]
+    },
+    {
+      "code": "PR-107",
+      "name": {
+        "en": "Orocovis"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Orocovis"
+          },
+          "latitude": 18.2269224,
+          "longitude": -66.3911686
+        }
+      ]
+    },
+    {
+      "code": "PR-109",
+      "name": {
+        "en": "Patillas"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Patillas"
+          },
+          "latitude": 18.0037381,
+          "longitude": -66.0134059
+        }
+      ]
+    },
+    {
+      "code": "PR-111",
+      "name": {
+        "en": "Peñuelas"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Peñuelas"
+          },
+          "latitude": 18.0633577,
+          "longitude": -66.7273896
+        }
+      ]
+    },
+    {
+      "code": "PR-PO",
+      "name": {
+        "en": "Ponce"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ponce"
+          },
+          "latitude": 18.0110768,
+          "longitude": -66.6140616
+        }
+      ]
+    },
+    {
+      "code": "PR-115",
+      "name": {
+        "en": "Quebradillas"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Quebradillas"
+          },
+          "latitude": 18.473833,
+          "longitude": -66.938512
+        }
+      ]
+    },
+    {
+      "code": "PR-117",
+      "name": {
+        "en": "Rincón"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Rincón"
+          },
+          "latitude": 18.3401514,
+          "longitude": -67.2499459
+        }
+      ]
+    },
+    {
+      "code": "PR-119",
+      "name": {
+        "en": "Río Grande"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Río Grande"
+          },
+          "latitude": 28.81063826,
+          "longitude": -101.8353878
+        }
+      ]
+    },
+    {
+      "code": "PR-121",
+      "name": {
+        "en": "Sabana Grande"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Sabana Grande"
+          },
+          "latitude": 18.0777392,
+          "longitude": -66.9604549
+        }
+      ]
+    },
+    {
+      "code": "PR-123",
+      "name": {
+        "en": "Salinas"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Salinas",
+            "ar": "ساليناس"
+          },
+          "latitude": 36.6777372,
+          "longitude": -121.6555013
+        }
+      ]
+    },
+    {
+      "code": "PR-125",
+      "name": {
+        "en": "San Germán"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "San Germán"
+          },
+          "latitude": 18.0807082,
+          "longitude": -67.0411096
+        }
+      ]
+    },
+    {
+      "code": "PR-SJ",
+      "name": {
+        "en": "San Juan"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "San Juan"
+          },
+          "latitude": 18.463203,
+          "longitude": -66.1147571
+        }
+      ]
+    },
+    {
+      "code": "PR-129",
+      "name": {
+        "en": "San Lorenzo"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "San Lorenzo"
+          },
+          "latitude": 18.1886912,
+          "longitude": -65.9765862
+        }
+      ]
+    },
+    {
+      "code": "PR-131",
+      "name": {
+        "en": "San Sebastián"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "San Sebastián"
+          },
+          "latitude": 43.318334,
+          "longitude": -1.9812313
+        }
+      ]
+    },
+    {
+      "code": "PR-133",
+      "name": {
+        "en": "Santa Isabel"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Santa Isabel"
+          },
+          "latitude": 17.9660775,
+          "longitude": -66.404892
+        }
+      ]
+    },
+    {
+      "code": "PR-135",
+      "name": {
+        "en": "Toa Alta"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Toa Alta"
+          },
+          "latitude": 18.3882823,
+          "longitude": -66.2482237
+        }
+      ]
+    },
+    {
+      "code": "PR-TB",
+      "name": {
+        "en": "Toa Baja"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Toa Baja"
+          },
+          "latitude": 18.4444709,
+          "longitude": -66.2543293
+        }
+      ]
+    },
+    {
+      "code": "PR-TA",
+      "name": {
+        "en": "Trujillo Alto"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Trujillo Alto"
+          },
+          "latitude": 18.3546719,
+          "longitude": -66.0073876
+        }
+      ]
+    },
+    {
+      "code": "PR-141",
+      "name": {
+        "en": "Utuado"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Utuado"
+          },
+          "latitude": 18.2655095,
+          "longitude": -66.7004519
+        }
+      ]
+    },
+    {
+      "code": "PR-143",
+      "name": {
+        "en": "Vega Alta"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Vega Alta"
+          },
+          "latitude": 18.4121703,
+          "longitude": -66.3312805
+        }
+      ]
+    },
+    {
+      "code": "PR-145",
+      "name": {
+        "en": "Vega Baja"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Vega Baja"
+          },
+          "latitude": 18.4461459,
+          "longitude": -66.4041967
+        }
+      ]
+    },
+    {
+      "code": "PR-147",
+      "name": {
+        "en": "Vieques"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Vieques"
+          },
+          "latitude": 18.1262854,
+          "longitude": -65.4400985
+        }
+      ]
+    },
+    {
+      "code": "PR-149",
+      "name": {
+        "en": "Villalba"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Villalba"
+          },
+          "latitude": 18.1217554,
+          "longitude": -66.4985787
+        }
+      ]
+    },
+    {
+      "code": "PR-151",
+      "name": {
+        "en": "Yabucoa"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Yabucoa"
+          },
+          "latitude": 18.0505201,
+          "longitude": -65.8793288
+        }
+      ]
+    },
+    {
+      "code": "PR-153",
+      "name": {
+        "en": "Yauco"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Yauco"
+          },
+          "latitude": 18.034964,
+          "longitude": -66.8498983
+        }
+      ]
+    }
+  ]
+}

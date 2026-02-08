@@ -1,0 +1,269 @@
+{
+  "code": "GP",
+  "iso3": "GLP",
+  "name": {
+    "en": "Guadeloupe",
+    "ar": "غواديلوب",
+    "de": "Guadeloupe",
+    "es": "Guadalupe",
+    "fr": "Guadeloupe",
+    "hi": "ग्वाडेलोप",
+    "it": "Guadeloupa",
+    "ja": "グアドループ",
+    "ko": "과들루프",
+    "nl": "Guadeloupe",
+    "pl": "Gwadelupa",
+    "pt": "Guadalupe",
+    "pt-BR": "Guadalupe",
+    "ru": "Гваделупа",
+    "tr": "Guadeloupe",
+    "uk": "Гваделупа",
+    "zh": "瓜德罗普岛"
+  },
+  "phone": "+590",
+  "currency": "EUR",
+  "timezone": "America/Guadeloupe",
+  "flag": "🇬🇵",
+  "regions": [
+    {
+      "code": "GP-01",
+      "name": {
+        "en": "Basse-Terre"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Baie-Mahault"
+          },
+          "latitude": 16.2497607,
+          "longitude": -61.6775072
+        },
+        {
+          "name": {
+            "en": "Baillif"
+          },
+          "latitude": 16.0497331,
+          "longitude": -61.7570591
+        },
+        {
+          "name": {
+            "en": "Basse-Terre"
+          },
+          "latitude": 15.9991631,
+          "longitude": -61.749981
+        },
+        {
+          "name": {
+            "en": "Bouillante"
+          },
+          "latitude": 16.1386937,
+          "longitude": -61.7989897
+        },
+        {
+          "name": {
+            "en": "Capesterre-Belle-Eau"
+          },
+          "latitude": 16.0485402,
+          "longitude": -61.7021045
+        },
+        {
+          "name": {
+            "en": "Deshaies"
+          },
+          "latitude": 16.3193605,
+          "longitude": -61.8242578
+        },
+        {
+          "name": {
+            "en": "Gourbeyre"
+          },
+          "latitude": 16.0056595,
+          "longitude": -61.7302387
+        },
+        {
+          "name": {
+            "en": "Goyave"
+          },
+          "latitude": 16.1231077,
+          "longitude": -61.6974021
+        },
+        {
+          "name": {
+            "en": "Lamentin"
+          },
+          "latitude": 16.2443132,
+          "longitude": -61.7519194
+        },
+        {
+          "name": {
+            "en": "Petit-Bourg"
+          },
+          "latitude": 16.1694881,
+          "longitude": -61.7404331
+        },
+        {
+          "name": {
+            "en": "Pointe-Noire"
+          },
+          "latitude": 16.2270277,
+          "longitude": -61.8063122
+        },
+        {
+          "name": {
+            "en": "Saint-Claude"
+          },
+          "latitude": 16.0405744,
+          "longitude": -61.7364873
+        },
+        {
+          "name": {
+            "en": "Sainte-Rose"
+          },
+          "latitude": 16.2937252,
+          "longitude": -61.7659576
+        },
+        {
+          "name": {
+            "en": "Terre-de-Bas"
+          },
+          "latitude": 15.8554196,
+          "longitude": -61.653292
+        },
+        {
+          "name": {
+            "en": "Terre-de-Haut"
+          },
+          "latitude": 15.8580376,
+          "longitude": -61.6096098
+        },
+        {
+          "name": {
+            "en": "Trois-Rivières"
+          },
+          "latitude": 15.9931362,
+          "longitude": -61.6905296
+        },
+        {
+          "name": {
+            "en": "Vieux-Fort"
+          },
+          "latitude": 15.9607038,
+          "longitude": -61.7135177
+        },
+        {
+          "name": {
+            "en": "Vieux-Habitants"
+          },
+          "latitude": 16.0846618,
+          "longitude": -61.7993923
+        }
+      ]
+    },
+    {
+      "code": "GP-02",
+      "name": {
+        "en": "Pointe-à-Pitre"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Anse-Bertrand"
+          },
+          "latitude": 16.4668181,
+          "longitude": -61.5521768
+        },
+        {
+          "name": {
+            "en": "Capesterre-de-Marie-Galante"
+          },
+          "latitude": 15.9176399,
+          "longitude": -61.2707786
+        },
+        {
+          "name": {
+            "en": "Grand-Bourg"
+          },
+          "latitude": 15.908538,
+          "longitude": -61.3340618
+        },
+        {
+          "name": {
+            "en": "La Désirade"
+          },
+          "latitude": 16.2584545,
+          "longitude": -61.1490279
+        },
+        {
+          "name": {
+            "en": "Le Gosier"
+          },
+          "latitude": 16.2272625,
+          "longitude": -61.5573449
+        },
+        {
+          "name": {
+            "en": "Le Moule"
+          },
+          "latitude": 16.3353687,
+          "longitude": -61.4424293
+        },
+        {
+          "name": {
+            "en": "Les Abymes"
+          },
+          "latitude": 16.2677383,
+          "longitude": -61.5790727
+        },
+        {
+          "name": {
+            "en": "Morne-à-l'Eau"
+          },
+          "latitude": 16.3211061,
+          "longitude": -61.6635689
+        },
+        {
+          "name": {
+            "en": "Petit-Canal"
+          },
+          "latitude": 16.392131,
+          "longitude": -61.5371312
+        },
+        {
+          "name": {
+            "en": "Pointe-à-Pitre"
+          },
+          "latitude": 16.2331304,
+          "longitude": -61.5623485
+        },
+        {
+          "name": {
+            "en": "Port-Louis"
+          },
+          "latitude": 16.4201282,
+          "longitude": -61.5703989
+        },
+        {
+          "name": {
+            "en": "Saint-François"
+          },
+          "latitude": 16.2783495,
+          "longitude": -61.3362498
+        },
+        {
+          "name": {
+            "en": "Saint-Louis"
+          },
+          "latitude": 15.9653589,
+          "longitude": -61.355625
+        },
+        {
+          "name": {
+            "en": "Sainte-Anne"
+          },
+          "latitude": 16.2564613,
+          "longitude": -61.4720288
+        }
+      ]
+    }
+  ]
+}

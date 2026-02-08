@@ -1,0 +1,1429 @@
+{
+  "code": "KE",
+  "iso3": "KEN",
+  "name": {
+    "en": "Kenya",
+    "ar": "كينيا",
+    "de": "Kenia",
+    "es": "Kenia",
+    "fr": "Kenya",
+    "hi": "केन्या",
+    "it": "Kenya",
+    "ja": "ケニア",
+    "ko": "케냐",
+    "nl": "Kenia",
+    "pl": "Kenia",
+    "pt": "Quénia",
+    "pt-BR": "Quênia",
+    "ru": "Кения",
+    "tr": "Kenya",
+    "uk": "Кенія",
+    "zh": "肯尼亚"
+  },
+  "phone": "+254",
+  "currency": "KES",
+  "timezone": "Africa/Nairobi",
+  "flag": "🇰🇪",
+  "regions": [
+    {
+      "code": "KE-01",
+      "name": {
+        "en": "Baringo"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Baringo"
+          },
+          "latitude": 0.46667,
+          "longitude": 35.96667
+        },
+        {
+          "name": {
+            "en": "Eldama Ravine",
+            "ar": "إلداما رافين"
+          },
+          "latitude": 0.05196,
+          "longitude": 35.72734
+        },
+        {
+          "name": {
+            "en": "Kabarnet"
+          },
+          "latitude": 0.49194,
+          "longitude": 35.74303
+        }
+      ]
+    },
+    {
+      "code": "KE-02",
+      "name": {
+        "en": "Bomet"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Sotik"
+          },
+          "latitude": -0.69069,
+          "longitude": 35.11102
+        },
+        {
+          "name": {
+            "en": "Sotik Post"
+          },
+          "latitude": -0.78129,
+          "longitude": 35.34156
+        }
+      ]
+    },
+    {
+      "code": "KE-03",
+      "name": {
+        "en": "Bungoma"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bungoma"
+          },
+          "latitude": 0.5635,
+          "longitude": 34.56055
+        },
+        {
+          "name": {
+            "en": "Malikisi"
+          },
+          "latitude": 0.67694,
+          "longitude": 34.42167
+        },
+        {
+          "name": {
+            "en": "Webuye"
+          },
+          "latitude": 0.6004,
+          "longitude": 34.77119
+        }
+      ]
+    },
+    {
+      "code": "KE-04",
+      "name": {
+        "en": "Busia"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Busia"
+          },
+          "latitude": 0.46005,
+          "longitude": 34.11169
+        },
+        {
+          "name": {
+            "en": "Luanda"
+          },
+          "latitude": 0.31354,
+          "longitude": 34.07146
+        },
+        {
+          "name": {
+            "en": "Lugulu"
+          },
+          "latitude": 0.39337,
+          "longitude": 34.30399
+        },
+        {
+          "name": {
+            "en": "Malaba"
+          },
+          "latitude": 0.63513,
+          "longitude": 34.28165
+        },
+        {
+          "name": {
+            "en": "Nambare"
+          },
+          "latitude": 0.45813,
+          "longitude": 34.25353
+        },
+        {
+          "name": {
+            "en": "Port Victoria"
+          },
+          "latitude": 0.09809,
+          "longitude": 33.97248
+        }
+      ]
+    },
+    {
+      "code": "KE-05",
+      "name": {
+        "en": "Elgeyo-Marakwet"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Chebiemit"
+          },
+          "latitude": 1.05,
+          "longitude": 35.4
+        },
+        {
+          "name": {
+            "en": "Chepkorio"
+          },
+          "latitude": 0.3833,
+          "longitude": 35.45
+        },
+        {
+          "name": {
+            "en": "Chesoi"
+          },
+          "latitude": 1.15,
+          "longitude": 35.65
+        },
+        {
+          "name": {
+            "en": "Chesongoch"
+          },
+          "latitude": 1.0833,
+          "longitude": 35.65
+        },
+        {
+          "name": {
+            "en": "Flax"
+          },
+          "latitude": 0.45,
+          "longitude": 35.4
+        },
+        {
+          "name": {
+            "en": "Iten"
+          },
+          "latitude": 0.6708,
+          "longitude": 35.5083
+        },
+        {
+          "name": {
+            "en": "Kapcherop"
+          },
+          "latitude": 1.2333,
+          "longitude": 35.3833
+        },
+        {
+          "name": {
+            "en": "Kapsait"
+          },
+          "latitude": 1.2167,
+          "longitude": 35.3
+        },
+        {
+          "name": {
+            "en": "Kapsowar"
+          },
+          "latitude": 1.015,
+          "longitude": 35.5225
+        },
+        {
+          "name": {
+            "en": "Kaptalamwa"
+          },
+          "latitude": 1.2,
+          "longitude": 35.45
+        },
+        {
+          "name": {
+            "en": "Kaptarakwa"
+          },
+          "latitude": 0.4333,
+          "longitude": 35.5833
+        },
+        {
+          "name": {
+            "en": "Kapyego"
+          },
+          "latitude": 1.2333,
+          "longitude": 35.6667
+        },
+        {
+          "name": {
+            "en": "Kipmwarer"
+          },
+          "latitude": 0.9167,
+          "longitude": 35.5333
+        },
+        {
+          "name": {
+            "en": "Kocholwo"
+          },
+          "latitude": 0.4167,
+          "longitude": 35.5667
+        },
+        {
+          "name": {
+            "en": "Tambach"
+          },
+          "latitude": 0.7333,
+          "longitude": 35.5833
+        }
+      ]
+    },
+    {
+      "code": "KE-06",
+      "name": {
+        "en": "Embu"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Embu"
+          },
+          "latitude": -0.53987,
+          "longitude": 37.45743
+        }
+      ]
+    },
+    {
+      "code": "KE-07",
+      "name": {
+        "en": "Garissa"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Garissa",
+            "ar": "غاريسا"
+          },
+          "latitude": -0.45275,
+          "longitude": 39.64601
+        }
+      ]
+    },
+    {
+      "code": "KE-08",
+      "name": {
+        "en": "Homa Bay"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Homa Bay"
+          },
+          "latitude": -0.52731,
+          "longitude": 34.45714
+        },
+        {
+          "name": {
+            "en": "Oyugis"
+          },
+          "latitude": -0.50974,
+          "longitude": 34.73067
+        },
+        {
+          "name": {
+            "en": "Rachuonyo"
+          },
+          "latitude": -0.44,
+          "longitude": 34.739
+        }
+      ]
+    },
+    {
+      "code": "KE-09",
+      "name": {
+        "en": "Isiolo"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Isiolo"
+          },
+          "latitude": 0.35462,
+          "longitude": 37.58218
+        }
+      ]
+    },
+    {
+      "code": "KE-10",
+      "name": {
+        "en": "Kajiado"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Kajiado"
+          },
+          "latitude": -1.85238,
+          "longitude": 36.77683
+        },
+        {
+          "name": {
+            "en": "Magadi"
+          },
+          "latitude": -1.90122,
+          "longitude": 36.287
+        },
+        {
+          "name": {
+            "en": "Ngong"
+          },
+          "latitude": -1.3527,
+          "longitude": 36.6699
+        }
+      ]
+    },
+    {
+      "code": "KE-11",
+      "name": {
+        "en": "Kakamega"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Butere"
+          },
+          "latitude": 0.20694,
+          "longitude": 34.49006
+        },
+        {
+          "name": {
+            "en": "Kakamega"
+          },
+          "latitude": 0.28422,
+          "longitude": 34.75229
+        },
+        {
+          "name": {
+            "en": "Mumias"
+          },
+          "latitude": 0.33474,
+          "longitude": 34.48796
+        }
+      ]
+    },
+    {
+      "code": "KE-12",
+      "name": {
+        "en": "Kericho"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Kericho"
+          },
+          "latitude": -0.36774,
+          "longitude": 35.28314
+        },
+        {
+          "name": {
+            "en": "Kipkelion"
+          },
+          "latitude": -0.19982,
+          "longitude": 35.46735
+        },
+        {
+          "name": {
+            "en": "Litein"
+          },
+          "latitude": -0.58249,
+          "longitude": 35.18969
+        },
+        {
+          "name": {
+            "en": "Londiani"
+          },
+          "latitude": -0.16552,
+          "longitude": 35.59359
+        }
+      ]
+    },
+    {
+      "code": "KE-13",
+      "name": {
+        "en": "Kiambu"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Kiambu"
+          },
+          "latitude": -1.17139,
+          "longitude": 36.83556
+        },
+        {
+          "name": {
+            "en": "Kikuyu"
+          },
+          "latitude": -1.24627,
+          "longitude": 36.66291
+        },
+        {
+          "name": {
+            "en": "Limuru"
+          },
+          "latitude": -1.1136,
+          "longitude": 36.64205
+        },
+        {
+          "name": {
+            "en": "Thika"
+          },
+          "latitude": -1.03326,
+          "longitude": 37.06933
+        }
+      ]
+    },
+    {
+      "code": "KE-14",
+      "name": {
+        "en": "Kilifi"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Iten"
+          },
+          "latitude": 0.67028,
+          "longitude": 35.50806
+        },
+        {
+          "name": {
+            "en": "Kapsowar"
+          },
+          "latitude": 0.9789,
+          "longitude": 35.55854
+        },
+        {
+          "name": {
+            "en": "Kilifi"
+          },
+          "latitude": -3.63045,
+          "longitude": 39.84992
+        },
+        {
+          "name": {
+            "en": "Malindi",
+            "ar": "ماليندي"
+          },
+          "latitude": -3.21799,
+          "longitude": 40.11692
+        },
+        {
+          "name": {
+            "en": "Mariakani"
+          },
+          "latitude": -3.86261,
+          "longitude": 39.47458
+        },
+        {
+          "name": {
+            "en": "Takaungu"
+          },
+          "latitude": -3.6835,
+          "longitude": 39.85687
+        }
+      ]
+    },
+    {
+      "code": "KE-15",
+      "name": {
+        "en": "Kirinyaga"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Kerugoya"
+          },
+          "latitude": -0.49887,
+          "longitude": 37.28031
+        },
+        {
+          "name": {
+            "en": "Sagana"
+          },
+          "latitude": -0.66806,
+          "longitude": 37.20875
+        }
+      ]
+    },
+    {
+      "code": "KE-16",
+      "name": {
+        "en": "Kisii"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Kisii"
+          },
+          "latitude": -0.68174,
+          "longitude": 34.76666
+        },
+        {
+          "name": {
+            "en": "Ogembo"
+          },
+          "latitude": -0.80116,
+          "longitude": 34.72579
+        }
+      ]
+    },
+    {
+      "code": "KE-17",
+      "name": {
+        "en": "Kisumu"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ahero"
+          },
+          "latitude": -0.17359,
+          "longitude": 34.9189
+        },
+        {
+          "name": {
+            "en": "Kisumu",
+            "ar": "كيزيمو"
+          },
+          "latitude": -0.10221,
+          "longitude": 34.76171
+        },
+        {
+          "name": {
+            "en": "Muhoroni"
+          },
+          "latitude": -0.15816,
+          "longitude": 35.19645
+        }
+      ]
+    },
+    {
+      "code": "KE-18",
+      "name": {
+        "en": "Kitui"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Kitui"
+          },
+          "latitude": -1.36696,
+          "longitude": 38.01055
+        },
+        {
+          "name": {
+            "en": "Mwingi"
+          },
+          "latitude": -0.93605,
+          "longitude": 38.05955
+        }
+      ]
+    },
+    {
+      "code": "KE-19",
+      "name": {
+        "en": "Kwale"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Gazi"
+          },
+          "latitude": -4.42402,
+          "longitude": 39.50588
+        },
+        {
+          "name": {
+            "en": "Kinango"
+          },
+          "latitude": -4.13723,
+          "longitude": 39.31528
+        },
+        {
+          "name": {
+            "en": "Kwale"
+          },
+          "latitude": -4.17375,
+          "longitude": 39.45206
+        },
+        {
+          "name": {
+            "en": "Sawa Sawa"
+          },
+          "latitude": -4.47166,
+          "longitude": 39.48463
+        },
+        {
+          "name": {
+            "en": "Shimoni"
+          },
+          "latitude": -4.64756,
+          "longitude": 39.38175
+        }
+      ]
+    },
+    {
+      "code": "KE-20",
+      "name": {
+        "en": "Laikipia"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Nanyuki"
+          },
+          "latitude": 0.00624,
+          "longitude": 37.07398
+        },
+        {
+          "name": {
+            "en": "Nyahururu",
+            "ar": "نياهورورو"
+          },
+          "latitude": 0.03813,
+          "longitude": 36.36339
+        },
+        {
+          "name": {
+            "en": "Rumuruti"
+          },
+          "latitude": 0.2725,
+          "longitude": 36.53806
+        }
+      ]
+    },
+    {
+      "code": "KE-21",
+      "name": {
+        "en": "Lamu"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Lamu",
+            "ar": "لامو"
+          },
+          "latitude": -2.27169,
+          "longitude": 40.90201
+        },
+        {
+          "name": {
+            "en": "Witu"
+          },
+          "latitude": -2.38892,
+          "longitude": 40.43827
+        }
+      ]
+    },
+    {
+      "code": "KE-22",
+      "name": {
+        "en": "Machakos"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Athi River"
+          },
+          "latitude": -1.4563,
+          "longitude": 36.97826
+        },
+        {
+          "name": {
+            "en": "Kangundo"
+          },
+          "latitude": -1.30342,
+          "longitude": 37.34813
+        },
+        {
+          "name": {
+            "en": "Konza"
+          },
+          "latitude": -1.73947,
+          "longitude": 37.13195
+        },
+        {
+          "name": {
+            "en": "Machakos"
+          },
+          "latitude": -1.52233,
+          "longitude": 37.26521
+        }
+      ]
+    },
+    {
+      "code": "KE-23",
+      "name": {
+        "en": "Makueni"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Makueni Boma"
+          },
+          "latitude": -1.80388,
+          "longitude": 37.62405
+        },
+        {
+          "name": {
+            "en": "Mtito Andei"
+          },
+          "latitude": -2.68987,
+          "longitude": 38.16687
+        },
+        {
+          "name": {
+            "en": "Wote"
+          },
+          "latitude": -1.78079,
+          "longitude": 37.62882
+        }
+      ]
+    },
+    {
+      "code": "KE-24",
+      "name": {
+        "en": "Mandera"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Mandera"
+          },
+          "latitude": 3.93726,
+          "longitude": 41.85688
+        }
+      ]
+    },
+    {
+      "code": "KE-25",
+      "name": {
+        "en": "Marsabit"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Marsabit"
+          },
+          "latitude": 2.33468,
+          "longitude": 37.99086
+        },
+        {
+          "name": {
+            "en": "Moyale"
+          },
+          "latitude": 3.52661,
+          "longitude": 39.0561
+        }
+      ]
+    },
+    {
+      "code": "KE-26",
+      "name": {
+        "en": "Meru"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Maua"
+          },
+          "latitude": 0.2332,
+          "longitude": 37.94086
+        },
+        {
+          "name": {
+            "en": "Meru"
+          },
+          "latitude": 0.04626,
+          "longitude": 37.65587
+        }
+      ]
+    },
+    {
+      "code": "KE-27",
+      "name": {
+        "en": "Migori"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Kihancha"
+          },
+          "latitude": -1.19347,
+          "longitude": 34.61967
+        },
+        {
+          "name": {
+            "en": "Migori"
+          },
+          "latitude": -1.06343,
+          "longitude": 34.47313
+        }
+      ]
+    },
+    {
+      "code": "KE-28",
+      "name": {
+        "en": "Mombasa"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Mombasa",
+            "ar": "مومباسا"
+          },
+          "latitude": -4.05466,
+          "longitude": 39.66359
+        }
+      ]
+    },
+    {
+      "code": "KE-29",
+      "name": {
+        "en": "Murang'a"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Kangema"
+          },
+          "latitude": -0.68553,
+          "longitude": 36.96463
+        },
+        {
+          "name": {
+            "en": "Karuri"
+          },
+          "latitude": -0.7,
+          "longitude": 37.18333
+        },
+        {
+          "name": {
+            "en": "Maragua"
+          },
+          "latitude": -0.79602,
+          "longitude": 37.13292
+        },
+        {
+          "name": {
+            "en": "Murang’a"
+          },
+          "latitude": -0.72104,
+          "longitude": 37.15259
+        }
+      ]
+    },
+    {
+      "code": "KE-30",
+      "name": {
+        "en": "Nairobi City"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Nairobi",
+            "ar": "نيروبي"
+          },
+          "latitude": -1.28333,
+          "longitude": 36.81667
+        },
+        {
+          "name": {
+            "en": "Pumwani"
+          },
+          "latitude": -1.28333,
+          "longitude": 36.85
+        }
+      ]
+    },
+    {
+      "code": "KE-31",
+      "name": {
+        "en": "Nakuru"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Kijabe"
+          },
+          "latitude": -0.93334,
+          "longitude": 36.57233
+        },
+        {
+          "name": {
+            "en": "Molo"
+          },
+          "latitude": -0.24849,
+          "longitude": 35.73194
+        },
+        {
+          "name": {
+            "en": "Naivasha",
+            "ar": "نايفاشا"
+          },
+          "latitude": -0.71383,
+          "longitude": 36.43261
+        },
+        {
+          "name": {
+            "en": "Nakuru"
+          },
+          "latitude": -0.30719,
+          "longitude": 36.07225
+        },
+        {
+          "name": {
+            "en": "Rongai"
+          },
+          "latitude": -0.17344,
+          "longitude": 35.86313
+        }
+      ]
+    },
+    {
+      "code": "KE-32",
+      "name": {
+        "en": "Nandi"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Kapsabet"
+          },
+          "latitude": 0.20387,
+          "longitude": 35.105
+        },
+        {
+          "name": {
+            "en": "Nandi Hills"
+          },
+          "latitude": 0.10366,
+          "longitude": 35.18426
+        }
+      ]
+    },
+    {
+      "code": "KE-33",
+      "name": {
+        "en": "Narok"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Narok"
+          },
+          "latitude": -1.08083,
+          "longitude": 35.87111
+        }
+      ]
+    },
+    {
+      "code": "KE-34",
+      "name": {
+        "en": "Nyamira"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Keroka"
+          },
+          "latitude": -0.77612,
+          "longitude": 34.94678
+        },
+        {
+          "name": {
+            "en": "Nyamira"
+          },
+          "latitude": -0.56333,
+          "longitude": 34.93583
+        }
+      ]
+    },
+    {
+      "code": "KE-35",
+      "name": {
+        "en": "Nyandarua"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ol Kalou"
+          },
+          "latitude": -0.27088,
+          "longitude": 36.37917
+        }
+      ]
+    },
+    {
+      "code": "KE-36",
+      "name": {
+        "en": "Nyeri"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Naro Moru"
+          },
+          "latitude": -0.16357,
+          "longitude": 37.01773
+        },
+        {
+          "name": {
+            "en": "Nyeri"
+          },
+          "latitude": -0.42013,
+          "longitude": 36.94759
+        },
+        {
+          "name": {
+            "en": "Othaya"
+          },
+          "latitude": -0.54655,
+          "longitude": 36.93178
+        }
+      ]
+    },
+    {
+      "code": "KE-37",
+      "name": {
+        "en": "Samburu"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Maralal"
+          },
+          "latitude": 1.09667,
+          "longitude": 36.69806
+        }
+      ]
+    },
+    {
+      "code": "KE-38",
+      "name": {
+        "en": "Siaya"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bondo"
+          },
+          "latitude": 0.23522,
+          "longitude": 34.28086
+        },
+        {
+          "name": {
+            "en": "Siaya"
+          },
+          "latitude": 0.0607,
+          "longitude": 34.28806
+        },
+        {
+          "name": {
+            "en": "Yala"
+          },
+          "latitude": 0.09438,
+          "longitude": 34.53602
+        }
+      ]
+    },
+    {
+      "code": "KE-39",
+      "name": {
+        "en": "Taita–Taveta"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bura"
+          },
+          "latitude": -3.5,
+          "longitude": 38.3
+        },
+        {
+          "name": {
+            "en": "Chala"
+          },
+          "latitude": -3.3833,
+          "longitude": 37.6833
+        },
+        {
+          "name": {
+            "en": "Maktau"
+          },
+          "latitude": -3.4,
+          "longitude": 38.1333
+        },
+        {
+          "name": {
+            "en": "Mgange"
+          },
+          "latitude": -3.4,
+          "longitude": 38.3167
+        },
+        {
+          "name": {
+            "en": "Mwanda"
+          },
+          "latitude": -3.4,
+          "longitude": 38.2833
+        },
+        {
+          "name": {
+            "en": "Mwatate"
+          },
+          "latitude": -3.5033,
+          "longitude": 38.3812
+        },
+        {
+          "name": {
+            "en": "Taveta"
+          },
+          "latitude": -3.3988,
+          "longitude": 37.6834
+        },
+        {
+          "name": {
+            "en": "Voi"
+          },
+          "latitude": -3.3961,
+          "longitude": 38.5563
+        },
+        {
+          "name": {
+            "en": "Wesu"
+          },
+          "latitude": -3.4,
+          "longitude": 38.35
+        },
+        {
+          "name": {
+            "en": "Wundanyi"
+          },
+          "latitude": -3.4085,
+          "longitude": 38.3651
+        }
+      ]
+    },
+    {
+      "code": "KE-40",
+      "name": {
+        "en": "Tana River"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Hola"
+          },
+          "latitude": -1.48256,
+          "longitude": 40.03341
+        },
+        {
+          "name": {
+            "en": "Kipini"
+          },
+          "latitude": -2.52565,
+          "longitude": 40.5262
+        }
+      ]
+    },
+    {
+      "code": "KE-41",
+      "name": {
+        "en": "Tharaka-Nithi"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Chuka"
+          },
+          "latitude": -0.33316,
+          "longitude": 37.64587
+        }
+      ]
+    },
+    {
+      "code": "KE-42",
+      "name": {
+        "en": "Trans Nzoia"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Kitale"
+          },
+          "latitude": 1.01572,
+          "longitude": 35.00622
+        }
+      ]
+    },
+    {
+      "code": "KE-43",
+      "name": {
+        "en": "Turkana"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Lodwar"
+          },
+          "latitude": 3.11988,
+          "longitude": 35.59642
+        }
+      ]
+    },
+    {
+      "code": "KE-44",
+      "name": {
+        "en": "Uasin Gishu"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Eldoret"
+          },
+          "latitude": 0.52036,
+          "longitude": 35.26993
+        }
+      ]
+    },
+    {
+      "code": "KE-45",
+      "name": {
+        "en": "Vihiga"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Chavakali"
+          },
+          "latitude": 0.1167,
+          "longitude": 34.7
+        },
+        {
+          "name": {
+            "en": "Esabalu"
+          },
+          "latitude": 0.0167,
+          "longitude": 34.6167
+        },
+        {
+          "name": {
+            "en": "Gambogi"
+          },
+          "latitude": 0.0833,
+          "longitude": 34.8
+        },
+        {
+          "name": {
+            "en": "Kilingili"
+          },
+          "latitude": 0.0833,
+          "longitude": 34.6667
+        },
+        {
+          "name": {
+            "en": "Luanda"
+          },
+          "latitude": 0.0043,
+          "longitude": 34.597
+        },
+        {
+          "name": {
+            "en": "Majengo"
+          },
+          "latitude": 0.1,
+          "longitude": 34.6167
+        },
+        {
+          "name": {
+            "en": "Maseno"
+          },
+          "latitude": 0,
+          "longitude": 34.6
+        },
+        {
+          "name": {
+            "en": "Mbale"
+          },
+          "latitude": 0.0708,
+          "longitude": 34.7242
+        },
+        {
+          "name": {
+            "en": "Mudete"
+          },
+          "latitude": 0.1333,
+          "longitude": 34.75
+        },
+        {
+          "name": {
+            "en": "Serem"
+          },
+          "latitude": 0.0833,
+          "longitude": 34.8833
+        }
+      ]
+    },
+    {
+      "code": "KE-46",
+      "name": {
+        "en": "Wajir"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Wajir"
+          },
+          "latitude": 1.7471,
+          "longitude": 40.05732
+        }
+      ]
+    },
+    {
+      "code": "KE-47",
+      "name": {
+        "en": "West Pokot"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Chepareria"
+          },
+          "latitude": 1.30583,
+          "longitude": 35.20365
+        },
+        {
+          "name": {
+            "en": "Kapenguria"
+          },
+          "latitude": 1.23889,
+          "longitude": 35.11194
+        },
+        {
+          "name": {
+            "en": "Taveta"
+          },
+          "latitude": -3.39879,
+          "longitude": 37.68336
+        },
+        {
+          "name": {
+            "en": "Voi"
+          },
+          "latitude": -3.39605,
+          "longitude": 38.55609
+        },
+        {
+          "name": {
+            "en": "Wundanyi"
+          },
+          "latitude": -3.39642,
+          "longitude": 38.35729
+        }
+      ]
+    }
+  ]
+}

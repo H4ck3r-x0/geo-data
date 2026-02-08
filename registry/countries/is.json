@@ -1,0 +1,962 @@
+{
+  "code": "IS",
+  "iso3": "ISL",
+  "name": {
+    "en": "Iceland",
+    "ar": "أيسلندا",
+    "de": "Island",
+    "es": "Islandia",
+    "fr": "Islande",
+    "hi": "आइसलैंड",
+    "it": "Islanda",
+    "ja": "アイスランド",
+    "ko": "아이슬란드",
+    "nl": "IJsland",
+    "pl": "Islandia",
+    "pt": "Islândia",
+    "pt-BR": "Islândia",
+    "ru": "Исландия",
+    "tr": "İzlanda",
+    "uk": "Ісландія",
+    "zh": "冰岛"
+  },
+  "phone": "+354",
+  "currency": "ISK",
+  "timezone": "Atlantic/Reykjavik",
+  "flag": "🇮🇸",
+  "regions": [
+    {
+      "code": "IS-AKN",
+      "name": {
+        "en": "Akranes"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Akranes"
+          },
+          "latitude": 64.32179,
+          "longitude": -22.0749
+        }
+      ]
+    },
+    {
+      "code": "IS-AKU",
+      "name": {
+        "en": "Akureyri"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Akureyri",
+            "ar": "أكوريري"
+          },
+          "latitude": 65.68353,
+          "longitude": -18.0878
+        }
+      ]
+    },
+    {
+      "code": "IS-SFA",
+      "name": {
+        "en": "Árborg"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Selfoss"
+          },
+          "latitude": 63.93311,
+          "longitude": -20.99712
+        }
+      ]
+    },
+    {
+      "code": "IS-ASA",
+      "name": {
+        "en": "Ásahreppur"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ásahreppur"
+          },
+          "latitude": 63.87589,
+          "longitude": -20.59484
+        }
+      ]
+    },
+    {
+      "code": "IS-BLA",
+      "name": {
+        "en": "Bláskógabyggð"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bláskógabyggð"
+          },
+          "latitude": 64.41667,
+          "longitude": -20.33333
+        }
+      ]
+    },
+    {
+      "code": "IS-BOG",
+      "name": {
+        "en": "Borgarbyggð"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Akrahreppur"
+          },
+          "latitude": 65.35505,
+          "longitude": -18.79572
+        },
+        {
+          "name": {
+            "en": "Borgarbyggð"
+          },
+          "latitude": 64.71446,
+          "longitude": -21.23788
+        },
+        {
+          "name": {
+            "en": "Borgarfjarðarhreppur"
+          },
+          "latitude": 65.43401,
+          "longitude": -13.82933
+        },
+        {
+          "name": {
+            "en": "Borgarnes"
+          },
+          "latitude": 64.53834,
+          "longitude": -21.92064
+        }
+      ]
+    },
+    {
+      "code": "IS-DAB",
+      "name": {
+        "en": "Dalabyggð"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Dalabyggð"
+          },
+          "latitude": 65.10121,
+          "longitude": -21.72871
+        }
+      ]
+    },
+    {
+      "code": "IS-DAV",
+      "name": {
+        "en": "Dalvíkurbyggð"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Dalvík"
+          },
+          "latitude": 65.97018,
+          "longitude": -18.52861
+        },
+        {
+          "name": {
+            "en": "Dalvíkurbyggð"
+          },
+          "latitude": 65.87318,
+          "longitude": -18.60844
+        }
+      ]
+    },
+    {
+      "code": "IS-EOM",
+      "name": {
+        "en": "Eyja- og Miklaholtshreppur"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Eyja- og Miklaholtshreppur"
+          },
+          "latitude": 64.85846,
+          "longitude": -22.54557
+        }
+      ]
+    },
+    {
+      "code": "IS-EYF",
+      "name": {
+        "en": "Eyjafjarðarsveit"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Eyjafjarðarsveit"
+          },
+          "latitude": 65.33333,
+          "longitude": -18.16667
+        }
+      ]
+    },
+    {
+      "code": "IS-FJL",
+      "name": {
+        "en": "Fjallabyggð"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Fjallabyggð"
+          },
+          "latitude": 66.05962,
+          "longitude": -18.7822
+        },
+        {
+          "name": {
+            "en": "Siglufjörður"
+          },
+          "latitude": 66.15198,
+          "longitude": -18.90815
+        }
+      ]
+    },
+    {
+      "code": "IS-FJD",
+      "name": {
+        "en": "Fjarðabyggð"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Breiðdalshreppur"
+          },
+          "latitude": 64.83333,
+          "longitude": -14.25
+        },
+        {
+          "name": {
+            "en": "Egilsstaðir"
+          },
+          "latitude": 65.26687,
+          "longitude": -14.39485
+        },
+        {
+          "name": {
+            "en": "Eskifjörður"
+          },
+          "latitude": 65.07306,
+          "longitude": -14.01525
+        },
+        {
+          "name": {
+            "en": "Fjarðabyggð"
+          },
+          "latitude": 65.08333,
+          "longitude": -14
+        },
+        {
+          "name": {
+            "en": "Neskaupstaður"
+          },
+          "latitude": 65.14819,
+          "longitude": -13.68368
+        },
+        {
+          "name": {
+            "en": "Reyðarfjörður"
+          },
+          "latitude": 65.03164,
+          "longitude": -14.21832
+        }
+      ]
+    },
+    {
+      "code": "IS-FLR",
+      "name": {
+        "en": "Fljótsdalshreppur"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Fljótsdalshreppur"
+          },
+          "latitude": 64.85275,
+          "longitude": -15.2568
+        }
+      ]
+    },
+    {
+      "code": "IS-FLA",
+      "name": {
+        "en": "Flóahreppur"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Flóahreppur"
+          },
+          "latitude": 63.89569,
+          "longitude": -20.80159
+        }
+      ]
+    },
+    {
+      "code": "IS-GAR",
+      "name": {
+        "en": "Garðabær"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Álftanes"
+          },
+          "latitude": 64.1,
+          "longitude": -22.01667
+        },
+        {
+          "name": {
+            "en": "Garðabær"
+          },
+          "latitude": 64.08865,
+          "longitude": -21.92298
+        }
+      ]
+    },
+    {
+      "code": "IS-GOG",
+      "name": {
+        "en": "Grímsnes- og Grafningshreppur"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Grímsnes- og Grafningshreppur"
+          },
+          "latitude": 64.08533,
+          "longitude": -20.9671
+        }
+      ]
+    },
+    {
+      "code": "IS-GRN",
+      "name": {
+        "en": "Grindavík"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Grindavík"
+          },
+          "latitude": 63.83849,
+          "longitude": -22.43931
+        }
+      ]
+    },
+    {
+      "code": "IS-GRY",
+      "name": {
+        "en": "Grýtubakkahreppur"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Grýtubakkahreppur"
+          },
+          "latitude": 65.98333,
+          "longitude": -18.11667
+        }
+      ]
+    },
+    {
+      "code": "IS-HAF",
+      "name": {
+        "en": "Hafnarfjörður"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Hafnarfjörður",
+            "ar": "هافنارفيوردور"
+          },
+          "latitude": 64.0671,
+          "longitude": -21.93774
+        }
+      ]
+    },
+    {
+      "code": "IS-HRG",
+      "name": {
+        "en": "Hörðarsveit"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Hörgársveit"
+          },
+          "latitude": 65.64828,
+          "longitude": -18.49599
+        }
+      ]
+    },
+    {
+      "code": "IS-SHF",
+      "name": {
+        "en": "Hornafjörður"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Höfn"
+          },
+          "latitude": 64.25388,
+          "longitude": -15.21212
+        }
+      ]
+    },
+    {
+      "code": "IS-HRU",
+      "name": {
+        "en": "Hrunamannahreppur"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Hrunamannahreppur"
+          },
+          "latitude": 64.40944,
+          "longitude": -19.72237
+        }
+      ]
+    },
+    {
+      "code": "IS-HUV",
+      "name": {
+        "en": "Húnaþing vestra"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Húnaþing Vestra"
+          },
+          "latitude": 65.25,
+          "longitude": -20.91667
+        }
+      ]
+    },
+    {
+      "code": "IS-HVA",
+      "name": {
+        "en": "Hvalfjarðarsveit"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Hvalfjarðarsveit"
+          },
+          "latitude": 64.44265,
+          "longitude": -21.61086
+        }
+      ]
+    },
+    {
+      "code": "IS-HVE",
+      "name": {
+        "en": "Hveragerði"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Hveragerði"
+          },
+          "latitude": 64.00039,
+          "longitude": -21.18602
+        }
+      ]
+    },
+    {
+      "code": "IS-ISA",
+      "name": {
+        "en": "Ísafjörður"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ísafjarðarbær"
+          },
+          "latitude": 66.07586,
+          "longitude": -23.12794
+        },
+        {
+          "name": {
+            "en": "Ísafjörður"
+          },
+          "latitude": 66.07475,
+          "longitude": -23.13498
+        }
+      ]
+    },
+    {
+      "code": "IS-KJO",
+      "name": {
+        "en": "Kjósarhreppur"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Kjósarhreppur"
+          },
+          "latitude": 64.30644,
+          "longitude": -21.49919
+        }
+      ]
+    },
+    {
+      "code": "IS-KOP",
+      "name": {
+        "en": "Kópavogur"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Kópavogur",
+            "ar": "كوبافوغور"
+          },
+          "latitude": 64.11234,
+          "longitude": -21.91298
+        }
+      ]
+    },
+    {
+      "code": "IS-LAN",
+      "name": {
+        "en": "Langanesbyggð"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Langanesbyggð"
+          },
+          "latitude": 66.05186,
+          "longitude": -15.18969
+        }
+      ]
+    },
+    {
+      "code": "IS-MOS",
+      "name": {
+        "en": "Mosfellsbær"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Mosfellsbaer"
+          },
+          "latitude": 64.15,
+          "longitude": -21.65
+        }
+      ]
+    },
+    {
+      "code": "IS-MUL",
+      "name": {
+        "en": "Múlaþing"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Fljótsdalshérað"
+          },
+          "latitude": 65.2502,
+          "longitude": -15.37211
+        }
+      ]
+    },
+    {
+      "code": "IS-MYR",
+      "name": {
+        "en": "Mýrdalshreppur"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Mýrdalshreppur"
+          },
+          "latitude": 63.5,
+          "longitude": -19
+        }
+      ]
+    },
+    {
+      "code": "IS-NOR",
+      "name": {
+        "en": "Norðurþing"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Húsavík"
+          },
+          "latitude": 66.04148,
+          "longitude": -17.33834
+        }
+      ]
+    },
+    {
+      "code": "IS-SOL",
+      "name": {
+        "en": "Ölfus"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Þorlákshöfn"
+          },
+          "latitude": 63.85591,
+          "longitude": -21.38337
+        }
+      ]
+    },
+    {
+      "code": "IS-RHH",
+      "name": {
+        "en": "Reykhólahreppur"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Reykhólahreppur"
+          },
+          "latitude": 65.6099,
+          "longitude": -22.33324
+        }
+      ]
+    },
+    {
+      "code": "IS-RKN",
+      "name": {
+        "en": "Reykjanesbær"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Garður"
+          },
+          "latitude": 64.06558,
+          "longitude": -22.64656
+        },
+        {
+          "name": {
+            "en": "Keflavík",
+            "ar": "كيفلافيك"
+          },
+          "latitude": 64.00492,
+          "longitude": -22.56242
+        },
+        {
+          "name": {
+            "en": "Reykjanesbær",
+            "ar": "كيفلافيك"
+          },
+          "latitude": 63.99813,
+          "longitude": -22.56111
+        },
+        {
+          "name": {
+            "en": "Sandgerði"
+          },
+          "latitude": 64.03762,
+          "longitude": -22.70799
+        }
+      ]
+    },
+    {
+      "code": "IS-RKV",
+      "name": {
+        "en": "Reykjavík"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Reykjavík",
+            "ar": "ريكيافيك"
+          },
+          "latitude": 64.13548,
+          "longitude": -21.89541
+        }
+      ]
+    },
+    {
+      "code": "IS-SEL",
+      "name": {
+        "en": "Seltjarnarnes"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Seltjarnarnes"
+          },
+          "latitude": 64.15309,
+          "longitude": -21.99499
+        }
+      ]
+    },
+    {
+      "code": "IS-SKF",
+      "name": {
+        "en": "Skaftárhreppur"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Skaftárhreppur"
+          },
+          "latitude": 63.95948,
+          "longitude": -18.14491
+        }
+      ]
+    },
+    {
+      "code": "IS-SKG",
+      "name": {
+        "en": "Skagabyggð"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Skagabyggð"
+          },
+          "latitude": 65.95,
+          "longitude": -20.25
+        }
+      ]
+    },
+    {
+      "code": "IS-SKR",
+      "name": {
+        "en": "Skagafjörður"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Sauðárkrókur"
+          },
+          "latitude": 65.74611,
+          "longitude": -19.63944
+        },
+        {
+          "name": {
+            "en": "Sveitarfélagið Skagafjörður"
+          },
+          "latitude": 65.50018,
+          "longitude": -19.44566
+        }
+      ]
+    },
+    {
+      "code": "IS-SOG",
+      "name": {
+        "en": "Skeiða- og Gnúpverjahreppur"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Skeiða- og Gnúpverjahreppur"
+          },
+          "latitude": 64.34738,
+          "longitude": -19.37757
+        }
+      ]
+    },
+    {
+      "code": "IS-SKO",
+      "name": {
+        "en": "Skorradalshreppur"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Skorradalshreppur"
+          },
+          "latitude": 64.51667,
+          "longitude": -21.5
+        }
+      ]
+    },
+    {
+      "code": "IS-SNF",
+      "name": {
+        "en": "Snæfellsbær"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ólafsvík"
+          },
+          "latitude": 64.89429,
+          "longitude": -23.70918
+        },
+        {
+          "name": {
+            "en": "Snæfellsbær"
+          },
+          "latitude": 64.86667,
+          "longitude": -23.5
+        }
+      ]
+    },
+    {
+      "code": "IS-STR",
+      "name": {
+        "en": "Strandabyggð"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Strandabyggð"
+          },
+          "latitude": 65.77455,
+          "longitude": -21.95725
+        }
+      ]
+    },
+    {
+      "code": "IS-STY",
+      "name": {
+        "en": "Stykkishólmur"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Helgafellssveit"
+          },
+          "latitude": 64.99069,
+          "longitude": -22.78948
+        },
+        {
+          "name": {
+            "en": "Stykkishólmur"
+          },
+          "latitude": 65.07537,
+          "longitude": -22.72977
+        }
+      ]
+    },
+    {
+      "code": "IS-SBT",
+      "name": {
+        "en": "Svalbardsstrandarhreppur"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Svalbarðsstrandarhreppur"
+          },
+          "latitude": 65.74138,
+          "longitude": -18.03513
+        }
+      ]
+    },
+    {
+      "code": "IS-TAL",
+      "name": {
+        "en": "Tálknafjarðarhreppur"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Tálknafjarðarhreppur"
+          },
+          "latitude": 65.61667,
+          "longitude": -23.88333
+        }
+      ]
+    },
+    {
+      "code": "IS-TJO",
+      "name": {
+        "en": "Tjörneshreppur"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Tjörneshreppur"
+          },
+          "latitude": 66.11667,
+          "longitude": -17.2
+        }
+      ]
+    },
+    {
+      "code": "IS-VEM",
+      "name": {
+        "en": "Vestmannaeyjar"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Vestmannaeyjabær"
+          },
+          "latitude": 63.43877,
+          "longitude": -20.269
+        },
+        {
+          "name": {
+            "en": "Vestmannaeyjar"
+          },
+          "latitude": 63.44273,
+          "longitude": -20.27339
+        }
+      ]
+    },
+    {
+      "code": "IS-SVG",
+      "name": {
+        "en": "Vogar"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Vogar"
+          },
+          "latitude": 63.9816,
+          "longitude": -22.38473
+        }
+      ]
+    },
+    {
+      "code": "IS-THG",
+      "name": {
+        "en": "Þingeyjarsveit"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Laugar"
+          },
+          "latitude": 65.72159,
+          "longitude": -17.37352
+        },
+        {
+          "name": {
+            "en": "Skútustaðahreppur"
+          },
+          "latitude": 65.17177,
+          "longitude": -16.7789
+        },
+        {
+          "name": {
+            "en": "Þingeyjarsveit"
+          },
+          "latitude": 65.37229,
+          "longitude": -17.59927
+        }
+      ]
+    }
+  ]
+}

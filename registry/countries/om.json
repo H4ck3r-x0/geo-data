@@ -1,0 +1,325 @@
+{
+  "code": "OM",
+  "iso3": "OMN",
+  "name": {
+    "en": "Oman",
+    "ar": "عمان",
+    "de": "Oman",
+    "es": "Omán",
+    "fr": "Oman",
+    "hi": "ओमान",
+    "it": "oman",
+    "ja": "オマーン",
+    "ko": "오만",
+    "nl": "Oman",
+    "pl": "Oman",
+    "pt": "Omã",
+    "pt-BR": "Omã",
+    "ru": "Оман",
+    "tr": "Umman",
+    "uk": "Оман",
+    "zh": "阿曼"
+  },
+  "phone": "+968",
+  "currency": "OMR",
+  "timezone": "Asia/Muscat",
+  "flag": "🇴🇲",
+  "regions": [
+    {
+      "code": "OM-DA",
+      "name": {
+        "en": "Ad Dakhiliyah"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Adam",
+            "ar": "أدم"
+          },
+          "latitude": 22.37934,
+          "longitude": 57.52718
+        },
+        {
+          "name": {
+            "en": "Bahlā’",
+            "ar": "بهلاء"
+          },
+          "latitude": 22.97886,
+          "longitude": 57.3047
+        },
+        {
+          "name": {
+            "en": "Bidbid"
+          },
+          "latitude": 23.40787,
+          "longitude": 58.1283
+        },
+        {
+          "name": {
+            "en": "Izkī",
+            "ar": "إزكي"
+          },
+          "latitude": 22.93333,
+          "longitude": 57.76667
+        },
+        {
+          "name": {
+            "en": "Nizwá",
+            "ar": "نزوى"
+          },
+          "latitude": 22.93333,
+          "longitude": 57.53333
+        },
+        {
+          "name": {
+            "en": "Sufālat Samā’il"
+          },
+          "latitude": 23.31667,
+          "longitude": 58.01667
+        }
+      ]
+    },
+    {
+      "code": "OM-ZA",
+      "name": {
+        "en": "Ad Dhahirah"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "‘Ibrī",
+            "ar": "‘Ibrī"
+          },
+          "latitude": 23.22573,
+          "longitude": 56.51572
+        },
+        {
+          "name": {
+            "en": "Yanqul",
+            "ar": "ينقل"
+          },
+          "latitude": 23.58645,
+          "longitude": 56.53969
+        }
+      ]
+    },
+    {
+      "code": "OM-BS",
+      "name": {
+        "en": "Al Batinah North"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Al Khābūrah",
+            "ar": "الخابورة"
+          },
+          "latitude": 23.97144,
+          "longitude": 57.09313
+        },
+        {
+          "name": {
+            "en": "As Suwayq",
+            "ar": "السويق"
+          },
+          "latitude": 23.84944,
+          "longitude": 57.43861
+        },
+        {
+          "name": {
+            "en": "Liwá",
+            "ar": "لوى"
+          },
+          "latitude": 24.53077,
+          "longitude": 56.563
+        },
+        {
+          "name": {
+            "en": "Şaḩam"
+          },
+          "latitude": 24.17222,
+          "longitude": 56.88861
+        },
+        {
+          "name": {
+            "en": "Shināş",
+            "ar": "شناص"
+          },
+          "latitude": 24.7426,
+          "longitude": 56.46698
+        },
+        {
+          "name": {
+            "en": "Sohar",
+            "ar": "صحار"
+          },
+          "latitude": 24.34745,
+          "longitude": 56.70937
+        }
+      ]
+    },
+    {
+      "code": "OM-BJ",
+      "name": {
+        "en": "Al Batinah South"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Barkā’",
+            "ar": "بركاء"
+          },
+          "latitude": 23.67872,
+          "longitude": 57.88605
+        },
+        {
+          "name": {
+            "en": "Bayt al ‘Awābī"
+          },
+          "latitude": 23.30324,
+          "longitude": 57.52459
+        },
+        {
+          "name": {
+            "en": "Oman Smart Future City"
+          },
+          "latitude": 23.6527,
+          "longitude": 57.59926
+        },
+        {
+          "name": {
+            "en": "Rustaq",
+            "ar": "الرستاق"
+          },
+          "latitude": 23.39083,
+          "longitude": 57.42444
+        }
+      ]
+    },
+    {
+      "code": "OM-BU",
+      "name": {
+        "en": "Al Buraimi"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Al Buraymī",
+            "ar": "البريمي"
+          },
+          "latitude": 24.25088,
+          "longitude": 55.79312
+        }
+      ]
+    },
+    {
+      "code": "OM-WU",
+      "name": {
+        "en": "Al Wusta"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Haymā’"
+          },
+          "latitude": 19.95931,
+          "longitude": 56.27575
+        }
+      ]
+    },
+    {
+      "code": "OM-SJ",
+      "name": {
+        "en": "Ash Sharqiyah South"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Sur",
+            "ar": "صور"
+          },
+          "latitude": 22.56667,
+          "longitude": 59.52889
+        }
+      ]
+    },
+    {
+      "code": "OM-ZU",
+      "name": {
+        "en": "Dhofar"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Şalālah",
+            "ar": "صلالة"
+          },
+          "latitude": 17.01505,
+          "longitude": 54.09237
+        }
+      ]
+    },
+    {
+      "code": "OM-MU",
+      "name": {
+        "en": "Musandam"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Dib Dibba"
+          },
+          "latitude": 26.19778,
+          "longitude": 56.25778
+        },
+        {
+          "name": {
+            "en": "Khasab",
+            "ar": "خصب"
+          },
+          "latitude": 26.17993,
+          "longitude": 56.24774
+        },
+        {
+          "name": {
+            "en": "Madḩā’ al Jadīdah"
+          },
+          "latitude": 25.28345,
+          "longitude": 56.3328
+        }
+      ]
+    },
+    {
+      "code": "OM-MA",
+      "name": {
+        "en": "Muscat"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bawshar",
+            "ar": "بوشر"
+          },
+          "latitude": 23.57769,
+          "longitude": 58.39982
+        },
+        {
+          "name": {
+            "en": "Muscat",
+            "ar": "مسقط"
+          },
+          "latitude": 23.58413,
+          "longitude": 58.40778
+        },
+        {
+          "name": {
+            "en": "Seeb",
+            "ar": "السيب الجديدة"
+          },
+          "latitude": 23.67027,
+          "longitude": 58.18911
+        }
+      ]
+    }
+  ]
+}

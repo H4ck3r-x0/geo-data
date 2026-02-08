@@ -1,0 +1,1130 @@
+{
+  "code": "AL",
+  "iso3": "ALB",
+  "name": {
+    "en": "Albania",
+    "ar": "ألبانيا",
+    "de": "Albanien",
+    "es": "Albania",
+    "fr": "Albanie",
+    "hi": "अल्बानिया",
+    "it": "Albania",
+    "ja": "アルバニア",
+    "ko": "알바니아",
+    "nl": "Albanië",
+    "pl": "Albania",
+    "pt": "Albânia",
+    "pt-BR": "Albânia",
+    "ru": "Албания",
+    "tr": "Arnavutluk",
+    "uk": "Албанія",
+    "zh": "阿尔巴尼亚"
+  },
+  "phone": "+355",
+  "currency": "ALL",
+  "timezone": "Europe/Tirane",
+  "flag": "🇦🇱",
+  "regions": [
+    {
+      "code": "AL-01",
+      "name": {
+        "en": "Berat"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Banaj"
+          },
+          "latitude": 40.82492,
+          "longitude": 19.84074
+        },
+        {
+          "name": {
+            "en": "Bashkia Berat"
+          },
+          "latitude": 40.69997,
+          "longitude": 19.94983
+        },
+        {
+          "name": {
+            "en": "Bashkia Kuçovë"
+          },
+          "latitude": 40.82489,
+          "longitude": 19.9535
+        },
+        {
+          "name": {
+            "en": "Bashkia Poliçan"
+          },
+          "latitude": 40.58608,
+          "longitude": 20.04535
+        },
+        {
+          "name": {
+            "en": "Bashkia Skrapar"
+          },
+          "latitude": 40.56036,
+          "longitude": 20.25477
+        },
+        {
+          "name": {
+            "en": "Berat"
+          },
+          "latitude": 40.70583,
+          "longitude": 19.95222
+        },
+        {
+          "name": {
+            "en": "Çorovodë"
+          },
+          "latitude": 40.50417,
+          "longitude": 20.22722
+        },
+        {
+          "name": {
+            "en": "Kuçovë"
+          },
+          "latitude": 40.80028,
+          "longitude": 19.91667
+        },
+        {
+          "name": {
+            "en": "Poliçan"
+          },
+          "latitude": 40.61222,
+          "longitude": 20.09806
+        },
+        {
+          "name": {
+            "en": "Rrethi i Beratit"
+          },
+          "latitude": 40.66667,
+          "longitude": 20
+        },
+        {
+          "name": {
+            "en": "Rrethi i Kuçovës"
+          },
+          "latitude": 40.83333,
+          "longitude": 19.91667
+        },
+        {
+          "name": {
+            "en": "Rrethi i Skraparit"
+          },
+          "latitude": 40.55,
+          "longitude": 20.26667
+        },
+        {
+          "name": {
+            "en": "Skrapar"
+          },
+          "latitude": 40.5407139,
+          "longitude": 20.101884
+        },
+        {
+          "name": {
+            "en": "Ura Vajgurore"
+          },
+          "latitude": 40.76889,
+          "longitude": 19.87778
+        }
+      ]
+    },
+    {
+      "code": "AL-09",
+      "name": {
+        "en": "Dibër"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bashkia Bulqizë"
+          },
+          "latitude": 41.47152,
+          "longitude": 20.33192
+        },
+        {
+          "name": {
+            "en": "Bashkia Klos"
+          },
+          "latitude": 41.50826,
+          "longitude": 20.07107
+        },
+        {
+          "name": {
+            "en": "Bashkia Mat"
+          },
+          "latitude": 41.63317,
+          "longitude": 20.01228
+        },
+        {
+          "name": {
+            "en": "Bulqizë"
+          },
+          "latitude": 41.49167,
+          "longitude": 20.22194
+        },
+        {
+          "name": {
+            "en": "Burrel"
+          },
+          "latitude": 41.61028,
+          "longitude": 20.00889
+        },
+        {
+          "name": {
+            "en": "Dibër"
+          },
+          "latitude": 41.7309909,
+          "longitude": 20.1890858
+        },
+        {
+          "name": {
+            "en": "Klos"
+          },
+          "latitude": 41.50694,
+          "longitude": 20.08667
+        },
+        {
+          "name": {
+            "en": "Mat"
+          },
+          "latitude": 41.6364812,
+          "longitude": 19.840556
+        },
+        {
+          "name": {
+            "en": "Peshkopi"
+          },
+          "latitude": 41.685,
+          "longitude": 20.42889
+        },
+        {
+          "name": {
+            "en": "Rrethi i Bulqizës"
+          },
+          "latitude": 41.5,
+          "longitude": 20.33333
+        },
+        {
+          "name": {
+            "en": "Rrethi i Dibrës"
+          },
+          "latitude": 41.75,
+          "longitude": 20.33333
+        },
+        {
+          "name": {
+            "en": "Rrethi i Matit"
+          },
+          "latitude": 41.58333,
+          "longitude": 20.08333
+        },
+        {
+          "name": {
+            "en": "Ulëz"
+          },
+          "latitude": 41.68278,
+          "longitude": 19.89333
+        }
+      ]
+    },
+    {
+      "code": "AL-02",
+      "name": {
+        "en": "Durrës"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bashkia Durrës"
+          },
+          "latitude": 41.42743,
+          "longitude": 19.4869
+        },
+        {
+          "name": {
+            "en": "Bashkia Krujë"
+          },
+          "latitude": 41.50091,
+          "longitude": 19.72571
+        },
+        {
+          "name": {
+            "en": "Bashkia Shijak"
+          },
+          "latitude": 41.33558,
+          "longitude": 19.58977
+        },
+        {
+          "name": {
+            "en": "Durrës"
+          },
+          "latitude": 41.3313929,
+          "longitude": 19.4251579
+        },
+        {
+          "name": {
+            "en": "Durrës District",
+            "ar": "دراس"
+          },
+          "latitude": 41.3166,
+          "longitude": 19.45
+        },
+        {
+          "name": {
+            "en": "Fushë-Krujë"
+          },
+          "latitude": 41.47833,
+          "longitude": 19.71778
+        },
+        {
+          "name": {
+            "en": "Krujë"
+          },
+          "latitude": 41.50917,
+          "longitude": 19.79278
+        },
+        {
+          "name": {
+            "en": "Rrethi i Krujës"
+          },
+          "latitude": 41.55,
+          "longitude": 19.75
+        },
+        {
+          "name": {
+            "en": "Shijak"
+          },
+          "latitude": 41.34556,
+          "longitude": 19.56722
+        },
+        {
+          "name": {
+            "en": "Sukth"
+          },
+          "latitude": 41.38056,
+          "longitude": 19.53778
+        }
+      ]
+    },
+    {
+      "code": "AL-03",
+      "name": {
+        "en": "Elbasan"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Gramsh"
+          },
+          "latitude": 40.8661446,
+          "longitude": 20.1763701
+        },
+        {
+          "name": {
+            "en": "Librazhd"
+          },
+          "latitude": 41.1832398,
+          "longitude": 20.3036248
+        },
+        {
+          "name": {
+            "en": "Peqin"
+          },
+          "latitude": 41.0464103,
+          "longitude": 19.7405004
+        }
+      ]
+    },
+    {
+      "code": "AL-04",
+      "name": {
+        "en": "Fier"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ballsh"
+          },
+          "latitude": 40.59889,
+          "longitude": 19.73472
+        },
+        {
+          "name": {
+            "en": "Bashkia Divjakë"
+          },
+          "latitude": 40.95716,
+          "longitude": 19.52364
+        },
+        {
+          "name": {
+            "en": "Bashkia Fier"
+          },
+          "latitude": 40.72937,
+          "longitude": 19.4869
+        },
+        {
+          "name": {
+            "en": "Bashkia Mallakastër"
+          },
+          "latitude": 40.55669,
+          "longitude": 19.77347
+        },
+        {
+          "name": {
+            "en": "Bashkia Patos"
+          },
+          "latitude": 40.67793,
+          "longitude": 19.65591
+        },
+        {
+          "name": {
+            "en": "Divjakë"
+          },
+          "latitude": 40.99667,
+          "longitude": 19.52944
+        },
+        {
+          "name": {
+            "en": "Fier"
+          },
+          "latitude": 40.72389,
+          "longitude": 19.55611
+        },
+        {
+          "name": {
+            "en": "Fier-Çifçi"
+          },
+          "latitude": 40.71667,
+          "longitude": 19.56667
+        },
+        {
+          "name": {
+            "en": "Lushnjë",
+            "ar": "لوشنيه"
+          },
+          "latitude": 40.94194,
+          "longitude": 19.705
+        },
+        {
+          "name": {
+            "en": "Mallakastër"
+          },
+          "latitude": 40.5433544,
+          "longitude": 19.6248073
+        },
+        {
+          "name": {
+            "en": "Patos"
+          },
+          "latitude": 40.68333,
+          "longitude": 19.61944
+        },
+        {
+          "name": {
+            "en": "Patos Fshat"
+          },
+          "latitude": 40.64278,
+          "longitude": 19.65083
+        },
+        {
+          "name": {
+            "en": "Roskovec"
+          },
+          "latitude": 40.7375,
+          "longitude": 19.70222
+        },
+        {
+          "name": {
+            "en": "Rrethi i Mallakastrës"
+          },
+          "latitude": 40.55,
+          "longitude": 19.78333
+        }
+      ]
+    },
+    {
+      "code": "AL-05",
+      "name": {
+        "en": "Gjirokastër"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bashkia Kelcyrë"
+          },
+          "latitude": 40.36196,
+          "longitude": 20.16476
+        },
+        {
+          "name": {
+            "en": "Bashkia Libohovë"
+          },
+          "latitude": 40.10754,
+          "longitude": 20.25753
+        },
+        {
+          "name": {
+            "en": "Bashkia Memaliaj"
+          },
+          "latitude": 40.41524,
+          "longitude": 19.96911
+        },
+        {
+          "name": {
+            "en": "Bashkia Përmet"
+          },
+          "latitude": 40.23246,
+          "longitude": 20.41091
+        },
+        {
+          "name": {
+            "en": "Bashkia Tepelenë"
+          },
+          "latitude": 40.26736,
+          "longitude": 19.97003
+        },
+        {
+          "name": {
+            "en": "Dropull"
+          },
+          "latitude": 39.98584,
+          "longitude": 20.30529
+        },
+        {
+          "name": {
+            "en": "Gjinkar"
+          },
+          "latitude": 40.19944,
+          "longitude": 20.40611
+        },
+        {
+          "name": {
+            "en": "Gjirokastër"
+          },
+          "latitude": 40.07583,
+          "longitude": 20.13889
+        },
+        {
+          "name": {
+            "en": "Këlcyrë"
+          },
+          "latitude": 40.31306,
+          "longitude": 20.18944
+        },
+        {
+          "name": {
+            "en": "Lazarat"
+          },
+          "latitude": 40.04667,
+          "longitude": 20.1475
+        },
+        {
+          "name": {
+            "en": "Libohovë"
+          },
+          "latitude": 40.03111,
+          "longitude": 20.26306
+        },
+        {
+          "name": {
+            "en": "Memaliaj"
+          },
+          "latitude": 40.35167,
+          "longitude": 19.98028
+        },
+        {
+          "name": {
+            "en": "Përmet"
+          },
+          "latitude": 40.23361,
+          "longitude": 20.35167
+        },
+        {
+          "name": {
+            "en": "Tepelenë"
+          },
+          "latitude": 40.29583,
+          "longitude": 20.01917
+        }
+      ]
+    },
+    {
+      "code": "AL-06",
+      "name": {
+        "en": "Korçë"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bashkia Devoll"
+          },
+          "latitude": 40.60078,
+          "longitude": 20.93814
+        },
+        {
+          "name": {
+            "en": "Bashkia Kolonjë"
+          },
+          "latitude": 40.3142,
+          "longitude": 20.61482
+        },
+        {
+          "name": {
+            "en": "Bashkia Maliq"
+          },
+          "latitude": 40.75508,
+          "longitude": 20.60748
+        },
+        {
+          "name": {
+            "en": "Bilisht"
+          },
+          "latitude": 40.6275,
+          "longitude": 20.99
+        },
+        {
+          "name": {
+            "en": "Devoll"
+          },
+          "latitude": 40.589983,
+          "longitude": 20.7481313
+        },
+        {
+          "name": {
+            "en": "Ersekë"
+          },
+          "latitude": 40.33778,
+          "longitude": 20.67889
+        },
+        {
+          "name": {
+            "en": "Kolonjë"
+          },
+          "latitude": 40.2830545,
+          "longitude": 20.4564726
+        },
+        {
+          "name": {
+            "en": "Korçë"
+          },
+          "latitude": 40.61861,
+          "longitude": 20.78083
+        },
+        {
+          "name": {
+            "en": "Leskovik"
+          },
+          "latitude": 40.15139,
+          "longitude": 20.59722
+        },
+        {
+          "name": {
+            "en": "Libonik"
+          },
+          "latitude": 40.70444,
+          "longitude": 20.70861
+        },
+        {
+          "name": {
+            "en": "Maliq"
+          },
+          "latitude": 40.70583,
+          "longitude": 20.69972
+        },
+        {
+          "name": {
+            "en": "Mborje"
+          },
+          "latitude": 40.60333,
+          "longitude": 20.80306
+        },
+        {
+          "name": {
+            "en": "Pogradec"
+          },
+          "latitude": 40.9025,
+          "longitude": 20.6525
+        },
+        {
+          "name": {
+            "en": "Pustec"
+          },
+          "latitude": 40.83591,
+          "longitude": 20.89405
+        },
+        {
+          "name": {
+            "en": "Rrethi i Devollit"
+          },
+          "latitude": 40.58333,
+          "longitude": 20.91667
+        },
+        {
+          "name": {
+            "en": "Rrethi i Kolonjës"
+          },
+          "latitude": 40.25,
+          "longitude": 20.66667
+        },
+        {
+          "name": {
+            "en": "Velçan"
+          },
+          "latitude": 40.95472,
+          "longitude": 20.46222
+        },
+        {
+          "name": {
+            "en": "Voskopojë"
+          },
+          "latitude": 40.63306,
+          "longitude": 20.58889
+        }
+      ]
+    },
+    {
+      "code": "AL-07",
+      "name": {
+        "en": "Kukës"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bajram Curri"
+          },
+          "latitude": 42.35734,
+          "longitude": 20.07679
+        },
+        {
+          "name": {
+            "en": "Krumë"
+          },
+          "latitude": 42.19694,
+          "longitude": 20.41333
+        },
+        {
+          "name": {
+            "en": "Kukës"
+          },
+          "latitude": 42.07694,
+          "longitude": 20.42194
+        },
+        {
+          "name": {
+            "en": "Rrethi i Hasit"
+          },
+          "latitude": 42.16667,
+          "longitude": 20.33333
+        },
+        {
+          "name": {
+            "en": "Rrethi i Kukësit"
+          },
+          "latitude": 42,
+          "longitude": 20.33333
+        },
+        {
+          "name": {
+            "en": "Tropojë"
+          },
+          "latitude": 42.37624,
+          "longitude": 19.7453929
+        }
+      ]
+    },
+    {
+      "code": "AL-08",
+      "name": {
+        "en": "Lezhë"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bashkia Kurbin"
+          },
+          "latitude": 41.62215,
+          "longitude": 19.70734
+        },
+        {
+          "name": {
+            "en": "Bashkia Lezhë"
+          },
+          "latitude": 41.8132,
+          "longitude": 19.64121
+        },
+        {
+          "name": {
+            "en": "Bashkia Mirditë"
+          },
+          "latitude": 41.80953,
+          "longitude": 19.99024
+        },
+        {
+          "name": {
+            "en": "Kurbin"
+          },
+          "latitude": 41.6389189,
+          "longitude": 19.6933363
+        },
+        {
+          "name": {
+            "en": "Kurbnesh"
+          },
+          "latitude": 41.77972,
+          "longitude": 20.08361
+        },
+        {
+          "name": {
+            "en": "Laç"
+          },
+          "latitude": 41.63556,
+          "longitude": 19.71306
+        },
+        {
+          "name": {
+            "en": "Lezhë"
+          },
+          "latitude": 41.78361,
+          "longitude": 19.64361
+        },
+        {
+          "name": {
+            "en": "Mamurras"
+          },
+          "latitude": 41.5775,
+          "longitude": 19.69222
+        },
+        {
+          "name": {
+            "en": "Milot"
+          },
+          "latitude": 41.68389,
+          "longitude": 19.71556
+        },
+        {
+          "name": {
+            "en": "Mirditë"
+          },
+          "latitude": 41.860728,
+          "longitude": 19.6675722
+        },
+        {
+          "name": {
+            "en": "Rrëshen"
+          },
+          "latitude": 41.7675,
+          "longitude": 19.87556
+        },
+        {
+          "name": {
+            "en": "Rrethi i Kurbinit"
+          },
+          "latitude": 41.63333,
+          "longitude": 19.71667
+        },
+        {
+          "name": {
+            "en": "Rubik"
+          },
+          "latitude": 41.77444,
+          "longitude": 19.78611
+        },
+        {
+          "name": {
+            "en": "Shëngjin"
+          },
+          "latitude": 41.81361,
+          "longitude": 19.59389
+        }
+      ]
+    },
+    {
+      "code": "AL-10",
+      "name": {
+        "en": "Shkodër"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bashkia Malësi e Madhe"
+          },
+          "latitude": 42.36798,
+          "longitude": 19.58977
+        },
+        {
+          "name": {
+            "en": "Bashkia Pukë"
+          },
+          "latitude": 42.02997,
+          "longitude": 19.92778
+        },
+        {
+          "name": {
+            "en": "Bashkia Vau i Dejës"
+          },
+          "latitude": 42.04834,
+          "longitude": 19.69999
+        },
+        {
+          "name": {
+            "en": "Fushë-Arrëz"
+          },
+          "latitude": 42.06222,
+          "longitude": 20.01667
+        },
+        {
+          "name": {
+            "en": "Koplik"
+          },
+          "latitude": 42.21361,
+          "longitude": 19.43639
+        },
+        {
+          "name": {
+            "en": "Malësi e Madhe"
+          },
+          "latitude": 42.3901631,
+          "longitude": 19.1991842
+        },
+        {
+          "name": {
+            "en": "Pukë"
+          },
+          "latitude": 42.04444,
+          "longitude": 19.89972
+        },
+        {
+          "name": {
+            "en": "Rrethi i Malësia e Madhe"
+          },
+          "latitude": 42.33333,
+          "longitude": 19.58333
+        },
+        {
+          "name": {
+            "en": "Rrethi i Shkodrës"
+          },
+          "latitude": 42.06917,
+          "longitude": 19.53506
+        },
+        {
+          "name": {
+            "en": "Shkodër"
+          },
+          "latitude": 42.06828,
+          "longitude": 19.51258
+        },
+        {
+          "name": {
+            "en": "Vau i Dejës"
+          },
+          "latitude": 42.01,
+          "longitude": 19.62472
+        },
+        {
+          "name": {
+            "en": "Vukatanë"
+          },
+          "latitude": 42.02806,
+          "longitude": 19.54778
+        }
+      ]
+    },
+    {
+      "code": "AL-11",
+      "name": {
+        "en": "Tirana"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bashkia Kavajë"
+          },
+          "latitude": 41.18127,
+          "longitude": 19.55579
+        },
+        {
+          "name": {
+            "en": "Bashkia Vorë"
+          },
+          "latitude": 41.39804,
+          "longitude": 19.67703
+        },
+        {
+          "name": {
+            "en": "Kamëz"
+          },
+          "latitude": 41.38167,
+          "longitude": 19.76028
+        },
+        {
+          "name": {
+            "en": "Kavajë"
+          },
+          "latitude": 41.18556,
+          "longitude": 19.55694
+        },
+        {
+          "name": {
+            "en": "Krrabë"
+          },
+          "latitude": 41.21556,
+          "longitude": 19.97139
+        },
+        {
+          "name": {
+            "en": "Rrethi i Kavajës"
+          },
+          "latitude": 41.16667,
+          "longitude": 19.58333
+        },
+        {
+          "name": {
+            "en": "Rrethi i Tiranës"
+          },
+          "latitude": 41.33333,
+          "longitude": 19.91667
+        },
+        {
+          "name": {
+            "en": "Rrogozhinë"
+          },
+          "latitude": 41.07639,
+          "longitude": 19.66528
+        },
+        {
+          "name": {
+            "en": "Sinaballaj"
+          },
+          "latitude": 41.06889,
+          "longitude": 19.69944
+        },
+        {
+          "name": {
+            "en": "Tirana",
+            "ar": "تيرانا"
+          },
+          "latitude": 41.3275,
+          "longitude": 19.81889
+        },
+        {
+          "name": {
+            "en": "Vorë"
+          },
+          "latitude": 41.39083,
+          "longitude": 19.655
+        }
+      ]
+    },
+    {
+      "code": "AL-12",
+      "name": {
+        "en": "Vlorë"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bashkia Himarë"
+          },
+          "latitude": 40.11581,
+          "longitude": 19.81389
+        },
+        {
+          "name": {
+            "en": "Bashkia Konispol"
+          },
+          "latitude": 39.70064,
+          "longitude": 20.13353
+        },
+        {
+          "name": {
+            "en": "Bashkia Selenicë"
+          },
+          "latitude": 40.39503,
+          "longitude": 19.65958
+        },
+        {
+          "name": {
+            "en": "Bashkia Vlorë"
+          },
+          "latitude": 40.4134,
+          "longitude": 19.49792
+        },
+        {
+          "name": {
+            "en": "Delvinë"
+          },
+          "latitude": 39.95111,
+          "longitude": 20.09778
+        },
+        {
+          "name": {
+            "en": "Finiq"
+          },
+          "latitude": 39.84393,
+          "longitude": 20.16659
+        },
+        {
+          "name": {
+            "en": "Himarë"
+          },
+          "latitude": 40.10167,
+          "longitude": 19.74472
+        },
+        {
+          "name": {
+            "en": "Konispol"
+          },
+          "latitude": 39.65889,
+          "longitude": 20.18139
+        },
+        {
+          "name": {
+            "en": "Ksamil"
+          },
+          "latitude": 39.76889,
+          "longitude": 19.99972
+        },
+        {
+          "name": {
+            "en": "Orikum"
+          },
+          "latitude": 40.32528,
+          "longitude": 19.47139
+        },
+        {
+          "name": {
+            "en": "Rrethi i Delvinës"
+          },
+          "latitude": 39.91667,
+          "longitude": 20.08333
+        },
+        {
+          "name": {
+            "en": "Sarandë"
+          },
+          "latitude": 39.87534,
+          "longitude": 20.00477
+        },
+        {
+          "name": {
+            "en": "Selenicë"
+          },
+          "latitude": 40.53056,
+          "longitude": 19.63583
+        },
+        {
+          "name": {
+            "en": "Vlorë",
+            "ar": "فلوره"
+          },
+          "latitude": 40.4686,
+          "longitude": 19.48318
+        }
+      ]
+    }
+  ]
+}

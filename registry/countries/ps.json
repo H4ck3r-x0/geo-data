@@ -1,0 +1,1082 @@
+{
+  "code": "PS",
+  "iso3": "PSE",
+  "name": {
+    "en": "Palestinian Territory Occupied",
+    "ar": "احتلت الأراضي الفلسطينية",
+    "de": "Palästina",
+    "es": "Palestina",
+    "fr": "Palestine",
+    "hi": "अधिकृत फ़िलिस्तीन क्षेत्र",
+    "it": "Palestina",
+    "ja": "パレスチナ",
+    "ko": "팔레스타인 영토",
+    "nl": "Palestijnse gebieden",
+    "pl": "Okupowane terytorium palestyńskie",
+    "pt": "Palestina",
+    "pt-BR": "Palestina",
+    "ru": "Оккупированная палестинская территория",
+    "tr": "Filistin",
+    "uk": "Окупована палестинська територія",
+    "zh": "巴勒斯坦"
+  },
+  "phone": "+970",
+  "currency": "ILS",
+  "timezone": "Asia/Gaza",
+  "flag": "🇵🇸",
+  "regions": [
+    {
+      "code": "PS-BTH",
+      "name": {
+        "en": "Bethlehem"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Al-Dawha"
+          },
+          "latitude": 31.6977399,
+          "longitude": 35.1459545
+        },
+        {
+          "name": {
+            "en": "al-Khader"
+          },
+          "latitude": 31.6948454,
+          "longitude": 35.1501453
+        },
+        {
+          "name": {
+            "en": "al-Ubeidiya"
+          },
+          "latitude": 31.7238643,
+          "longitude": 35.2712213
+        },
+        {
+          "name": {
+            "en": "Battir"
+          },
+          "latitude": 31.7282154,
+          "longitude": 35.1174323
+        },
+        {
+          "name": {
+            "en": "Beit Fajjar"
+          },
+          "latitude": 31.6216699,
+          "longitude": 35.1343033
+        },
+        {
+          "name": {
+            "en": "Beit Jala"
+          },
+          "latitude": 31.7160334,
+          "longitude": 35.1665493
+        },
+        {
+          "name": {
+            "en": "Beit Sahour"
+          },
+          "latitude": 31.6978704,
+          "longitude": 35.2079303
+        },
+        {
+          "name": {
+            "en": "Bethlehem"
+          },
+          "latitude": 31.7054165,
+          "longitude": 35.1818428
+        },
+        {
+          "name": {
+            "en": "Husan"
+          },
+          "latitude": 31.7084604,
+          "longitude": 35.1128253
+        },
+        {
+          "name": {
+            "en": "Nahalin"
+          },
+          "latitude": 31.6856424,
+          "longitude": 35.0997623
+        },
+        {
+          "name": {
+            "en": "Tuqu'"
+          },
+          "latitude": 31.6391274,
+          "longitude": 35.1918903
+        },
+        {
+          "name": {
+            "en": "Za'atara"
+          },
+          "latitude": 31.6744784,
+          "longitude": 35.2344913
+        }
+      ]
+    },
+    {
+      "code": "PS-DEB",
+      "name": {
+        "en": "Deir El Balah"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "az-Zawayda"
+          },
+          "latitude": 31.4297975,
+          "longitude": 34.3501423
+        },
+        {
+          "name": {
+            "en": "Deir al-Balah"
+          },
+          "latitude": 31.4171735,
+          "longitude": 34.3303313
+        }
+      ]
+    },
+    {
+      "code": "PS-GZA",
+      "name": {
+        "en": "Gaza"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Al-Zahra"
+          },
+          "latitude": 31.4724675,
+          "longitude": 34.3778293
+        },
+        {
+          "name": {
+            "en": "Gaza City"
+          },
+          "latitude": 31.5017295,
+          "longitude": 34.4462448
+        }
+      ]
+    },
+    {
+      "code": "PS-HBN",
+      "name": {
+        "en": "Hebron"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "ad-Dhahiriya"
+          },
+          "latitude": 31.4096725,
+          "longitude": 34.9549083
+        },
+        {
+          "name": {
+            "en": "as-Samu"
+          },
+          "latitude": 31.3986445,
+          "longitude": 35.0446883
+        },
+        {
+          "name": {
+            "en": "Bani Na'im"
+          },
+          "latitude": 31.5149005,
+          "longitude": 35.1447403
+        },
+        {
+          "name": {
+            "en": "Beit 'Awwa"
+          },
+          "latitude": 31.5067524,
+          "longitude": 34.9295613
+        },
+        {
+          "name": {
+            "en": "Beit Ula"
+          },
+          "latitude": 31.5984564,
+          "longitude": 35.0057753
+        },
+        {
+          "name": {
+            "en": "Beit Ummar"
+          },
+          "latitude": 31.6228464,
+          "longitude": 35.0815993
+        },
+        {
+          "name": {
+            "en": "Deir Sammit"
+          },
+          "latitude": 31.5199634,
+          "longitude": 34.9520713
+        },
+        {
+          "name": {
+            "en": "Dura"
+          },
+          "latitude": 31.5051274,
+          "longitude": 35.0069273
+        },
+        {
+          "name": {
+            "en": "Halhul"
+          },
+          "latitude": 31.5799242,
+          "longitude": 35.0793045
+        },
+        {
+          "name": {
+            "en": "Hebron"
+          },
+          "latitude": 31.5326035,
+          "longitude": 35.0792263
+        },
+        {
+          "name": {
+            "en": "Idhna"
+          },
+          "latitude": 31.5572864,
+          "longitude": 34.9586433
+        },
+        {
+          "name": {
+            "en": "Kharas"
+          },
+          "latitude": 31.6122524,
+          "longitude": 35.0236513
+        },
+        {
+          "name": {
+            "en": "Nuba"
+          },
+          "latitude": 31.6138208,
+          "longitude": 35.005792
+        },
+        {
+          "name": {
+            "en": "Sa'ir"
+          },
+          "latitude": 31.5824895,
+          "longitude": 35.1231763
+        },
+        {
+          "name": {
+            "en": "Surif"
+          },
+          "latitude": 31.6495864,
+          "longitude": 35.0441123
+        },
+        {
+          "name": {
+            "en": "Taffuh"
+          },
+          "latitude": 31.5384825,
+          "longitude": 35.0303733
+        },
+        {
+          "name": {
+            "en": "Tarqumiya"
+          },
+          "latitude": 31.5773644,
+          "longitude": 34.9935743
+        },
+        {
+          "name": {
+            "en": "Yatta"
+          },
+          "latitude": 31.4441845,
+          "longitude": 35.0695053
+        }
+      ]
+    },
+    {
+      "code": "PS-JEN",
+      "name": {
+        "en": "Jenin"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ajjah"
+          },
+          "latitude": 32.3600171,
+          "longitude": 35.1773943
+        },
+        {
+          "name": {
+            "en": "al-Yamun"
+          },
+          "latitude": 32.4867111,
+          "longitude": 35.2129923
+        },
+        {
+          "name": {
+            "en": "Arrabah"
+          },
+          "latitude": 32.4033101,
+          "longitude": 35.1853143
+        },
+        {
+          "name": {
+            "en": "Burqin"
+          },
+          "latitude": 32.456169,
+          "longitude": 35.2410883
+        },
+        {
+          "name": {
+            "en": "Deir Abu Da'if"
+          },
+          "latitude": 32.4560951,
+          "longitude": 35.3443223
+        },
+        {
+          "name": {
+            "en": "Jaba"
+          },
+          "latitude": 32.3250611,
+          "longitude": 35.1995643
+        },
+        {
+          "name": {
+            "en": "Jenin"
+          },
+          "latitude": 32.457284,
+          "longitude": 35.2816144
+        },
+        {
+          "name": {
+            "en": "Kafr Dan"
+          },
+          "latitude": 32.4780111,
+          "longitude": 35.2331873
+        },
+        {
+          "name": {
+            "en": "Kafr Rai"
+          },
+          "latitude": 32.3734521,
+          "longitude": 35.1349363
+        },
+        {
+          "name": {
+            "en": "Meithalun"
+          },
+          "latitude": 32.3492441,
+          "longitude": 35.2508843
+        },
+        {
+          "name": {
+            "en": "Qabatiya"
+          },
+          "latitude": 32.4096171,
+          "longitude": 35.2594933
+        },
+        {
+          "name": {
+            "en": "Silat ad-Dhahr"
+          },
+          "latitude": 32.3175321,
+          "longitude": 35.1666323
+        },
+        {
+          "name": {
+            "en": "Silat al-Harithiya"
+          },
+          "latitude": 32.509797,
+          "longitude": 35.2068473
+        },
+        {
+          "name": {
+            "en": "Ya'bad"
+          },
+          "latitude": 32.446868,
+          "longitude": 35.1466743
+        },
+        {
+          "name": {
+            "en": "Zababdeh"
+          },
+          "latitude": 32.3852361,
+          "longitude": 35.3028793
+        }
+      ]
+    },
+    {
+      "code": "PS-JRH",
+      "name": {
+        "en": "Jericho "
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "al-Auja"
+          },
+          "latitude": 31.9480993,
+          "longitude": 35.4505643
+        },
+        {
+          "name": {
+            "en": "al-Jiftlik"
+          },
+          "latitude": 32.1414323,
+          "longitude": 35.4466025
+        },
+        {
+          "name": {
+            "en": "Jericho"
+          },
+          "latitude": 31.859507,
+          "longitude": 35.4439082
+        }
+      ]
+    },
+    {
+      "code": "PS-JEM",
+      "name": {
+        "en": "Jerusalem (Quds)"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Abu Dis"
+          },
+          "latitude": 31.7636163,
+          "longitude": 35.2371223
+        },
+        {
+          "name": {
+            "en": "Ar-Ram"
+          },
+          "latitude": 31.8492863,
+          "longitude": 35.2128893
+        },
+        {
+          "name": {
+            "en": "Beit 'Anan"
+          },
+          "latitude": 31.8510993,
+          "longitude": 35.0911193
+        },
+        {
+          "name": {
+            "en": "Biddu"
+          },
+          "latitude": 31.8344582,
+          "longitude": 35.0744173
+        },
+        {
+          "name": {
+            "en": "Bir Nabala"
+          },
+          "latitude": 31.8512163,
+          "longitude": 35.1802353
+        },
+        {
+          "name": {
+            "en": "East Jerusalem"
+          },
+          "latitude": 31.7965043,
+          "longitude": 35.0105434
+        },
+        {
+          "name": {
+            "en": "Hizma"
+          },
+          "latitude": 31.8364954,
+          "longitude": 35.2426313
+        },
+        {
+          "name": {
+            "en": "Kafr Aqab"
+          },
+          "latitude": 31.8747227,
+          "longitude": 35.21724
+        },
+        {
+          "name": {
+            "en": "Qalandiya"
+          },
+          "latitude": 31.8616313,
+          "longitude": 35.1873143
+        },
+        {
+          "name": {
+            "en": "Qatanna"
+          },
+          "latitude": 31.8269573,
+          "longitude": 35.0896003
+        }
+      ]
+    },
+    {
+      "code": "PS-KYS",
+      "name": {
+        "en": "Khan Yunis"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Abasan al-Kabira"
+          },
+          "latitude": 31.3231605,
+          "longitude": 34.3234253
+        },
+        {
+          "name": {
+            "en": "Abasan al-Saghira"
+          },
+          "latitude": 31.3397435,
+          "longitude": 34.3260333
+        },
+        {
+          "name": {
+            "en": "Al-Qarara"
+          },
+          "latitude": 31.3713465,
+          "longitude": 34.3146603
+        },
+        {
+          "name": {
+            "en": "Bani Suheila"
+          },
+          "latitude": 31.3421385,
+          "longitude": 34.3046543
+        },
+        {
+          "name": {
+            "en": "Khan Yunis"
+          },
+          "latitude": 31.3462351,
+          "longitude": 34.2833989
+        },
+        {
+          "name": {
+            "en": "Khuzaʽa"
+          },
+          "latitude": 31.3070566,
+          "longitude": 34.3394473
+        }
+      ]
+    },
+    {
+      "code": "PS-NBS",
+      "name": {
+        "en": "Nablus"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Aqraba"
+          },
+          "latitude": 32.1276202,
+          "longitude": 35.3221353
+        },
+        {
+          "name": {
+            "en": "Asira ash-Shamaliya"
+          },
+          "latitude": 32.2518691,
+          "longitude": 35.2475713
+        },
+        {
+          "name": {
+            "en": "Beit Furik"
+          },
+          "latitude": 32.1754902,
+          "longitude": 35.3158843
+        },
+        {
+          "name": {
+            "en": "Beita"
+          },
+          "latitude": 32.1413742,
+          "longitude": 35.2657993
+        },
+        {
+          "name": {
+            "en": "Huwara"
+          },
+          "latitude": 32.1513472,
+          "longitude": 35.2361993
+        },
+        {
+          "name": {
+            "en": "Jammain"
+          },
+          "latitude": 32.1321142,
+          "longitude": 35.1827423
+        },
+        {
+          "name": {
+            "en": "Nablus"
+          },
+          "latitude": 32.2243755,
+          "longitude": 35.2064793
+        },
+        {
+          "name": {
+            "en": "Qabalan"
+          },
+          "latitude": 32.1018542,
+          "longitude": 35.2671293
+        },
+        {
+          "name": {
+            "en": "Sebastia"
+          },
+          "latitude": 32.2782751,
+          "longitude": 35.1780333
+        }
+      ]
+    },
+    {
+      "code": "PS-NGZ",
+      "name": {
+        "en": "North Gaza"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Beit Hanoun"
+          },
+          "latitude": 31.5385174,
+          "longitude": 34.5161703
+        },
+        {
+          "name": {
+            "en": "Beit Lahia"
+          },
+          "latitude": 31.5513234,
+          "longitude": 34.4886223
+        },
+        {
+          "name": {
+            "en": "Izbat Beit Hanoun",
+            "ar": "بيت لاهيا"
+          },
+          "latitude": 31.5472895,
+          "longitude": 34.5019722
+        },
+        {
+          "name": {
+            "en": "Jabalia"
+          },
+          "latitude": 31.5294305,
+          "longitude": 34.4591413
+        }
+      ]
+    },
+    {
+      "code": "PS-QQA",
+      "name": {
+        "en": "Qalqilya"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Azzun"
+          },
+          "latitude": 32.1771352,
+          "longitude": 35.0353573
+        },
+        {
+          "name": {
+            "en": "Hableh"
+          },
+          "latitude": 32.1638782,
+          "longitude": 34.9576803
+        },
+        {
+          "name": {
+            "en": "Kafr Thulth"
+          },
+          "latitude": 32.1528332,
+          "longitude": 35.0246903
+        },
+        {
+          "name": {
+            "en": "Qalqilya"
+          },
+          "latitude": 32.1960491,
+          "longitude": 34.9609133
+        }
+      ]
+    },
+    {
+      "code": "PS-RFH",
+      "name": {
+        "en": "Rafah"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Al Qarya as Suwaydiya"
+          },
+          "latitude": 31.3231655,
+          "longitude": 34.2015753
+        },
+        {
+          "name": {
+            "en": "Al-Bayuk"
+          },
+          "latitude": 31.2634786,
+          "longitude": 34.2609813
+        },
+        {
+          "name": {
+            "en": "Al-Mawasi"
+          },
+          "latitude": 31.3484496,
+          "longitude": 34.2355363
+        },
+        {
+          "name": {
+            "en": "Rafah"
+          },
+          "latitude": 31.2968145,
+          "longitude": 34.2228823
+        },
+        {
+          "name": {
+            "en": "Shokat as-Sufi"
+          },
+          "latitude": 31.2509125,
+          "longitude": 34.2451672
+        }
+      ]
+    },
+    {
+      "code": "PS-RBH",
+      "name": {
+        "en": "Ramallah"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Al-Bireh"
+          },
+          "latitude": 31.9125973,
+          "longitude": 35.2011173
+        },
+        {
+          "name": {
+            "en": "al-Mazra'a ash-Sharqiya"
+          },
+          "latitude": 32.0032722,
+          "longitude": 35.2555323
+        },
+        {
+          "name": {
+            "en": "Bani Zeid al-Sharqiya"
+          },
+          "latitude": 32.0407432,
+          "longitude": 35.1532783
+        },
+        {
+          "name": {
+            "en": "Beit Liqya"
+          },
+          "latitude": 31.8699713,
+          "longitude": 35.0446023
+        },
+        {
+          "name": {
+            "en": "Beitunia"
+          },
+          "latitude": 31.8893153,
+          "longitude": 35.1492133
+        },
+        {
+          "name": {
+            "en": "Bir Zeit"
+          },
+          "latitude": 31.9753483,
+          "longitude": 35.1754423
+        },
+        {
+          "name": {
+            "en": "Deir Dibwan"
+          },
+          "latitude": 31.9112393,
+          "longitude": 35.2483883
+        },
+        {
+          "name": {
+            "en": "Deir Jarir"
+          },
+          "latitude": 31.9656463,
+          "longitude": 35.2731763
+        },
+        {
+          "name": {
+            "en": "Kharbatha al-Misbah"
+          },
+          "latitude": 31.8853003,
+          "longitude": 35.0514733
+        },
+        {
+          "name": {
+            "en": "Ni'lin"
+          },
+          "latitude": 31.9468773,
+          "longitude": 35.0008613
+        },
+        {
+          "name": {
+            "en": "Ramallah"
+          },
+          "latitude": 31.9074171,
+          "longitude": 35.164682
+        },
+        {
+          "name": {
+            "en": "Rawabi"
+          },
+          "latitude": 32.0102157,
+          "longitude": 35.1712941
+        },
+        {
+          "name": {
+            "en": "Silwad"
+          },
+          "latitude": 31.9794242,
+          "longitude": 35.2412653
+        },
+        {
+          "name": {
+            "en": "Sinjil"
+          },
+          "latitude": 32.0336413,
+          "longitude": 35.2433353
+        },
+        {
+          "name": {
+            "en": "Turmus Ayya"
+          },
+          "latitude": 32.0327602,
+          "longitude": 35.2677753
+        }
+      ]
+    },
+    {
+      "code": "PS-SLT",
+      "name": {
+        "en": "Salfit"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "az-Zawiya"
+          },
+          "latitude": 32.0947052,
+          "longitude": 35.0186763
+        },
+        {
+          "name": {
+            "en": "Biddya"
+          },
+          "latitude": 32.1134002,
+          "longitude": 35.0568653
+        },
+        {
+          "name": {
+            "en": "Bruqin"
+          },
+          "latitude": 32.0726472,
+          "longitude": 35.0778063
+        },
+        {
+          "name": {
+            "en": "Deir Ballut"
+          },
+          "latitude": 32.0650672,
+          "longitude": 35.0049493
+        },
+        {
+          "name": {
+            "en": "Deir Istiya"
+          },
+          "latitude": 32.1307962,
+          "longitude": 35.1195363
+        },
+        {
+          "name": {
+            "en": "Farkha"
+          },
+          "latitude": 32.0687772,
+          "longitude": 35.1302763
+        },
+        {
+          "name": {
+            "en": "Haris"
+          },
+          "latitude": 32.1134492,
+          "longitude": 35.1231163
+        },
+        {
+          "name": {
+            "en": "Iskaka"
+          },
+          "latitude": 32.1029552,
+          "longitude": 35.2039493
+        },
+        {
+          "name": {
+            "en": "Kafr ad-Dik"
+          },
+          "latitude": 32.0686354,
+          "longitude": 35.0605081
+        },
+        {
+          "name": {
+            "en": "Kifl Hares"
+          },
+          "latitude": 32.1169242,
+          "longitude": 35.1363643
+        },
+        {
+          "name": {
+            "en": "Marda"
+          },
+          "latitude": 32.1142512,
+          "longitude": 35.1752513
+        },
+        {
+          "name": {
+            "en": "Mas-ha"
+          },
+          "latitude": 32.1072982,
+          "longitude": 35.0303743
+        },
+        {
+          "name": {
+            "en": "Qarawat Bani Hassan"
+          },
+          "latitude": 32.1285392,
+          "longitude": 35.0787783
+        },
+        {
+          "name": {
+            "en": "Qira"
+          },
+          "latitude": 32.1221342,
+          "longitude": 35.1506323
+        },
+        {
+          "name": {
+            "en": "Rafat"
+          },
+          "latitude": 32.0787202,
+          "longitude": 35.0246873
+        },
+        {
+          "name": {
+            "en": "Sarta"
+          },
+          "latitude": 32.1033692,
+          "longitude": 35.0712383
+        },
+        {
+          "name": {
+            "en": "Yasuf"
+          },
+          "latitude": 32.1094052,
+          "longitude": 35.2191153
+        }
+      ]
+    },
+    {
+      "code": "PS-TBS",
+      "name": {
+        "en": "Tubas"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Al 'Aqaba"
+          },
+          "latitude": 32.3525706,
+          "longitude": 35.3267476
+        },
+        {
+          "name": {
+            "en": "Tammun"
+          },
+          "latitude": 32.2831551,
+          "longitude": 35.3651893
+        },
+        {
+          "name": {
+            "en": "Tubas"
+          },
+          "latitude": 32.3211201,
+          "longitude": 35.3493533
+        }
+      ]
+    },
+    {
+      "code": "PS-TKM",
+      "name": {
+        "en": "Tulkarm"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Anabta"
+          },
+          "latitude": 32.3072871,
+          "longitude": 35.0988783
+        },
+        {
+          "name": {
+            "en": "Attil"
+          },
+          "latitude": 32.3701031,
+          "longitude": 35.0519383
+        },
+        {
+          "name": {
+            "en": "Bal'a"
+          },
+          "latitude": 32.3325561,
+          "longitude": 35.0893533
+        },
+        {
+          "name": {
+            "en": "Baqa ash-Sharqiyya"
+          },
+          "latitude": 32.4111751,
+          "longitude": 35.0505933
+        },
+        {
+          "name": {
+            "en": "Beit Lid"
+          },
+          "latitude": 32.2615821,
+          "longitude": 35.1096803
+        },
+        {
+          "name": {
+            "en": "Qaffin"
+          },
+          "latitude": 32.433412,
+          "longitude": 35.0637003
+        },
+        {
+          "name": {
+            "en": "Tulkarm"
+          },
+          "latitude": 32.3079648,
+          "longitude": 35.0080289
+        }
+      ]
+    }
+  ]
+}

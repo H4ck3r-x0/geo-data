@@ -1,0 +1,624 @@
+{
+  "code": "NP",
+  "iso3": "NPL",
+  "name": {
+    "en": "Nepal",
+    "ar": "نيبال",
+    "de": "Népal",
+    "es": "Nepal",
+    "fr": "Népal",
+    "hi": "नेपाल",
+    "it": "Nepal",
+    "ja": "ネパール",
+    "ko": "네팔",
+    "nl": "Nepal",
+    "pl": "Nepal",
+    "pt": "Nepal",
+    "pt-BR": "Nepal",
+    "ru": "Непал",
+    "tr": "Nepal",
+    "uk": "Непал",
+    "zh": "尼泊尔"
+  },
+  "phone": "+977",
+  "currency": "NPR",
+  "timezone": "Asia/Kathmandu",
+  "flag": "🇳🇵",
+  "regions": [
+    {
+      "code": "NP-P3",
+      "name": {
+        "en": "Bagmati"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bhaktapur"
+          },
+          "latitude": 27.6774344,
+          "longitude": 85.403867
+        },
+        {
+          "name": {
+            "en": "Chitwan"
+          },
+          "latitude": 27.6195362,
+          "longitude": 84.027934
+        },
+        {
+          "name": {
+            "en": "Dhading"
+          },
+          "latitude": 28.0072584,
+          "longitude": 84.2846417
+        },
+        {
+          "name": {
+            "en": "Dolakha"
+          },
+          "latitude": 27.823719,
+          "longitude": 85.5599189
+        },
+        {
+          "name": {
+            "en": "Kathmandu"
+          },
+          "latitude": 27.7090302,
+          "longitude": 85.2849327
+        },
+        {
+          "name": {
+            "en": "Kavrepalanchok"
+          },
+          "latitude": 27.5453981,
+          "longitude": 85.3041673
+        },
+        {
+          "name": {
+            "en": "Lalitpur"
+          },
+          "latitude": 27.5482023,
+          "longitude": 85.0420147
+        },
+        {
+          "name": {
+            "en": "Makwanpur"
+          },
+          "latitude": 27.4372082,
+          "longitude": 84.757804
+        },
+        {
+          "name": {
+            "en": "Nuwakot"
+          },
+          "latitude": 27.9220549,
+          "longitude": 84.0596846
+        },
+        {
+          "name": {
+            "en": "Ramechhap"
+          },
+          "latitude": 27.5374985,
+          "longitude": 85.855351
+        },
+        {
+          "name": {
+            "en": "Rasuwa"
+          },
+          "latitude": 28.1717741,
+          "longitude": 84.2782312
+        },
+        {
+          "name": {
+            "en": "Sindhuli"
+          },
+          "latitude": 27.1846933,
+          "longitude": 85.2443715
+        },
+        {
+          "name": {
+            "en": "Sindhupalchok"
+          },
+          "latitude": 27.9071196,
+          "longitude": 85.4236067
+        }
+      ]
+    },
+    {
+      "code": "NP-P4",
+      "name": {
+        "en": "Gandaki"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Baglung"
+          },
+          "latitude": 28.2771164,
+          "longitude": 83.5435353
+        },
+        {
+          "name": {
+            "en": "Gorkha"
+          },
+          "latitude": 28.2734627,
+          "longitude": 84.148777
+        },
+        {
+          "name": {
+            "en": "Kaski"
+          },
+          "latitude": 28.3457236,
+          "longitude": 83.6598731
+        },
+        {
+          "name": {
+            "en": "Lamjung"
+          },
+          "latitude": 28.2830567,
+          "longitude": 84.1110312
+        },
+        {
+          "name": {
+            "en": "Manang"
+          },
+          "latitude": 28.6687281,
+          "longitude": 82.9968136
+        },
+        {
+          "name": {
+            "en": "Mustang"
+          },
+          "latitude": 28.9439987,
+          "longitude": 82.6806739
+        },
+        {
+          "name": {
+            "en": "Myagdi"
+          },
+          "latitude": 28.5460986,
+          "longitude": 83.1559775
+        },
+        {
+          "name": {
+            "en": "Nawalpur"
+          },
+          "latitude": 27.6531965,
+          "longitude": 83.7244287
+        },
+        {
+          "name": {
+            "en": "Parbat"
+          },
+          "latitude": 28.2027643,
+          "longitude": 83.3612186
+        },
+        {
+          "name": {
+            "en": "Syangja"
+          },
+          "latitude": 28.0450971,
+          "longitude": 83.406127
+        },
+        {
+          "name": {
+            "en": "Tanahun"
+          },
+          "latitude": 27.9356556,
+          "longitude": 83.9179311
+        }
+      ]
+    },
+    {
+      "code": "NP-P6",
+      "name": {
+        "en": "Karnali"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Dailekh"
+          },
+          "latitude": 28.8848053,
+          "longitude": 81.3387197
+        },
+        {
+          "name": {
+            "en": "Dolpa"
+          },
+          "latitude": 29.2137239,
+          "longitude": 82.3766775
+        },
+        {
+          "name": {
+            "en": "Humla"
+          },
+          "latitude": 30.0255703,
+          "longitude": 81.2173203
+        },
+        {
+          "name": {
+            "en": "Jajarkot"
+          },
+          "latitude": 28.8695526,
+          "longitude": 81.870337
+        },
+        {
+          "name": {
+            "en": "Jumla"
+          },
+          "latitude": 29.2388651,
+          "longitude": 81.8889974
+        },
+        {
+          "name": {
+            "en": "Kalikot"
+          },
+          "latitude": 29.2164552,
+          "longitude": 81.4139615
+        },
+        {
+          "name": {
+            "en": "Mugu"
+          },
+          "latitude": 29.6778288,
+          "longitude": 81.6361137
+        },
+        {
+          "name": {
+            "en": "Salyan"
+          },
+          "latitude": 28.4069349,
+          "longitude": 81.7605894
+        },
+        {
+          "name": {
+            "en": "Surkhet"
+          },
+          "latitude": 28.6573587,
+          "longitude": 80.851152
+        },
+        {
+          "name": {
+            "en": "Western Rukum"
+          },
+          "latitude": 28.7566521,
+          "longitude": 82.1127309
+        }
+      ]
+    },
+    {
+      "code": "NP-P1",
+      "name": {
+        "en": "Koshi"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bhojpur"
+          },
+          "latitude": 27.1643203,
+          "longitude": 86.9739908
+        },
+        {
+          "name": {
+            "en": "Dhankuta"
+          },
+          "latitude": 26.9844561,
+          "longitude": 87.2431129
+        },
+        {
+          "name": {
+            "en": "Ilam"
+          },
+          "latitude": 26.8985601,
+          "longitude": 87.8816007
+        },
+        {
+          "name": {
+            "en": "Jhapa"
+          },
+          "latitude": 26.5837746,
+          "longitude": 87.582655
+        },
+        {
+          "name": {
+            "en": "Khotang"
+          },
+          "latitude": 27.156403,
+          "longitude": 86.3760147
+        },
+        {
+          "name": {
+            "en": "Morang"
+          },
+          "latitude": 26.6107271,
+          "longitude": 87.1349626
+        },
+        {
+          "name": {
+            "en": "Okhaldhunga"
+          },
+          "latitude": 27.3366812,
+          "longitude": 86.1150771
+        },
+        {
+          "name": {
+            "en": "Panchthar"
+          },
+          "latitude": 27.1492951,
+          "longitude": 87.4539698
+        },
+        {
+          "name": {
+            "en": "Sankhuwasabha"
+          },
+          "latitude": 27.546658,
+          "longitude": 86.6491272
+        },
+        {
+          "name": {
+            "en": "Solukhumbu"
+          },
+          "latitude": 27.7251464,
+          "longitude": 86.0232404
+        },
+        {
+          "name": {
+            "en": "Sunsari"
+          },
+          "latitude": 26.6411646,
+          "longitude": 86.7991952
+        },
+        {
+          "name": {
+            "en": "Taplejung"
+          },
+          "latitude": 27.6101409,
+          "longitude": 87.1635539
+        },
+        {
+          "name": {
+            "en": "Terhathum"
+          },
+          "latitude": 27.1326896,
+          "longitude": 87.4069143
+        },
+        {
+          "name": {
+            "en": "Udayapur"
+          },
+          "latitude": 26.9327407,
+          "longitude": 86.0026464
+        }
+      ]
+    },
+    {
+      "code": "NP-P5",
+      "name": {
+        "en": "Lumbini"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Arghakhanchi"
+          },
+          "latitude": 27.9323454,
+          "longitude": 82.7096611
+        },
+        {
+          "name": {
+            "en": "Banke"
+          },
+          "latitude": 28.0959371,
+          "longitude": 81.5166283
+        },
+        {
+          "name": {
+            "en": "Bardiya"
+          },
+          "latitude": 28.3720167,
+          "longitude": 81.0831683
+        },
+        {
+          "name": {
+            "en": "Dang"
+          },
+          "latitude": 27.9788799,
+          "longitude": 82.4684176
+        },
+        {
+          "name": {
+            "en": "Eastern Rukum"
+          },
+          "latitude": 28.6724804,
+          "longitude": 82.4894003
+        },
+        {
+          "name": {
+            "en": "Gulmi"
+          },
+          "latitude": 28.0959782,
+          "longitude": 82.9837972
+        },
+        {
+          "name": {
+            "en": "Kapilvastu"
+          },
+          "latitude": 27.5450696,
+          "longitude": 82.9755252
+        },
+        {
+          "name": {
+            "en": "Nawalparasi (West of Bardaghat Susta)"
+          },
+          "latitude": 27.519779,
+          "longitude": 83.4049481
+        },
+        {
+          "name": {
+            "en": "Palpa"
+          },
+          "latitude": 27.8106874,
+          "longitude": 83.3000022
+        },
+        {
+          "name": {
+            "en": "Pyuthan"
+          },
+          "latitude": 28.1080544,
+          "longitude": 82.7853244
+        },
+        {
+          "name": {
+            "en": "Rolpa"
+          },
+          "latitude": 28.325734,
+          "longitude": 82.3237615
+        },
+        {
+          "name": {
+            "en": "Rupandehi"
+          },
+          "latitude": 27.5493142,
+          "longitude": 83.0893067
+        }
+      ]
+    },
+    {
+      "code": "NP-P2",
+      "name": {
+        "en": "Madhesh"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bara"
+          },
+          "latitude": 27.1076631,
+          "longitude": 84.7387894
+        },
+        {
+          "name": {
+            "en": "Dhanusha"
+          },
+          "latitude": 26.8511257,
+          "longitude": 85.7243307
+        },
+        {
+          "name": {
+            "en": "Mahottari"
+          },
+          "latitude": 26.8843934,
+          "longitude": 85.2196324
+        },
+        {
+          "name": {
+            "en": "Parsa"
+          },
+          "latitude": 27.2196086,
+          "longitude": 83.5454157
+        },
+        {
+          "name": {
+            "en": "Rautahat"
+          },
+          "latitude": 26.9889241,
+          "longitude": 85.0037945
+        },
+        {
+          "name": {
+            "en": "Saptari"
+          },
+          "latitude": 26.6070667,
+          "longitude": 86.4205227
+        },
+        {
+          "name": {
+            "en": "Sarlahi"
+          },
+          "latitude": 26.9686119,
+          "longitude": 85.2390648
+        },
+        {
+          "name": {
+            "en": "Siraha"
+          },
+          "latitude": 26.7428739,
+          "longitude": 86.0130449
+        }
+      ]
+    },
+    {
+      "code": "NP-P7",
+      "name": {
+        "en": "Sudurpashchim"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Achham"
+          },
+          "latitude": 29.0675962,
+          "longitude": 80.9745285
+        },
+        {
+          "name": {
+            "en": "Baitadi"
+          },
+          "latitude": 29.5083263,
+          "longitude": 80.245342
+        },
+        {
+          "name": {
+            "en": "Bajhang"
+          },
+          "latitude": 29.722111,
+          "longitude": 80.4959142
+        },
+        {
+          "name": {
+            "en": "Bajura"
+          },
+          "latitude": 29.6100812,
+          "longitude": 80.8294802
+        },
+        {
+          "name": {
+            "en": "Dadeldhura"
+          },
+          "latitude": 29.2093409,
+          "longitude": 80.1553646
+        },
+        {
+          "name": {
+            "en": "Darchula"
+          },
+          "latitude": 29.9127333,
+          "longitude": 80.7937159
+        },
+        {
+          "name": {
+            "en": "Doti"
+          },
+          "latitude": 29.1883361,
+          "longitude": 80.5268261
+        },
+        {
+          "name": {
+            "en": "Kailali"
+          },
+          "latitude": 28.7309061,
+          "longitude": 80.2184777
+        },
+        {
+          "name": {
+            "en": "Kanchanpur"
+          },
+          "latitude": 28.8439451,
+          "longitude": 80.2833071
+        }
+      ]
+    }
+  ]
+}

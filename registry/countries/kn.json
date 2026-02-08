@@ -1,0 +1,224 @@
+{
+  "code": "KN",
+  "iso3": "KNA",
+  "name": {
+    "en": "Saint Kitts and Nevis",
+    "ar": "سانت كيتس ونيفيس",
+    "de": "St. Kitts und Nevis",
+    "es": "San Cristóbal y Nieves",
+    "fr": "Saint-Christophe-et-Niévès",
+    "hi": "सेंट किट्स एंड नेविस",
+    "it": "Saint Kitts e Nevis",
+    "ja": "セントクリストファー・ネイビス",
+    "ko": "세인트키츠 네비스",
+    "nl": "Saint Kitts en Nevis",
+    "pl": "Saint Kitts i Nevis",
+    "pt": "São Cristóvão e Neves",
+    "pt-BR": "São Cristóvão e Neves",
+    "ru": "Сент-Китс и Невис",
+    "tr": "Saint Kitts Ve Nevis",
+    "uk": "Сент-Кітс і Невіс",
+    "zh": "圣基茨和尼维斯"
+  },
+  "phone": "+1",
+  "currency": "XCD",
+  "timezone": "America/St_Kitts",
+  "flag": "🇰🇳",
+  "regions": [
+    {
+      "code": "KN-01",
+      "name": {
+        "en": "Christ Church Nichola Town"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Nicola Town"
+          },
+          "latitude": 17.37956,
+          "longitude": -62.75318
+        }
+      ]
+    },
+    {
+      "code": "KN-02",
+      "name": {
+        "en": "Saint Anne Sandy Point"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Sandy Point Town"
+          },
+          "latitude": 17.35908,
+          "longitude": -62.84858
+        }
+      ]
+    },
+    {
+      "code": "KN-04",
+      "name": {
+        "en": "Saint George Gingerland"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Market Shop"
+          },
+          "latitude": 17.13218,
+          "longitude": -62.57267
+        }
+      ]
+    },
+    {
+      "code": "KN-05",
+      "name": {
+        "en": "Saint James Windward"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Newcastle"
+          },
+          "latitude": 17.2,
+          "longitude": -62.58333
+        }
+      ]
+    },
+    {
+      "code": "KN-06",
+      "name": {
+        "en": "Saint John Capisterre"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Dieppe Bay Town"
+          },
+          "latitude": 17.41473,
+          "longitude": -62.8139
+        }
+      ]
+    },
+    {
+      "code": "KN-07",
+      "name": {
+        "en": "Saint John Figtree"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Fig Tree"
+          },
+          "latitude": 17.12623,
+          "longitude": -62.60265
+        }
+      ]
+    },
+    {
+      "code": "KN-08",
+      "name": {
+        "en": "Saint Mary Cayon"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Cayon"
+          },
+          "latitude": 17.35,
+          "longitude": -62.73333
+        }
+      ]
+    },
+    {
+      "code": "KN-09",
+      "name": {
+        "en": "Saint Paul Capisterre"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Saint Paul’s"
+          },
+          "latitude": 17.40605,
+          "longitude": -62.83562
+        }
+      ]
+    },
+    {
+      "code": "KN-10",
+      "name": {
+        "en": "Saint Paul Charlestown"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Charlestown"
+          },
+          "latitude": 17.13333,
+          "longitude": -62.61667
+        }
+      ]
+    },
+    {
+      "code": "KN-11",
+      "name": {
+        "en": "Saint Peter Basseterre"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Monkey Hill"
+          },
+          "latitude": 17.32327,
+          "longitude": -62.72914
+        }
+      ]
+    },
+    {
+      "code": "KN-12",
+      "name": {
+        "en": "Saint Thomas Lowland"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Cotton Ground"
+          },
+          "latitude": 17.16667,
+          "longitude": -62.61667
+        }
+      ]
+    },
+    {
+      "code": "KN-13",
+      "name": {
+        "en": "Saint Thomas Middle Island"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Middle Island"
+          },
+          "latitude": 17.3259,
+          "longitude": -62.81055
+        }
+      ]
+    },
+    {
+      "code": "KN-15",
+      "name": {
+        "en": "Trinity Palmetto Point"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Trinity"
+          },
+          "latitude": 17.30037,
+          "longitude": -62.77584
+        }
+      ]
+    }
+  ]
+}

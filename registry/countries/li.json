@@ -1,0 +1,194 @@
+{
+  "code": "LI",
+  "iso3": "LIE",
+  "name": {
+    "en": "Liechtenstein",
+    "ar": "ليختنشتاين",
+    "de": "Liechtenstein",
+    "es": "Liechtenstein",
+    "fr": "Liechtenstein",
+    "hi": "लिकटेंस्टाइन",
+    "it": "Liechtenstein",
+    "ja": "リヒテンシュタイン",
+    "ko": "리히텐슈타인",
+    "nl": "Liechtenstein",
+    "pl": "Liechtenstein",
+    "pt": "Listenstaine",
+    "pt-BR": "Liechtenstein",
+    "ru": "Лихтенштейн",
+    "tr": "Lihtenştayn",
+    "uk": "Ліхтенштейн",
+    "zh": "列支敦士登"
+  },
+  "phone": "+423",
+  "currency": "CHF",
+  "timezone": "Europe/Vaduz",
+  "flag": "🇱🇮",
+  "regions": [
+    {
+      "code": "LI-01",
+      "name": {
+        "en": "Balzers"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Balzers"
+          },
+          "latitude": 47.06665,
+          "longitude": 9.50251
+        }
+      ]
+    },
+    {
+      "code": "LI-02",
+      "name": {
+        "en": "Eschen"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Eschen"
+          },
+          "latitude": 47.21071,
+          "longitude": 9.52223
+        }
+      ]
+    },
+    {
+      "code": "LI-03",
+      "name": {
+        "en": "Gamprin"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Gamprin"
+          },
+          "latitude": 47.22038,
+          "longitude": 9.50935
+        }
+      ]
+    },
+    {
+      "code": "LI-04",
+      "name": {
+        "en": "Mauren"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Mauren"
+          },
+          "latitude": 47.21805,
+          "longitude": 9.5442
+        }
+      ]
+    },
+    {
+      "code": "LI-05",
+      "name": {
+        "en": "Planken"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Planken"
+          },
+          "latitude": 47.18516,
+          "longitude": 9.54437
+        }
+      ]
+    },
+    {
+      "code": "LI-06",
+      "name": {
+        "en": "Ruggell"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ruggell"
+          },
+          "latitude": 47.23799,
+          "longitude": 9.5254
+        }
+      ]
+    },
+    {
+      "code": "LI-07",
+      "name": {
+        "en": "Schaan"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Schaan"
+          },
+          "latitude": 47.16498,
+          "longitude": 9.50867
+        }
+      ]
+    },
+    {
+      "code": "LI-08",
+      "name": {
+        "en": "Schellenberg"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Schellenberg"
+          },
+          "latitude": 47.23123,
+          "longitude": 9.54678
+        }
+      ]
+    },
+    {
+      "code": "LI-09",
+      "name": {
+        "en": "Triesen"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Triesen"
+          },
+          "latitude": 47.10752,
+          "longitude": 9.52815
+        }
+      ]
+    },
+    {
+      "code": "LI-10",
+      "name": {
+        "en": "Triesenberg"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Triesenberg"
+          },
+          "latitude": 47.11815,
+          "longitude": 9.54197
+        }
+      ]
+    },
+    {
+      "code": "LI-11",
+      "name": {
+        "en": "Vaduz"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Vaduz"
+          },
+          "latitude": 47.14151,
+          "longitude": 9.52154
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "code": "IM",
+  "iso3": "IMN",
+  "name": {
+    "en": "Man (Isle of)",
+    "ar": "رجل (جزيرة)",
+    "de": "Insel Man",
+    "es": "Isla de Man",
+    "fr": "Île de Man",
+    "hi": "आदमी (आइल)",
+    "it": "Isola di Man",
+    "ja": "マン島",
+    "ko": "맨 섬",
+    "nl": "Isle of Man",
+    "pl": "Man (Wyspa)",
+    "pt": "Ilha de Man",
+    "pt-BR": "Ilha de Man",
+    "ru": "Мэн (остров)",
+    "tr": "Man Adasi",
+    "uk": "Мен (острів Мен)",
+    "zh": "马恩岛"
+  },
+  "phone": "+44",
+  "currency": "GBP",
+  "timezone": "Europe/Isle_of_Man",
+  "flag": "🇮🇲",
+  "regions": [
+    {
+      "code": "IM-01",
+      "name": {
+        "en": "Ayre"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Andreas"
+          },
+          "latitude": 54.368414,
+          "longitude": -4.5211463
+        },
+        {
+          "name": {
+            "en": "Bride"
+          },
+          "latitude": 54.3831657,
+          "longitude": -4.4080356
+        },
+        {
+          "name": {
+            "en": "Lezayre"
+          },
+          "latitude": 54.2962193,
+          "longitude": -4.5311015
+        }
+      ]
+    },
+    {
+      "code": "IM-02",
+      "name": {
+        "en": "Garff"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Lonan"
+          },
+          "latitude": 54.2210452,
+          "longitude": -4.5010306
+        },
+        {
+          "name": {
+            "en": "Maughold"
+          },
+          "latitude": 54.2549454,
+          "longitude": -4.5122349
+        },
+        {
+          "name": {
+            "en": "Onchan"
+          },
+          "latitude": 54.1981508,
+          "longitude": -4.5490898
+        }
+      ]
+    },
+    {
+      "code": "IM-03",
+      "name": {
+        "en": "Glenfaba"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "German"
+          },
+          "latitude": 54.2187145,
+          "longitude": -4.7065273
+        }
+      ]
+    },
+    {
+      "code": "IM-04",
+      "name": {
+        "en": "Michael"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ballaugh"
+          },
+          "latitude": 54.3048121,
+          "longitude": -4.6207526
+        },
+        {
+          "name": {
+            "en": "Jurby"
+          },
+          "latitude": 54.3590528,
+          "longitude": -4.5406586
+        },
+        {
+          "name": {
+            "en": "Michael"
+          },
+          "latitude": 54.2742778,
+          "longitude": -4.6427325
+        }
+      ]
+    },
+    {
+      "code": "IM-05",
+      "name": {
+        "en": "Middle"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Braddan"
+          },
+          "latitude": 54.1632828,
+          "longitude": -4.5258506
+        },
+        {
+          "name": {
+            "en": "Marown"
+          },
+          "latitude": 54.1846242,
+          "longitude": -4.6495218
+        },
+        {
+          "name": {
+            "en": "Santon"
+          },
+          "latitude": 54.1205489,
+          "longitude": -4.6493775
+        }
+      ]
+    },
+    {
+      "code": "IM-06",
+      "name": {
+        "en": "Rushen"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Arbory"
+          },
+          "latitude": 54.1087807,
+          "longitude": -4.8356454
+        },
+        {
+          "name": {
+            "en": "Malew"
+          },
+          "latitude": 54.1118049,
+          "longitude": -4.8013827
+        },
+        {
+          "name": {
+            "en": "Rushen"
+          },
+          "latitude": 54.0908492,
+          "longitude": -4.8414982
+        }
+      ]
+    }
+  ]
+}

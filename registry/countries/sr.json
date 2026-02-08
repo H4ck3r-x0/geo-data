@@ -1,0 +1,193 @@
+{
+  "code": "SR",
+  "iso3": "SUR",
+  "name": {
+    "en": "Suriname",
+    "ar": "سورينام",
+    "de": "Suriname",
+    "es": "Surinam",
+    "fr": "Surinam",
+    "hi": "सूरीनाम",
+    "it": "Suriname",
+    "ja": "スリナム",
+    "ko": "수리남",
+    "nl": "Suriname",
+    "pl": "Surinam",
+    "pt": "Suriname",
+    "pt-BR": "Suriname",
+    "ru": "Суринам",
+    "tr": "Surinam",
+    "uk": "Суринам",
+    "zh": "苏里南"
+  },
+  "phone": "+597",
+  "currency": "SRD",
+  "timezone": "America/Paramaribo",
+  "flag": "🇸🇷",
+  "regions": [
+    {
+      "code": "SR-BR",
+      "name": {
+        "en": "Brokopondo"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Brokopondo"
+          },
+          "latitude": 5.05594,
+          "longitude": -54.98043
+        },
+        {
+          "name": {
+            "en": "Brownsweg"
+          },
+          "latitude": 5.00435,
+          "longitude": -55.15333
+        }
+      ]
+    },
+    {
+      "code": "SR-CM",
+      "name": {
+        "en": "Commewijne"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Mariënburg"
+          },
+          "latitude": 5.87722,
+          "longitude": -55.04322
+        },
+        {
+          "name": {
+            "en": "Nieuw Amsterdam"
+          },
+          "latitude": 5.88573,
+          "longitude": -55.08871
+        }
+      ]
+    },
+    {
+      "code": "SR-CR",
+      "name": {
+        "en": "Coronie"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Totness"
+          },
+          "latitude": 5.87618,
+          "longitude": -56.32572
+        }
+      ]
+    },
+    {
+      "code": "SR-MA",
+      "name": {
+        "en": "Marowijne"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Albina"
+          },
+          "latitude": 5.49788,
+          "longitude": -54.05522
+        },
+        {
+          "name": {
+            "en": "Moengo"
+          },
+          "latitude": 5.61411,
+          "longitude": -54.40121
+        }
+      ]
+    },
+    {
+      "code": "SR-NI",
+      "name": {
+        "en": "Nickerie"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Nieuw Nickerie"
+          },
+          "latitude": 5.92606,
+          "longitude": -56.97297
+        },
+        {
+          "name": {
+            "en": "Wageningen"
+          },
+          "latitude": 5.7601,
+          "longitude": -56.66523
+        }
+      ]
+    },
+    {
+      "code": "SR-PR",
+      "name": {
+        "en": "Para"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Onverwacht"
+          },
+          "latitude": 5.58983,
+          "longitude": -55.19462
+        }
+      ]
+    },
+    {
+      "code": "SR-PM",
+      "name": {
+        "en": "Paramaribo"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Paramaribo",
+            "ar": "باراماريبو"
+          },
+          "latitude": 5.86638,
+          "longitude": -55.16682
+        }
+      ]
+    },
+    {
+      "code": "SR-SA",
+      "name": {
+        "en": "Saramacca"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Groningen"
+          },
+          "latitude": 5.8,
+          "longitude": -55.46667
+        }
+      ]
+    },
+    {
+      "code": "SR-WA",
+      "name": {
+        "en": "Wanica"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Lelydorp"
+          },
+          "latitude": 5.7,
+          "longitude": -55.23333
+        }
+      ]
+    }
+  ]
+}

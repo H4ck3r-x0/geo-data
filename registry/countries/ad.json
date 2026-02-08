@@ -1,0 +1,156 @@
+{
+  "code": "AD",
+  "iso3": "AND",
+  "name": {
+    "en": "Andorra",
+    "ar": "أندورا",
+    "de": "Andorra",
+    "es": "Andorra",
+    "fr": "Andorre",
+    "hi": "एंडोरा",
+    "it": "Andorra",
+    "ja": "アンドラ",
+    "ko": "안도라",
+    "nl": "Andorra",
+    "pl": "Andora",
+    "pt": "Andorra",
+    "pt-BR": "Andorra",
+    "ru": "Андорра",
+    "tr": "Andorra",
+    "uk": "Андорра",
+    "zh": "安道尔"
+  },
+  "phone": "+376",
+  "currency": "EUR",
+  "timezone": "Europe/Andorra",
+  "flag": "🇦🇩",
+  "regions": [
+    {
+      "code": "AD-07",
+      "name": {
+        "en": "Andorra la Vella"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Andorra la Vella",
+            "ar": "أندورا لا فيلا"
+          },
+          "latitude": 42.50779,
+          "longitude": 1.52109
+        }
+      ]
+    },
+    {
+      "code": "AD-02",
+      "name": {
+        "en": "Canillo"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Canillo"
+          },
+          "latitude": 42.5676,
+          "longitude": 1.59756
+        },
+        {
+          "name": {
+            "en": "El Tarter"
+          },
+          "latitude": 42.57952,
+          "longitude": 1.65362
+        }
+      ]
+    },
+    {
+      "code": "AD-03",
+      "name": {
+        "en": "Encamp"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Encamp"
+          },
+          "latitude": 42.53474,
+          "longitude": 1.58014
+        },
+        {
+          "name": {
+            "en": "Pas de la Casa"
+          },
+          "latitude": 42.54277,
+          "longitude": 1.73361
+        }
+      ]
+    },
+    {
+      "code": "AD-08",
+      "name": {
+        "en": "Escaldes-Engordany"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "les Escaldes"
+          },
+          "latitude": 42.50729,
+          "longitude": 1.53414
+        }
+      ]
+    },
+    {
+      "code": "AD-04",
+      "name": {
+        "en": "La Massana"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Arinsal"
+          },
+          "latitude": 42.57205,
+          "longitude": 1.48453
+        },
+        {
+          "name": {
+            "en": "la Massana"
+          },
+          "latitude": 42.54499,
+          "longitude": 1.51483
+        }
+      ]
+    },
+    {
+      "code": "AD-05",
+      "name": {
+        "en": "Ordino"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ordino"
+          },
+          "latitude": 42.55623,
+          "longitude": 1.53319
+        }
+      ]
+    },
+    {
+      "code": "AD-06",
+      "name": {
+        "en": "Sant Julià de Lòria"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Sant Julià de Lòria"
+          },
+          "latitude": 42.46372,
+          "longitude": 1.49129
+        }
+      ]
+    }
+  ]
+}

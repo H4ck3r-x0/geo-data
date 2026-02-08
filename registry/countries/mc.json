@@ -1,0 +1,284 @@
+{
+  "code": "MC",
+  "iso3": "MCO",
+  "name": {
+    "en": "Monaco",
+    "ar": "موناكو",
+    "de": "Monaco",
+    "es": "Mónaco",
+    "fr": "Monaco",
+    "hi": "मोनाको",
+    "it": "Principato di Monaco",
+    "ja": "モナコ",
+    "ko": "모나코",
+    "nl": "Monaco",
+    "pl": "Monabr",
+    "pt": "Mónaco",
+    "pt-BR": "Mônaco",
+    "ru": "Монако",
+    "tr": "Monako",
+    "uk": "Монако",
+    "zh": "摩纳哥"
+  },
+  "phone": "+377",
+  "currency": "EUR",
+  "timezone": "Europe/Monaco",
+  "flag": "🇲🇨",
+  "regions": [
+    {
+      "code": "MC-FO",
+      "name": {
+        "en": "Fontvieille"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Fontvieille"
+          },
+          "latitude": 43.72944444,
+          "longitude": 7.415
+        }
+      ]
+    },
+    {
+      "code": "MC-JE",
+      "name": {
+        "en": "Jardin Exotique"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Jardin Exotique"
+          },
+          "latitude": 43.73138889,
+          "longitude": 7.41388889
+        }
+      ]
+    },
+    {
+      "code": "MC-CL",
+      "name": {
+        "en": "La Colle"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "La Colle"
+          },
+          "latitude": 43.7327465,
+          "longitude": 7.4137276
+        }
+      ]
+    },
+    {
+      "code": "MC-CO",
+      "name": {
+        "en": "La Condamine"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "La Condamine"
+          },
+          "latitude": 43.7350665,
+          "longitude": 7.419906
+        }
+      ]
+    },
+    {
+      "code": "MC-GA",
+      "name": {
+        "en": "La Gare"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "La Gare"
+          },
+          "latitude": 43.7319,
+          "longitude": 7.4168
+        }
+      ]
+    },
+    {
+      "code": "MC-SO",
+      "name": {
+        "en": "La Source"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "La Source"
+          },
+          "latitude": 43.7365,
+          "longitude": 7.4195
+        }
+      ]
+    },
+    {
+      "code": "MC-LA",
+      "name": {
+        "en": "Larvotto"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Larvotto"
+          },
+          "latitude": 43.74666667,
+          "longitude": 7.43333333
+        }
+      ]
+    },
+    {
+      "code": "MC-MA",
+      "name": {
+        "en": "Malbousquet"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Malbousquet"
+          },
+          "latitude": 43.7345,
+          "longitude": 7.4215
+        }
+      ]
+    },
+    {
+      "code": "MC-MO",
+      "name": {
+        "en": "Monaco-Ville"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Monaco-Ville"
+          },
+          "latitude": 43.7311,
+          "longitude": 7.42
+        }
+      ]
+    },
+    {
+      "code": "MC-MG",
+      "name": {
+        "en": "Moneghetti"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Moneghetti"
+          },
+          "latitude": 43.7364927,
+          "longitude": 7.4153383
+        }
+      ]
+    },
+    {
+      "code": "MC-MC",
+      "name": {
+        "en": "Monte-Carlo"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Monte-Carlo"
+          },
+          "latitude": 43.73972222,
+          "longitude": 7.42722222
+        }
+      ]
+    },
+    {
+      "code": "MC-MU",
+      "name": {
+        "en": "Moulins"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Moulins"
+          },
+          "latitude": 43.7389,
+          "longitude": 7.4185
+        }
+      ]
+    },
+    {
+      "code": "MC-PH",
+      "name": {
+        "en": "Port-Hercule"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Port-Hercule"
+          },
+          "latitude": 43.7347,
+          "longitude": 7.4253
+        }
+      ]
+    },
+    {
+      "code": "MC-SR",
+      "name": {
+        "en": "Saint-Roman"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Saint-Roman"
+          },
+          "latitude": 43.7453,
+          "longitude": 7.4318
+        }
+      ]
+    },
+    {
+      "code": "MC-SD",
+      "name": {
+        "en": "Sainte-Dévote"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Sainte-Dévote"
+          },
+          "latitude": 43.7372,
+          "longitude": 7.4208
+        }
+      ]
+    },
+    {
+      "code": "MC-SP",
+      "name": {
+        "en": "Spélugues"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Spélugues"
+          },
+          "latitude": 43.7392,
+          "longitude": 7.4251
+        }
+      ]
+    },
+    {
+      "code": "MC-VR",
+      "name": {
+        "en": "Vallon de la Rousse"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Vallon de la Rousse"
+          },
+          "latitude": 43.7401,
+          "longitude": 7.4175
+        }
+      ]
+    }
+  ]
+}

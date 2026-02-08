@@ -1,0 +1,712 @@
+{
+  "code": "CD",
+  "iso3": "COD",
+  "name": {
+    "en": "Democratic Republic of the Congo",
+    "ar": "جمهورية الكونغو الديمقراطية",
+    "de": "Kongo (Dem. Rep.)",
+    "es": "Congo (Rep. Dem.)",
+    "fr": "Congo (Rép. dém.)",
+    "hi": "कांगो लोकतांत्रिक गणराज्य",
+    "it": "Congo (Rep. Dem.)",
+    "ja": "コンゴ民主共和国",
+    "ko": "콩고 민주 공화국",
+    "nl": "Congo [DRC]",
+    "pl": "Demokratyczna Republika Konga",
+    "pt": "RD Congo",
+    "pt-BR": "RD Congo",
+    "ru": "Демократическая Республика Конго",
+    "tr": "Kongo Demokratik Cumhuriyeti",
+    "uk": "Демократична Республіка Конго",
+    "zh": "刚果（金）"
+  },
+  "phone": "+243",
+  "currency": "CDF",
+  "timezone": "Africa/Kinshasa",
+  "flag": "🇨🇩",
+  "regions": [
+    {
+      "code": "CD-BU",
+      "name": {
+        "en": "Bas-Uélé"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Aketi",
+            "ar": "أكيتي"
+          },
+          "latitude": 2.73877,
+          "longitude": 23.78326
+        },
+        {
+          "name": {
+            "en": "Bondo"
+          },
+          "latitude": 3.81461,
+          "longitude": 23.68665
+        },
+        {
+          "name": {
+            "en": "Buta"
+          },
+          "latitude": 2.78582,
+          "longitude": 24.72997
+        }
+      ]
+    },
+    {
+      "code": "CD-EQ",
+      "name": {
+        "en": "Équateur"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Gemena"
+          },
+          "latitude": 3.25651,
+          "longitude": 19.77234
+        },
+        {
+          "name": {
+            "en": "Lisala"
+          },
+          "latitude": 2.15127,
+          "longitude": 21.51672
+        },
+        {
+          "name": {
+            "en": "Lukolela"
+          },
+          "latitude": -1.06046,
+          "longitude": 17.1821
+        },
+        {
+          "name": {
+            "en": "Mbandaka"
+          },
+          "latitude": 0.04865,
+          "longitude": 18.26034
+        }
+      ]
+    },
+    {
+      "code": "CD-HK",
+      "name": {
+        "en": "Haut-Katanga"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Likasi",
+            "ar": "ليكاسي"
+          },
+          "latitude": -10.98303,
+          "longitude": 26.7384
+        },
+        {
+          "name": {
+            "en": "Lubumbashi",
+            "ar": "لوبومباشي"
+          },
+          "latitude": -11.66089,
+          "longitude": 27.47938
+        }
+      ]
+    },
+    {
+      "code": "CD-HL",
+      "name": {
+        "en": "Haut-Lomami"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bukama"
+          },
+          "latitude": -9.20443,
+          "longitude": 25.85475
+        },
+        {
+          "name": {
+            "en": "Kamina"
+          },
+          "latitude": -8.73508,
+          "longitude": 24.99798
+        }
+      ]
+    },
+    {
+      "code": "CD-HU",
+      "name": {
+        "en": "Haut-Uélé"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Isiro"
+          },
+          "latitude": 2.77391,
+          "longitude": 27.61603
+        },
+        {
+          "name": {
+            "en": "Wamba"
+          },
+          "latitude": 2.14838,
+          "longitude": 27.99466
+        },
+        {
+          "name": {
+            "en": "Watsa"
+          },
+          "latitude": 3.03716,
+          "longitude": 29.53551
+        }
+      ]
+    },
+    {
+      "code": "CD-IT",
+      "name": {
+        "en": "Ituri"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bunia"
+          },
+          "latitude": 1.55941,
+          "longitude": 30.25224
+        }
+      ]
+    },
+    {
+      "code": "CD-KS",
+      "name": {
+        "en": "Kasaï"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ilebo"
+          },
+          "latitude": -4.33111,
+          "longitude": 20.58638
+        },
+        {
+          "name": {
+            "en": "Luebo"
+          },
+          "latitude": -5.35218,
+          "longitude": 21.42192
+        },
+        {
+          "name": {
+            "en": "Mweka"
+          },
+          "latitude": -4.85187,
+          "longitude": 21.5595
+        },
+        {
+          "name": {
+            "en": "Tshikapa",
+            "ar": "تشيكابا"
+          },
+          "latitude": -6.41621,
+          "longitude": 20.79995
+        }
+      ]
+    },
+    {
+      "code": "CD-KE",
+      "name": {
+        "en": "Kasaï Oriental"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Gandajika"
+          },
+          "latitude": -6.74504,
+          "longitude": 23.95328
+        },
+        {
+          "name": {
+            "en": "Kabinda",
+            "ar": "كابيندا"
+          },
+          "latitude": -6.13791,
+          "longitude": 24.48179
+        },
+        {
+          "name": {
+            "en": "Mbuji-Mayi"
+          },
+          "latitude": -6.13603,
+          "longitude": 23.58979
+        }
+      ]
+    },
+    {
+      "code": "CD-KN",
+      "name": {
+        "en": "Kinshasa"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Kinshasa",
+            "ar": "كينشاسا"
+          },
+          "latitude": -4.32758,
+          "longitude": 15.31357
+        }
+      ]
+    },
+    {
+      "code": "CD-BC",
+      "name": {
+        "en": "Kongo Central"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Boma",
+            "ar": "بوما"
+          },
+          "latitude": -5.85098,
+          "longitude": 13.05364
+        },
+        {
+          "name": {
+            "en": "Kasangulu"
+          },
+          "latitude": -4.5833,
+          "longitude": 15.16554
+        },
+        {
+          "name": {
+            "en": "Matadi"
+          },
+          "latitude": -5.83861,
+          "longitude": 13.46306
+        },
+        {
+          "name": {
+            "en": "Mbanza-Ngungu"
+          },
+          "latitude": -5.25837,
+          "longitude": 14.85838
+        },
+        {
+          "name": {
+            "en": "Moanda"
+          },
+          "latitude": -5.92753,
+          "longitude": 12.37148
+        },
+        {
+          "name": {
+            "en": "Tshela"
+          },
+          "latitude": -4.99707,
+          "longitude": 12.9484
+        }
+      ]
+    },
+    {
+      "code": "CD-KG",
+      "name": {
+        "en": "Kwango"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Kasongo-Lunda"
+          },
+          "latitude": -6.47833,
+          "longitude": 16.81735
+        }
+      ]
+    },
+    {
+      "code": "CD-KL",
+      "name": {
+        "en": "Kwilu"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bandundu",
+            "ar": "بانداندو"
+          },
+          "latitude": -3.31687,
+          "longitude": 17.38063
+        },
+        {
+          "name": {
+            "en": "Bulungu"
+          },
+          "latitude": -4.54437,
+          "longitude": 18.60364
+        },
+        {
+          "name": {
+            "en": "Kikwit",
+            "ar": "كيكويت"
+          },
+          "latitude": -5.04098,
+          "longitude": 18.81619
+        },
+        {
+          "name": {
+            "en": "Mangai"
+          },
+          "latitude": -4.02328,
+          "longitude": 19.53385
+        }
+      ]
+    },
+    {
+      "code": "CD-LO",
+      "name": {
+        "en": "Lomami"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Lubao"
+          },
+          "latitude": -5.38771,
+          "longitude": 25.74885
+        },
+        {
+          "name": {
+            "en": "Mwene-Ditu"
+          },
+          "latitude": -7.00906,
+          "longitude": 23.45278
+        }
+      ]
+    },
+    {
+      "code": "CD-LU",
+      "name": {
+        "en": "Lualaba"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Kasaji"
+          },
+          "latitude": -10.38342,
+          "longitude": 23.44987
+        },
+        {
+          "name": {
+            "en": "Kolwezi"
+          },
+          "latitude": -10.716667,
+          "longitude": 25.466667
+        }
+      ]
+    },
+    {
+      "code": "CD-MN",
+      "name": {
+        "en": "Mai-Ndombe"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bolobo"
+          },
+          "latitude": -2.158,
+          "longitude": 16.23249
+        },
+        {
+          "name": {
+            "en": "Inongo"
+          },
+          "latitude": -1.9275,
+          "longitude": 18.2881
+        },
+        {
+          "name": {
+            "en": "Mushie",
+            "ar": "موشي"
+          },
+          "latitude": -3.01728,
+          "longitude": 16.92238
+        },
+        {
+          "name": {
+            "en": "Nioki"
+          },
+          "latitude": -2.72037,
+          "longitude": 17.69001
+        }
+      ]
+    },
+    {
+      "code": "CD-MA",
+      "name": {
+        "en": "Maniema"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Kampene"
+          },
+          "latitude": -3.59678,
+          "longitude": 26.66715
+        },
+        {
+          "name": {
+            "en": "Kasongo"
+          },
+          "latitude": -4.42741,
+          "longitude": 26.66656
+        },
+        {
+          "name": {
+            "en": "Kindu"
+          },
+          "latitude": -2.94373,
+          "longitude": 25.92237
+        }
+      ]
+    },
+    {
+      "code": "CD-MO",
+      "name": {
+        "en": "Mongala"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bumba",
+            "ar": "بومبا"
+          },
+          "latitude": 2.18771,
+          "longitude": 22.46827
+        }
+      ]
+    },
+    {
+      "code": "CD-NK",
+      "name": {
+        "en": "Nord-Kivu"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Beni"
+          },
+          "latitude": 0.49113,
+          "longitude": 29.47306
+        },
+        {
+          "name": {
+            "en": "Butembo"
+          },
+          "latitude": 0.14164,
+          "longitude": 29.29117
+        },
+        {
+          "name": {
+            "en": "Goma",
+            "ar": "غوما"
+          },
+          "latitude": -1.67409,
+          "longitude": 29.22845
+        },
+        {
+          "name": {
+            "en": "Sake"
+          },
+          "latitude": -1.57386,
+          "longitude": 29.04339
+        }
+      ]
+    },
+    {
+      "code": "CD-NU",
+      "name": {
+        "en": "Nord-Ubangi"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bosobolo"
+          },
+          "latitude": 4.1898,
+          "longitude": 19.8833
+        },
+        {
+          "name": {
+            "en": "Businga"
+          },
+          "latitude": 3.33863,
+          "longitude": 20.88577
+        },
+        {
+          "name": {
+            "en": "Gbadolite"
+          },
+          "latitude": 4.279,
+          "longitude": 21.00284
+        }
+      ]
+    },
+    {
+      "code": "CD-SA",
+      "name": {
+        "en": "Sankuru"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Lodja"
+          },
+          "latitude": -3.52105,
+          "longitude": 23.6005
+        },
+        {
+          "name": {
+            "en": "Lusambo"
+          },
+          "latitude": -4.97503,
+          "longitude": 23.44391
+        }
+      ]
+    },
+    {
+      "code": "CD-SK",
+      "name": {
+        "en": "Sud-Kivu"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bukavu"
+          },
+          "latitude": -2.49077,
+          "longitude": 28.84281
+        },
+        {
+          "name": {
+            "en": "Kabare"
+          },
+          "latitude": -2.49682,
+          "longitude": 28.79081
+        },
+        {
+          "name": {
+            "en": "Uvira"
+          },
+          "latitude": -3.39534,
+          "longitude": 29.13779
+        }
+      ]
+    },
+    {
+      "code": "CD-SU",
+      "name": {
+        "en": "Sud-Ubangi"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bongandanga"
+          },
+          "latitude": 1.50695,
+          "longitude": 21.0726
+        },
+        {
+          "name": {
+            "en": "Libenge",
+            "ar": "ليبنغي"
+          },
+          "latitude": 3.65332,
+          "longitude": 18.63566
+        }
+      ]
+    },
+    {
+      "code": "CD-TA",
+      "name": {
+        "en": "Tanganyika"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Kabalo"
+          },
+          "latitude": -6.05255,
+          "longitude": 26.9143
+        },
+        {
+          "name": {
+            "en": "Kalemie"
+          },
+          "latitude": -5.94749,
+          "longitude": 29.19471
+        },
+        {
+          "name": {
+            "en": "Kongolo"
+          },
+          "latitude": -5.38532,
+          "longitude": 27.00029
+        }
+      ]
+    },
+    {
+      "code": "CD-TO",
+      "name": {
+        "en": "Tshopo"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Basoko"
+          },
+          "latitude": 1.23909,
+          "longitude": 23.61598
+        },
+        {
+          "name": {
+            "en": "Kisangani"
+          },
+          "latitude": 0.51528,
+          "longitude": 25.19099
+        },
+        {
+          "name": {
+            "en": "Yangambi",
+            "ar": "يانغامبي"
+          },
+          "latitude": 0.76755,
+          "longitude": 24.43973
+        }
+      ]
+    },
+    {
+      "code": "CD-TU",
+      "name": {
+        "en": "Tshuapa"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Boende"
+          },
+          "latitude": -0.28163,
+          "longitude": 20.88053
+        }
+      ]
+    }
+  ]
+}

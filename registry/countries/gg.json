@@ -1,0 +1,97 @@
+{
+  "code": "GG",
+  "iso3": "GGY",
+  "name": {
+    "en": "Guernsey",
+    "ar": "غيرنسي",
+    "de": "Guernsey",
+    "es": "Guernsey",
+    "fr": "Guernesey",
+    "hi": "ग्वेर्नसे",
+    "it": "Guernsey",
+    "ja": "ガーンジー",
+    "ko": "건지, 올더니",
+    "nl": "Guernsey",
+    "pl": "Guernsey i Alderney",
+    "pt": "Guernsey",
+    "pt-BR": "Guernsey",
+    "ru": "Гернси и Олдерни",
+    "tr": "Alderney",
+    "uk": "Гернсі та Олдерні",
+    "zh": "根西岛"
+  },
+  "phone": "+44",
+  "currency": "GBP",
+  "timezone": "Europe/Guernsey",
+  "flag": "🇬🇬",
+  "regions": [
+    {
+      "code": "GG-02",
+      "name": {
+        "en": "Forest"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Forest Parish"
+          },
+          "latitude": 49.42983,
+          "longitude": -2.60168
+        }
+      ]
+    },
+    {
+      "code": "GG-06",
+      "name": {
+        "en": "St Peter Port"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Saint Peter Port",
+            "ar": "سان بيتر بورت"
+          },
+          "latitude": 49.45981,
+          "longitude": -2.53527
+        }
+      ]
+    },
+    {
+      "code": "GG-08",
+      "name": {
+        "en": "St Pierre du Bois"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Saint Pierre du Bois Parish"
+          },
+          "latitude": 49.45399,
+          "longitude": -2.63808
+        },
+        {
+          "name": {
+            "en": "Vale Parish"
+          },
+          "latitude": 49.4944,
+          "longitude": -2.5179
+        }
+      ]
+    },
+    {
+      "code": "GG-09",
+      "name": {
+        "en": "St Sampson"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Saint Sampson"
+          },
+          "latitude": 49.48389,
+          "longitude": -2.52333
+        }
+      ]
+    }
+  ]
+}

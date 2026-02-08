@@ -1,0 +1,699 @@
+{
+  "code": "SD",
+  "iso3": "SDN",
+  "name": {
+    "en": "Sudan",
+    "ar": "السودان",
+    "de": "Sudan",
+    "es": "Sudán",
+    "fr": "Soudan",
+    "hi": "सूडान",
+    "it": "Sudan",
+    "ja": "スーダン",
+    "ko": "수단",
+    "nl": "Soedan",
+    "pl": "Sudan",
+    "pt": "Sudão",
+    "pt-BR": "Sudão",
+    "ru": "Судан",
+    "tr": "Sudan",
+    "uk": "Судан",
+    "zh": "苏丹"
+  },
+  "phone": "+249",
+  "currency": "SDG",
+  "timezone": "Africa/Khartoum",
+  "flag": "🇸🇩",
+  "regions": [
+    {
+      "code": "SD-GZ",
+      "name": {
+        "en": "Al Jazirah"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Al Hasaheisa"
+          },
+          "latitude": 14.75264,
+          "longitude": 33.29836
+        },
+        {
+          "name": {
+            "en": "Al Hilāliyya"
+          },
+          "latitude": 14.9398,
+          "longitude": 33.234
+        },
+        {
+          "name": {
+            "en": "Al Kiremit al ‘Arakiyyīn"
+          },
+          "latitude": 14.3476,
+          "longitude": 32.9437
+        },
+        {
+          "name": {
+            "en": "Al Manāqil"
+          },
+          "latitude": 14.2459,
+          "longitude": 32.9891
+        },
+        {
+          "name": {
+            "en": "Al Masallamiyya"
+          },
+          "latitude": 14.5748,
+          "longitude": 33.3373
+        },
+        {
+          "name": {
+            "en": "Wad Medani",
+            "ar": "ود مدني"
+          },
+          "latitude": 14.40118,
+          "longitude": 33.51989
+        },
+        {
+          "name": {
+            "en": "Wad Rāwah"
+          },
+          "latitude": 15.16028,
+          "longitude": 33.13972
+        }
+      ]
+    },
+    {
+      "code": "SD-GD",
+      "name": {
+        "en": "Al Qadarif"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Al Ḩawātah"
+          },
+          "latitude": 13.41667,
+          "longitude": 34.63333
+        },
+        {
+          "name": {
+            "en": "Al Qadarif",
+            "ar": "القضارف"
+          },
+          "latitude": 14.03493,
+          "longitude": 35.38344
+        },
+        {
+          "name": {
+            "en": "Doka"
+          },
+          "latitude": 13.51667,
+          "longitude": 35.76667
+        }
+      ]
+    },
+    {
+      "code": "SD-NB",
+      "name": {
+        "en": "Blue Nile"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ad-Damazin",
+            "ar": "الدمازين"
+          },
+          "latitude": 11.7891,
+          "longitude": 34.3592
+        },
+        {
+          "name": {
+            "en": "Ar Ruseris",
+            "ar": "الروصيرص"
+          },
+          "latitude": 11.8659,
+          "longitude": 34.3869
+        },
+        {
+          "name": {
+            "en": "Kurmuk"
+          },
+          "latitude": 10.55,
+          "longitude": 34.28333
+        }
+      ]
+    },
+    {
+      "code": "SD-DC",
+      "name": {
+        "en": "Central Darfur"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Zalingei",
+            "ar": "زالنجي (مدينة)"
+          },
+          "latitude": 12.90918,
+          "longitude": 23.47058
+        }
+      ]
+    },
+    {
+      "code": "SD-DE",
+      "name": {
+        "en": "East Darfur"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "El Daein",
+            "ar": "الضعين"
+          },
+          "latitude": 11.46186,
+          "longitude": 26.12583
+        }
+      ]
+    },
+    {
+      "code": "SD-KA",
+      "name": {
+        "en": "Kassala"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Aroma"
+          },
+          "latitude": 15.81667,
+          "longitude": 36.13333
+        },
+        {
+          "name": {
+            "en": "Kassala",
+            "ar": "كسل"
+          },
+          "latitude": 15.45099,
+          "longitude": 36.39998
+        },
+        {
+          "name": {
+            "en": "Wagar"
+          },
+          "latitude": 16.1525,
+          "longitude": 36.2032
+        }
+      ]
+    },
+    {
+      "code": "SD-KH",
+      "name": {
+        "en": "Khartoum"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Khartoum",
+            "ar": "خرطوم"
+          },
+          "latitude": 15.55177,
+          "longitude": 32.53241
+        },
+        {
+          "name": {
+            "en": "Omdurman",
+            "ar": "أم درمان"
+          },
+          "latitude": 15.64453,
+          "longitude": 32.47773
+        }
+      ]
+    },
+    {
+      "code": "SD-DN",
+      "name": {
+        "en": "North Darfur"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "El Fasher"
+          },
+          "latitude": 13.62793,
+          "longitude": 25.34936
+        },
+        {
+          "name": {
+            "en": "Kutum"
+          },
+          "latitude": 14.2,
+          "longitude": 24.66667
+        },
+        {
+          "name": {
+            "en": "Umm Kaddadah"
+          },
+          "latitude": 13.60169,
+          "longitude": 26.68759
+        }
+      ]
+    },
+    {
+      "code": "SD-KN",
+      "name": {
+        "en": "North Kordofan"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ar Rahad",
+            "ar": "الرهد"
+          },
+          "latitude": 12.71667,
+          "longitude": 30.65
+        },
+        {
+          "name": {
+            "en": "Bārah"
+          },
+          "latitude": 13.7,
+          "longitude": 30.36667
+        },
+        {
+          "name": {
+            "en": "El Obeid",
+            "ar": "الأبي"
+          },
+          "latitude": 13.18421,
+          "longitude": 30.21669
+        },
+        {
+          "name": {
+            "en": "Umm Ruwaba",
+            "ar": "أم روابة"
+          },
+          "latitude": 12.9061,
+          "longitude": 31.2158
+        }
+      ]
+    },
+    {
+      "code": "SD-NO",
+      "name": {
+        "en": "Northern"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ad Dabbah"
+          },
+          "latitude": 18.05,
+          "longitude": 30.95
+        },
+        {
+          "name": {
+            "en": "Argo"
+          },
+          "latitude": 19.51667,
+          "longitude": 30.41667
+        },
+        {
+          "name": {
+            "en": "Dongola",
+            "ar": "دنقلا"
+          },
+          "latitude": 19.18163,
+          "longitude": 30.47689
+        },
+        {
+          "name": {
+            "en": "Karmah an Nuzul"
+          },
+          "latitude": 19.63333,
+          "longitude": 30.41667
+        },
+        {
+          "name": {
+            "en": "Kuraymah"
+          },
+          "latitude": 18.55,
+          "longitude": 31.85
+        },
+        {
+          "name": {
+            "en": "Merowe"
+          },
+          "latitude": 18.47036,
+          "longitude": 31.81126
+        }
+      ]
+    },
+    {
+      "code": "SD-RS",
+      "name": {
+        "en": "Red Sea"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Gebeit"
+          },
+          "latitude": 21.06667,
+          "longitude": 36.31667
+        },
+        {
+          "name": {
+            "en": "Port Sudan",
+            "ar": "بورتسودان"
+          },
+          "latitude": 19.61745,
+          "longitude": 37.21644
+        },
+        {
+          "name": {
+            "en": "Sawākin",
+            "ar": "سواكن"
+          },
+          "latitude": 19.1059,
+          "longitude": 37.3321
+        },
+        {
+          "name": {
+            "en": "Tokār",
+            "ar": "طوكر"
+          },
+          "latitude": 18.4254,
+          "longitude": 37.729
+        }
+      ]
+    },
+    {
+      "code": "SD-NR",
+      "name": {
+        "en": "River Nile"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Atbara",
+            "ar": "عطبرة"
+          },
+          "latitude": 17.70217,
+          "longitude": 33.98638
+        },
+        {
+          "name": {
+            "en": "Berber"
+          },
+          "latitude": 18.02158,
+          "longitude": 33.98299
+        },
+        {
+          "name": {
+            "en": "Ed Damer",
+            "ar": "الدامر"
+          },
+          "latitude": 17.59898,
+          "longitude": 33.97205
+        },
+        {
+          "name": {
+            "en": "El Bauga"
+          },
+          "latitude": 18.26197,
+          "longitude": 33.90812
+        },
+        {
+          "name": {
+            "en": "El Matama"
+          },
+          "latitude": 16.7095,
+          "longitude": 33.3565
+        },
+        {
+          "name": {
+            "en": "Shendi",
+            "ar": "شندي"
+          },
+          "latitude": 16.6915,
+          "longitude": 33.4341
+        }
+      ]
+    },
+    {
+      "code": "SD-SI",
+      "name": {
+        "en": "Sennar"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ad Dindar"
+          },
+          "latitude": 13.2,
+          "longitude": 34.16667
+        },
+        {
+          "name": {
+            "en": "As Sūkī"
+          },
+          "latitude": 13.31667,
+          "longitude": 33.88333
+        },
+        {
+          "name": {
+            "en": "Jalqani"
+          },
+          "latitude": 12.4486,
+          "longitude": 34.2186
+        },
+        {
+          "name": {
+            "en": "Kināna"
+          },
+          "latitude": 14.0361,
+          "longitude": 33.1712
+        },
+        {
+          "name": {
+            "en": "Maiurno"
+          },
+          "latitude": 13.41667,
+          "longitude": 33.66667
+        },
+        {
+          "name": {
+            "en": "Singa",
+            "ar": "سنجة"
+          },
+          "latitude": 13.1483,
+          "longitude": 33.93117
+        },
+        {
+          "name": {
+            "en": "Sinnar",
+            "ar": "سنار"
+          },
+          "latitude": 13.56907,
+          "longitude": 33.56718
+        }
+      ]
+    },
+    {
+      "code": "SD-DS",
+      "name": {
+        "en": "South Darfur"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Gereida",
+            "ar": "قريضة"
+          },
+          "latitude": 11.27543,
+          "longitude": 25.14026
+        },
+        {
+          "name": {
+            "en": "Nyala",
+            "ar": "نيالا"
+          },
+          "latitude": 12.04888,
+          "longitude": 24.88069
+        }
+      ]
+    },
+    {
+      "code": "SD-KS",
+      "name": {
+        "en": "South Kordofan"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Abu Jibeha"
+          },
+          "latitude": 11.4562,
+          "longitude": 31.2285
+        },
+        {
+          "name": {
+            "en": "Al Fūlah"
+          },
+          "latitude": 11.73292,
+          "longitude": 28.35786
+        },
+        {
+          "name": {
+            "en": "Dilling"
+          },
+          "latitude": 12.05,
+          "longitude": 29.65
+        },
+        {
+          "name": {
+            "en": "Kadugli",
+            "ar": "كادقلى"
+          },
+          "latitude": 11.01111,
+          "longitude": 29.71833
+        },
+        {
+          "name": {
+            "en": "Talodi"
+          },
+          "latitude": 10.63246,
+          "longitude": 30.3797
+        }
+      ]
+    },
+    {
+      "code": "SD-DW",
+      "name": {
+        "en": "West Darfur"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Geneina",
+            "ar": "الجنينة"
+          },
+          "latitude": 13.45262,
+          "longitude": 22.44725
+        }
+      ]
+    },
+    {
+      "code": "SD-GK",
+      "name": {
+        "en": "West Kordofan"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Abū Zabad"
+          },
+          "latitude": 12.35,
+          "longitude": 29.25
+        },
+        {
+          "name": {
+            "en": "Al Lagowa"
+          },
+          "latitude": 11.4,
+          "longitude": 29.13333
+        },
+        {
+          "name": {
+            "en": "Al Mijlad"
+          },
+          "latitude": 11.03333,
+          "longitude": 27.73333
+        },
+        {
+          "name": {
+            "en": "An Nuhūd",
+            "ar": "النهود"
+          },
+          "latitude": 12.7,
+          "longitude": 28.43333
+        }
+      ]
+    },
+    {
+      "code": "SD-NW",
+      "name": {
+        "en": "White Nile"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ad Douiem",
+            "ar": "الدويم (مدينة)"
+          },
+          "latitude": 14.0012,
+          "longitude": 32.3116
+        },
+        {
+          "name": {
+            "en": "Al Kawa"
+          },
+          "latitude": 13.7463,
+          "longitude": 32.4996
+        },
+        {
+          "name": {
+            "en": "Al Qiţena"
+          },
+          "latitude": 14.8648,
+          "longitude": 32.3668
+        },
+        {
+          "name": {
+            "en": "Kosti",
+            "ar": "ربك"
+          },
+          "latitude": 13.1629,
+          "longitude": 32.66347
+        },
+        {
+          "name": {
+            "en": "Marabba"
+          },
+          "latitude": 12.35,
+          "longitude": 32.18333
+        },
+        {
+          "name": {
+            "en": "Rabak",
+            "ar": "ربك"
+          },
+          "latitude": 13.18087,
+          "longitude": 32.73999
+        },
+        {
+          "name": {
+            "en": "Tandaltī"
+          },
+          "latitude": 13.01667,
+          "longitude": 31.86667
+        },
+        {
+          "name": {
+            "en": "Um Jar Al Gharbiyya"
+          },
+          "latitude": 13.8013,
+          "longitude": 32.4078
+        },
+        {
+          "name": {
+            "en": "Wad az Zāki"
+          },
+          "latitude": 14.4619,
+          "longitude": 32.2065
+        }
+      ]
+    }
+  ]
+}

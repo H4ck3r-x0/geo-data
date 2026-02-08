@@ -1,0 +1,155 @@
+{
+  "code": "RW",
+  "iso3": "RWA",
+  "name": {
+    "en": "Rwanda",
+    "ar": "رواندا",
+    "de": "Ruanda",
+    "es": "Ruanda",
+    "fr": "Rwanda",
+    "hi": "रवांडा",
+    "it": "Ruanda",
+    "ja": "ルワンダ",
+    "ko": "르완다",
+    "nl": "Rwanda",
+    "pl": "Rwanda",
+    "pt": "Ruanda",
+    "pt-BR": "Ruanda",
+    "ru": "Руанда",
+    "tr": "Ruanda",
+    "uk": "Руанда",
+    "zh": "卢旺达"
+  },
+  "phone": "+250",
+  "currency": "RWF",
+  "timezone": "Africa/Kigali",
+  "flag": "🇷🇼",
+  "regions": [
+    {
+      "code": "RW-02",
+      "name": {
+        "en": "Eastern"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Kibungo"
+          },
+          "latitude": -2.1597,
+          "longitude": 30.5427
+        },
+        {
+          "name": {
+            "en": "Rwamagana"
+          },
+          "latitude": -1.9487,
+          "longitude": 30.4347
+        }
+      ]
+    },
+    {
+      "code": "RW-01",
+      "name": {
+        "en": "Kigali"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Kigali",
+            "ar": "كيغالي"
+          },
+          "latitude": -1.94995,
+          "longitude": 30.05885
+        }
+      ]
+    },
+    {
+      "code": "RW-03",
+      "name": {
+        "en": "Northern"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Byumba"
+          },
+          "latitude": -1.5763,
+          "longitude": 30.0675
+        },
+        {
+          "name": {
+            "en": "Musanze"
+          },
+          "latitude": -1.49984,
+          "longitude": 29.63497
+        }
+      ]
+    },
+    {
+      "code": "RW-05",
+      "name": {
+        "en": "Southern"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Butare"
+          },
+          "latitude": -2.59667,
+          "longitude": 29.73944
+        },
+        {
+          "name": {
+            "en": "Eglise Catholique Centrale GIKO"
+          },
+          "latitude": -1.93653,
+          "longitude": 29.8061
+        },
+        {
+          "name": {
+            "en": "Gitarama"
+          },
+          "latitude": -2.07444,
+          "longitude": 29.75667
+        },
+        {
+          "name": {
+            "en": "Nzega"
+          },
+          "latitude": -2.479,
+          "longitude": 29.5564
+        }
+      ]
+    },
+    {
+      "code": "RW-04",
+      "name": {
+        "en": "Western"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Cyangugu"
+          },
+          "latitude": -2.4846,
+          "longitude": 28.9075
+        },
+        {
+          "name": {
+            "en": "Gisenyi",
+            "ar": "جيسايني"
+          },
+          "latitude": -1.70278,
+          "longitude": 29.25639
+        },
+        {
+          "name": {
+            "en": "Kibuye"
+          },
+          "latitude": -2.06028,
+          "longitude": 29.34778
+        }
+      ]
+    }
+  ]
+}

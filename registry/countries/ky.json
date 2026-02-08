@@ -1,0 +1,102 @@
+{
+  "code": "KY",
+  "iso3": "CYM",
+  "name": {
+    "en": "Cayman Islands",
+    "ar": "جزر كايمان",
+    "de": "Kaimaninseln",
+    "es": "Islas Caimán",
+    "fr": "Îles Caïmans",
+    "hi": "केमन द्वीपसमूह",
+    "it": "Isole Cayman",
+    "ja": "ケイマン諸島",
+    "ko": "케이먼 제도",
+    "nl": "Caymaneilanden",
+    "pl": "Kajmany",
+    "pt": "Ilhas Caimão",
+    "pt-BR": "Ilhas Cayman",
+    "ru": "Каймановы острова",
+    "tr": "Cayman Adalari",
+    "uk": "Кайманові острови",
+    "zh": "开曼群岛"
+  },
+  "phone": "+1",
+  "currency": "KYD",
+  "timezone": "America/Cayman",
+  "flag": "🇰🇾",
+  "regions": [
+    {
+      "code": "KY-02",
+      "name": {
+        "en": "Cayman Brac"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Cayman Brac"
+          },
+          "latitude": 19.719997,
+          "longitude": -79.8907266
+        }
+      ]
+    },
+    {
+      "code": "KY-01",
+      "name": {
+        "en": "Grand Cayman"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bodden Town"
+          },
+          "latitude": 19.2796693,
+          "longitude": -81.2777999
+        },
+        {
+          "name": {
+            "en": "East End"
+          },
+          "latitude": 19.2995898,
+          "longitude": -81.1196138
+        },
+        {
+          "name": {
+            "en": "George Town"
+          },
+          "latitude": 19.2902326,
+          "longitude": -81.4433372
+        },
+        {
+          "name": {
+            "en": "North Side"
+          },
+          "latitude": 19.3362047,
+          "longitude": -81.5139813
+        },
+        {
+          "name": {
+            "en": "West Bay"
+          },
+          "latitude": 19.3665153,
+          "longitude": -81.4317026
+        }
+      ]
+    },
+    {
+      "code": "KY-03",
+      "name": {
+        "en": "Little Cayman"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Little Cayman"
+          },
+          "latitude": 19.6856739,
+          "longitude": -80.1183019
+        }
+      ]
+    }
+  ]
+}

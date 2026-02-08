@@ -1,0 +1,594 @@
+{
+  "code": "NE",
+  "iso3": "NER",
+  "name": {
+    "en": "Niger",
+    "ar": "النيجر",
+    "de": "Niger",
+    "es": "Níger",
+    "fr": "Niger",
+    "hi": "नाइजर",
+    "it": "Niger",
+    "ja": "ニジェール",
+    "ko": "니제르",
+    "nl": "Niger",
+    "pl": "Niger",
+    "pt": "Níger",
+    "pt-BR": "Níger",
+    "ru": "Нигер",
+    "tr": "Nijer",
+    "uk": "Нігер",
+    "zh": "尼日尔"
+  },
+  "phone": "+227",
+  "currency": "XOF",
+  "timezone": "Africa/Niamey",
+  "flag": "🇳🇪",
+  "regions": [
+    {
+      "code": "NE-1",
+      "name": {
+        "en": "Agadez"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Agadez",
+            "ar": "أغاديس"
+          },
+          "latitude": 16.97333,
+          "longitude": 7.99111
+        },
+        {
+          "name": {
+            "en": "Alaghsas"
+          },
+          "latitude": 17.0187,
+          "longitude": 8.0168
+        },
+        {
+          "name": {
+            "en": "Arlit"
+          },
+          "latitude": 18.83409,
+          "longitude": 7.43327
+        },
+        {
+          "name": {
+            "en": "Bilma"
+          },
+          "latitude": 18.68532,
+          "longitude": 12.91643
+        },
+        {
+          "name": {
+            "en": "Département de Bilma"
+          },
+          "latitude": 20.5,
+          "longitude": 13.25
+        },
+        {
+          "name": {
+            "en": "Département de Tchirozérine"
+          },
+          "latitude": 17.43293,
+          "longitude": 7.89321
+        }
+      ]
+    },
+    {
+      "code": "NE-2",
+      "name": {
+        "en": "Diffa"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Département de Diffa"
+          },
+          "latitude": 13.66667,
+          "longitude": 12.5
+        },
+        {
+          "name": {
+            "en": "Département de Maïné-Soroa"
+          },
+          "latitude": 13.31206,
+          "longitude": 12.08321
+        },
+        {
+          "name": {
+            "en": "Département de Nguigmi"
+          },
+          "latitude": 14.20753,
+          "longitude": 13.12177
+        },
+        {
+          "name": {
+            "en": "Diffa",
+            "ar": "ديفا"
+          },
+          "latitude": 13.31536,
+          "longitude": 12.61135
+        },
+        {
+          "name": {
+            "en": "Maïné Soroa"
+          },
+          "latitude": 13.21139,
+          "longitude": 12.0241
+        },
+        {
+          "name": {
+            "en": "Nguigmi"
+          },
+          "latitude": 14.24953,
+          "longitude": 13.10921
+        }
+      ]
+    },
+    {
+      "code": "NE-3",
+      "name": {
+        "en": "Dosso"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Boboye Department"
+          },
+          "latitude": 13.08167,
+          "longitude": 2.91083
+        },
+        {
+          "name": {
+            "en": "Département de Dogondoutchi"
+          },
+          "latitude": 13.5,
+          "longitude": 4
+        },
+        {
+          "name": {
+            "en": "Département de Dosso"
+          },
+          "latitude": 12.83333,
+          "longitude": 3.33333
+        },
+        {
+          "name": {
+            "en": "Département de Gaya"
+          },
+          "latitude": 11.9597,
+          "longitude": 3.46045
+        },
+        {
+          "name": {
+            "en": "Département de Loga"
+          },
+          "latitude": 13.63333,
+          "longitude": 3.5
+        },
+        {
+          "name": {
+            "en": "Dogondoutchi"
+          },
+          "latitude": 13.6403,
+          "longitude": 4.02649
+        },
+        {
+          "name": {
+            "en": "Dosso"
+          },
+          "latitude": 13.049,
+          "longitude": 3.1937
+        },
+        {
+          "name": {
+            "en": "Gaya"
+          },
+          "latitude": 11.88435,
+          "longitude": 3.44919
+        }
+      ]
+    },
+    {
+      "code": "NE-4",
+      "name": {
+        "en": "Maradi"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Aguié"
+          },
+          "latitude": 13.50601,
+          "longitude": 7.77863
+        },
+        {
+          "name": {
+            "en": "Dakoro"
+          },
+          "latitude": 14.51056,
+          "longitude": 6.765
+        },
+        {
+          "name": {
+            "en": "Département d’Aguié"
+          },
+          "latitude": 13.46976,
+          "longitude": 7.74219
+        },
+        {
+          "name": {
+            "en": "Département de Dakoro"
+          },
+          "latitude": 14.75,
+          "longitude": 7
+        },
+        {
+          "name": {
+            "en": "Département de Mayahi"
+          },
+          "latitude": 14.1,
+          "longitude": 7.6
+        },
+        {
+          "name": {
+            "en": "Département de Tessaoua"
+          },
+          "latitude": 13.6,
+          "longitude": 7.9
+        },
+        {
+          "name": {
+            "en": "Guidan Roumdji Department"
+          },
+          "latitude": 13.6575,
+          "longitude": 6.69583
+        },
+        {
+          "name": {
+            "en": "Madarounfa"
+          },
+          "latitude": 13.28253,
+          "longitude": 7.15495
+        },
+        {
+          "name": {
+            "en": "Maradi"
+          },
+          "latitude": 13.5,
+          "longitude": 7.10174
+        },
+        {
+          "name": {
+            "en": "Mayahi"
+          },
+          "latitude": 13.95532,
+          "longitude": 7.67122
+        },
+        {
+          "name": {
+            "en": "Tessaoua"
+          },
+          "latitude": 13.75737,
+          "longitude": 7.9874
+        },
+        {
+          "name": {
+            "en": "Tibiri"
+          },
+          "latitude": 13.56271,
+          "longitude": 7.04848
+        }
+      ]
+    },
+    {
+      "code": "NE-8",
+      "name": {
+        "en": "Niamey"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Niamey",
+            "ar": "نيامي"
+          },
+          "latitude": 13.51361111,
+          "longitude": 2.10888889
+        }
+      ]
+    },
+    {
+      "code": "NE-5",
+      "name": {
+        "en": "Tahoua"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Abalak"
+          },
+          "latitude": 15.41618,
+          "longitude": 6.16975
+        },
+        {
+          "name": {
+            "en": "Birni N Konni"
+          },
+          "latitude": 13.79599,
+          "longitude": 5.25026
+        },
+        {
+          "name": {
+            "en": "Bouza"
+          },
+          "latitude": 14.42293,
+          "longitude": 6.04278
+        },
+        {
+          "name": {
+            "en": "Département d' Illéla"
+          },
+          "latitude": 14.25,
+          "longitude": 5
+        },
+        {
+          "name": {
+            "en": "Département de Birni Nkonni"
+          },
+          "latitude": 13.9,
+          "longitude": 5.25
+        },
+        {
+          "name": {
+            "en": "Département de Bouza"
+          },
+          "latitude": 14.43333,
+          "longitude": 6
+        },
+        {
+          "name": {
+            "en": "Département de Keïta"
+          },
+          "latitude": 14.8,
+          "longitude": 6
+        },
+        {
+          "name": {
+            "en": "Département de Madaoua"
+          },
+          "latitude": 13.99988,
+          "longitude": 6.10012
+        },
+        {
+          "name": {
+            "en": "Département de Tahoua"
+          },
+          "latitude": 14.8,
+          "longitude": 4.8
+        },
+        {
+          "name": {
+            "en": "Département de Tchin-Tabaraden"
+          },
+          "latitude": 15.86694,
+          "longitude": 5.71042
+        },
+        {
+          "name": {
+            "en": "Illéla"
+          },
+          "latitude": 14.4605,
+          "longitude": 5.2437
+        },
+        {
+          "name": {
+            "en": "Keïta"
+          },
+          "latitude": 14.7551,
+          "longitude": 5.7749
+        },
+        {
+          "name": {
+            "en": "Madaoua"
+          },
+          "latitude": 14.073,
+          "longitude": 5.96
+        },
+        {
+          "name": {
+            "en": "Tahoua"
+          },
+          "latitude": 14.8888,
+          "longitude": 5.2692
+        },
+        {
+          "name": {
+            "en": "Tchintabaraden"
+          },
+          "latitude": 15.8969,
+          "longitude": 5.7985
+        }
+      ]
+    },
+    {
+      "code": "NE-6",
+      "name": {
+        "en": "Tillabéri"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ayorou"
+          },
+          "latitude": 14.73075,
+          "longitude": 0.91739
+        },
+        {
+          "name": {
+            "en": "Balleyara"
+          },
+          "latitude": 13.72848,
+          "longitude": 2.87503
+        },
+        {
+          "name": {
+            "en": "Département de Filingué"
+          },
+          "latitude": 14.31645,
+          "longitude": 3.23611
+        },
+        {
+          "name": {
+            "en": "Département de Ouallam"
+          },
+          "latitude": 14.63333,
+          "longitude": 2.25
+        },
+        {
+          "name": {
+            "en": "Département de Say"
+          },
+          "latitude": 13.03579,
+          "longitude": 2.22112
+        },
+        {
+          "name": {
+            "en": "Filingué"
+          },
+          "latitude": 14.3521,
+          "longitude": 3.3168
+        },
+        {
+          "name": {
+            "en": "Kollo"
+          },
+          "latitude": 13.3043,
+          "longitude": 2.339
+        },
+        {
+          "name": {
+            "en": "Kollo Department"
+          },
+          "latitude": 13.576,
+          "longitude": 2.452
+        },
+        {
+          "name": {
+            "en": "Ouallam"
+          },
+          "latitude": 14.31641,
+          "longitude": 2.08597
+        },
+        {
+          "name": {
+            "en": "Say"
+          },
+          "latitude": 13.1007,
+          "longitude": 2.3689
+        },
+        {
+          "name": {
+            "en": "Téra"
+          },
+          "latitude": 14.00776,
+          "longitude": 0.75306
+        },
+        {
+          "name": {
+            "en": "Tera Department"
+          },
+          "latitude": 14.186,
+          "longitude": 0.843
+        },
+        {
+          "name": {
+            "en": "Tillabéri"
+          },
+          "latitude": 14.20711,
+          "longitude": 1.45418
+        },
+        {
+          "name": {
+            "en": "Tillaberi Department"
+          },
+          "latitude": 14.516,
+          "longitude": 1.443
+        }
+      ]
+    },
+    {
+      "code": "NE-7",
+      "name": {
+        "en": "Zinder"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Département de Gouré"
+          },
+          "latitude": 14.01618,
+          "longitude": 10.14722
+        },
+        {
+          "name": {
+            "en": "Département de Kantché"
+          },
+          "latitude": 13.4,
+          "longitude": 8.6
+        },
+        {
+          "name": {
+            "en": "Département de Tânout"
+          },
+          "latitude": 14.75,
+          "longitude": 8.33333
+        },
+        {
+          "name": {
+            "en": "Gouré"
+          },
+          "latitude": 13.9835,
+          "longitude": 10.27035
+        },
+        {
+          "name": {
+            "en": "Magaria"
+          },
+          "latitude": 12.99826,
+          "longitude": 8.90991
+        },
+        {
+          "name": {
+            "en": "Matamey"
+          },
+          "latitude": 13.42309,
+          "longitude": 8.47485
+        },
+        {
+          "name": {
+            "en": "Mirriah"
+          },
+          "latitude": 13.70727,
+          "longitude": 9.15013
+        },
+        {
+          "name": {
+            "en": "Tanout"
+          },
+          "latitude": 14.97089,
+          "longitude": 8.88786
+        },
+        {
+          "name": {
+            "en": "Zinder",
+            "ar": "زيندر"
+          },
+          "latitude": 13.80716,
+          "longitude": 8.9881
+        }
+      ]
+    }
+  ]
+}

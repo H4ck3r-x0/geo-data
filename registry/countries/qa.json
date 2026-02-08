@@ -1,0 +1,195 @@
+{
+  "code": "QA",
+  "iso3": "QAT",
+  "name": {
+    "en": "Qatar",
+    "ar": "قطر",
+    "de": "Katar",
+    "es": "Catar",
+    "fr": "Qatar",
+    "hi": "कतर",
+    "it": "Qatar",
+    "ja": "カタール",
+    "ko": "카타르",
+    "nl": "Qatar",
+    "pl": "Katar",
+    "pt": "Catar",
+    "pt-BR": "Catar",
+    "ru": "Катар",
+    "tr": "Katar",
+    "uk": "Катар",
+    "zh": "卡塔尔"
+  },
+  "phone": "+974",
+  "currency": "QAR",
+  "timezone": "Asia/Qatar",
+  "flag": "🇶🇦",
+  "regions": [
+    {
+      "code": "QA-KH",
+      "name": {
+        "en": "Al Khor"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Al Ghuwayrīyah"
+          },
+          "latitude": 25.82882,
+          "longitude": 51.24567
+        },
+        {
+          "name": {
+            "en": "Al Khawr",
+            "ar": "الخور"
+          },
+          "latitude": 25.68389,
+          "longitude": 51.50583
+        }
+      ]
+    },
+    {
+      "code": "QA-RA",
+      "name": {
+        "en": "Al Rayyan"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ar Rayyān",
+            "ar": "الريان"
+          },
+          "latitude": 25.29194,
+          "longitude": 51.42444
+        },
+        {
+          "name": {
+            "en": "Umm Bāb"
+          },
+          "latitude": 25.21417,
+          "longitude": 50.80722
+        }
+      ]
+    },
+    {
+      "code": "QA-WA",
+      "name": {
+        "en": "Al Wakrah"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Al Wakrah",
+            "ar": "الوكرة"
+          },
+          "latitude": 25.17151,
+          "longitude": 51.60337
+        },
+        {
+          "name": {
+            "en": "Al Wukayr"
+          },
+          "latitude": 25.15107,
+          "longitude": 51.53718
+        },
+        {
+          "name": {
+            "en": "Musay‘īd"
+          },
+          "latitude": 24.99226,
+          "longitude": 51.55067
+        }
+      ]
+    },
+    {
+      "code": "QA-SH",
+      "name": {
+        "en": "Al-Shahaniya"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Al Jumaylīyah"
+          },
+          "latitude": 25.61068,
+          "longitude": 51.09108
+        },
+        {
+          "name": {
+            "en": "Ash Shīḩānīyah"
+          },
+          "latitude": 25.37088,
+          "longitude": 51.22264
+        },
+        {
+          "name": {
+            "en": "Dukhān"
+          },
+          "latitude": 25.42485,
+          "longitude": 50.78227
+        }
+      ]
+    },
+    {
+      "code": "QA-DA",
+      "name": {
+        "en": "Doha"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Doha",
+            "ar": "الدوحة"
+          },
+          "latitude": 25.28545,
+          "longitude": 51.53096
+        }
+      ]
+    },
+    {
+      "code": "QA-MS",
+      "name": {
+        "en": "Madinat ash Shamal"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ar Ruways"
+          },
+          "latitude": 26.13978,
+          "longitude": 51.21493
+        },
+        {
+          "name": {
+            "en": "Fuwayriţ"
+          },
+          "latitude": 26.02565,
+          "longitude": 51.36971
+        },
+        {
+          "name": {
+            "en": "Madīnat ash Shamāl"
+          },
+          "latitude": 26.12933,
+          "longitude": 51.2009
+        }
+      ]
+    },
+    {
+      "code": "QA-US",
+      "name": {
+        "en": "Umm Salal"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Umm Şalāl Muḩammad",
+            "ar": "أُمّ صَلاَل مُحَمَّد"
+          },
+          "latitude": 25.41524,
+          "longitude": 51.40647
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,564 @@
+{
+  "code": "YT",
+  "iso3": "MYT",
+  "name": {
+    "en": "Mayotte",
+    "ar": "مايوت",
+    "de": "Mayotte",
+    "es": "Mayotte",
+    "fr": "Mayotte",
+    "hi": "मैयट",
+    "it": "Mayotte",
+    "ja": "マヨット",
+    "ko": "마요트",
+    "nl": "Mayotte",
+    "pl": "Majotta",
+    "pt": "Mayotte",
+    "pt-BR": "Mayotte",
+    "ru": "Майотта",
+    "tr": "Mayotte",
+    "uk": "Майотта",
+    "zh": "马约特"
+  },
+  "phone": "+262",
+  "currency": "EUR",
+  "timezone": "Indian/Mayotte",
+  "flag": "🇾🇹",
+  "regions": [
+    {
+      "code": "YT-14",
+      "name": {
+        "en": "Acoua"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Acoua"
+          },
+          "latitude": -12.72391,
+          "longitude": 45.05819
+        },
+        {
+          "name": {
+            "en": "Mtsangadoua"
+          },
+          "latitude": -12.71112,
+          "longitude": 45.05118
+        }
+      ]
+    },
+    {
+      "code": "YT-16",
+      "name": {
+        "en": "Bandraboua"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bandraboua"
+          },
+          "latitude": -12.7044,
+          "longitude": 45.12231
+        },
+        {
+          "name": {
+            "en": "Bouyouni"
+          },
+          "latitude": -12.73462,
+          "longitude": 45.13914
+        },
+        {
+          "name": {
+            "en": "Dzumogne"
+          },
+          "latitude": -12.71667,
+          "longitude": 45.11667
+        },
+        {
+          "name": {
+            "en": "Handréma"
+          },
+          "latitude": -12.68112,
+          "longitude": 45.09965
+        },
+        {
+          "name": {
+            "en": "Mtsangamboua"
+          },
+          "latitude": -12.69033,
+          "longitude": 45.10926
+        }
+      ]
+    },
+    {
+      "code": "YT-05",
+      "name": {
+        "en": "Bandrélé"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bandrele"
+          },
+          "latitude": -12.91276,
+          "longitude": 45.19256
+        },
+        {
+          "name": {
+            "en": "Hamouro"
+          },
+          "latitude": -12.8813,
+          "longitude": 45.21494
+        },
+        {
+          "name": {
+            "en": "Mtsamoudou"
+          },
+          "latitude": -12.96232,
+          "longitude": 45.17449
+        },
+        {
+          "name": {
+            "en": "Nyambadao"
+          },
+          "latitude": -12.89346,
+          "longitude": 45.20214
+        }
+      ]
+    },
+    {
+      "code": "YT-07",
+      "name": {
+        "en": "Boueni"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bouéni"
+          },
+          "latitude": -12.9025,
+          "longitude": 45.07611
+        },
+        {
+          "name": {
+            "en": "Mouanatrindri"
+          },
+          "latitude": -12.8996,
+          "longitude": 45.09792
+        },
+        {
+          "name": {
+            "en": "Mzouazia"
+          },
+          "latitude": -12.92717,
+          "longitude": 45.10336
+        }
+      ]
+    },
+    {
+      "code": "YT-11",
+      "name": {
+        "en": "Chiconi"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Chiconi"
+          },
+          "latitude": -12.83333,
+          "longitude": 45.11056
+        },
+        {
+          "name": {
+            "en": "Sohoa"
+          },
+          "latitude": -12.82233,
+          "longitude": 45.10552
+        }
+      ]
+    },
+    {
+      "code": "YT-08",
+      "name": {
+        "en": "Chirongui"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Chirongui"
+          },
+          "latitude": -12.93194,
+          "longitude": 45.14833
+        },
+        {
+          "name": {
+            "en": "Miréréni"
+          },
+          "latitude": -12.90708,
+          "longitude": 45.15295
+        },
+        {
+          "name": {
+            "en": "Mramadoudou"
+          },
+          "latitude": -12.92846,
+          "longitude": 45.15324
+        },
+        {
+          "name": {
+            "en": "Poroani"
+          },
+          "latitude": -12.89226,
+          "longitude": 45.14121
+        },
+        {
+          "name": {
+            "en": "Tsimkoura"
+          },
+          "latitude": -12.93934,
+          "longitude": 45.13739
+        }
+      ]
+    },
+    {
+      "code": "YT-04",
+      "name": {
+        "en": "Dembeni"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Dembeni"
+          },
+          "latitude": -12.8436,
+          "longitude": 45.18436
+        },
+        {
+          "name": {
+            "en": "Hajangoua"
+          },
+          "latitude": -12.86607,
+          "longitude": 45.19857
+        },
+        {
+          "name": {
+            "en": "Iloni"
+          },
+          "latitude": -12.84553,
+          "longitude": 45.19037
+        },
+        {
+          "name": {
+            "en": "Ongojou"
+          },
+          "latitude": -12.83883,
+          "longitude": 45.16012
+        },
+        {
+          "name": {
+            "en": "Tsararano"
+          },
+          "latitude": -12.83528,
+          "longitude": 45.17355
+        }
+      ]
+    },
+    {
+      "code": "YT-01",
+      "name": {
+        "en": "Dzaoudzi"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Dzaoudzi"
+          },
+          "latitude": -12.78339,
+          "longitude": 45.25693
+        },
+        {
+          "name": {
+            "en": "Labattoir"
+          },
+          "latitude": -12.77698,
+          "longitude": 45.28234
+        }
+      ]
+    },
+    {
+      "code": "YT-06",
+      "name": {
+        "en": "Kani Keli"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Kani-Kéli"
+          },
+          "latitude": -12.95361,
+          "longitude": 45.10333
+        }
+      ]
+    },
+    {
+      "code": "YT-17",
+      "name": {
+        "en": "Koungou"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Kangani"
+          },
+          "latitude": -12.73186,
+          "longitude": 45.18694
+        },
+        {
+          "name": {
+            "en": "Koungou"
+          },
+          "latitude": -12.73361,
+          "longitude": 45.20417
+        },
+        {
+          "name": {
+            "en": "Longoni"
+          },
+          "latitude": -12.73426,
+          "longitude": 45.16298
+        },
+        {
+          "name": {
+            "en": "Majikavo Koropa"
+          },
+          "latitude": -12.74701,
+          "longitude": 45.22058
+        },
+        {
+          "name": {
+            "en": "Trévani"
+          },
+          "latitude": -12.73437,
+          "longitude": 45.19861
+        }
+      ]
+    },
+    {
+      "code": "YT-13",
+      "name": {
+        "en": "M'Tsangamouji"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Chembényoumba"
+          },
+          "latitude": -12.76472,
+          "longitude": 45.07793
+        },
+        {
+          "name": {
+            "en": "M'Tsangamouji"
+          },
+          "latitude": -12.75944,
+          "longitude": 45.08361
+        }
+      ]
+    },
+    {
+      "code": "YT-03",
+      "name": {
+        "en": "Mamoudzou"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Combani"
+          },
+          "latitude": -12.8,
+          "longitude": 45.16667
+        },
+        {
+          "name": {
+            "en": "Kaouéni"
+          },
+          "latitude": -12.77121,
+          "longitude": 45.22419
+        },
+        {
+          "name": {
+            "en": "Kavani"
+          },
+          "latitude": -12.78447,
+          "longitude": 45.22299
+        },
+        {
+          "name": {
+            "en": "Majikavo Lamir"
+          },
+          "latitude": -12.75572,
+          "longitude": 45.22968
+        },
+        {
+          "name": {
+            "en": "Mamoudzou"
+          },
+          "latitude": -12.78234,
+          "longitude": 45.22878
+        },
+        {
+          "name": {
+            "en": "Mtsapéré"
+          },
+          "latitude": -12.78636,
+          "longitude": 45.21732
+        },
+        {
+          "name": {
+            "en": "Passamainty"
+          },
+          "latitude": -12.80201,
+          "longitude": 45.20818
+        },
+        {
+          "name": {
+            "en": "Tsoundzou 1"
+          },
+          "latitude": -12.80615,
+          "longitude": 45.2023
+        },
+        {
+          "name": {
+            "en": "Tsoundzou 2"
+          },
+          "latitude": -12.81845,
+          "longitude": 45.1972
+        },
+        {
+          "name": {
+            "en": "Vahibé"
+          },
+          "latitude": -12.79024,
+          "longitude": 45.17707
+        }
+      ]
+    },
+    {
+      "code": "YT-15",
+      "name": {
+        "en": "Mtsamboro"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Hamjago"
+          },
+          "latitude": -12.68832,
+          "longitude": 45.0745
+        },
+        {
+          "name": {
+            "en": "Mtsahara"
+          },
+          "latitude": -12.68137,
+          "longitude": 45.08274
+        },
+        {
+          "name": {
+            "en": "Mtsamboro"
+          },
+          "latitude": -12.69982,
+          "longitude": 45.06894
+        }
+      ]
+    },
+    {
+      "code": "YT-10",
+      "name": {
+        "en": "Ouangani"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Barakani"
+          },
+          "latitude": -12.83799,
+          "longitude": 45.1312
+        },
+        {
+          "name": {
+            "en": "Kahani"
+          },
+          "latitude": -12.82385,
+          "longitude": 45.13141
+        },
+        {
+          "name": {
+            "en": "Ouangani"
+          },
+          "latitude": -12.84639,
+          "longitude": 45.13611
+        }
+      ]
+    },
+    {
+      "code": "YT-02",
+      "name": {
+        "en": "Pamandzi"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Pamandzi"
+          },
+          "latitude": -12.79674,
+          "longitude": 45.27938
+        }
+      ]
+    },
+    {
+      "code": "YT-09",
+      "name": {
+        "en": "Sada"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Mangajou"
+          },
+          "latitude": -12.84404,
+          "longitude": 45.11716
+        },
+        {
+          "name": {
+            "en": "Sada"
+          },
+          "latitude": -12.85055,
+          "longitude": 45.10205
+        }
+      ]
+    },
+    {
+      "code": "YT-12",
+      "name": {
+        "en": "Tsingoni"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Miréréni"
+          },
+          "latitude": -12.78867,
+          "longitude": 45.14113
+        },
+        {
+          "name": {
+            "en": "Tsingoni"
+          },
+          "latitude": -12.78722,
+          "longitude": 45.10278
+        }
+      ]
+    }
+  ]
+}

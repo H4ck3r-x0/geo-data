@@ -1,0 +1,3637 @@
+{
+  "code": "PE",
+  "iso3": "PER",
+  "name": {
+    "en": "Peru",
+    "ar": "بيرو",
+    "de": "Peru",
+    "es": "Perú",
+    "fr": "Pérou",
+    "hi": "पेरू",
+    "it": "Perù",
+    "ja": "ペルー",
+    "ko": "페루",
+    "nl": "Peru",
+    "pl": "Peru",
+    "pt": "Peru",
+    "pt-BR": "Peru",
+    "ru": "Перу",
+    "tr": "Peru",
+    "uk": "Перу",
+    "zh": "秘鲁"
+  },
+  "phone": "+51",
+  "currency": "PEN",
+  "timezone": "America/Lima",
+  "flag": "🇵🇪",
+  "regions": [
+    {
+      "code": "PE-AMA",
+      "name": {
+        "en": "Amazonas"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bagua Grande"
+          },
+          "latitude": -5.75611,
+          "longitude": -78.44111
+        },
+        {
+          "name": {
+            "en": "Cajaruro"
+          },
+          "latitude": -5.73639,
+          "longitude": -78.42556
+        },
+        {
+          "name": {
+            "en": "Chachapoyas"
+          },
+          "latitude": -6.23169,
+          "longitude": -77.86903
+        },
+        {
+          "name": {
+            "en": "Condorcanqui"
+          },
+          "latitude": -4.16515,
+          "longitude": -78.0384
+        },
+        {
+          "name": {
+            "en": "La Peca"
+          },
+          "latitude": -5.61111,
+          "longitude": -78.435
+        },
+        {
+          "name": {
+            "en": "Provincia de Bagua"
+          },
+          "latitude": -5.09006,
+          "longitude": -78.39972
+        },
+        {
+          "name": {
+            "en": "Provincia de Bongará"
+          },
+          "latitude": -5.68341,
+          "longitude": -77.87308
+        },
+        {
+          "name": {
+            "en": "Provincia de Chachapoyas"
+          },
+          "latitude": -6.2748,
+          "longitude": -77.81067
+        },
+        {
+          "name": {
+            "en": "Provincia de Luya"
+          },
+          "latitude": -6.41667,
+          "longitude": -78
+        },
+        {
+          "name": {
+            "en": "Provincia de Rodríguez de Mendoza"
+          },
+          "latitude": -6.33333,
+          "longitude": -77.41667
+        },
+        {
+          "name": {
+            "en": "Utcubamba"
+          },
+          "latitude": -5.77031,
+          "longitude": -78.3285
+        }
+      ]
+    },
+    {
+      "code": "PE-ANC",
+      "name": {
+        "en": "Áncash"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Asuncion"
+          },
+          "latitude": -9.18987,
+          "longitude": -77.39878
+        },
+        {
+          "name": {
+            "en": "Carás"
+          },
+          "latitude": -9.04692,
+          "longitude": -77.80901
+        },
+        {
+          "name": {
+            "en": "Carhuaz"
+          },
+          "latitude": -9.28194,
+          "longitude": -77.64472
+        },
+        {
+          "name": {
+            "en": "Carlos Fermin Fitzcarrald"
+          },
+          "latitude": -9.04415,
+          "longitude": -77.24168
+        },
+        {
+          "name": {
+            "en": "Chimbote"
+          },
+          "latitude": -9.08528,
+          "longitude": -78.57833
+        },
+        {
+          "name": {
+            "en": "Coishco"
+          },
+          "latitude": -9.02306,
+          "longitude": -78.61556
+        },
+        {
+          "name": {
+            "en": "Huaraz"
+          },
+          "latitude": -9.52779,
+          "longitude": -77.52778
+        },
+        {
+          "name": {
+            "en": "Huarmey"
+          },
+          "latitude": -10.06806,
+          "longitude": -78.15222
+        },
+        {
+          "name": {
+            "en": "Pomabamba"
+          },
+          "latitude": -8.83333,
+          "longitude": -77.46667
+        },
+        {
+          "name": {
+            "en": "Provincia de Aija"
+          },
+          "latitude": -9.83333,
+          "longitude": -77.66667
+        },
+        {
+          "name": {
+            "en": "Provincia de Antonio Raymondi"
+          },
+          "latitude": -9.08333,
+          "longitude": -77.08333
+        },
+        {
+          "name": {
+            "en": "Provincia de Bolognesi"
+          },
+          "latitude": -10.10723,
+          "longitude": -77.14804
+        },
+        {
+          "name": {
+            "en": "Provincia de Carhuaz"
+          },
+          "latitude": -9.317,
+          "longitude": -77.551
+        },
+        {
+          "name": {
+            "en": "Provincia de Casma"
+          },
+          "latitude": -9.47638,
+          "longitude": -78.24738
+        },
+        {
+          "name": {
+            "en": "Provincia de Corongo"
+          },
+          "latitude": -8.58333,
+          "longitude": -77.91667
+        },
+        {
+          "name": {
+            "en": "Provincia de Huaraz"
+          },
+          "latitude": -9.56109,
+          "longitude": -77.64605
+        },
+        {
+          "name": {
+            "en": "Provincia de Huari"
+          },
+          "latitude": -9.33333,
+          "longitude": -77.16667
+        },
+        {
+          "name": {
+            "en": "Provincia de Huarmey"
+          },
+          "latitude": -9.91667,
+          "longitude": -78
+        },
+        {
+          "name": {
+            "en": "Provincia de Huaylas"
+          },
+          "latitude": -8.91667,
+          "longitude": -77.83333
+        },
+        {
+          "name": {
+            "en": "Provincia de Mariscal Luzuriaga"
+          },
+          "latitude": -8.83333,
+          "longitude": -77.25
+        },
+        {
+          "name": {
+            "en": "Provincia de Pallasca"
+          },
+          "latitude": -8.33333,
+          "longitude": -77.91667
+        },
+        {
+          "name": {
+            "en": "Provincia de Pomabamba"
+          },
+          "latitude": -8.82311,
+          "longitude": -77.47559
+        },
+        {
+          "name": {
+            "en": "Provincia de Recuay"
+          },
+          "latitude": -10,
+          "longitude": -77.41667
+        },
+        {
+          "name": {
+            "en": "Provincia de Santa"
+          },
+          "latitude": -9,
+          "longitude": -78.25
+        },
+        {
+          "name": {
+            "en": "Provincia de Sihuas"
+          },
+          "latitude": -8.5,
+          "longitude": -77.5
+        },
+        {
+          "name": {
+            "en": "Provincia de Yungay"
+          },
+          "latitude": -9.16667,
+          "longitude": -77.75
+        },
+        {
+          "name": {
+            "en": "Puerto Santa"
+          },
+          "latitude": -8.98772,
+          "longitude": -78.64727
+        },
+        {
+          "name": {
+            "en": "Yauya"
+          },
+          "latitude": -8.98333,
+          "longitude": -77.3
+        },
+        {
+          "name": {
+            "en": "Yungay"
+          },
+          "latitude": -9.13833,
+          "longitude": -77.74361
+        }
+      ]
+    },
+    {
+      "code": "PE-APU",
+      "name": {
+        "en": "Apurímac"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Abancay"
+          },
+          "latitude": -13.63389,
+          "longitude": -72.88139
+        },
+        {
+          "name": {
+            "en": "Andahuaylas"
+          },
+          "latitude": -13.65556,
+          "longitude": -73.38722
+        },
+        {
+          "name": {
+            "en": "Provincia de Abancay"
+          },
+          "latitude": -13.66667,
+          "longitude": -72.91667
+        },
+        {
+          "name": {
+            "en": "Provincia de Andahuaylas"
+          },
+          "latitude": -13.66667,
+          "longitude": -73.41667
+        },
+        {
+          "name": {
+            "en": "Provincia de Antabamba"
+          },
+          "latitude": -14.41667,
+          "longitude": -72.75
+        },
+        {
+          "name": {
+            "en": "Provincia de Aymaraes"
+          },
+          "latitude": -14.41667,
+          "longitude": -73.25
+        },
+        {
+          "name": {
+            "en": "Provincia de Cotabambas"
+          },
+          "latitude": -14,
+          "longitude": -72.2
+        },
+        {
+          "name": {
+            "en": "Provincia de Grau"
+          },
+          "latitude": -14,
+          "longitude": -72.58333
+        },
+        {
+          "name": {
+            "en": "Talavera"
+          },
+          "latitude": -13.65306,
+          "longitude": -73.42917
+        }
+      ]
+    },
+    {
+      "code": "PE-ARE",
+      "name": {
+        "en": "Arequipa"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Acarí"
+          },
+          "latitude": -15.42393,
+          "longitude": -74.61361
+        },
+        {
+          "name": {
+            "en": "Arequipa"
+          },
+          "latitude": -16.39889,
+          "longitude": -71.535
+        },
+        {
+          "name": {
+            "en": "Camaná"
+          },
+          "latitude": -16.62375,
+          "longitude": -72.71055
+        },
+        {
+          "name": {
+            "en": "Ccolo"
+          },
+          "latitude": -15.50611,
+          "longitude": -71.49184
+        },
+        {
+          "name": {
+            "en": "Chivay"
+          },
+          "latitude": -15.63833,
+          "longitude": -71.60111
+        },
+        {
+          "name": {
+            "en": "Cocachacra"
+          },
+          "latitude": -17.08833,
+          "longitude": -71.7575
+        },
+        {
+          "name": {
+            "en": "Cotahuasi"
+          },
+          "latitude": -15.21306,
+          "longitude": -72.88861
+        },
+        {
+          "name": {
+            "en": "Huarancante"
+          },
+          "latitude": -15.76803,
+          "longitude": -71.45952
+        },
+        {
+          "name": {
+            "en": "Huarichancara"
+          },
+          "latitude": -15.63972,
+          "longitude": -71.06111
+        },
+        {
+          "name": {
+            "en": "Jatun Orcochiri"
+          },
+          "latitude": -15.75003,
+          "longitude": -71.34641
+        },
+        {
+          "name": {
+            "en": "Jayune"
+          },
+          "latitude": -15.56277,
+          "longitude": -71.30312
+        },
+        {
+          "name": {
+            "en": "Llongasora"
+          },
+          "latitude": -15.63951,
+          "longitude": -71.29921
+        },
+        {
+          "name": {
+            "en": "Lluta"
+          },
+          "latitude": -16.01472,
+          "longitude": -72.01417
+        },
+        {
+          "name": {
+            "en": "Mollendo"
+          },
+          "latitude": -17.02306,
+          "longitude": -72.01472
+        },
+        {
+          "name": {
+            "en": "Orcopampa"
+          },
+          "latitude": -15.26611,
+          "longitude": -72.34167
+        },
+        {
+          "name": {
+            "en": "Provincia de Arequipa"
+          },
+          "latitude": -16.33333,
+          "longitude": -71.5
+        },
+        {
+          "name": {
+            "en": "Provincia de Camaná"
+          },
+          "latitude": -16.41667,
+          "longitude": -72.83333
+        },
+        {
+          "name": {
+            "en": "Provincia de Caravelí"
+          },
+          "latitude": -15.58333,
+          "longitude": -74
+        },
+        {
+          "name": {
+            "en": "Provincia de Castilla"
+          },
+          "latitude": -15.58333,
+          "longitude": -72.41667
+        },
+        {
+          "name": {
+            "en": "Provincia de Caylloma"
+          },
+          "latitude": -15.66667,
+          "longitude": -71.58333
+        },
+        {
+          "name": {
+            "en": "Provincia de Condesuyos"
+          },
+          "latitude": -15.58333,
+          "longitude": -72.83333
+        },
+        {
+          "name": {
+            "en": "Provincia de Islay"
+          },
+          "latitude": -17,
+          "longitude": -71.83333
+        },
+        {
+          "name": {
+            "en": "Provincia de La Unión"
+          },
+          "latitude": -15,
+          "longitude": -72.83333
+        },
+        {
+          "name": {
+            "en": "Pucara"
+          },
+          "latitude": -15.97993,
+          "longitude": -71.45988
+        },
+        {
+          "name": {
+            "en": "Punta de Bombón"
+          },
+          "latitude": -17.1719,
+          "longitude": -71.7924
+        },
+        {
+          "name": {
+            "en": "Vizcachane"
+          },
+          "latitude": -15.80861,
+          "longitude": -71.20111
+        },
+        {
+          "name": {
+            "en": "Yura"
+          },
+          "latitude": -16.25223,
+          "longitude": -71.67969
+        }
+      ]
+    },
+    {
+      "code": "PE-AYA",
+      "name": {
+        "en": "Ayacucho"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ayacucho"
+          },
+          "latitude": -13.15878,
+          "longitude": -74.22321
+        },
+        {
+          "name": {
+            "en": "Ayna"
+          },
+          "latitude": -12.65,
+          "longitude": -73.91667
+        },
+        {
+          "name": {
+            "en": "Coracora"
+          },
+          "latitude": -15.03333,
+          "longitude": -73.78333
+        },
+        {
+          "name": {
+            "en": "Huanta"
+          },
+          "latitude": -12.93333,
+          "longitude": -74.25
+        },
+        {
+          "name": {
+            "en": "Paucar Del Sara Sara"
+          },
+          "latitude": -15.12275,
+          "longitude": -73.26177
+        },
+        {
+          "name": {
+            "en": "Provincia de Cangallo"
+          },
+          "latitude": -13.573,
+          "longitude": -74.389
+        },
+        {
+          "name": {
+            "en": "Provincia de Huamanga"
+          },
+          "latitude": -13.2,
+          "longitude": -74.25
+        },
+        {
+          "name": {
+            "en": "Provincia de Huanca Sancos"
+          },
+          "latitude": -14.076,
+          "longitude": -74.428
+        },
+        {
+          "name": {
+            "en": "Provincia de Huanta"
+          },
+          "latitude": -12.5,
+          "longitude": -74.16667
+        },
+        {
+          "name": {
+            "en": "Provincia de La Mar"
+          },
+          "latitude": -12.91667,
+          "longitude": -73.83333
+        },
+        {
+          "name": {
+            "en": "Provincia de Lucanas"
+          },
+          "latitude": -14.5,
+          "longitude": -74.33333
+        },
+        {
+          "name": {
+            "en": "Provincia de Parinacochas"
+          },
+          "latitude": -15.02965,
+          "longitude": -73.63487
+        },
+        {
+          "name": {
+            "en": "Provincia de Sucre"
+          },
+          "latitude": -14.103,
+          "longitude": -73.786
+        },
+        {
+          "name": {
+            "en": "Provincia de Víctor Fajardo"
+          },
+          "latitude": -13.75,
+          "longitude": -74.33333
+        },
+        {
+          "name": {
+            "en": "Provincia de Vilcas Huamán"
+          },
+          "latitude": -13.632,
+          "longitude": -73.888
+        },
+        {
+          "name": {
+            "en": "Puquio"
+          },
+          "latitude": -14.7,
+          "longitude": -74.13333
+        },
+        {
+          "name": {
+            "en": "San Miguel"
+          },
+          "latitude": -13.0125,
+          "longitude": -73.98083
+        },
+        {
+          "name": {
+            "en": "Tambo"
+          },
+          "latitude": -14.79847,
+          "longitude": -73.92438
+        }
+      ]
+    },
+    {
+      "code": "PE-CAJ",
+      "name": {
+        "en": "Cajamarca"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bambamarca"
+          },
+          "latitude": -6.68333,
+          "longitude": -78.53333
+        },
+        {
+          "name": {
+            "en": "Cajabamba"
+          },
+          "latitude": -7.61667,
+          "longitude": -78.05
+        },
+        {
+          "name": {
+            "en": "Cajamarca"
+          },
+          "latitude": -7.16378,
+          "longitude": -78.50027
+        },
+        {
+          "name": {
+            "en": "Celendín"
+          },
+          "latitude": -6.8659,
+          "longitude": -78.14585
+        },
+        {
+          "name": {
+            "en": "Chota"
+          },
+          "latitude": -6.55,
+          "longitude": -78.65
+        },
+        {
+          "name": {
+            "en": "Jaén"
+          },
+          "latitude": -5.70729,
+          "longitude": -78.80785
+        },
+        {
+          "name": {
+            "en": "Provincia de Cajabamba"
+          },
+          "latitude": -7.5,
+          "longitude": -78.16667
+        },
+        {
+          "name": {
+            "en": "Provincia de Cajamarca"
+          },
+          "latitude": -7.33333,
+          "longitude": -78.41667
+        },
+        {
+          "name": {
+            "en": "Provincia de Celendín"
+          },
+          "latitude": -6.83333,
+          "longitude": -78.25
+        },
+        {
+          "name": {
+            "en": "Provincia de Chota"
+          },
+          "latitude": -6.38332,
+          "longitude": -79.18055
+        },
+        {
+          "name": {
+            "en": "Provincia de Contumazá"
+          },
+          "latitude": -7.33333,
+          "longitude": -78.91667
+        },
+        {
+          "name": {
+            "en": "Provincia de Cutervo"
+          },
+          "latitude": -6.36667,
+          "longitude": -78.85
+        },
+        {
+          "name": {
+            "en": "Provincia de Hualgayoc"
+          },
+          "latitude": -6.68,
+          "longitude": -78.53
+        },
+        {
+          "name": {
+            "en": "Provincia de Jaén"
+          },
+          "latitude": -5.71074,
+          "longitude": -79.00438
+        },
+        {
+          "name": {
+            "en": "Provincia de San Ignacio"
+          },
+          "latitude": -5.08333,
+          "longitude": -79
+        },
+        {
+          "name": {
+            "en": "Provincia de San Miguel"
+          },
+          "latitude": -7,
+          "longitude": -79
+        },
+        {
+          "name": {
+            "en": "Provincia de Santa Cruz"
+          },
+          "latitude": -6.83333,
+          "longitude": -79
+        },
+        {
+          "name": {
+            "en": "San Ignacio"
+          },
+          "latitude": -5.14583,
+          "longitude": -79.00139
+        }
+      ]
+    },
+    {
+      "code": "PE-CAL",
+      "name": {
+        "en": "Callao"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Callao"
+          },
+          "latitude": -12.05659,
+          "longitude": -77.11814
+        }
+      ]
+    },
+    {
+      "code": "PE-CUS",
+      "name": {
+        "en": "Cusco"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Anta"
+          },
+          "latitude": -13.47056,
+          "longitude": -72.14833
+        },
+        {
+          "name": {
+            "en": "Cahuanuyo"
+          },
+          "latitude": -14.34147,
+          "longitude": -71.46311
+        },
+        {
+          "name": {
+            "en": "Calca"
+          },
+          "latitude": -13.33333,
+          "longitude": -71.95
+        },
+        {
+          "name": {
+            "en": "Callanca"
+          },
+          "latitude": -14.18137,
+          "longitude": -71.1407
+        },
+        {
+          "name": {
+            "en": "Ccaquiracunca"
+          },
+          "latitude": -14.27683,
+          "longitude": -71.45026
+        },
+        {
+          "name": {
+            "en": "Ccuntuma"
+          },
+          "latitude": -14.1254,
+          "longitude": -71.41216
+        },
+        {
+          "name": {
+            "en": "Checacupe"
+          },
+          "latitude": -14.02694,
+          "longitude": -71.45278
+        },
+        {
+          "name": {
+            "en": "Checca"
+          },
+          "latitude": -14.47278,
+          "longitude": -71.39389
+        },
+        {
+          "name": {
+            "en": "Chignayhua"
+          },
+          "latitude": -14.2461,
+          "longitude": -71.44442
+        },
+        {
+          "name": {
+            "en": "Chinchero"
+          },
+          "latitude": -13.39222,
+          "longitude": -72.04778
+        },
+        {
+          "name": {
+            "en": "Combapata"
+          },
+          "latitude": -14.10111,
+          "longitude": -71.42944
+        },
+        {
+          "name": {
+            "en": "Conchopata"
+          },
+          "latitude": -14.46968,
+          "longitude": -71.19843
+        },
+        {
+          "name": {
+            "en": "Cullcuyre"
+          },
+          "latitude": -14.09272,
+          "longitude": -71.33119
+        },
+        {
+          "name": {
+            "en": "Cusco"
+          },
+          "latitude": -13.52264,
+          "longitude": -71.96734
+        },
+        {
+          "name": {
+            "en": "Huayna Alcalde"
+          },
+          "latitude": -14.26989,
+          "longitude": -71.09599
+        },
+        {
+          "name": {
+            "en": "Jayobamba"
+          },
+          "latitude": -14.09425,
+          "longitude": -71.33922
+        },
+        {
+          "name": {
+            "en": "Langui"
+          },
+          "latitude": -14.43194,
+          "longitude": -71.27306
+        },
+        {
+          "name": {
+            "en": "Layo"
+          },
+          "latitude": -14.49361,
+          "longitude": -71.155
+        },
+        {
+          "name": {
+            "en": "Lima Pampa"
+          },
+          "latitude": -14.08976,
+          "longitude": -71.33664
+        },
+        {
+          "name": {
+            "en": "Maranganí"
+          },
+          "latitude": -14.35672,
+          "longitude": -71.16924
+        },
+        {
+          "name": {
+            "en": "Maras"
+          },
+          "latitude": -13.335,
+          "longitude": -72.15667
+        },
+        {
+          "name": {
+            "en": "Mosoc Cancha"
+          },
+          "latitude": -14.28514,
+          "longitude": -71.08773
+        },
+        {
+          "name": {
+            "en": "Mosoc Llacta"
+          },
+          "latitude": -14.12,
+          "longitude": -71.47278
+        },
+        {
+          "name": {
+            "en": "Ollantaytambo"
+          },
+          "latitude": -13.25722,
+          "longitude": -72.26306
+        },
+        {
+          "name": {
+            "en": "Oropesa"
+          },
+          "latitude": -13.59278,
+          "longitude": -71.77194
+        },
+        {
+          "name": {
+            "en": "Pampamarca"
+          },
+          "latitude": -14.14639,
+          "longitude": -71.45944
+        },
+        {
+          "name": {
+            "en": "Pangoa"
+          },
+          "latitude": -12.11667,
+          "longitude": -73
+        },
+        {
+          "name": {
+            "en": "Pisac"
+          },
+          "latitude": -13.4225,
+          "longitude": -71.84667
+        },
+        {
+          "name": {
+            "en": "Provincia de Acomayo"
+          },
+          "latitude": -13.91667,
+          "longitude": -71.66667
+        },
+        {
+          "name": {
+            "en": "Provincia de Anta"
+          },
+          "latitude": -13.5,
+          "longitude": -72.33333
+        },
+        {
+          "name": {
+            "en": "Provincia de Calca"
+          },
+          "latitude": -13,
+          "longitude": -72.16667
+        },
+        {
+          "name": {
+            "en": "Provincia de Canas"
+          },
+          "latitude": -14.41083,
+          "longitude": -71.33694
+        },
+        {
+          "name": {
+            "en": "Provincia de Canchis"
+          },
+          "latitude": -14.08194,
+          "longitude": -71.18556
+        },
+        {
+          "name": {
+            "en": "Provincia de Chumbivilcas"
+          },
+          "latitude": -14.41667,
+          "longitude": -72
+        },
+        {
+          "name": {
+            "en": "Provincia de Cusco"
+          },
+          "latitude": -13.5,
+          "longitude": -72
+        },
+        {
+          "name": {
+            "en": "Provincia de Espinar"
+          },
+          "latitude": -14.75,
+          "longitude": -71.41667
+        },
+        {
+          "name": {
+            "en": "Provincia de La Convención"
+          },
+          "latitude": -12,
+          "longitude": -73
+        },
+        {
+          "name": {
+            "en": "Provincia de Paruro"
+          },
+          "latitude": -13.91667,
+          "longitude": -71.91667
+        },
+        {
+          "name": {
+            "en": "Provincia de Paucartambo"
+          },
+          "latitude": -13.16667,
+          "longitude": -71.41667
+        },
+        {
+          "name": {
+            "en": "Provincia de Quispicanchis"
+          },
+          "latitude": -13.41667,
+          "longitude": -71
+        },
+        {
+          "name": {
+            "en": "Provincia de Urubamba"
+          },
+          "latitude": -13.25,
+          "longitude": -72.33333
+        },
+        {
+          "name": {
+            "en": "Qquea"
+          },
+          "latitude": -14.05417,
+          "longitude": -71.38583
+        },
+        {
+          "name": {
+            "en": "Queromarca"
+          },
+          "latitude": -14.18391,
+          "longitude": -71.38343
+        },
+        {
+          "name": {
+            "en": "Santa Ana"
+          },
+          "latitude": -12.86667,
+          "longitude": -72.71667
+        },
+        {
+          "name": {
+            "en": "Santo Tomas"
+          },
+          "latitude": -14.44556,
+          "longitude": -72.08417
+        },
+        {
+          "name": {
+            "en": "Sicuani"
+          },
+          "latitude": -14.26944,
+          "longitude": -71.22611
+        },
+        {
+          "name": {
+            "en": "Tinta"
+          },
+          "latitude": -14.145,
+          "longitude": -71.40694
+        },
+        {
+          "name": {
+            "en": "Tungasuca"
+          },
+          "latitude": -14.16389,
+          "longitude": -71.47667
+        },
+        {
+          "name": {
+            "en": "Urcos"
+          },
+          "latitude": -13.68611,
+          "longitude": -71.62278
+        },
+        {
+          "name": {
+            "en": "Urubamba"
+          },
+          "latitude": -13.30472,
+          "longitude": -72.11583
+        },
+        {
+          "name": {
+            "en": "Yanaoca"
+          },
+          "latitude": -14.21806,
+          "longitude": -71.43167
+        }
+      ]
+    },
+    {
+      "code": "PE-HUV",
+      "name": {
+        "en": "Huancavelica"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Huancavelica"
+          },
+          "latitude": -12.78261,
+          "longitude": -74.97266
+        },
+        {
+          "name": {
+            "en": "Huaytara"
+          },
+          "latitude": -13.65616,
+          "longitude": -75.09234
+        },
+        {
+          "name": {
+            "en": "Pampas"
+          },
+          "latitude": -12.3949,
+          "longitude": -74.86687
+        },
+        {
+          "name": {
+            "en": "Provincia de Acobamba"
+          },
+          "latitude": -12.75,
+          "longitude": -74.66667
+        },
+        {
+          "name": {
+            "en": "Provincia de Angaraes"
+          },
+          "latitude": -13,
+          "longitude": -74.75
+        },
+        {
+          "name": {
+            "en": "Provincia de Castrovirreyna"
+          },
+          "latitude": -13.14535,
+          "longitude": -75.40598
+        },
+        {
+          "name": {
+            "en": "Provincia de Churcampa"
+          },
+          "latitude": -12.6,
+          "longitude": -74.52
+        },
+        {
+          "name": {
+            "en": "Provincia de Huancavelica"
+          },
+          "latitude": -12.66667,
+          "longitude": -75.25
+        },
+        {
+          "name": {
+            "en": "Provincia de Tayacaja"
+          },
+          "latitude": -12.25,
+          "longitude": -74.75
+        }
+      ]
+    },
+    {
+      "code": "PE-HUC",
+      "name": {
+        "en": "Huanuco"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ambo"
+          },
+          "latitude": -10.13083,
+          "longitude": -76.20472
+        },
+        {
+          "name": {
+            "en": "Huacaybamba"
+          },
+          "latitude": -8.9948,
+          "longitude": -76.81027
+        },
+        {
+          "name": {
+            "en": "Huánuco"
+          },
+          "latitude": -9.93062,
+          "longitude": -76.24223
+        },
+        {
+          "name": {
+            "en": "Lauricocha"
+          },
+          "latitude": -10.20055,
+          "longitude": -76.70359
+        },
+        {
+          "name": {
+            "en": "Llata"
+          },
+          "latitude": -9.41667,
+          "longitude": -76.78333
+        },
+        {
+          "name": {
+            "en": "Provincia de Ambo"
+          },
+          "latitude": -10.16667,
+          "longitude": -76.16667
+        },
+        {
+          "name": {
+            "en": "Provincia de Dos de Mayo"
+          },
+          "latitude": -9.91667,
+          "longitude": -76.75
+        },
+        {
+          "name": {
+            "en": "Provincia de Huamalíes"
+          },
+          "latitude": -9.25,
+          "longitude": -76.5
+        },
+        {
+          "name": {
+            "en": "Provincia de Huánuco"
+          },
+          "latitude": -9.66667,
+          "longitude": -76.08333
+        },
+        {
+          "name": {
+            "en": "Provincia de Leoncio Prado"
+          },
+          "latitude": -9.16667,
+          "longitude": -76
+        },
+        {
+          "name": {
+            "en": "Provincia de Marañón"
+          },
+          "latitude": -8.75,
+          "longitude": -76.66667
+        },
+        {
+          "name": {
+            "en": "Provincia de Pachitea"
+          },
+          "latitude": -9.95262,
+          "longitude": -75.8139
+        },
+        {
+          "name": {
+            "en": "Puerto Inca"
+          },
+          "latitude": -9.36696,
+          "longitude": -75.08958
+        },
+        {
+          "name": {
+            "en": "San Miguel de Cauri"
+          },
+          "latitude": -10.13818,
+          "longitude": -76.62288
+        },
+        {
+          "name": {
+            "en": "Tingo María"
+          },
+          "latitude": -9.29532,
+          "longitude": -75.99574
+        },
+        {
+          "name": {
+            "en": "Yanacancha"
+          },
+          "latitude": -10.24111,
+          "longitude": -76.64556
+        },
+        {
+          "name": {
+            "en": "Yarowilca"
+          },
+          "latitude": -9.80263,
+          "longitude": -76.59516
+        }
+      ]
+    },
+    {
+      "code": "PE-ICA",
+      "name": {
+        "en": "Ica"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Chincha Alta"
+          },
+          "latitude": -13.40985,
+          "longitude": -76.13235
+        },
+        {
+          "name": {
+            "en": "Ica"
+          },
+          "latitude": -14.06777,
+          "longitude": -75.72861
+        },
+        {
+          "name": {
+            "en": "Los Aquijes"
+          },
+          "latitude": -14.09667,
+          "longitude": -75.69083
+        },
+        {
+          "name": {
+            "en": "Minas de Marcona"
+          },
+          "latitude": -15.21194,
+          "longitude": -75.11028
+        },
+        {
+          "name": {
+            "en": "Nazca"
+          },
+          "latitude": -14.83098,
+          "longitude": -74.93895
+        },
+        {
+          "name": {
+            "en": "Palpa"
+          },
+          "latitude": -14.53361,
+          "longitude": -75.18556
+        },
+        {
+          "name": {
+            "en": "Paracas"
+          },
+          "latitude": -13.86667,
+          "longitude": -76.26667
+        },
+        {
+          "name": {
+            "en": "Pisco"
+          },
+          "latitude": -13.71029,
+          "longitude": -76.20538
+        },
+        {
+          "name": {
+            "en": "Provincia de Chincha"
+          },
+          "latitude": -13.31791,
+          "longitude": -75.9393
+        },
+        {
+          "name": {
+            "en": "Provincia de Ica"
+          },
+          "latitude": -14.33861,
+          "longitude": -75.64833
+        },
+        {
+          "name": {
+            "en": "Provincia de Nazca"
+          },
+          "latitude": -15,
+          "longitude": -75.08333
+        },
+        {
+          "name": {
+            "en": "Provincia de Palpa"
+          },
+          "latitude": -14.41667,
+          "longitude": -75.16667
+        },
+        {
+          "name": {
+            "en": "Provincia de Pisco"
+          },
+          "latitude": -13.80377,
+          "longitude": -75.94264
+        },
+        {
+          "name": {
+            "en": "Río Grande"
+          },
+          "latitude": -14.516,
+          "longitude": -75.19933
+        },
+        {
+          "name": {
+            "en": "San Clemente"
+          },
+          "latitude": -13.66667,
+          "longitude": -76.15
+        },
+        {
+          "name": {
+            "en": "San Juan Bautista"
+          },
+          "latitude": -14.01083,
+          "longitude": -75.73583
+        },
+        {
+          "name": {
+            "en": "Santiago"
+          },
+          "latitude": -14.18469,
+          "longitude": -75.71124
+        },
+        {
+          "name": {
+            "en": "Subtanjalla"
+          },
+          "latitude": -14.01889,
+          "longitude": -75.75806
+        },
+        {
+          "name": {
+            "en": "Villa Tupac Amaru"
+          },
+          "latitude": -13.71135,
+          "longitude": -76.1498
+        }
+      ]
+    },
+    {
+      "code": "PE-JUN",
+      "name": {
+        "en": "Junín"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Acolla"
+          },
+          "latitude": -11.73193,
+          "longitude": -75.54634
+        },
+        {
+          "name": {
+            "en": "Carhuamayo"
+          },
+          "latitude": -10.91667,
+          "longitude": -76.03333
+        },
+        {
+          "name": {
+            "en": "Chanchamayo"
+          },
+          "latitude": -11.05,
+          "longitude": -75.31667
+        },
+        {
+          "name": {
+            "en": "Chupaca"
+          },
+          "latitude": -12.06667,
+          "longitude": -75.28333
+        },
+        {
+          "name": {
+            "en": "Concepción"
+          },
+          "latitude": -11.91762,
+          "longitude": -75.31401
+        },
+        {
+          "name": {
+            "en": "Huancayo"
+          },
+          "latitude": -12.06513,
+          "longitude": -75.20486
+        },
+        {
+          "name": {
+            "en": "Huasahuasi"
+          },
+          "latitude": -11.26527,
+          "longitude": -75.64722
+        },
+        {
+          "name": {
+            "en": "Huayucachi"
+          },
+          "latitude": -12.13333,
+          "longitude": -75.23333
+        },
+        {
+          "name": {
+            "en": "Jauja"
+          },
+          "latitude": -11.77584,
+          "longitude": -75.49656
+        },
+        {
+          "name": {
+            "en": "Junín"
+          },
+          "latitude": -11.15895,
+          "longitude": -75.99304
+        },
+        {
+          "name": {
+            "en": "La Oroya"
+          },
+          "latitude": -11.51893,
+          "longitude": -75.89935
+        },
+        {
+          "name": {
+            "en": "Mazamari"
+          },
+          "latitude": -11.32583,
+          "longitude": -74.53083
+        },
+        {
+          "name": {
+            "en": "Morococha"
+          },
+          "latitude": -11.59972,
+          "longitude": -76.14111
+        },
+        {
+          "name": {
+            "en": "Orcotuna"
+          },
+          "latitude": -11.96886,
+          "longitude": -75.3078
+        },
+        {
+          "name": {
+            "en": "Perené"
+          },
+          "latitude": -10.9451,
+          "longitude": -75.22394
+        },
+        {
+          "name": {
+            "en": "Pilcomay"
+          },
+          "latitude": -12.04722,
+          "longitude": -75.24931
+        },
+        {
+          "name": {
+            "en": "Provincia de Chupaca"
+          },
+          "latitude": -12.3,
+          "longitude": -75.433
+        },
+        {
+          "name": {
+            "en": "Provincia de Concepción"
+          },
+          "latitude": -11.75,
+          "longitude": -75
+        },
+        {
+          "name": {
+            "en": "Provincia de Huancayo"
+          },
+          "latitude": -12.17319,
+          "longitude": -75.16169
+        },
+        {
+          "name": {
+            "en": "Provincia de Jauja"
+          },
+          "latitude": -11.726,
+          "longitude": -75.547
+        },
+        {
+          "name": {
+            "en": "Provincia de Junín"
+          },
+          "latitude": -11.08333,
+          "longitude": -76
+        },
+        {
+          "name": {
+            "en": "Provincia de Satipo"
+          },
+          "latitude": -11.5,
+          "longitude": -74.25
+        },
+        {
+          "name": {
+            "en": "Provincia de Tarma"
+          },
+          "latitude": -11.40562,
+          "longitude": -75.69129
+        },
+        {
+          "name": {
+            "en": "Provincia de Yauli"
+          },
+          "latitude": -11.66667,
+          "longitude": -76.16667
+        },
+        {
+          "name": {
+            "en": "San Agustin"
+          },
+          "latitude": -11.97195,
+          "longitude": -75.25562
+        },
+        {
+          "name": {
+            "en": "San Jerónimo"
+          },
+          "latitude": -11.95591,
+          "longitude": -75.28411
+        },
+        {
+          "name": {
+            "en": "San Pedro de Cajas"
+          },
+          "latitude": -11.25061,
+          "longitude": -75.86116
+        },
+        {
+          "name": {
+            "en": "San Ramón"
+          },
+          "latitude": -11.12417,
+          "longitude": -75.35733
+        },
+        {
+          "name": {
+            "en": "Satipo"
+          },
+          "latitude": -11.25222,
+          "longitude": -74.63861
+        },
+        {
+          "name": {
+            "en": "Sicaya"
+          },
+          "latitude": -12.03333,
+          "longitude": -75.28333
+        },
+        {
+          "name": {
+            "en": "Tarma"
+          },
+          "latitude": -11.41899,
+          "longitude": -75.68992
+        }
+      ]
+    },
+    {
+      "code": "PE-LAL",
+      "name": {
+        "en": "La Libertad"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ascope"
+          },
+          "latitude": -7.71444,
+          "longitude": -79.10778
+        },
+        {
+          "name": {
+            "en": "Cascas"
+          },
+          "latitude": -7.48333,
+          "longitude": -78.81667
+        },
+        {
+          "name": {
+            "en": "Chepen"
+          },
+          "latitude": -7.14367,
+          "longitude": -79.45674
+        },
+        {
+          "name": {
+            "en": "Chicama"
+          },
+          "latitude": -7.84472,
+          "longitude": -79.14694
+        },
+        {
+          "name": {
+            "en": "Chocope"
+          },
+          "latitude": -7.79139,
+          "longitude": -79.22167
+        },
+        {
+          "name": {
+            "en": "Gran Chimu"
+          },
+          "latitude": -7.57976,
+          "longitude": -78.64718
+        },
+        {
+          "name": {
+            "en": "Guadalupe"
+          },
+          "latitude": -7.25,
+          "longitude": -79.48333
+        },
+        {
+          "name": {
+            "en": "Huamachuco"
+          },
+          "latitude": -7.8,
+          "longitude": -78.06667
+        },
+        {
+          "name": {
+            "en": "Julcan"
+          },
+          "latitude": -8.17238,
+          "longitude": -78.46356
+        },
+        {
+          "name": {
+            "en": "Laredo"
+          },
+          "latitude": -8.08965,
+          "longitude": -78.9602
+        },
+        {
+          "name": {
+            "en": "Moche"
+          },
+          "latitude": -8.17111,
+          "longitude": -79.00917
+        },
+        {
+          "name": {
+            "en": "Otuzco"
+          },
+          "latitude": -7.9,
+          "longitude": -78.58333
+        },
+        {
+          "name": {
+            "en": "Pacanga"
+          },
+          "latitude": -7.16667,
+          "longitude": -79.5
+        },
+        {
+          "name": {
+            "en": "Pacasmayo"
+          },
+          "latitude": -7.40056,
+          "longitude": -79.57139
+        },
+        {
+          "name": {
+            "en": "Paiján",
+            "ar": "بايخان"
+          },
+          "latitude": -7.73291,
+          "longitude": -79.3015
+        },
+        {
+          "name": {
+            "en": "Provincia de Bolívar"
+          },
+          "latitude": -7.33333,
+          "longitude": -77.75
+        },
+        {
+          "name": {
+            "en": "Provincia de Otuzco"
+          },
+          "latitude": -7.90457,
+          "longitude": -78.56362
+        },
+        {
+          "name": {
+            "en": "Provincia de Pacasmayo"
+          },
+          "latitude": -7.25,
+          "longitude": -79.5
+        },
+        {
+          "name": {
+            "en": "Provincia de Pataz"
+          },
+          "latitude": -8.25,
+          "longitude": -77.33333
+        },
+        {
+          "name": {
+            "en": "Provincia de Santiago de Chuco"
+          },
+          "latitude": -8.33333,
+          "longitude": -78.25
+        },
+        {
+          "name": {
+            "en": "Provincia de Trujillo"
+          },
+          "latitude": -8.08333,
+          "longitude": -78.91667
+        },
+        {
+          "name": {
+            "en": "Quiruvilca"
+          },
+          "latitude": -7.96667,
+          "longitude": -78.2
+        },
+        {
+          "name": {
+            "en": "Salaverry"
+          },
+          "latitude": -8.221,
+          "longitude": -78.97698
+        },
+        {
+          "name": {
+            "en": "San Pedro de Lloc"
+          },
+          "latitude": -7.4289,
+          "longitude": -79.50416
+        },
+        {
+          "name": {
+            "en": "Sanchez Carrion"
+          },
+          "latitude": -7.78538,
+          "longitude": -77.92586
+        },
+        {
+          "name": {
+            "en": "Santiago de Cao"
+          },
+          "latitude": -7.95889,
+          "longitude": -79.23917
+        },
+        {
+          "name": {
+            "en": "Santiago de Chuco"
+          },
+          "latitude": -8.14099,
+          "longitude": -78.17329
+        },
+        {
+          "name": {
+            "en": "Trujillo",
+            "ar": "تروخيو، بيرو"
+          },
+          "latitude": -8.11599,
+          "longitude": -79.02998
+        },
+        {
+          "name": {
+            "en": "Viru"
+          },
+          "latitude": -8.52199,
+          "longitude": -78.60355
+        }
+      ]
+    },
+    {
+      "code": "PE-LAM",
+      "name": {
+        "en": "Lambayeque"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Chiclayo"
+          },
+          "latitude": -6.77137,
+          "longitude": -79.84088
+        },
+        {
+          "name": {
+            "en": "Chongoyape"
+          },
+          "latitude": -6.64056,
+          "longitude": -79.38917
+        },
+        {
+          "name": {
+            "en": "Eten"
+          },
+          "latitude": -6.90806,
+          "longitude": -79.86417
+        },
+        {
+          "name": {
+            "en": "Ferreñafe"
+          },
+          "latitude": -6.63889,
+          "longitude": -79.78889
+        },
+        {
+          "name": {
+            "en": "Jayanca"
+          },
+          "latitude": -6.39083,
+          "longitude": -79.82194
+        },
+        {
+          "name": {
+            "en": "Lambayeque"
+          },
+          "latitude": -6.70111,
+          "longitude": -79.90611
+        },
+        {
+          "name": {
+            "en": "Mochumí"
+          },
+          "latitude": -6.54364,
+          "longitude": -79.86217
+        },
+        {
+          "name": {
+            "en": "Monsefú"
+          },
+          "latitude": -6.87431,
+          "longitude": -79.86871
+        },
+        {
+          "name": {
+            "en": "Mórrope"
+          },
+          "latitude": -6.53536,
+          "longitude": -80.01104
+        },
+        {
+          "name": {
+            "en": "Motupe"
+          },
+          "latitude": -6.15194,
+          "longitude": -79.71417
+        },
+        {
+          "name": {
+            "en": "Olmos"
+          },
+          "latitude": -5.98472,
+          "longitude": -79.74528
+        },
+        {
+          "name": {
+            "en": "Oyotún"
+          },
+          "latitude": -6.84438,
+          "longitude": -79.30093
+        },
+        {
+          "name": {
+            "en": "Picsi"
+          },
+          "latitude": -6.71778,
+          "longitude": -79.76972
+        },
+        {
+          "name": {
+            "en": "Pimentel"
+          },
+          "latitude": -6.83667,
+          "longitude": -79.93417
+        },
+        {
+          "name": {
+            "en": "Provincia de Chiclayo",
+            "ar": "تشيكلايو"
+          },
+          "latitude": -6.76667,
+          "longitude": -79.85
+        },
+        {
+          "name": {
+            "en": "Provincia de Ferreñafe"
+          },
+          "latitude": -6.33333,
+          "longitude": -79.5
+        },
+        {
+          "name": {
+            "en": "Provincia de Lambayeque"
+          },
+          "latitude": -6.08333,
+          "longitude": -80.08333
+        },
+        {
+          "name": {
+            "en": "Pueblo Nuevo"
+          },
+          "latitude": -5.71667,
+          "longitude": -79.88333
+        },
+        {
+          "name": {
+            "en": "Reque"
+          },
+          "latitude": -6.86556,
+          "longitude": -79.81778
+        },
+        {
+          "name": {
+            "en": "San José"
+          },
+          "latitude": -6.73813,
+          "longitude": -79.8275
+        },
+        {
+          "name": {
+            "en": "Saña"
+          },
+          "latitude": -6.91888,
+          "longitude": -79.582
+        },
+        {
+          "name": {
+            "en": "Santa Rosa"
+          },
+          "latitude": -6.75772,
+          "longitude": -79.82747
+        },
+        {
+          "name": {
+            "en": "Túcume"
+          },
+          "latitude": -6.50637,
+          "longitude": -79.85725
+        }
+      ]
+    },
+    {
+      "code": "PE-LIM",
+      "name": {
+        "en": "Lima"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Asentamiento Humano Nicolas de Pierola"
+          },
+          "latitude": -11.93573,
+          "longitude": -76.70611
+        },
+        {
+          "name": {
+            "en": "Barranca"
+          },
+          "latitude": -10.75,
+          "longitude": -77.76667
+        },
+        {
+          "name": {
+            "en": "Caleta de Carquín"
+          },
+          "latitude": -11.0925,
+          "longitude": -77.62667
+        },
+        {
+          "name": {
+            "en": "Chancay"
+          },
+          "latitude": -11.57139,
+          "longitude": -77.26722
+        },
+        {
+          "name": {
+            "en": "Chilca"
+          },
+          "latitude": -12.52111,
+          "longitude": -76.73722
+        },
+        {
+          "name": {
+            "en": "Chosica"
+          },
+          "latitude": -11.94306,
+          "longitude": -76.70944
+        },
+        {
+          "name": {
+            "en": "Huacho"
+          },
+          "latitude": -11.10667,
+          "longitude": -77.605
+        },
+        {
+          "name": {
+            "en": "Hualmay"
+          },
+          "latitude": -11.09639,
+          "longitude": -77.61389
+        },
+        {
+          "name": {
+            "en": "Huaral"
+          },
+          "latitude": -11.495,
+          "longitude": -77.20778
+        },
+        {
+          "name": {
+            "en": "Huaura"
+          },
+          "latitude": -11.07,
+          "longitude": -77.59944
+        },
+        {
+          "name": {
+            "en": "Imperial"
+          },
+          "latitude": -13.05927,
+          "longitude": -76.35269
+        },
+        {
+          "name": {
+            "en": "Independencia"
+          },
+          "latitude": -11.99,
+          "longitude": -77.04583
+        },
+        {
+          "name": {
+            "en": "Lima",
+            "ar": "ليما"
+          },
+          "latitude": -12.04318,
+          "longitude": -77.02824
+        },
+        {
+          "name": {
+            "en": "Mala"
+          },
+          "latitude": -12.65806,
+          "longitude": -76.63083
+        },
+        {
+          "name": {
+            "en": "Matucana"
+          },
+          "latitude": -11.85,
+          "longitude": -76.4
+        },
+        {
+          "name": {
+            "en": "Nuevo Imperial"
+          },
+          "latitude": -13.07541,
+          "longitude": -76.31719
+        },
+        {
+          "name": {
+            "en": "Oyon"
+          },
+          "latitude": -10.75869,
+          "longitude": -76.87634
+        },
+        {
+          "name": {
+            "en": "Paramonga"
+          },
+          "latitude": -10.66667,
+          "longitude": -77.83333
+        },
+        {
+          "name": {
+            "en": "Pativilca"
+          },
+          "latitude": -10.7,
+          "longitude": -77.78333
+        },
+        {
+          "name": {
+            "en": "Provincia de Cajatambo"
+          },
+          "latitude": -10.66667,
+          "longitude": -77
+        },
+        {
+          "name": {
+            "en": "Provincia de Cañete"
+          },
+          "latitude": -12.75,
+          "longitude": -76.33333
+        },
+        {
+          "name": {
+            "en": "Provincia de Canta"
+          },
+          "latitude": -11.46667,
+          "longitude": -76.61667
+        },
+        {
+          "name": {
+            "en": "Provincia de Huaral"
+          },
+          "latitude": -11.25,
+          "longitude": -76.91667
+        },
+        {
+          "name": {
+            "en": "Provincia de Huarochirí"
+          },
+          "latitude": -11.91667,
+          "longitude": -76.41667
+        },
+        {
+          "name": {
+            "en": "Provincia de Yauyos"
+          },
+          "latitude": -12.41667,
+          "longitude": -76
+        },
+        {
+          "name": {
+            "en": "Puerto Supe"
+          },
+          "latitude": -10.80135,
+          "longitude": -77.74333
+        },
+        {
+          "name": {
+            "en": "Quilmaná"
+          },
+          "latitude": -12.9486,
+          "longitude": -76.38112
+        },
+        {
+          "name": {
+            "en": "Ricardo Palma"
+          },
+          "latitude": -11.91978,
+          "longitude": -76.6561
+        },
+        {
+          "name": {
+            "en": "San Bartolo"
+          },
+          "latitude": -12.38333,
+          "longitude": -76.78333
+        },
+        {
+          "name": {
+            "en": "San Luis"
+          },
+          "latitude": -12.07674,
+          "longitude": -76.99435
+        },
+        {
+          "name": {
+            "en": "San Vicente de Cañete"
+          },
+          "latitude": -13.07556,
+          "longitude": -76.38528
+        },
+        {
+          "name": {
+            "en": "Santa María"
+          },
+          "latitude": -12.00538,
+          "longitude": -76.89329
+        },
+        {
+          "name": {
+            "en": "Sayán"
+          },
+          "latitude": -11.13333,
+          "longitude": -77.1946
+        },
+        {
+          "name": {
+            "en": "Supe"
+          },
+          "latitude": -10.7975,
+          "longitude": -77.71306
+        },
+        {
+          "name": {
+            "en": "Urb. Santo Domingo"
+          },
+          "latitude": -11.87655,
+          "longitude": -77.03345
+        },
+        {
+          "name": {
+            "en": "Végueta"
+          },
+          "latitude": -11.02253,
+          "longitude": -77.64378
+        }
+      ]
+    },
+    {
+      "code": "PE-LOR",
+      "name": {
+        "en": "Loreto"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Andoas"
+          },
+          "latitude": -2.9025,
+          "longitude": -76.4025
+        },
+        {
+          "name": {
+            "en": "Borja"
+          },
+          "latitude": -4.43333333,
+          "longitude": -77.55
+        },
+        {
+          "name": {
+            "en": "Caballococha"
+          },
+          "latitude": -3.90583333,
+          "longitude": -70.51638889
+        },
+        {
+          "name": {
+            "en": "Cape Pantoja"
+          },
+          "latitude": -0.96435,
+          "longitude": -75.18144
+        },
+        {
+          "name": {
+            "en": "Indiana"
+          },
+          "latitude": -3.501427,
+          "longitude": -73.048096
+        },
+        {
+          "name": {
+            "en": "Iquitos"
+          },
+          "latitude": -3.73333333,
+          "longitude": -73.25
+        },
+        {
+          "name": {
+            "en": "Jeberos"
+          },
+          "latitude": -5.28333,
+          "longitude": -76.28333
+        },
+        {
+          "name": {
+            "en": "Jenaro Herrera"
+          },
+          "latitude": -4.90741,
+          "longitude": -73.66779
+        },
+        {
+          "name": {
+            "en": "Lagunas"
+          },
+          "latitude": -5.22694,
+          "longitude": -75.67528
+        },
+        {
+          "name": {
+            "en": "Nauta"
+          },
+          "latitude": -4.50833333,
+          "longitude": -73.58333333
+        },
+        {
+          "name": {
+            "en": "Punchana"
+          },
+          "latitude": -3.71666667,
+          "longitude": -73.23333333
+        },
+        {
+          "name": {
+            "en": "Requena"
+          },
+          "latitude": -6.74797,
+          "longitude": -75.05491
+        },
+        {
+          "name": {
+            "en": "San Antonio del Estrecho"
+          },
+          "latitude": -2.45012,
+          "longitude": -72.66896
+        },
+        {
+          "name": {
+            "en": "San Lorenzo"
+          },
+          "latitude": -4.81667,
+          "longitude": -76.6
+        },
+        {
+          "name": {
+            "en": "San Pablo"
+          },
+          "latitude": -4.01922,
+          "longitude": -71.10281
+        },
+        {
+          "name": {
+            "en": "Tamshiyacu"
+          },
+          "latitude": -4.0032,
+          "longitude": -73.1585
+        },
+        {
+          "name": {
+            "en": "Yurimaguas"
+          },
+          "latitude": -5.9,
+          "longitude": -76.08333333
+        }
+      ]
+    },
+    {
+      "code": "PE-MDD",
+      "name": {
+        "en": "Madre de Dios"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Iberia"
+          },
+          "latitude": -11.35,
+          "longitude": -69.58333
+        },
+        {
+          "name": {
+            "en": "Provincia de Manú"
+          },
+          "latitude": -12.25,
+          "longitude": -71
+        },
+        {
+          "name": {
+            "en": "Provincia de Tahuamanú"
+          },
+          "latitude": -11.25,
+          "longitude": -70.5
+        },
+        {
+          "name": {
+            "en": "Provincia de Tambopata"
+          },
+          "latitude": -12.19948,
+          "longitude": -70.05006
+        },
+        {
+          "name": {
+            "en": "Puerto Maldonado"
+          },
+          "latitude": -12.59331,
+          "longitude": -69.18913
+        },
+        {
+          "name": {
+            "en": "Salvación"
+          },
+          "latitude": -12.83605,
+          "longitude": -71.3649
+        },
+        {
+          "name": {
+            "en": "Tambopata"
+          },
+          "latitude": -12.67191,
+          "longitude": -69.35547
+        }
+      ]
+    },
+    {
+      "code": "PE-MOQ",
+      "name": {
+        "en": "Moquegua"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ilo"
+          },
+          "latitude": -17.63185,
+          "longitude": -71.34108
+        },
+        {
+          "name": {
+            "en": "Moquegua"
+          },
+          "latitude": -17.19832,
+          "longitude": -70.93567
+        },
+        {
+          "name": {
+            "en": "Pacocha"
+          },
+          "latitude": -17.64604,
+          "longitude": -71.34481
+        },
+        {
+          "name": {
+            "en": "Provincia de General Sánchez Cerro"
+          },
+          "latitude": -16.5,
+          "longitude": -70.66667
+        },
+        {
+          "name": {
+            "en": "Provincia de Ilo"
+          },
+          "latitude": -17.49694,
+          "longitude": -71.16722
+        },
+        {
+          "name": {
+            "en": "Provincia de Mariscal Nieto"
+          },
+          "latitude": -17.08361,
+          "longitude": -71.00333
+        },
+        {
+          "name": {
+            "en": "Torata"
+          },
+          "latitude": -17.07694,
+          "longitude": -70.84333
+        }
+      ]
+    },
+    {
+      "code": "PE-LMA",
+      "name": {
+        "en": "Municipalidad Metropolitana de Lima"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Barranco"
+          },
+          "latitude": -12.1454,
+          "longitude": -77.0207
+        },
+        {
+          "name": {
+            "en": "Jesús María"
+          },
+          "latitude": -12.0729,
+          "longitude": -77.0416
+        },
+        {
+          "name": {
+            "en": "La Molina"
+          },
+          "latitude": -12.0807,
+          "longitude": -76.9351
+        },
+        {
+          "name": {
+            "en": "Lince"
+          },
+          "latitude": -12.0821,
+          "longitude": -77.0303
+        },
+        {
+          "name": {
+            "en": "Magdalena del Mar"
+          },
+          "latitude": -12.0916,
+          "longitude": -77.0732
+        },
+        {
+          "name": {
+            "en": "Miraflores"
+          },
+          "latitude": -12.1194,
+          "longitude": -77.0282
+        },
+        {
+          "name": {
+            "en": "Pueblo Libre"
+          },
+          "latitude": -12.0757,
+          "longitude": -77.0634
+        },
+        {
+          "name": {
+            "en": "San Borja"
+          },
+          "latitude": -12.1015,
+          "longitude": -76.9967
+        },
+        {
+          "name": {
+            "en": "San Isidro"
+          },
+          "latitude": -12.0956,
+          "longitude": -77.0349
+        },
+        {
+          "name": {
+            "en": "Santiago de Surco"
+          },
+          "latitude": -12.1478,
+          "longitude": -76.9937
+        }
+      ]
+    },
+    {
+      "code": "PE-PAS",
+      "name": {
+        "en": "Pasco"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Cerro de Pasco"
+          },
+          "latitude": -10.66748,
+          "longitude": -76.25668
+        },
+        {
+          "name": {
+            "en": "Chaupimarca"
+          },
+          "latitude": -10.40696,
+          "longitude": -76.46168
+        },
+        {
+          "name": {
+            "en": "Oxapampa"
+          },
+          "latitude": -10.5775,
+          "longitude": -75.40167
+        },
+        {
+          "name": {
+            "en": "Paucartambo"
+          },
+          "latitude": -10.77326,
+          "longitude": -75.81109
+        },
+        {
+          "name": {
+            "en": "Provincia de Daniel Carrión"
+          },
+          "latitude": -10.5,
+          "longitude": -76.5
+        },
+        {
+          "name": {
+            "en": "Provincia de Oxapampa"
+          },
+          "latitude": -10.33333,
+          "longitude": -75.08333
+        },
+        {
+          "name": {
+            "en": "Provincia de Pasco"
+          },
+          "latitude": -10.66667,
+          "longitude": -76.08333
+        },
+        {
+          "name": {
+            "en": "Tinyahuarco"
+          },
+          "latitude": -10.76771,
+          "longitude": -76.27523
+        },
+        {
+          "name": {
+            "en": "Villa Rica"
+          },
+          "latitude": -10.73944,
+          "longitude": -75.26972
+        }
+      ]
+    },
+    {
+      "code": "PE-PIU",
+      "name": {
+        "en": "Piura"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ayabaca"
+          },
+          "latitude": -4.63983,
+          "longitude": -79.71491
+        },
+        {
+          "name": {
+            "en": "Bernal"
+          },
+          "latitude": -5.45,
+          "longitude": -80.75
+        },
+        {
+          "name": {
+            "en": "Buenos Aires"
+          },
+          "latitude": -5.26083,
+          "longitude": -79.96417
+        },
+        {
+          "name": {
+            "en": "Catacaos"
+          },
+          "latitude": -5.26667,
+          "longitude": -80.68333
+        },
+        {
+          "name": {
+            "en": "Chulucanas"
+          },
+          "latitude": -5.0925,
+          "longitude": -80.1625
+        },
+        {
+          "name": {
+            "en": "El Alto"
+          },
+          "latitude": -4.26851,
+          "longitude": -81.21719
+        },
+        {
+          "name": {
+            "en": "Huancabamba"
+          },
+          "latitude": -5.23861,
+          "longitude": -79.45056
+        },
+        {
+          "name": {
+            "en": "La Breita"
+          },
+          "latitude": -4.25691,
+          "longitude": -80.88599
+        },
+        {
+          "name": {
+            "en": "La Huaca"
+          },
+          "latitude": -4.91167,
+          "longitude": -80.96
+        },
+        {
+          "name": {
+            "en": "La Unión"
+          },
+          "latitude": -5.40232,
+          "longitude": -80.74224
+        },
+        {
+          "name": {
+            "en": "Las Lomas"
+          },
+          "latitude": -4.65333,
+          "longitude": -80.24667
+        },
+        {
+          "name": {
+            "en": "Máncora"
+          },
+          "latitude": -4.10778,
+          "longitude": -81.0475
+        },
+        {
+          "name": {
+            "en": "Marcavelica"
+          },
+          "latitude": -4.87778,
+          "longitude": -80.70528
+        },
+        {
+          "name": {
+            "en": "Morropon"
+          },
+          "latitude": -5.25,
+          "longitude": -80
+        },
+        {
+          "name": {
+            "en": "Paita"
+          },
+          "latitude": -5.08917,
+          "longitude": -81.11444
+        },
+        {
+          "name": {
+            "en": "Piura"
+          },
+          "latitude": -5.19449,
+          "longitude": -80.63282
+        },
+        {
+          "name": {
+            "en": "Provincia de Ayabaca"
+          },
+          "latitude": -4.75,
+          "longitude": -79.83333
+        },
+        {
+          "name": {
+            "en": "Provincia de Huancabamba"
+          },
+          "latitude": -5.5,
+          "longitude": -79.58333
+        },
+        {
+          "name": {
+            "en": "Provincia de Paita"
+          },
+          "latitude": -5.10189,
+          "longitude": -81.09695
+        },
+        {
+          "name": {
+            "en": "Provincia de Piura"
+          },
+          "latitude": -5.21416,
+          "longitude": -80.40617
+        },
+        {
+          "name": {
+            "en": "Provincia de Sullana"
+          },
+          "latitude": -4.5,
+          "longitude": -80.66667
+        },
+        {
+          "name": {
+            "en": "Provincia de Talara"
+          },
+          "latitude": -4.41667,
+          "longitude": -81.08333
+        },
+        {
+          "name": {
+            "en": "Querecotillo"
+          },
+          "latitude": -4.83778,
+          "longitude": -80.64556
+        },
+        {
+          "name": {
+            "en": "Salinera Colán"
+          },
+          "latitude": -5.03333,
+          "longitude": -81.06667
+        },
+        {
+          "name": {
+            "en": "Salitral"
+          },
+          "latitude": -4.85722,
+          "longitude": -80.68111
+        },
+        {
+          "name": {
+            "en": "Sechura"
+          },
+          "latitude": -5.55694,
+          "longitude": -80.82222
+        },
+        {
+          "name": {
+            "en": "Sullana"
+          },
+          "latitude": -4.90389,
+          "longitude": -80.68528
+        },
+        {
+          "name": {
+            "en": "Talara"
+          },
+          "latitude": -4.57722,
+          "longitude": -81.27194
+        },
+        {
+          "name": {
+            "en": "Tambo Grande"
+          },
+          "latitude": -4.92694,
+          "longitude": -80.34472
+        },
+        {
+          "name": {
+            "en": "Vice"
+          },
+          "latitude": -5.41667,
+          "longitude": -80.78333
+        }
+      ]
+    },
+    {
+      "code": "PE-PUN",
+      "name": {
+        "en": "Puno"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Atuncolla"
+          },
+          "latitude": -15.68333,
+          "longitude": -70.15
+        },
+        {
+          "name": {
+            "en": "Ayaviri"
+          },
+          "latitude": -14.88639,
+          "longitude": -70.58889
+        },
+        {
+          "name": {
+            "en": "Azángaro"
+          },
+          "latitude": -14.90843,
+          "longitude": -70.19616
+        },
+        {
+          "name": {
+            "en": "Desaguadero"
+          },
+          "latitude": -16.56556,
+          "longitude": -69.04167
+        },
+        {
+          "name": {
+            "en": "El Collao"
+          },
+          "latitude": -16.72641,
+          "longitude": -69.75515
+        },
+        {
+          "name": {
+            "en": "Hacienda Huancane"
+          },
+          "latitude": -15.82327,
+          "longitude": -70.8854
+        },
+        {
+          "name": {
+            "en": "Ilave"
+          },
+          "latitude": -16.08333,
+          "longitude": -69.66667
+        },
+        {
+          "name": {
+            "en": "Juli"
+          },
+          "latitude": -16.21667,
+          "longitude": -69.45
+        },
+        {
+          "name": {
+            "en": "Juliaca"
+          },
+          "latitude": -15.5,
+          "longitude": -70.13333
+        },
+        {
+          "name": {
+            "en": "La Rinconada"
+          },
+          "latitude": -14.63126,
+          "longitude": -69.44638
+        },
+        {
+          "name": {
+            "en": "Lampa"
+          },
+          "latitude": -15.35,
+          "longitude": -70.36667
+        },
+        {
+          "name": {
+            "en": "Macusani"
+          },
+          "latitude": -14.08333,
+          "longitude": -70.43333
+        },
+        {
+          "name": {
+            "en": "Ñuñoa"
+          },
+          "latitude": -14.47788,
+          "longitude": -70.63583
+        },
+        {
+          "name": {
+            "en": "Provincia de Azángaro"
+          },
+          "latitude": -14.83333,
+          "longitude": -70.16667
+        },
+        {
+          "name": {
+            "en": "Provincia de Carabaya"
+          },
+          "latitude": -13.83333,
+          "longitude": -70.25
+        },
+        {
+          "name": {
+            "en": "Provincia de Chucuito"
+          },
+          "latitude": -16.60545,
+          "longitude": -69.35761
+        },
+        {
+          "name": {
+            "en": "Provincia de Huancané"
+          },
+          "latitude": -15.16667,
+          "longitude": -69.58333
+        },
+        {
+          "name": {
+            "en": "Provincia de Lampa"
+          },
+          "latitude": -15.41667,
+          "longitude": -70.58333
+        },
+        {
+          "name": {
+            "en": "Provincia de Melgar"
+          },
+          "latitude": -14.75,
+          "longitude": -70.75
+        },
+        {
+          "name": {
+            "en": "Provincia de Puno"
+          },
+          "latitude": -16,
+          "longitude": -70
+        },
+        {
+          "name": {
+            "en": "Provincia de Sandia"
+          },
+          "latitude": -13.83333,
+          "longitude": -69.33333
+        },
+        {
+          "name": {
+            "en": "Puno"
+          },
+          "latitude": -15.8422,
+          "longitude": -70.0199
+        },
+        {
+          "name": {
+            "en": "San Antonio De Putina"
+          },
+          "latitude": -14.71175,
+          "longitude": -69.61559
+        },
+        {
+          "name": {
+            "en": "San Roman"
+          },
+          "latitude": -15.83333,
+          "longitude": -70.5
+        },
+        {
+          "name": {
+            "en": "Santa Lucía"
+          },
+          "latitude": -15.69788,
+          "longitude": -70.6061
+        },
+        {
+          "name": {
+            "en": "Taquile"
+          },
+          "latitude": -15.76667,
+          "longitude": -69.68333
+        },
+        {
+          "name": {
+            "en": "Yunguyo"
+          },
+          "latitude": -16.25,
+          "longitude": -69.08333
+        }
+      ]
+    },
+    {
+      "code": "PE-SAM",
+      "name": {
+        "en": "San Martín"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bellavista"
+          },
+          "latitude": -7.05614,
+          "longitude": -76.5911
+        },
+        {
+          "name": {
+            "en": "Chazuta"
+          },
+          "latitude": -6.57087,
+          "longitude": -76.13753
+        },
+        {
+          "name": {
+            "en": "El Dorado"
+          },
+          "latitude": -6.56298,
+          "longitude": -76.7413
+        },
+        {
+          "name": {
+            "en": "Huicungo"
+          },
+          "latitude": -7.3186,
+          "longitude": -76.77556
+        },
+        {
+          "name": {
+            "en": "Jepelacio"
+          },
+          "latitude": -6.11667,
+          "longitude": -76.95
+        },
+        {
+          "name": {
+            "en": "Juanjuí"
+          },
+          "latitude": -7.17697,
+          "longitude": -76.72774
+        },
+        {
+          "name": {
+            "en": "Lamas"
+          },
+          "latitude": -6.41667,
+          "longitude": -76.53333
+        },
+        {
+          "name": {
+            "en": "Moyobamba"
+          },
+          "latitude": -6.03416,
+          "longitude": -76.97168
+        },
+        {
+          "name": {
+            "en": "Picota"
+          },
+          "latitude": -6.92033,
+          "longitude": -76.33142
+        },
+        {
+          "name": {
+            "en": "Provincia de Huallaga"
+          },
+          "latitude": -6.75664,
+          "longitude": -76.90143
+        },
+        {
+          "name": {
+            "en": "Provincia de Lamas"
+          },
+          "latitude": -6.33333,
+          "longitude": -76.66667
+        },
+        {
+          "name": {
+            "en": "Provincia de Mariscal Cáceres"
+          },
+          "latitude": -7.2739,
+          "longitude": -77.18216
+        },
+        {
+          "name": {
+            "en": "Provincia de Moyobamba"
+          },
+          "latitude": -5.75,
+          "longitude": -77.25
+        },
+        {
+          "name": {
+            "en": "Provincia de Rioja"
+          },
+          "latitude": -6,
+          "longitude": -77.41667
+        },
+        {
+          "name": {
+            "en": "Provincia de San Martín"
+          },
+          "latitude": -6.58333,
+          "longitude": -76.16667
+        },
+        {
+          "name": {
+            "en": "Rioja"
+          },
+          "latitude": -6.05675,
+          "longitude": -77.16651
+        },
+        {
+          "name": {
+            "en": "Saposoa"
+          },
+          "latitude": -6.93395,
+          "longitude": -76.77158
+        },
+        {
+          "name": {
+            "en": "Sisa"
+          },
+          "latitude": -6.61085,
+          "longitude": -76.69302
+        },
+        {
+          "name": {
+            "en": "Soritor"
+          },
+          "latitude": -6.13917,
+          "longitude": -77.10389
+        },
+        {
+          "name": {
+            "en": "Tabalosos"
+          },
+          "latitude": -6.35,
+          "longitude": -76.68333
+        },
+        {
+          "name": {
+            "en": "Tarapoto"
+          },
+          "latitude": -6.50139,
+          "longitude": -76.36556
+        },
+        {
+          "name": {
+            "en": "Tocache"
+          },
+          "latitude": -8.1877,
+          "longitude": -76.52046
+        },
+        {
+          "name": {
+            "en": "Uchiza"
+          },
+          "latitude": -8.45917,
+          "longitude": -76.46333
+        }
+      ]
+    },
+    {
+      "code": "PE-TAC",
+      "name": {
+        "en": "Tacna"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Calana"
+          },
+          "latitude": -17.94167,
+          "longitude": -70.18694
+        },
+        {
+          "name": {
+            "en": "Candarave"
+          },
+          "latitude": -17.26778,
+          "longitude": -70.24944
+        },
+        {
+          "name": {
+            "en": "Chipispaya"
+          },
+          "latitude": -17.4979,
+          "longitude": -70.21714
+        },
+        {
+          "name": {
+            "en": "Chuquitira"
+          },
+          "latitude": -17.28891,
+          "longitude": -70.04363
+        },
+        {
+          "name": {
+            "en": "Ilabaya"
+          },
+          "latitude": -17.42083,
+          "longitude": -70.51333
+        },
+        {
+          "name": {
+            "en": "Jorge Basadre"
+          },
+          "latitude": -17.57919,
+          "longitude": -70.73083
+        },
+        {
+          "name": {
+            "en": "Provincia de Tacna"
+          },
+          "latitude": -17.83333,
+          "longitude": -70.5
+        },
+        {
+          "name": {
+            "en": "Provincia de Tarata"
+          },
+          "latitude": -17.41667,
+          "longitude": -70.08333
+        },
+        {
+          "name": {
+            "en": "Pujocucho"
+          },
+          "latitude": -17.15778,
+          "longitude": -70.35222
+        },
+        {
+          "name": {
+            "en": "Quilahuani"
+          },
+          "latitude": -17.31778,
+          "longitude": -70.25806
+        },
+        {
+          "name": {
+            "en": "Tacna",
+            "ar": "تاكنا"
+          },
+          "latitude": -18.01465,
+          "longitude": -70.25362
+        },
+        {
+          "name": {
+            "en": "Tarata"
+          },
+          "latitude": -17.47444,
+          "longitude": -70.03278
+        },
+        {
+          "name": {
+            "en": "Totoral"
+          },
+          "latitude": -17.4062,
+          "longitude": -70.36464
+        }
+      ]
+    },
+    {
+      "code": "PE-TUM",
+      "name": {
+        "en": "Tumbes"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Aguas Verdes"
+          },
+          "latitude": -3.48139,
+          "longitude": -80.245
+        },
+        {
+          "name": {
+            "en": "Papayal"
+          },
+          "latitude": -4.07771,
+          "longitude": -80.7369
+        },
+        {
+          "name": {
+            "en": "Provincia de Contralmirante Villar"
+          },
+          "latitude": -4,
+          "longitude": -80.75
+        },
+        {
+          "name": {
+            "en": "Provincia de Tumbes"
+          },
+          "latitude": -3.75,
+          "longitude": -80.41667
+        },
+        {
+          "name": {
+            "en": "Provincia de Zarumilla"
+          },
+          "latitude": -3.66667,
+          "longitude": -80.25
+        },
+        {
+          "name": {
+            "en": "Tumbes"
+          },
+          "latitude": -3.56694,
+          "longitude": -80.45153
+        },
+        {
+          "name": {
+            "en": "Zarumilla"
+          },
+          "latitude": -3.50306,
+          "longitude": -80.27306
+        },
+        {
+          "name": {
+            "en": "Zorritos"
+          },
+          "latitude": -3.68046,
+          "longitude": -80.67819
+        }
+      ]
+    },
+    {
+      "code": "PE-UCA",
+      "name": {
+        "en": "Ucayali"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Atalaya"
+          },
+          "latitude": -10.3898,
+          "longitude": -73.21977
+        },
+        {
+          "name": {
+            "en": "Campoverde"
+          },
+          "latitude": -8.47533,
+          "longitude": -74.80709
+        },
+        {
+          "name": {
+            "en": "Padre Abad"
+          },
+          "latitude": -8.7968,
+          "longitude": -75.4285
+        },
+        {
+          "name": {
+            "en": "Provincia de Coronel Portillo"
+          },
+          "latitude": -9.5,
+          "longitude": -73.33333
+        },
+        {
+          "name": {
+            "en": "Pucallpa"
+          },
+          "latitude": -8.37915,
+          "longitude": -74.55387
+        },
+        {
+          "name": {
+            "en": "Purus"
+          },
+          "latitude": -10.37331,
+          "longitude": -71.58231
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2320 @@
+{
+  "code": "ZA",
+  "iso3": "ZAF",
+  "name": {
+    "en": "South Africa",
+    "ar": "جنوب أفريقيا",
+    "de": "Republik Südafrika",
+    "es": "República de Sudáfrica",
+    "fr": "Afrique du Sud",
+    "hi": "दक्षिण अफ्रीका",
+    "it": "Sud Africa",
+    "ja": "南アフリカ",
+    "ko": "남아프리카 공화국",
+    "nl": "Zuid-Afrika",
+    "pl": "Republika Południowej Afryki",
+    "pt": "República Sul-Africana",
+    "pt-BR": "República Sul-Africana",
+    "ru": "Южная Африка",
+    "tr": "Güney Afrika Cumhuriyeti",
+    "uk": "Південна Африка",
+    "zh": "南非"
+  },
+  "phone": "+27",
+  "currency": "ZAR",
+  "timezone": "Africa/Johannesburg",
+  "flag": "🇿🇦",
+  "regions": [
+    {
+      "code": "ZA-EC",
+      "name": {
+        "en": "Eastern Cape"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Adelaide"
+          },
+          "latitude": -32.70747,
+          "longitude": 26.29564
+        },
+        {
+          "name": {
+            "en": "Alfred Nzo"
+          },
+          "latitude": -30.66803,
+          "longitude": 29.1549
+        },
+        {
+          "name": {
+            "en": "Alice"
+          },
+          "latitude": -32.78749,
+          "longitude": 26.8344
+        },
+        {
+          "name": {
+            "en": "Aliwal North"
+          },
+          "latitude": -30.69366,
+          "longitude": 26.71141
+        },
+        {
+          "name": {
+            "en": "Amathole"
+          },
+          "latitude": -32.55895,
+          "longitude": 27.45919
+        },
+        {
+          "name": {
+            "en": "Bhisho",
+            "ar": "بيشو"
+          },
+          "latitude": -32.84721,
+          "longitude": 27.44218
+        },
+        {
+          "name": {
+            "en": "Buffalo City Metropolitan"
+          },
+          "latitude": -32.95141,
+          "longitude": 27.61164
+        },
+        {
+          "name": {
+            "en": "Burgersdorp"
+          },
+          "latitude": -30.99766,
+          "longitude": 26.32862
+        },
+        {
+          "name": {
+            "en": "Butterworth"
+          },
+          "latitude": -32.33083,
+          "longitude": 28.14981
+        },
+        {
+          "name": {
+            "en": "Cacadu"
+          },
+          "latitude": -33.06583,
+          "longitude": 24.77583
+        },
+        {
+          "name": {
+            "en": "Chris Hani"
+          },
+          "latitude": -31.79033,
+          "longitude": 26.43965
+        },
+        {
+          "name": {
+            "en": "Cradock"
+          },
+          "latitude": -32.16422,
+          "longitude": 25.61918
+        },
+        {
+          "name": {
+            "en": "Dordrecht"
+          },
+          "latitude": -31.372,
+          "longitude": 27.04878
+        },
+        {
+          "name": {
+            "en": "East London",
+            "ar": "إيست لندن"
+          },
+          "latitude": -33.01529,
+          "longitude": 27.91162
+        },
+        {
+          "name": {
+            "en": "Elliot"
+          },
+          "latitude": -31.33333,
+          "longitude": 27.85
+        },
+        {
+          "name": {
+            "en": "Fort Beaufort"
+          },
+          "latitude": -32.77477,
+          "longitude": 26.63376
+        },
+        {
+          "name": {
+            "en": "Graaff-Reinet"
+          },
+          "latitude": -32.25215,
+          "longitude": 24.53075
+        },
+        {
+          "name": {
+            "en": "Grahamstown"
+          },
+          "latitude": -33.30422,
+          "longitude": 26.53276
+        },
+        {
+          "name": {
+            "en": "Ilinge"
+          },
+          "latitude": -31.97676,
+          "longitude": 27.04267
+        },
+        {
+          "name": {
+            "en": "Joe Gqabi"
+          },
+          "latitude": -30.94178,
+          "longitude": 27.06053
+        },
+        {
+          "name": {
+            "en": "Kirkwood"
+          },
+          "latitude": -33.39829,
+          "longitude": 25.44279
+        },
+        {
+          "name": {
+            "en": "Kruisfontein"
+          },
+          "latitude": -34.00333,
+          "longitude": 24.73142
+        },
+        {
+          "name": {
+            "en": "Lady Frere"
+          },
+          "latitude": -31.70312,
+          "longitude": 27.2329
+        },
+        {
+          "name": {
+            "en": "Middelburg"
+          },
+          "latitude": -31.49285,
+          "longitude": 25.00633
+        },
+        {
+          "name": {
+            "en": "Molteno"
+          },
+          "latitude": -31.39675,
+          "longitude": 26.36246
+        },
+        {
+          "name": {
+            "en": "Mthatha"
+          },
+          "latitude": -31.58893,
+          "longitude": 28.78443
+        },
+        {
+          "name": {
+            "en": "Nelson Mandela Bay Metropolitan"
+          },
+          "latitude": -33.80399,
+          "longitude": 25.49213
+        },
+        {
+          "name": {
+            "en": "OR Tambo"
+          },
+          "latitude": -31.4674,
+          "longitude": 29.05247
+        },
+        {
+          "name": {
+            "en": "Port Alfred"
+          },
+          "latitude": -33.58601,
+          "longitude": 26.88329
+        },
+        {
+          "name": {
+            "en": "Port Elizabeth",
+            "ar": "بورت إليزابيث"
+          },
+          "latitude": -33.96109,
+          "longitude": 25.61494
+        },
+        {
+          "name": {
+            "en": "Port Saint John’s"
+          },
+          "latitude": -31.62291,
+          "longitude": 29.54477
+        },
+        {
+          "name": {
+            "en": "Queensdale"
+          },
+          "latitude": -31.87101,
+          "longitude": 26.97862
+        },
+        {
+          "name": {
+            "en": "Queenstown"
+          },
+          "latitude": -31.89756,
+          "longitude": 26.87533
+        },
+        {
+          "name": {
+            "en": "Somerset East"
+          },
+          "latitude": -32.72173,
+          "longitude": 25.58804
+        },
+        {
+          "name": {
+            "en": "Stutterheim"
+          },
+          "latitude": -32.57076,
+          "longitude": 27.42396
+        },
+        {
+          "name": {
+            "en": "Uitenhage",
+            "ar": "يوتينهاغ"
+          },
+          "latitude": -33.75757,
+          "longitude": 25.3971
+        },
+        {
+          "name": {
+            "en": "Whittlesea"
+          },
+          "latitude": -32.17588,
+          "longitude": 26.82437
+        },
+        {
+          "name": {
+            "en": "Willowmore"
+          },
+          "latitude": -33.29265,
+          "longitude": 23.48954
+        }
+      ]
+    },
+    {
+      "code": "ZA-FS",
+      "name": {
+        "en": "Free State"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Allanridge"
+          },
+          "latitude": -27.75431,
+          "longitude": 26.64382
+        },
+        {
+          "name": {
+            "en": "Bethlehem"
+          },
+          "latitude": -28.23078,
+          "longitude": 28.30707
+        },
+        {
+          "name": {
+            "en": "Bloemfontein",
+            "ar": "بلومفونتين"
+          },
+          "latitude": -29.12107,
+          "longitude": 26.214
+        },
+        {
+          "name": {
+            "en": "Bothaville"
+          },
+          "latitude": -27.3887,
+          "longitude": 26.61701
+        },
+        {
+          "name": {
+            "en": "Botshabelo"
+          },
+          "latitude": -29.26737,
+          "longitude": 26.72595
+        },
+        {
+          "name": {
+            "en": "Brandfort"
+          },
+          "latitude": -28.70008,
+          "longitude": 26.45968
+        },
+        {
+          "name": {
+            "en": "Clocolan"
+          },
+          "latitude": -28.91367,
+          "longitude": 27.56555
+        },
+        {
+          "name": {
+            "en": "Deneysville"
+          },
+          "latitude": -26.8908,
+          "longitude": 28.09707
+        },
+        {
+          "name": {
+            "en": "Fezile Dabi"
+          },
+          "latitude": -27.33918,
+          "longitude": 27.71927
+        },
+        {
+          "name": {
+            "en": "Frankfort"
+          },
+          "latitude": -27.27888,
+          "longitude": 28.49696
+        },
+        {
+          "name": {
+            "en": "Harrismith"
+          },
+          "latitude": -28.27276,
+          "longitude": 29.12946
+        },
+        {
+          "name": {
+            "en": "Heilbron"
+          },
+          "latitude": -27.28115,
+          "longitude": 27.9709
+        },
+        {
+          "name": {
+            "en": "Hennenman"
+          },
+          "latitude": -27.97654,
+          "longitude": 27.02423
+        },
+        {
+          "name": {
+            "en": "Hoopstad"
+          },
+          "latitude": -27.83273,
+          "longitude": 25.90833
+        },
+        {
+          "name": {
+            "en": "Koppies"
+          },
+          "latitude": -27.24179,
+          "longitude": 27.57422
+        },
+        {
+          "name": {
+            "en": "Kroonstad"
+          },
+          "latitude": -27.65036,
+          "longitude": 27.23488
+        },
+        {
+          "name": {
+            "en": "Kutloanong"
+          },
+          "latitude": -27.83333,
+          "longitude": 26.75
+        },
+        {
+          "name": {
+            "en": "Ladybrand"
+          },
+          "latitude": -29.19448,
+          "longitude": 27.45739
+        },
+        {
+          "name": {
+            "en": "Lejweleputswa"
+          },
+          "latitude": -28.23982,
+          "longitude": 26.12649
+        },
+        {
+          "name": {
+            "en": "Lindley"
+          },
+          "latitude": -27.8791,
+          "longitude": 27.91348
+        },
+        {
+          "name": {
+            "en": "Mangaung Metropolitan"
+          },
+          "latitude": -29.15627,
+          "longitude": 26.35116
+        },
+        {
+          "name": {
+            "en": "Marquard"
+          },
+          "latitude": -28.66449,
+          "longitude": 27.43048
+        },
+        {
+          "name": {
+            "en": "Parys"
+          },
+          "latitude": -26.9033,
+          "longitude": 27.45727
+        },
+        {
+          "name": {
+            "en": "Phuthaditjhaba"
+          },
+          "latitude": -28.52423,
+          "longitude": 28.81582
+        },
+        {
+          "name": {
+            "en": "Reitz"
+          },
+          "latitude": -27.80138,
+          "longitude": 28.42726
+        },
+        {
+          "name": {
+            "en": "Sasolburg"
+          },
+          "latitude": -26.81358,
+          "longitude": 27.81695
+        },
+        {
+          "name": {
+            "en": "Senekal"
+          },
+          "latitude": -28.31971,
+          "longitude": 27.62082
+        },
+        {
+          "name": {
+            "en": "Thaba Nchu"
+          },
+          "latitude": -29.20932,
+          "longitude": 26.83898
+        },
+        {
+          "name": {
+            "en": "Thabo Mofutsanyana"
+          },
+          "latitude": -28.24378,
+          "longitude": 28.34077
+        },
+        {
+          "name": {
+            "en": "Theunissen"
+          },
+          "latitude": -28.41098,
+          "longitude": 26.70107
+        },
+        {
+          "name": {
+            "en": "Ventersburg"
+          },
+          "latitude": -28.08561,
+          "longitude": 27.13814
+        },
+        {
+          "name": {
+            "en": "Viljoenskroon"
+          },
+          "latitude": -27.20841,
+          "longitude": 26.94855
+        },
+        {
+          "name": {
+            "en": "Villiers"
+          },
+          "latitude": -27.03026,
+          "longitude": 28.60061
+        },
+        {
+          "name": {
+            "en": "Virginia"
+          },
+          "latitude": -28.10391,
+          "longitude": 26.86593
+        },
+        {
+          "name": {
+            "en": "Vrede"
+          },
+          "latitude": -27.42573,
+          "longitude": 29.16585
+        },
+        {
+          "name": {
+            "en": "Vredefort"
+          },
+          "latitude": -27.00805,
+          "longitude": 27.3646
+        },
+        {
+          "name": {
+            "en": "Welkom"
+          },
+          "latitude": -27.97742,
+          "longitude": 26.73506
+        },
+        {
+          "name": {
+            "en": "Wesselsbron"
+          },
+          "latitude": -27.8549,
+          "longitude": 26.36583
+        },
+        {
+          "name": {
+            "en": "Winburg"
+          },
+          "latitude": -28.51805,
+          "longitude": 27.00933
+        },
+        {
+          "name": {
+            "en": "Xhariep"
+          },
+          "latitude": -29.84311,
+          "longitude": 25.83286
+        },
+        {
+          "name": {
+            "en": "Zastron"
+          },
+          "latitude": -30.30225,
+          "longitude": 27.08395
+        }
+      ]
+    },
+    {
+      "code": "ZA-GP",
+      "name": {
+        "en": "Gauteng"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Alberton"
+          },
+          "latitude": -26.26786,
+          "longitude": 28.12225
+        },
+        {
+          "name": {
+            "en": "Benoni",
+            "ar": "بينوني"
+          },
+          "latitude": -26.18848,
+          "longitude": 28.32078
+        },
+        {
+          "name": {
+            "en": "Boksburg"
+          },
+          "latitude": -26.21197,
+          "longitude": 28.25958
+        },
+        {
+          "name": {
+            "en": "Brakpan"
+          },
+          "latitude": -26.23656,
+          "longitude": 28.36938
+        },
+        {
+          "name": {
+            "en": "Bronkhorstspruit"
+          },
+          "latitude": -25.81015,
+          "longitude": 28.74248
+        },
+        {
+          "name": {
+            "en": "Carletonville"
+          },
+          "latitude": -26.36094,
+          "longitude": 27.39767
+        },
+        {
+          "name": {
+            "en": "Centurion"
+          },
+          "latitude": -25.85891,
+          "longitude": 28.18577
+        },
+        {
+          "name": {
+            "en": "City of Johannesburg Metropolitan"
+          },
+          "latitude": -26.17673,
+          "longitude": 27.96353
+        },
+        {
+          "name": {
+            "en": "City of Tshwane Metropolitan"
+          },
+          "latitude": -25.65985,
+          "longitude": 28.44343
+        },
+        {
+          "name": {
+            "en": "Cullinan"
+          },
+          "latitude": -25.67088,
+          "longitude": 28.52364
+        },
+        {
+          "name": {
+            "en": "Diepsloot"
+          },
+          "latitude": -25.93312,
+          "longitude": 28.01213
+        },
+        {
+          "name": {
+            "en": "Eastleigh"
+          },
+          "latitude": -26.12965,
+          "longitude": 28.15541
+        },
+        {
+          "name": {
+            "en": "Eden Glen"
+          },
+          "latitude": -26.1323,
+          "longitude": 28.16859
+        },
+        {
+          "name": {
+            "en": "Eden Glen Ext 60"
+          },
+          "latitude": -26.12593,
+          "longitude": 28.165
+        },
+        {
+          "name": {
+            "en": "Edenvale"
+          },
+          "latitude": -26.14095,
+          "longitude": 28.15247
+        },
+        {
+          "name": {
+            "en": "Ekangala"
+          },
+          "latitude": -25.69619,
+          "longitude": 28.74918
+        },
+        {
+          "name": {
+            "en": "Ekurhuleni Metropolitan"
+          },
+          "latitude": -26.1989,
+          "longitude": 28.31262
+        },
+        {
+          "name": {
+            "en": "Heidelberg"
+          },
+          "latitude": -26.50476,
+          "longitude": 28.35921
+        },
+        {
+          "name": {
+            "en": "Johannesburg",
+            "ar": "جوهانسبرغ"
+          },
+          "latitude": -26.20227,
+          "longitude": 28.04363
+        },
+        {
+          "name": {
+            "en": "Krugersdorp"
+          },
+          "latitude": -26.08577,
+          "longitude": 27.77515
+        },
+        {
+          "name": {
+            "en": "Mabopane"
+          },
+          "latitude": -25.49768,
+          "longitude": 28.10065
+        },
+        {
+          "name": {
+            "en": "Midrand"
+          },
+          "latitude": -25.98953,
+          "longitude": 28.12843
+        },
+        {
+          "name": {
+            "en": "Midstream"
+          },
+          "latitude": -25.91849,
+          "longitude": 28.19881
+        },
+        {
+          "name": {
+            "en": "Modderfontein"
+          },
+          "latitude": -26.08909,
+          "longitude": 28.16534
+        },
+        {
+          "name": {
+            "en": "Muldersdriseloop"
+          },
+          "latitude": -26.03673,
+          "longitude": 27.83798
+        },
+        {
+          "name": {
+            "en": "Nigel"
+          },
+          "latitude": -26.43138,
+          "longitude": 28.47713
+        },
+        {
+          "name": {
+            "en": "Orange Farm"
+          },
+          "latitude": -26.48333,
+          "longitude": 27.86667
+        },
+        {
+          "name": {
+            "en": "Pretoria",
+            "ar": "بريتوريا"
+          },
+          "latitude": -25.74486,
+          "longitude": 28.18783
+        },
+        {
+          "name": {
+            "en": "Randburg",
+            "ar": "راندبورغ"
+          },
+          "latitude": -26.0941,
+          "longitude": 28.00123
+        },
+        {
+          "name": {
+            "en": "Randfontein"
+          },
+          "latitude": -26.1844,
+          "longitude": 27.70203
+        },
+        {
+          "name": {
+            "en": "Roodepoort",
+            "ar": "روديبورت"
+          },
+          "latitude": -26.1625,
+          "longitude": 27.8725
+        },
+        {
+          "name": {
+            "en": "Sedibeng"
+          },
+          "latitude": -26.56686,
+          "longitude": 28.18277
+        },
+        {
+          "name": {
+            "en": "Soweto",
+            "ar": "سويتو"
+          },
+          "latitude": -26.26781,
+          "longitude": 27.85849
+        },
+        {
+          "name": {
+            "en": "Springs"
+          },
+          "latitude": -26.25,
+          "longitude": 28.4
+        },
+        {
+          "name": {
+            "en": "Tembisa"
+          },
+          "latitude": -25.99636,
+          "longitude": 28.2268
+        },
+        {
+          "name": {
+            "en": "Vanderbijlpark",
+            "ar": "فاندربيجلبارك"
+          },
+          "latitude": -26.71171,
+          "longitude": 27.83795
+        },
+        {
+          "name": {
+            "en": "Vereeniging",
+            "ar": "فيرينخن"
+          },
+          "latitude": -26.67313,
+          "longitude": 27.92615
+        },
+        {
+          "name": {
+            "en": "West Rand"
+          },
+          "latitude": -26.24565,
+          "longitude": 27.55538
+        },
+        {
+          "name": {
+            "en": "Westonaria"
+          },
+          "latitude": -26.31905,
+          "longitude": 27.6486
+        }
+      ]
+    },
+    {
+      "code": "ZA-KZN",
+      "name": {
+        "en": "KwaZulu-Natal"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Amajuba"
+          },
+          "latitude": -27.73558,
+          "longitude": 30.13537
+        },
+        {
+          "name": {
+            "en": "Ballito"
+          },
+          "latitude": -29.53897,
+          "longitude": 31.21439
+        },
+        {
+          "name": {
+            "en": "Berea"
+          },
+          "latitude": -29.85185,
+          "longitude": 30.99337
+        },
+        {
+          "name": {
+            "en": "Dundee"
+          },
+          "latitude": -28.16678,
+          "longitude": 30.23371
+        },
+        {
+          "name": {
+            "en": "Durban",
+            "ar": "ديربان"
+          },
+          "latitude": -29.8579,
+          "longitude": 31.0292
+        },
+        {
+          "name": {
+            "en": "Ekuvukeni"
+          },
+          "latitude": -28.46752,
+          "longitude": 30.15513
+        },
+        {
+          "name": {
+            "en": "eMkhomazi"
+          },
+          "latitude": -30.20674,
+          "longitude": 30.79776
+        },
+        {
+          "name": {
+            "en": "Empangeni"
+          },
+          "latitude": -28.76197,
+          "longitude": 31.89329
+        },
+        {
+          "name": {
+            "en": "Eshowe"
+          },
+          "latitude": -28.88649,
+          "longitude": 31.4699
+        },
+        {
+          "name": {
+            "en": "eSikhaleni"
+          },
+          "latitude": -28.87097,
+          "longitude": 31.89961
+        },
+        {
+          "name": {
+            "en": "eThekwini Metropolitan"
+          },
+          "latitude": -29.8667,
+          "longitude": 31.0167
+        },
+        {
+          "name": {
+            "en": "Glencoe"
+          },
+          "latitude": -28.17827,
+          "longitude": 30.14702
+        },
+        {
+          "name": {
+            "en": "Greytown"
+          },
+          "latitude": -29.06415,
+          "longitude": 30.59279
+        },
+        {
+          "name": {
+            "en": "Hluhluwe"
+          },
+          "latitude": -28.01895,
+          "longitude": 32.26762
+        },
+        {
+          "name": {
+            "en": "Howick"
+          },
+          "latitude": -29.47795,
+          "longitude": 30.23057
+        },
+        {
+          "name": {
+            "en": "iLembe"
+          },
+          "latitude": -29.27326,
+          "longitude": 31.14253
+        },
+        {
+          "name": {
+            "en": "Kokstad"
+          },
+          "latitude": -30.54723,
+          "longitude": 29.42412
+        },
+        {
+          "name": {
+            "en": "KwaDukuza"
+          },
+          "latitude": -29.32816,
+          "longitude": 31.28954
+        },
+        {
+          "name": {
+            "en": "Margate"
+          },
+          "latitude": -30.8636,
+          "longitude": 30.37052
+        },
+        {
+          "name": {
+            "en": "Mondlo"
+          },
+          "latitude": -27.98299,
+          "longitude": 30.71769
+        },
+        {
+          "name": {
+            "en": "Mooirivier"
+          },
+          "latitude": -29.20824,
+          "longitude": 29.9946
+        },
+        {
+          "name": {
+            "en": "Mpophomeni"
+          },
+          "latitude": -29.56822,
+          "longitude": 30.18618
+        },
+        {
+          "name": {
+            "en": "Mpumalanga"
+          },
+          "latitude": -29.81292,
+          "longitude": 30.63646
+        },
+        {
+          "name": {
+            "en": "Mtubatuba"
+          },
+          "latitude": -28.41789,
+          "longitude": 32.18483
+        },
+        {
+          "name": {
+            "en": "Ndwedwe"
+          },
+          "latitude": -29.51686,
+          "longitude": 30.92687
+        },
+        {
+          "name": {
+            "en": "Newcastle"
+          },
+          "latitude": -27.75796,
+          "longitude": 29.9318
+        },
+        {
+          "name": {
+            "en": "Pietermaritzburg",
+            "ar": "بيترماريتزبرغ"
+          },
+          "latitude": -29.61679,
+          "longitude": 30.39278
+        },
+        {
+          "name": {
+            "en": "Port Shepstone"
+          },
+          "latitude": -30.74137,
+          "longitude": 30.45499
+        },
+        {
+          "name": {
+            "en": "Richards Bay"
+          },
+          "latitude": -28.78301,
+          "longitude": 32.03768
+        },
+        {
+          "name": {
+            "en": "Richmond"
+          },
+          "latitude": -29.87196,
+          "longitude": 30.27235
+        },
+        {
+          "name": {
+            "en": "Scottburgh"
+          },
+          "latitude": -30.28666,
+          "longitude": 30.75316
+        },
+        {
+          "name": {
+            "en": "Sisonke"
+          },
+          "latitude": -30.11082,
+          "longitude": 29.66009
+        },
+        {
+          "name": {
+            "en": "Sundumbili"
+          },
+          "latitude": -29.13371,
+          "longitude": 31.39752
+        },
+        {
+          "name": {
+            "en": "Ugu"
+          },
+          "latitude": -30.54365,
+          "longitude": 30.2748
+        },
+        {
+          "name": {
+            "en": "Ulundi"
+          },
+          "latitude": -28.33523,
+          "longitude": 31.41617
+        },
+        {
+          "name": {
+            "en": "uMgungundlovu"
+          },
+          "latitude": -29.50927,
+          "longitude": 30.19838
+        },
+        {
+          "name": {
+            "en": "uMkhanyakude"
+          },
+          "latitude": -27.62236,
+          "longitude": 32.32945
+        },
+        {
+          "name": {
+            "en": "uMzinyathi"
+          },
+          "latitude": -28.5857,
+          "longitude": 30.55883
+        },
+        {
+          "name": {
+            "en": "uThukela"
+          },
+          "latitude": -28.7192,
+          "longitude": 29.65799
+        },
+        {
+          "name": {
+            "en": "uThungulu"
+          },
+          "latitude": -28.70046,
+          "longitude": 31.51527
+        },
+        {
+          "name": {
+            "en": "Utrecht"
+          },
+          "latitude": -27.65862,
+          "longitude": 30.32166
+        },
+        {
+          "name": {
+            "en": "Vryheid"
+          },
+          "latitude": -27.76952,
+          "longitude": 30.79165
+        },
+        {
+          "name": {
+            "en": "Zululand"
+          },
+          "latitude": -27.81139,
+          "longitude": 31.29426
+        }
+      ]
+    },
+    {
+      "code": "ZA-LP",
+      "name": {
+        "en": "Limpopo"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bochum"
+          },
+          "latitude": -23.28609,
+          "longitude": 29.13964
+        },
+        {
+          "name": {
+            "en": "Capricorn"
+          },
+          "latitude": -23.48163,
+          "longitude": 29.1835
+        },
+        {
+          "name": {
+            "en": "Duiwelskloof"
+          },
+          "latitude": -23.69339,
+          "longitude": 30.14002
+        },
+        {
+          "name": {
+            "en": "Ga-Kgapane"
+          },
+          "latitude": -23.64378,
+          "longitude": 30.22324
+        },
+        {
+          "name": {
+            "en": "Giyani"
+          },
+          "latitude": -23.30246,
+          "longitude": 30.71868
+        },
+        {
+          "name": {
+            "en": "Lebowakgomo"
+          },
+          "latitude": -24.2,
+          "longitude": 29.5
+        },
+        {
+          "name": {
+            "en": "Louis Trichardt"
+          },
+          "latitude": -23.04385,
+          "longitude": 29.90319
+        },
+        {
+          "name": {
+            "en": "Mankoeng"
+          },
+          "latitude": -23.9,
+          "longitude": 29.81667
+        },
+        {
+          "name": {
+            "en": "Modimolle"
+          },
+          "latitude": -24.7,
+          "longitude": 28.4
+        },
+        {
+          "name": {
+            "en": "Mokopane"
+          },
+          "latitude": -24.19436,
+          "longitude": 29.00974
+        },
+        {
+          "name": {
+            "en": "Mopani"
+          },
+          "latitude": -23.76661,
+          "longitude": 30.836
+        },
+        {
+          "name": {
+            "en": "Musina"
+          },
+          "latitude": -22.34881,
+          "longitude": 30.04074
+        },
+        {
+          "name": {
+            "en": "Nkowakowa"
+          },
+          "latitude": -23.88782,
+          "longitude": 30.28708
+        },
+        {
+          "name": {
+            "en": "Phalaborwa"
+          },
+          "latitude": -23.94299,
+          "longitude": 31.14107
+        },
+        {
+          "name": {
+            "en": "Polokwane",
+            "ar": "بولوكوان"
+          },
+          "latitude": -23.90449,
+          "longitude": 29.46885
+        },
+        {
+          "name": {
+            "en": "Sekhukhune"
+          },
+          "latitude": -24.82806,
+          "longitude": 29.83803
+        },
+        {
+          "name": {
+            "en": "Thabazimbi"
+          },
+          "latitude": -24.59165,
+          "longitude": 27.41155
+        },
+        {
+          "name": {
+            "en": "Thohoyandou"
+          },
+          "latitude": -22.94564,
+          "longitude": 30.48497
+        },
+        {
+          "name": {
+            "en": "Thulamahashi"
+          },
+          "latitude": -24.72459,
+          "longitude": 31.19939
+        },
+        {
+          "name": {
+            "en": "Tzaneen"
+          },
+          "latitude": -23.83322,
+          "longitude": 30.16351
+        },
+        {
+          "name": {
+            "en": "Vhembe"
+          },
+          "latitude": -22.75467,
+          "longitude": 30.1936
+        },
+        {
+          "name": {
+            "en": "Warmbaths"
+          },
+          "latitude": -24.88333,
+          "longitude": 28.28333
+        },
+        {
+          "name": {
+            "en": "Waterberg"
+          },
+          "latitude": -24.20514,
+          "longitude": 27.9787
+        }
+      ]
+    },
+    {
+      "code": "ZA-MP",
+      "name": {
+        "en": "Mpumalanga"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Balfour"
+          },
+          "latitude": -26.66331,
+          "longitude": 28.59016
+        },
+        {
+          "name": {
+            "en": "Barberton"
+          },
+          "latitude": -25.78842,
+          "longitude": 31.05319
+        },
+        {
+          "name": {
+            "en": "Belfast"
+          },
+          "latitude": -25.68991,
+          "longitude": 30.03504
+        },
+        {
+          "name": {
+            "en": "Bethal"
+          },
+          "latitude": -26.45794,
+          "longitude": 29.46553
+        },
+        {
+          "name": {
+            "en": "Breyten"
+          },
+          "latitude": -26.30176,
+          "longitude": 29.98696
+        },
+        {
+          "name": {
+            "en": "Carolina"
+          },
+          "latitude": -26.06927,
+          "longitude": 30.11489
+        },
+        {
+          "name": {
+            "en": "Delmas"
+          },
+          "latitude": -26.1466,
+          "longitude": 28.68322
+        },
+        {
+          "name": {
+            "en": "Driefontein"
+          },
+          "latitude": -27.0177,
+          "longitude": 30.44979
+        },
+        {
+          "name": {
+            "en": "Ehlanzeni"
+          },
+          "latitude": -25.351,
+          "longitude": 31.361
+        },
+        {
+          "name": {
+            "en": "eMbalenhle"
+          },
+          "latitude": -26.53333,
+          "longitude": 29.06667
+        },
+        {
+          "name": {
+            "en": "Ermelo"
+          },
+          "latitude": -26.53333,
+          "longitude": 29.98333
+        },
+        {
+          "name": {
+            "en": "Gert Sibande"
+          },
+          "latitude": -26.671,
+          "longitude": 29.92953
+        },
+        {
+          "name": {
+            "en": "Hendrina"
+          },
+          "latitude": -26.15881,
+          "longitude": 29.71528
+        },
+        {
+          "name": {
+            "en": "Komatipoort"
+          },
+          "latitude": -25.43321,
+          "longitude": 31.95478
+        },
+        {
+          "name": {
+            "en": "Kriel"
+          },
+          "latitude": -26.27391,
+          "longitude": 29.2253
+        },
+        {
+          "name": {
+            "en": "Lydenburg"
+          },
+          "latitude": -25.09598,
+          "longitude": 30.44393
+        },
+        {
+          "name": {
+            "en": "Middelburg",
+            "ar": "مدلبورخ"
+          },
+          "latitude": -25.77507,
+          "longitude": 29.46482
+        },
+        {
+          "name": {
+            "en": "Nelspruit"
+          },
+          "latitude": -25.47448,
+          "longitude": 30.97033
+        },
+        {
+          "name": {
+            "en": "Nkangala"
+          },
+          "latitude": -25.71222,
+          "longitude": 29.42431
+        },
+        {
+          "name": {
+            "en": "Piet Retief"
+          },
+          "latitude": -27.00706,
+          "longitude": 30.81323
+        },
+        {
+          "name": {
+            "en": "Secunda"
+          },
+          "latitude": -26.55,
+          "longitude": 29.16667
+        },
+        {
+          "name": {
+            "en": "Siyabuswa"
+          },
+          "latitude": -25.11319,
+          "longitude": 29.04454
+        },
+        {
+          "name": {
+            "en": "Standerton"
+          },
+          "latitude": -26.93366,
+          "longitude": 29.24152
+        },
+        {
+          "name": {
+            "en": "Volksrust"
+          },
+          "latitude": -27.36541,
+          "longitude": 29.88175
+        },
+        {
+          "name": {
+            "en": "White River"
+          },
+          "latitude": -25.33177,
+          "longitude": 31.01166
+        },
+        {
+          "name": {
+            "en": "Witbank"
+          },
+          "latitude": -25.87133,
+          "longitude": 29.23323
+        }
+      ]
+    },
+    {
+      "code": "ZA-NW",
+      "name": {
+        "en": "North West"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bloemhof"
+          },
+          "latitude": -27.64685,
+          "longitude": 25.60697
+        },
+        {
+          "name": {
+            "en": "Bojanala Platinum"
+          },
+          "latitude": -25.42612,
+          "longitude": 27.2243
+        },
+        {
+          "name": {
+            "en": "Brits"
+          },
+          "latitude": -25.63473,
+          "longitude": 27.78022
+        },
+        {
+          "name": {
+            "en": "Christiana"
+          },
+          "latitude": -27.91402,
+          "longitude": 25.16111
+        },
+        {
+          "name": {
+            "en": "Dr Kenneth Kaunda"
+          },
+          "latitude": -26.80678,
+          "longitude": 26.56926
+        },
+        {
+          "name": {
+            "en": "Dr Ruth Segomotsi Mompati"
+          },
+          "latitude": -26.63765,
+          "longitude": 24.27462
+        },
+        {
+          "name": {
+            "en": "Fochville"
+          },
+          "latitude": -26.48862,
+          "longitude": 27.49387
+        },
+        {
+          "name": {
+            "en": "Ga-Rankuwa"
+          },
+          "latitude": -25.61692,
+          "longitude": 27.99471
+        },
+        {
+          "name": {
+            "en": "Jan Kempdorp"
+          },
+          "latitude": -27.92246,
+          "longitude": 24.83051
+        },
+        {
+          "name": {
+            "en": "Klerksdorp"
+          },
+          "latitude": -26.85213,
+          "longitude": 26.66672
+        },
+        {
+          "name": {
+            "en": "Koster"
+          },
+          "latitude": -25.86301,
+          "longitude": 26.89756
+        },
+        {
+          "name": {
+            "en": "Lichtenburg"
+          },
+          "latitude": -26.152,
+          "longitude": 26.15968
+        },
+        {
+          "name": {
+            "en": "Mahikeng"
+          },
+          "latitude": -25.86522,
+          "longitude": 25.64421
+        },
+        {
+          "name": {
+            "en": "Maile"
+          },
+          "latitude": -25.44152,
+          "longitude": 27.28165
+        },
+        {
+          "name": {
+            "en": "Mmabatho"
+          },
+          "latitude": -25.85,
+          "longitude": 25.63333
+        },
+        {
+          "name": {
+            "en": "Ngaka Modiri Molema"
+          },
+          "latitude": -25.95559,
+          "longitude": 25.80782
+        },
+        {
+          "name": {
+            "en": "Orkney"
+          },
+          "latitude": -26.98023,
+          "longitude": 26.67272
+        },
+        {
+          "name": {
+            "en": "Potchefstroom"
+          },
+          "latitude": -26.71667,
+          "longitude": 27.1
+        },
+        {
+          "name": {
+            "en": "Rustenburg",
+            "ar": "روستنبرغ"
+          },
+          "latitude": -25.66756,
+          "longitude": 27.24208
+        },
+        {
+          "name": {
+            "en": "Schweizer-Reneke"
+          },
+          "latitude": -27.18871,
+          "longitude": 25.32931
+        },
+        {
+          "name": {
+            "en": "Stilfontein"
+          },
+          "latitude": -26.84493,
+          "longitude": 26.76829
+        },
+        {
+          "name": {
+            "en": "Vryburg"
+          },
+          "latitude": -26.95659,
+          "longitude": 24.7284
+        },
+        {
+          "name": {
+            "en": "Wolmaransstad"
+          },
+          "latitude": -27.1974,
+          "longitude": 25.98311
+        },
+        {
+          "name": {
+            "en": "Zeerust"
+          },
+          "latitude": -25.53695,
+          "longitude": 26.07512
+        }
+      ]
+    },
+    {
+      "code": "ZA-NC",
+      "name": {
+        "en": "Northern Cape"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Barkly West"
+          },
+          "latitude": -28.53537,
+          "longitude": 24.52151
+        },
+        {
+          "name": {
+            "en": "Brandvlei"
+          },
+          "latitude": -30.46532,
+          "longitude": 20.48659
+        },
+        {
+          "name": {
+            "en": "Calvinia"
+          },
+          "latitude": -31.47069,
+          "longitude": 19.77601
+        },
+        {
+          "name": {
+            "en": "Carnarvon"
+          },
+          "latitude": -30.96827,
+          "longitude": 22.13303
+        },
+        {
+          "name": {
+            "en": "Colesberg"
+          },
+          "latitude": -30.71999,
+          "longitude": 25.09718
+        },
+        {
+          "name": {
+            "en": "Daniëlskuil"
+          },
+          "latitude": -28.18873,
+          "longitude": 23.53951
+        },
+        {
+          "name": {
+            "en": "De Aar"
+          },
+          "latitude": -30.64966,
+          "longitude": 24.0123
+        },
+        {
+          "name": {
+            "en": "Frances Baard"
+          },
+          "latitude": -28.30003,
+          "longitude": 24.38188
+        },
+        {
+          "name": {
+            "en": "Fraserburg"
+          },
+          "latitude": -31.91566,
+          "longitude": 21.51335
+        },
+        {
+          "name": {
+            "en": "John Taolo Gaetsewe"
+          },
+          "latitude": -27.04549,
+          "longitude": 23.04706
+        },
+        {
+          "name": {
+            "en": "Kathu"
+          },
+          "latitude": -27.69569,
+          "longitude": 23.04929
+        },
+        {
+          "name": {
+            "en": "Kenhardt"
+          },
+          "latitude": -29.34574,
+          "longitude": 21.15786
+        },
+        {
+          "name": {
+            "en": "Kimberley",
+            "ar": "كيمبرلي"
+          },
+          "latitude": -28.73226,
+          "longitude": 24.76232
+        },
+        {
+          "name": {
+            "en": "Kuruman"
+          },
+          "latitude": -27.4524,
+          "longitude": 23.43246
+        },
+        {
+          "name": {
+            "en": "Namakwa"
+          },
+          "latitude": -30.53561,
+          "longitude": 19.42892
+        },
+        {
+          "name": {
+            "en": "Noupoort"
+          },
+          "latitude": -31.18736,
+          "longitude": 24.94991
+        },
+        {
+          "name": {
+            "en": "Orania"
+          },
+          "latitude": -29.81381,
+          "longitude": 24.41205
+        },
+        {
+          "name": {
+            "en": "Pampierstad"
+          },
+          "latitude": -27.78324,
+          "longitude": 24.68768
+        },
+        {
+          "name": {
+            "en": "Pixley ka Seme"
+          },
+          "latitude": -30.2892,
+          "longitude": 23.25818
+        },
+        {
+          "name": {
+            "en": "Pofadder"
+          },
+          "latitude": -29.1283,
+          "longitude": 19.39492
+        },
+        {
+          "name": {
+            "en": "Postmasburg"
+          },
+          "latitude": -28.33392,
+          "longitude": 23.06541
+        },
+        {
+          "name": {
+            "en": "Prieska"
+          },
+          "latitude": -29.66803,
+          "longitude": 22.74251
+        },
+        {
+          "name": {
+            "en": "Ritchie"
+          },
+          "latitude": -29.03801,
+          "longitude": 24.60278
+        },
+        {
+          "name": {
+            "en": "Siyanda"
+          },
+          "latitude": -28.00013,
+          "longitude": 21.18459
+        },
+        {
+          "name": {
+            "en": "Springbok"
+          },
+          "latitude": -29.66434,
+          "longitude": 17.8865
+        },
+        {
+          "name": {
+            "en": "Upington"
+          },
+          "latitude": -28.44776,
+          "longitude": 21.25612
+        },
+        {
+          "name": {
+            "en": "Van Wyksvlei"
+          },
+          "latitude": -30.35101,
+          "longitude": 21.82498
+        },
+        {
+          "name": {
+            "en": "Warrenton"
+          },
+          "latitude": -28.11396,
+          "longitude": 24.84753
+        }
+      ]
+    },
+    {
+      "code": "ZA-WC",
+      "name": {
+        "en": "Western Cape"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Albertina"
+          },
+          "latitude": -34.20544,
+          "longitude": 21.58001
+        },
+        {
+          "name": {
+            "en": "Arniston"
+          },
+          "latitude": -34.66739,
+          "longitude": 20.23086
+        },
+        {
+          "name": {
+            "en": "Atlantis"
+          },
+          "latitude": -33.56668,
+          "longitude": 18.48335
+        },
+        {
+          "name": {
+            "en": "Beaufort West"
+          },
+          "latitude": -32.35671,
+          "longitude": 22.58295
+        },
+        {
+          "name": {
+            "en": "Bergvliet"
+          },
+          "latitude": -34.04746,
+          "longitude": 18.4525
+        },
+        {
+          "name": {
+            "en": "Bredasdorp"
+          },
+          "latitude": -34.53215,
+          "longitude": 20.04031
+        },
+        {
+          "name": {
+            "en": "Caledon"
+          },
+          "latitude": -34.22997,
+          "longitude": 19.4265
+        },
+        {
+          "name": {
+            "en": "Calitzdorp"
+          },
+          "latitude": -33.52755,
+          "longitude": 21.6762
+        },
+        {
+          "name": {
+            "en": "Cape Town",
+            "ar": "كيب تاون"
+          },
+          "latitude": -33.92584,
+          "longitude": 18.42322
+        },
+        {
+          "name": {
+            "en": "Cape Winelands"
+          },
+          "latitude": -33.32249,
+          "longitude": 19.68998
+        },
+        {
+          "name": {
+            "en": "Central Karoo"
+          },
+          "latitude": -32.62812,
+          "longitude": 22.21192
+        },
+        {
+          "name": {
+            "en": "Ceres"
+          },
+          "latitude": -33.36889,
+          "longitude": 19.31095
+        },
+        {
+          "name": {
+            "en": "City of Cape Town"
+          },
+          "latitude": -33.91667,
+          "longitude": 18.41667
+        },
+        {
+          "name": {
+            "en": "Clanwilliam"
+          },
+          "latitude": -32.18173,
+          "longitude": 18.89217
+        },
+        {
+          "name": {
+            "en": "Claremont"
+          },
+          "latitude": -33.98056,
+          "longitude": 18.46528
+        },
+        {
+          "name": {
+            "en": "Constantia"
+          },
+          "latitude": -34.03139,
+          "longitude": 18.41833
+        },
+        {
+          "name": {
+            "en": "De Rust"
+          },
+          "latitude": -33.49035,
+          "longitude": 22.53523
+        },
+        {
+          "name": {
+            "en": "Eden"
+          },
+          "latitude": -33.82139,
+          "longitude": 22.01263
+        },
+        {
+          "name": {
+            "en": "George"
+          },
+          "latitude": -33.963,
+          "longitude": 22.46173
+        },
+        {
+          "name": {
+            "en": "Grabouw"
+          },
+          "latitude": -34.15152,
+          "longitude": 19.01509
+        },
+        {
+          "name": {
+            "en": "Hardys Memories of Africa"
+          },
+          "latitude": -33.90539,
+          "longitude": 20.7169
+        },
+        {
+          "name": {
+            "en": "Hermanus"
+          },
+          "latitude": -34.4187,
+          "longitude": 19.23446
+        },
+        {
+          "name": {
+            "en": "Knysna",
+            "ar": "كنيسنا"
+          },
+          "latitude": -34.03627,
+          "longitude": 23.04713
+        },
+        {
+          "name": {
+            "en": "Kraaifontein"
+          },
+          "latitude": -33.84808,
+          "longitude": 18.71723
+        },
+        {
+          "name": {
+            "en": "Ladismith"
+          },
+          "latitude": -33.49331,
+          "longitude": 21.26755
+        },
+        {
+          "name": {
+            "en": "Lansdowne"
+          },
+          "latitude": -33.98735,
+          "longitude": 18.49746
+        },
+        {
+          "name": {
+            "en": "Malmesbury"
+          },
+          "latitude": -33.4608,
+          "longitude": 18.72714
+        },
+        {
+          "name": {
+            "en": "Montagu"
+          },
+          "latitude": -33.78664,
+          "longitude": 20.12106
+        },
+        {
+          "name": {
+            "en": "Moorreesburg"
+          },
+          "latitude": -33.15388,
+          "longitude": 18.66031
+        },
+        {
+          "name": {
+            "en": "Mossel Bay"
+          },
+          "latitude": -34.18307,
+          "longitude": 22.14605
+        },
+        {
+          "name": {
+            "en": "Newlands"
+          },
+          "latitude": -33.97846,
+          "longitude": 18.4481
+        },
+        {
+          "name": {
+            "en": "Oudtshoorn"
+          },
+          "latitude": -33.60047,
+          "longitude": 22.19955
+        },
+        {
+          "name": {
+            "en": "Overberg"
+          },
+          "latitude": -34.26131,
+          "longitude": 19.93985
+        },
+        {
+          "name": {
+            "en": "Paarl"
+          },
+          "latitude": -33.73378,
+          "longitude": 18.97523
+        },
+        {
+          "name": {
+            "en": "Piketberg"
+          },
+          "latitude": -32.90323,
+          "longitude": 18.75704
+        },
+        {
+          "name": {
+            "en": "Plettenberg Bay"
+          },
+          "latitude": -34.05274,
+          "longitude": 23.3716
+        },
+        {
+          "name": {
+            "en": "Prince Albert"
+          },
+          "latitude": -33.22476,
+          "longitude": 22.02673
+        },
+        {
+          "name": {
+            "en": "Retreat"
+          },
+          "latitude": -34.05515,
+          "longitude": 18.47617
+        },
+        {
+          "name": {
+            "en": "Riversdale"
+          },
+          "latitude": -34.09345,
+          "longitude": 21.25725
+        },
+        {
+          "name": {
+            "en": "Robertson"
+          },
+          "latitude": -33.80342,
+          "longitude": 19.88537
+        },
+        {
+          "name": {
+            "en": "Rondebosch"
+          },
+          "latitude": -33.96333,
+          "longitude": 18.47639
+        },
+        {
+          "name": {
+            "en": "Rosebank"
+          },
+          "latitude": -33.95556,
+          "longitude": 18.47417
+        },
+        {
+          "name": {
+            "en": "Saldanha"
+          },
+          "latitude": -33.01167,
+          "longitude": 17.9442
+        },
+        {
+          "name": {
+            "en": "Stellenbosch"
+          },
+          "latitude": -33.93462,
+          "longitude": 18.86676
+        },
+        {
+          "name": {
+            "en": "Sunset Beach"
+          },
+          "latitude": -33.85395,
+          "longitude": 18.49231
+        },
+        {
+          "name": {
+            "en": "Swellendam"
+          },
+          "latitude": -34.02262,
+          "longitude": 20.44171
+        },
+        {
+          "name": {
+            "en": "Vredenburg"
+          },
+          "latitude": -32.90719,
+          "longitude": 17.98997
+        },
+        {
+          "name": {
+            "en": "Vredendal"
+          },
+          "latitude": -31.66833,
+          "longitude": 18.50119
+        },
+        {
+          "name": {
+            "en": "Wellington"
+          },
+          "latitude": -33.63981,
+          "longitude": 19.0112
+        },
+        {
+          "name": {
+            "en": "West Coast"
+          },
+          "latitude": -32.09506,
+          "longitude": 18.62695
+        },
+        {
+          "name": {
+            "en": "Worcester"
+          },
+          "latitude": -33.64651,
+          "longitude": 19.44852
+        },
+        {
+          "name": {
+            "en": "Zoar"
+          },
+          "latitude": -33.4956,
+          "longitude": 21.44373
+        }
+      ]
+    }
+  ]
+}

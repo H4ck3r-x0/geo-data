@@ -1,0 +1,135 @@
+{
+  "code": "SB",
+  "iso3": "SLB",
+  "name": {
+    "en": "Solomon Islands",
+    "ar": "جزر سليمان",
+    "de": "Salomonen",
+    "es": "Islas Salomón",
+    "fr": "Îles Salomon",
+    "hi": "सोलोमन आइलैंड्स",
+    "it": "Isole Salomone",
+    "ja": "ソロモン諸島",
+    "ko": "솔로몬 제도",
+    "nl": "Salomonseilanden",
+    "pl": "Wyspy Salomona",
+    "pt": "Ilhas Salomão",
+    "pt-BR": "Ilhas Salomão",
+    "ru": "Соломоновы острова",
+    "tr": "Solomon Adalari",
+    "uk": "Соломонові острови",
+    "zh": "所罗门群岛"
+  },
+  "phone": "+677",
+  "currency": "SBD",
+  "timezone": "Pacific/Guadalcanal",
+  "flag": "🇸🇧",
+  "regions": [
+    {
+      "code": "SB-CE",
+      "name": {
+        "en": "Central"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Tulagi"
+          },
+          "latitude": -9.10306,
+          "longitude": 160.15056
+        }
+      ]
+    },
+    {
+      "code": "SB-GU",
+      "name": {
+        "en": "Guadalcanal"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Honiara",
+            "ar": "هونيارا"
+          },
+          "latitude": -9.43333,
+          "longitude": 159.95
+        }
+      ]
+    },
+    {
+      "code": "SB-IS",
+      "name": {
+        "en": "Isabel"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Buala"
+          },
+          "latitude": -8.14497,
+          "longitude": 159.59212
+        }
+      ]
+    },
+    {
+      "code": "SB-MK",
+      "name": {
+        "en": "Makira-Ulawa"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Kirakira"
+          },
+          "latitude": -10.45442,
+          "longitude": 161.92045
+        }
+      ]
+    },
+    {
+      "code": "SB-ML",
+      "name": {
+        "en": "Malaita"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Auki"
+          },
+          "latitude": -8.76778,
+          "longitude": 160.69778
+        }
+      ]
+    },
+    {
+      "code": "SB-TE",
+      "name": {
+        "en": "Temotu"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Lata"
+          },
+          "latitude": -10.725,
+          "longitude": 165.79722
+        }
+      ]
+    },
+    {
+      "code": "SB-WE",
+      "name": {
+        "en": "Western"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Gizo"
+          },
+          "latitude": -8.10303,
+          "longitude": 156.84186
+        }
+      ]
+    }
+  ]
+}

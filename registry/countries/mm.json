@@ -1,0 +1,675 @@
+{
+  "code": "MM",
+  "iso3": "MMR",
+  "name": {
+    "en": "Myanmar",
+    "ar": "ميانمار",
+    "de": "Myanmar",
+    "es": "Myanmar",
+    "fr": "Myanmar",
+    "hi": "म्यांमार",
+    "it": "Birmania",
+    "ja": "ミャンマー",
+    "ko": "미얀마",
+    "nl": "Myanmar",
+    "pl": "Birma",
+    "pt": "Myanmar",
+    "pt-BR": "Myanmar",
+    "ru": "Мьянма",
+    "tr": "Myanmar",
+    "uk": "М'янма",
+    "zh": "缅甸"
+  },
+  "phone": "+95",
+  "currency": "MMK",
+  "timezone": "Asia/Yangon",
+  "flag": "🇲🇲",
+  "regions": [
+    {
+      "code": "MM-07",
+      "name": {
+        "en": "Ayeyarwady"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bogale"
+          },
+          "latitude": 16.29415,
+          "longitude": 95.39742
+        },
+        {
+          "name": {
+            "en": "Hinthada",
+            "ar": "هنثادا"
+          },
+          "latitude": 17.64944,
+          "longitude": 95.45705
+        },
+        {
+          "name": {
+            "en": "Kyaiklat"
+          },
+          "latitude": 16.44502,
+          "longitude": 95.72373
+        },
+        {
+          "name": {
+            "en": "Maubin"
+          },
+          "latitude": 16.73148,
+          "longitude": 95.65441
+        },
+        {
+          "name": {
+            "en": "Mawlamyinegyunn"
+          },
+          "latitude": 16.3772,
+          "longitude": 95.26488
+        },
+        {
+          "name": {
+            "en": "Myanaung"
+          },
+          "latitude": 18.28651,
+          "longitude": 95.32014
+        },
+        {
+          "name": {
+            "en": "Nyaungdon"
+          },
+          "latitude": 17.04459,
+          "longitude": 95.63957
+        },
+        {
+          "name": {
+            "en": "Pathein"
+          },
+          "latitude": 16.77919,
+          "longitude": 94.73212
+        },
+        {
+          "name": {
+            "en": "Pyapon",
+            "ar": "بيابون"
+          },
+          "latitude": 16.28543,
+          "longitude": 95.67882
+        },
+        {
+          "name": {
+            "en": "Wakema"
+          },
+          "latitude": 16.60333,
+          "longitude": 95.18278
+        }
+      ]
+    },
+    {
+      "code": "MM-02",
+      "name": {
+        "en": "Bago"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bago"
+          },
+          "latitude": 17.33521,
+          "longitude": 96.48135
+        },
+        {
+          "name": {
+            "en": "Letpandan"
+          },
+          "latitude": 17.78664,
+          "longitude": 95.75076
+        },
+        {
+          "name": {
+            "en": "Nyaunglebin"
+          },
+          "latitude": 17.95363,
+          "longitude": 96.72247
+        },
+        {
+          "name": {
+            "en": "Paungde"
+          },
+          "latitude": 18.49167,
+          "longitude": 95.50591
+        },
+        {
+          "name": {
+            "en": "Pyay"
+          },
+          "latitude": 18.82464,
+          "longitude": 95.22216
+        },
+        {
+          "name": {
+            "en": "Pyu"
+          },
+          "latitude": 18.4813,
+          "longitude": 96.43742
+        },
+        {
+          "name": {
+            "en": "Taungoo"
+          },
+          "latitude": 18.94291,
+          "longitude": 96.43408
+        },
+        {
+          "name": {
+            "en": "Thanatpin"
+          },
+          "latitude": 17.29136,
+          "longitude": 96.57523
+        },
+        {
+          "name": {
+            "en": "Tharyarwady"
+          },
+          "latitude": 17.65399,
+          "longitude": 95.78813
+        }
+      ]
+    },
+    {
+      "code": "MM-14",
+      "name": {
+        "en": "Chin"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Falam"
+          },
+          "latitude": 22.91335,
+          "longitude": 93.67779
+        },
+        {
+          "name": {
+            "en": "Hakha"
+          },
+          "latitude": 22.64452,
+          "longitude": 93.61076
+        }
+      ]
+    },
+    {
+      "code": "MM-11",
+      "name": {
+        "en": "Kachin"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bhamo",
+            "ar": "بهامو"
+          },
+          "latitude": 24.25256,
+          "longitude": 97.23357
+        },
+        {
+          "name": {
+            "en": "Myitkyina"
+          },
+          "latitude": 25.38327,
+          "longitude": 97.39637
+        }
+      ]
+    },
+    {
+      "code": "MM-12",
+      "name": {
+        "en": "Kayah"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Loikaw"
+          },
+          "latitude": 19.67798,
+          "longitude": 97.20975
+        }
+      ]
+    },
+    {
+      "code": "MM-13",
+      "name": {
+        "en": "Kayin"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Dellok"
+          },
+          "latitude": 16.04072,
+          "longitude": 97.91773
+        },
+        {
+          "name": {
+            "en": "Hpa-An"
+          },
+          "latitude": 16.88953,
+          "longitude": 97.63482
+        },
+        {
+          "name": {
+            "en": "Klonhtoug"
+          },
+          "latitude": 15.95411,
+          "longitude": 98.4325
+        },
+        {
+          "name": {
+            "en": "Kyain Seikgyi Township"
+          },
+          "latitude": 15.82288,
+          "longitude": 98.25257
+        },
+        {
+          "name": {
+            "en": "Mikenaungea"
+          },
+          "latitude": 15.95846,
+          "longitude": 98.42721
+        },
+        {
+          "name": {
+            "en": "Myawadi"
+          },
+          "latitude": 16.68911,
+          "longitude": 98.50893
+        },
+        {
+          "name": {
+            "en": "Pulei"
+          },
+          "latitude": 16.06243,
+          "longitude": 97.8828
+        },
+        {
+          "name": {
+            "en": "Tagondaing"
+          },
+          "latitude": 16.0675,
+          "longitude": 97.90694
+        },
+        {
+          "name": {
+            "en": "Tamoowoug"
+          },
+          "latitude": 16.03447,
+          "longitude": 97.91458
+        }
+      ]
+    },
+    {
+      "code": "MM-03",
+      "name": {
+        "en": "Magway"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Chauk"
+          },
+          "latitude": 20.89921,
+          "longitude": 94.81784
+        },
+        {
+          "name": {
+            "en": "Magway"
+          },
+          "latitude": 20.14956,
+          "longitude": 94.93246
+        },
+        {
+          "name": {
+            "en": "Minbu"
+          },
+          "latitude": 20.18059,
+          "longitude": 94.87595
+        },
+        {
+          "name": {
+            "en": "Myaydo"
+          },
+          "latitude": 19.36838,
+          "longitude": 95.21512
+        },
+        {
+          "name": {
+            "en": "Pakokku"
+          },
+          "latitude": 21.33489,
+          "longitude": 95.08438
+        },
+        {
+          "name": {
+            "en": "Taungdwingyi"
+          },
+          "latitude": 20.0065,
+          "longitude": 95.54531
+        },
+        {
+          "name": {
+            "en": "Thayetmyo"
+          },
+          "latitude": 19.32076,
+          "longitude": 95.18272
+        },
+        {
+          "name": {
+            "en": "Yenangyaung"
+          },
+          "latitude": 20.46504,
+          "longitude": 94.8712
+        }
+      ]
+    },
+    {
+      "code": "MM-04",
+      "name": {
+        "en": "Mandalay"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Kyaukse"
+          },
+          "latitude": 21.6056,
+          "longitude": 96.13508
+        },
+        {
+          "name": {
+            "en": "Mandalay",
+            "ar": "ماندالاي"
+          },
+          "latitude": 21.97473,
+          "longitude": 96.08359
+        },
+        {
+          "name": {
+            "en": "Meiktila"
+          },
+          "latitude": 20.87776,
+          "longitude": 95.85844
+        },
+        {
+          "name": {
+            "en": "Mogok"
+          },
+          "latitude": 22.91766,
+          "longitude": 96.50982
+        },
+        {
+          "name": {
+            "en": "Myingyan",
+            "ar": "ماينغيان"
+          },
+          "latitude": 21.46002,
+          "longitude": 95.3884
+        },
+        {
+          "name": {
+            "en": "Nyaungshwe"
+          },
+          "latitude": 20.66084,
+          "longitude": 96.93405
+        },
+        {
+          "name": {
+            "en": "Pyin Oo Lwin"
+          },
+          "latitude": 22.03501,
+          "longitude": 96.45683
+        },
+        {
+          "name": {
+            "en": "Yamethin"
+          },
+          "latitude": 20.43189,
+          "longitude": 96.13875
+        }
+      ]
+    },
+    {
+      "code": "MM-15",
+      "name": {
+        "en": "Mon State"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Kyaikkami"
+          },
+          "latitude": 16.07686,
+          "longitude": 97.56388
+        },
+        {
+          "name": {
+            "en": "Kyaikto"
+          },
+          "latitude": 17.30858,
+          "longitude": 97.01124
+        },
+        {
+          "name": {
+            "en": "Martaban"
+          },
+          "latitude": 16.52834,
+          "longitude": 97.6157
+        },
+        {
+          "name": {
+            "en": "Mawlamyine"
+          },
+          "latitude": 16.49051,
+          "longitude": 97.62825
+        },
+        {
+          "name": {
+            "en": "Mudon"
+          },
+          "latitude": 16.25624,
+          "longitude": 97.7246
+        },
+        {
+          "name": {
+            "en": "Thaton"
+          },
+          "latitude": 16.91867,
+          "longitude": 97.37001
+        }
+      ]
+    },
+    {
+      "code": "MM-18",
+      "name": {
+        "en": "Naypyidaw"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Nay Pyi Taw"
+          },
+          "latitude": 19.745,
+          "longitude": 96.12972
+        },
+        {
+          "name": {
+            "en": "Pyinmana"
+          },
+          "latitude": 19.7381,
+          "longitude": 96.20742
+        }
+      ]
+    },
+    {
+      "code": "MM-16",
+      "name": {
+        "en": "Rakhine"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Sittwe"
+          },
+          "latitude": 20.14624,
+          "longitude": 92.89835
+        }
+      ]
+    },
+    {
+      "code": "MM-01",
+      "name": {
+        "en": "Sagaing"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Mawlaik"
+          },
+          "latitude": 23.64254,
+          "longitude": 94.40478
+        },
+        {
+          "name": {
+            "en": "Monywa"
+          },
+          "latitude": 22.10856,
+          "longitude": 95.13583
+        },
+        {
+          "name": {
+            "en": "Sagaing"
+          },
+          "latitude": 21.8787,
+          "longitude": 95.97965
+        },
+        {
+          "name": {
+            "en": "Shwebo"
+          },
+          "latitude": 22.56925,
+          "longitude": 95.69818
+        }
+      ]
+    },
+    {
+      "code": "MM-17",
+      "name": {
+        "en": "Shan"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Lashio",
+            "ar": "لاشيو"
+          },
+          "latitude": 22.9359,
+          "longitude": 97.7498
+        },
+        {
+          "name": {
+            "en": "Tachilek"
+          },
+          "latitude": 20.4475,
+          "longitude": 99.88083
+        },
+        {
+          "name": {
+            "en": "Taunggyi"
+          },
+          "latitude": 20.78919,
+          "longitude": 97.03776
+        }
+      ]
+    },
+    {
+      "code": "MM-05",
+      "name": {
+        "en": "Tanintharyi"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Dawei"
+          },
+          "latitude": 14.0823,
+          "longitude": 98.19151
+        },
+        {
+          "name": {
+            "en": "Kawthoung"
+          },
+          "latitude": 9.98238,
+          "longitude": 98.55034
+        },
+        {
+          "name": {
+            "en": "Myeik",
+            "ar": "ماييك، ميانمار"
+          },
+          "latitude": 12.43954,
+          "longitude": 98.60028
+        }
+      ]
+    },
+    {
+      "code": "MM-06",
+      "name": {
+        "en": "Yangon"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Kanbe"
+          },
+          "latitude": 16.70728,
+          "longitude": 96.00168
+        },
+        {
+          "name": {
+            "en": "Kayan"
+          },
+          "latitude": 16.90802,
+          "longitude": 96.56037
+        },
+        {
+          "name": {
+            "en": "Syriam"
+          },
+          "latitude": 16.76887,
+          "longitude": 96.24503
+        },
+        {
+          "name": {
+            "en": "Thongwa"
+          },
+          "latitude": 16.75998,
+          "longitude": 96.52498
+        },
+        {
+          "name": {
+            "en": "Twante"
+          },
+          "latitude": 16.71047,
+          "longitude": 95.92866
+        },
+        {
+          "name": {
+            "en": "Yangon",
+            "ar": "يانغون"
+          },
+          "latitude": 16.80528,
+          "longitude": 96.15611
+        }
+      ]
+    }
+  ]
+}

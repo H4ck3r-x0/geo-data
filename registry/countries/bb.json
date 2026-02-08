@@ -1,0 +1,135 @@
+{
+  "code": "BB",
+  "iso3": "BRB",
+  "name": {
+    "en": "Barbados",
+    "ar": "بربادوس",
+    "de": "Barbados",
+    "es": "Barbados",
+    "fr": "Barbade",
+    "hi": "बारबाडोस",
+    "it": "Barbados",
+    "ja": "バルバドス",
+    "ko": "바베이도스",
+    "nl": "Barbados",
+    "pl": "Barbados",
+    "pt": "Barbados",
+    "pt-BR": "Barbados",
+    "ru": "Барбадос",
+    "tr": "Barbados",
+    "uk": "Барбадос",
+    "zh": "巴巴多斯"
+  },
+  "phone": "+1",
+  "currency": "BBD",
+  "timezone": "America/Barbados",
+  "flag": "🇧🇧",
+  "regions": [
+    {
+      "code": "BB-01",
+      "name": {
+        "en": "Christ Church"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Oistins"
+          },
+          "latitude": 13.07067,
+          "longitude": -59.54637
+        }
+      ]
+    },
+    {
+      "code": "BB-02",
+      "name": {
+        "en": "Saint Andrew"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Greenland"
+          },
+          "latitude": 13.25808,
+          "longitude": -59.57763
+        }
+      ]
+    },
+    {
+      "code": "BB-04",
+      "name": {
+        "en": "Saint James"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Holetown"
+          },
+          "latitude": 13.18672,
+          "longitude": -59.63808
+        }
+      ]
+    },
+    {
+      "code": "BB-06",
+      "name": {
+        "en": "Saint Joseph"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bathsheba"
+          },
+          "latitude": 13.21133,
+          "longitude": -59.52596
+        }
+      ]
+    },
+    {
+      "code": "BB-08",
+      "name": {
+        "en": "Saint Michael"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bridgetown",
+            "ar": "بريدج تاون"
+          },
+          "latitude": 13.10732,
+          "longitude": -59.62021
+        }
+      ]
+    },
+    {
+      "code": "BB-09",
+      "name": {
+        "en": "Saint Peter"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Speightstown"
+          },
+          "latitude": 13.25072,
+          "longitude": -59.64396
+        }
+      ]
+    },
+    {
+      "code": "BB-10",
+      "name": {
+        "en": "Saint Philip"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Crane"
+          },
+          "latitude": 13.10487,
+          "longitude": -59.44861
+        }
+      ]
+    }
+  ]
+}

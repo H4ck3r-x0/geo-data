@@ -1,0 +1,195 @@
+{
+  "code": "GL",
+  "iso3": "GRL",
+  "name": {
+    "en": "Greenland",
+    "ar": "غرينلاند",
+    "de": "Grönland",
+    "es": "Groenlandia",
+    "fr": "Groenland",
+    "hi": "ग्रीनलैंड",
+    "it": "Groenlandia",
+    "ja": "グリーンランド",
+    "ko": "그린란드",
+    "nl": "Groenland",
+    "pl": "Grenlandia",
+    "pt": "Gronelândia",
+    "pt-BR": "Groelândia",
+    "ru": "Гренландия",
+    "tr": "Grönland",
+    "uk": "Гренландія",
+    "zh": "格陵兰岛"
+  },
+  "phone": "+299",
+  "currency": "DKK",
+  "timezone": "America/Danmarkshavn",
+  "flag": "🇬🇱",
+  "regions": [
+    {
+      "code": "GL-AV",
+      "name": {
+        "en": "Avannaata"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ilulissat"
+          },
+          "latitude": 69.2279488,
+          "longitude": -51.1280539
+        },
+        {
+          "name": {
+            "en": "Qaanaaq"
+          },
+          "latitude": 77.4674009,
+          "longitude": -69.2483711
+        },
+        {
+          "name": {
+            "en": "Upernavik"
+          },
+          "latitude": 72.7868603,
+          "longitude": -56.1623671
+        },
+        {
+          "name": {
+            "en": "Uummannaq"
+          },
+          "latitude": 70.6786897,
+          "longitude": -52.1497824
+        }
+      ]
+    },
+    {
+      "code": "GL-KU",
+      "name": {
+        "en": "Kujalleq"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Nanortalik"
+          },
+          "latitude": 60.1430825,
+          "longitude": -45.2562905
+        },
+        {
+          "name": {
+            "en": "Narsaq"
+          },
+          "latitude": 60.9114078,
+          "longitude": -46.0685708
+        },
+        {
+          "name": {
+            "en": "Qaqortoq"
+          },
+          "latitude": 60.719596,
+          "longitude": -46.0548163
+        }
+      ]
+    },
+    {
+      "code": "GL-QT",
+      "name": {
+        "en": "Qeqertalik"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Aasiaat"
+          },
+          "latitude": 68.707628,
+          "longitude": -52.8995136
+        },
+        {
+          "name": {
+            "en": "Kangaatsiaq"
+          },
+          "latitude": 68.3081845,
+          "longitude": -53.4768533
+        },
+        {
+          "name": {
+            "en": "Qasigiannguit"
+          },
+          "latitude": 68.8198632,
+          "longitude": -51.2091637
+        },
+        {
+          "name": {
+            "en": "Qeqertarsuaq"
+          },
+          "latitude": 69.2443037,
+          "longitude": -53.5644006
+        }
+      ]
+    },
+    {
+      "code": "GL-QE",
+      "name": {
+        "en": "Qeqqata"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Maniitsoq"
+          },
+          "latitude": 65.4065799,
+          "longitude": -52.9422573
+        },
+        {
+          "name": {
+            "en": "Sisimiut"
+          },
+          "latitude": 66.9394574,
+          "longitude": -53.7456766
+        }
+      ]
+    },
+    {
+      "code": "GL-SM",
+      "name": {
+        "en": "Sermersooq"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ammassalik"
+          },
+          "latitude": 65.6145267,
+          "longitude": -37.6501466
+        },
+        {
+          "name": {
+            "en": "Ittoqqortoormiit"
+          },
+          "latitude": 70.4863421,
+          "longitude": -21.979866
+        },
+        {
+          "name": {
+            "en": "Ivittuut"
+          },
+          "latitude": 61.2065184,
+          "longitude": -48.1819851
+        },
+        {
+          "name": {
+            "en": "Nuuk"
+          },
+          "latitude": 64.1791009,
+          "longitude": -51.7480091
+        },
+        {
+          "name": {
+            "en": "Paamiut"
+          },
+          "latitude": 62.0025962,
+          "longitude": -49.7051959
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1176 @@
+{
+  "code": "VE",
+  "iso3": "VEN",
+  "name": {
+    "en": "Venezuela",
+    "ar": "فنزويلا",
+    "de": "Venezuela",
+    "es": "Venezuela",
+    "fr": "Venezuela",
+    "hi": "वेनेज़ुएला",
+    "it": "Venezuela",
+    "ja": "ベネズエラ・ボリバル共和国",
+    "ko": "베네수엘라",
+    "nl": "Venezuela",
+    "pl": "Wenezuela",
+    "pt": "Venezuela",
+    "pt-BR": "Venezuela",
+    "ru": "Венесуэла",
+    "tr": "Venezuela",
+    "uk": "Венесуела",
+    "zh": "委内瑞拉"
+  },
+  "phone": "+58",
+  "currency": "VES",
+  "timezone": "America/Caracas",
+  "flag": "🇻🇪",
+  "regions": [
+    {
+      "code": "VE-Z",
+      "name": {
+        "en": "Amazonas"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Maroa"
+          },
+          "latitude": 2.7188,
+          "longitude": -67.56046
+        },
+        {
+          "name": {
+            "en": "Municipio Autónomo Alto Orinoco"
+          },
+          "latitude": 2.73456,
+          "longitude": -64.83032
+        },
+        {
+          "name": {
+            "en": "Puerto Ayacucho"
+          },
+          "latitude": 5.66049,
+          "longitude": -67.58343
+        },
+        {
+          "name": {
+            "en": "San Carlos de Río Negro"
+          },
+          "latitude": 1.92027,
+          "longitude": -67.06089
+        },
+        {
+          "name": {
+            "en": "San Fernando de Atabapo"
+          },
+          "latitude": 4.04564,
+          "longitude": -67.69934
+        },
+        {
+          "name": {
+            "en": "San Juan de Manapiare"
+          },
+          "latitude": 5.32665,
+          "longitude": -66.05402
+        }
+      ]
+    },
+    {
+      "code": "VE-B",
+      "name": {
+        "en": "Anzoátegui"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Anaco"
+          },
+          "latitude": 9.42958,
+          "longitude": -64.46428
+        },
+        {
+          "name": {
+            "en": "Aragua de Barcelona"
+          },
+          "latitude": 9.45588,
+          "longitude": -64.82928
+        },
+        {
+          "name": {
+            "en": "Barcelona"
+          },
+          "latitude": 10.13625,
+          "longitude": -64.68618
+        },
+        {
+          "name": {
+            "en": "Cantaura"
+          },
+          "latitude": 9.30571,
+          "longitude": -64.35841
+        },
+        {
+          "name": {
+            "en": "El Tigre"
+          },
+          "latitude": 8.88902,
+          "longitude": -64.2527
+        },
+        {
+          "name": {
+            "en": "Municipio José Gregorio Monagas"
+          },
+          "latitude": 7.73874,
+          "longitude": -64.71876
+        },
+        {
+          "name": {
+            "en": "Onoto"
+          },
+          "latitude": 9.59714,
+          "longitude": -65.1935
+        },
+        {
+          "name": {
+            "en": "Puerto La Cruz",
+            "ar": "بويرتو لا كروز"
+          },
+          "latitude": 10.21382,
+          "longitude": -64.6328
+        },
+        {
+          "name": {
+            "en": "Puerto Píritu"
+          },
+          "latitude": 10.05896,
+          "longitude": -65.03698
+        },
+        {
+          "name": {
+            "en": "San José de Guanipa"
+          },
+          "latitude": 8.88724,
+          "longitude": -64.16512
+        }
+      ]
+    },
+    {
+      "code": "VE-C",
+      "name": {
+        "en": "Apure"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "San Fernando de Apure"
+          },
+          "latitude": 7.8726693,
+          "longitude": -67.4819328
+        }
+      ]
+    },
+    {
+      "code": "VE-D",
+      "name": {
+        "en": "Aragua"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Cagua"
+          },
+          "latitude": 10.18634,
+          "longitude": -67.45935
+        },
+        {
+          "name": {
+            "en": "El Limón"
+          },
+          "latitude": 10.30589,
+          "longitude": -67.63212
+        },
+        {
+          "name": {
+            "en": "La Victoria"
+          },
+          "latitude": 10.22677,
+          "longitude": -67.33122
+        },
+        {
+          "name": {
+            "en": "Las Tejerías"
+          },
+          "latitude": 10.25416,
+          "longitude": -67.17333
+        },
+        {
+          "name": {
+            "en": "Maracay"
+          },
+          "latitude": 10.23535,
+          "longitude": -67.59113
+        },
+        {
+          "name": {
+            "en": "Palo Negro"
+          },
+          "latitude": 10.17389,
+          "longitude": -67.54194
+        },
+        {
+          "name": {
+            "en": "San Mateo"
+          },
+          "latitude": 10.21302,
+          "longitude": -67.42365
+        },
+        {
+          "name": {
+            "en": "Santa Rita"
+          },
+          "latitude": 10.2054,
+          "longitude": -67.55948
+        },
+        {
+          "name": {
+            "en": "Turmero"
+          },
+          "latitude": 10.22856,
+          "longitude": -67.47421
+        },
+        {
+          "name": {
+            "en": "Villa de Cura"
+          },
+          "latitude": 10.03863,
+          "longitude": -67.48938
+        }
+      ]
+    },
+    {
+      "code": "VE-E",
+      "name": {
+        "en": "Barinas"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Alto Barinas"
+          },
+          "latitude": 8.5931,
+          "longitude": -70.2261
+        },
+        {
+          "name": {
+            "en": "Barinas"
+          },
+          "latitude": 8.62261,
+          "longitude": -70.20749
+        },
+        {
+          "name": {
+            "en": "Barinitas"
+          },
+          "latitude": 8.76171,
+          "longitude": -70.41199
+        },
+        {
+          "name": {
+            "en": "Municipio Barinas"
+          },
+          "latitude": 8.61497,
+          "longitude": -70.19852
+        }
+      ]
+    },
+    {
+      "code": "VE-F",
+      "name": {
+        "en": "Bolívar"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ciudad Bolívar"
+          },
+          "latitude": 8.12923,
+          "longitude": -63.54086
+        },
+        {
+          "name": {
+            "en": "Ciudad Guayana"
+          },
+          "latitude": 8.35122,
+          "longitude": -62.64102
+        },
+        {
+          "name": {
+            "en": "Municipio Padre Pedro Chien"
+          },
+          "latitude": 8.02455,
+          "longitude": -61.88187
+        },
+        {
+          "name": {
+            "en": "Santa Elena de Uairén"
+          },
+          "latitude": 4.60226,
+          "longitude": -61.11025
+        },
+        {
+          "name": {
+            "en": "Upata"
+          },
+          "latitude": 8.0162,
+          "longitude": -62.40561
+        }
+      ]
+    },
+    {
+      "code": "VE-G",
+      "name": {
+        "en": "Carabobo"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Guacara"
+          },
+          "latitude": 10.22609,
+          "longitude": -67.877
+        },
+        {
+          "name": {
+            "en": "Güigüe"
+          },
+          "latitude": 10.08344,
+          "longitude": -67.77799
+        },
+        {
+          "name": {
+            "en": "Los Guayos"
+          },
+          "latitude": 10.18932,
+          "longitude": -67.93828
+        },
+        {
+          "name": {
+            "en": "Mariara"
+          },
+          "latitude": 10.29532,
+          "longitude": -67.7177
+        },
+        {
+          "name": {
+            "en": "Morón"
+          },
+          "latitude": 10.48715,
+          "longitude": -68.20078
+        },
+        {
+          "name": {
+            "en": "Puerto Cabello"
+          },
+          "latitude": 10.47306,
+          "longitude": -68.0125
+        },
+        {
+          "name": {
+            "en": "San Joaquín"
+          },
+          "latitude": 10.26061,
+          "longitude": -67.79348
+        },
+        {
+          "name": {
+            "en": "Tacarigua"
+          },
+          "latitude": 10.08621,
+          "longitude": -67.91982
+        },
+        {
+          "name": {
+            "en": "Tocuyito"
+          },
+          "latitude": 10.11347,
+          "longitude": -68.06783
+        },
+        {
+          "name": {
+            "en": "Valencia"
+          },
+          "latitude": 10.16202,
+          "longitude": -68.00765
+        }
+      ]
+    },
+    {
+      "code": "VE-H",
+      "name": {
+        "en": "Cojedes"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "San Carlos"
+          },
+          "latitude": 9.66124,
+          "longitude": -68.58268
+        },
+        {
+          "name": {
+            "en": "Tinaquillo"
+          },
+          "latitude": 9.91861,
+          "longitude": -68.30472
+        }
+      ]
+    },
+    {
+      "code": "VE-Y",
+      "name": {
+        "en": "Delta Amacuro"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Tucupita"
+          },
+          "latitude": 9.05806,
+          "longitude": -62.05
+        }
+      ]
+    },
+    {
+      "code": "VE-A",
+      "name": {
+        "en": "Distrito Capital"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Caracas"
+          },
+          "latitude": 10.5,
+          "longitude": -66.93333333
+        }
+      ]
+    },
+    {
+      "code": "VE-I",
+      "name": {
+        "en": "Falcón"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Chichiriviche"
+          },
+          "latitude": 10.92872,
+          "longitude": -68.27283
+        },
+        {
+          "name": {
+            "en": "Coro"
+          },
+          "latitude": 11.4045,
+          "longitude": -69.67344
+        },
+        {
+          "name": {
+            "en": "Municipio Los Taques"
+          },
+          "latitude": 11.82308,
+          "longitude": -70.25353
+        },
+        {
+          "name": {
+            "en": "Municipio Miranda"
+          },
+          "latitude": 11.31667,
+          "longitude": -69.86667
+        },
+        {
+          "name": {
+            "en": "Punta Cardón"
+          },
+          "latitude": 11.65806,
+          "longitude": -70.215
+        },
+        {
+          "name": {
+            "en": "Punto Fijo"
+          },
+          "latitude": 11.69152,
+          "longitude": -70.19918
+        },
+        {
+          "name": {
+            "en": "Tucacas"
+          },
+          "latitude": 10.79006,
+          "longitude": -68.32564
+        }
+      ]
+    },
+    {
+      "code": "VE-J",
+      "name": {
+        "en": "Guárico"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Altagracia de Orituco"
+          },
+          "latitude": 9.86005,
+          "longitude": -66.38139
+        },
+        {
+          "name": {
+            "en": "Calabozo"
+          },
+          "latitude": 8.92416,
+          "longitude": -67.42929
+        },
+        {
+          "name": {
+            "en": "San Juan de los Morros"
+          },
+          "latitude": 9.91152,
+          "longitude": -67.35381
+        },
+        {
+          "name": {
+            "en": "Valle de La Pascua"
+          },
+          "latitude": 9.21554,
+          "longitude": -66.00734
+        },
+        {
+          "name": {
+            "en": "Zaraza"
+          },
+          "latitude": 9.35029,
+          "longitude": -65.32452
+        }
+      ]
+    },
+    {
+      "code": "VE-X",
+      "name": {
+        "en": "La Guaira"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Caraballeda"
+          },
+          "latitude": 10.61216,
+          "longitude": -66.85192
+        },
+        {
+          "name": {
+            "en": "Catia La Mar"
+          },
+          "latitude": 10.60545,
+          "longitude": -67.03238
+        },
+        {
+          "name": {
+            "en": "La Guaira"
+          },
+          "latitude": 10.60156,
+          "longitude": -66.93293
+        },
+        {
+          "name": {
+            "en": "Maiquetía"
+          },
+          "latitude": 10.5945,
+          "longitude": -66.95624
+        }
+      ]
+    },
+    {
+      "code": "VE-K",
+      "name": {
+        "en": "Lara"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Barquisimeto"
+          },
+          "latitude": 10.0647,
+          "longitude": -69.35703
+        },
+        {
+          "name": {
+            "en": "Cabudare"
+          },
+          "latitude": 10.02658,
+          "longitude": -69.26203
+        },
+        {
+          "name": {
+            "en": "Carora"
+          },
+          "latitude": 10.17283,
+          "longitude": -70.081
+        },
+        {
+          "name": {
+            "en": "El Tocuyo"
+          },
+          "latitude": 9.78709,
+          "longitude": -69.79294
+        },
+        {
+          "name": {
+            "en": "Los Rastrojos"
+          },
+          "latitude": 10.02588,
+          "longitude": -69.24166
+        },
+        {
+          "name": {
+            "en": "Quíbor"
+          },
+          "latitude": 9.92866,
+          "longitude": -69.6201
+        }
+      ]
+    },
+    {
+      "code": "VE-L",
+      "name": {
+        "en": "Mérida"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ejido"
+          },
+          "latitude": 8.54665,
+          "longitude": -71.24087
+        },
+        {
+          "name": {
+            "en": "El Vigía"
+          },
+          "latitude": 8.6135,
+          "longitude": -71.65702
+        },
+        {
+          "name": {
+            "en": "Mérida"
+          },
+          "latitude": 8.58972,
+          "longitude": -71.15611
+        },
+        {
+          "name": {
+            "en": "Mucumpiz"
+          },
+          "latitude": 8.41667,
+          "longitude": -71.13333
+        },
+        {
+          "name": {
+            "en": "Municipio Libertador"
+          },
+          "latitude": 8.33333,
+          "longitude": -71.11667
+        }
+      ]
+    },
+    {
+      "code": "VE-M",
+      "name": {
+        "en": "Miranda"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Baruta"
+          },
+          "latitude": 10.43424,
+          "longitude": -66.87558
+        },
+        {
+          "name": {
+            "en": "Carrizal"
+          },
+          "latitude": 10.34985,
+          "longitude": -66.98632
+        },
+        {
+          "name": {
+            "en": "Caucaguita"
+          },
+          "latitude": 10.35782,
+          "longitude": -66.80252
+        },
+        {
+          "name": {
+            "en": "Caucagüito"
+          },
+          "latitude": 10.48666,
+          "longitude": -66.73799
+        },
+        {
+          "name": {
+            "en": "Chacao"
+          },
+          "latitude": 10.49581,
+          "longitude": -66.85367
+        },
+        {
+          "name": {
+            "en": "Charallave"
+          },
+          "latitude": 10.24247,
+          "longitude": -66.85723
+        },
+        {
+          "name": {
+            "en": "Cúa"
+          },
+          "latitude": 10.16245,
+          "longitude": -66.88248
+        },
+        {
+          "name": {
+            "en": "El Cafetal"
+          },
+          "latitude": 10.46541,
+          "longitude": -66.82951
+        },
+        {
+          "name": {
+            "en": "El Hatillo"
+          },
+          "latitude": 10.42411,
+          "longitude": -66.82581
+        },
+        {
+          "name": {
+            "en": "Guarenas"
+          },
+          "latitude": 10.47027,
+          "longitude": -66.61934
+        },
+        {
+          "name": {
+            "en": "Guatire"
+          },
+          "latitude": 10.474,
+          "longitude": -66.54241
+        },
+        {
+          "name": {
+            "en": "La Dolorita"
+          },
+          "latitude": 10.4883,
+          "longitude": -66.78608
+        },
+        {
+          "name": {
+            "en": "Los Dos Caminos"
+          },
+          "latitude": 10.49389,
+          "longitude": -66.82863
+        },
+        {
+          "name": {
+            "en": "Los Teques"
+          },
+          "latitude": 10.34447,
+          "longitude": -67.04325
+        },
+        {
+          "name": {
+            "en": "Ocumare del Tuy"
+          },
+          "latitude": 10.1182,
+          "longitude": -66.77513
+        },
+        {
+          "name": {
+            "en": "Petare"
+          },
+          "latitude": 10.47679,
+          "longitude": -66.80786
+        },
+        {
+          "name": {
+            "en": "San Antonio de Los Altos"
+          },
+          "latitude": 10.38853,
+          "longitude": -66.95179
+        },
+        {
+          "name": {
+            "en": "Santa Teresa del Tuy"
+          },
+          "latitude": 10.23291,
+          "longitude": -66.66474
+        }
+      ]
+    },
+    {
+      "code": "VE-N",
+      "name": {
+        "en": "Monagas"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Caripito"
+          },
+          "latitude": 10.11135,
+          "longitude": -63.09985
+        },
+        {
+          "name": {
+            "en": "Maturín",
+            "ar": "ماتورين"
+          },
+          "latitude": 9.74569,
+          "longitude": -63.18323
+        },
+        {
+          "name": {
+            "en": "Municipio Maturín"
+          },
+          "latitude": 9.4,
+          "longitude": -63.03333
+        },
+        {
+          "name": {
+            "en": "Municipio Uracoa"
+          },
+          "latitude": 8.9996,
+          "longitude": -62.35164
+        }
+      ]
+    },
+    {
+      "code": "VE-O",
+      "name": {
+        "en": "Nueva Esparta"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Juan Griego"
+          },
+          "latitude": 11.08172,
+          "longitude": -63.96549
+        },
+        {
+          "name": {
+            "en": "La Asunción"
+          },
+          "latitude": 11.03333,
+          "longitude": -63.86278
+        },
+        {
+          "name": {
+            "en": "Porlamar"
+          },
+          "latitude": 10.95771,
+          "longitude": -63.86971
+        }
+      ]
+    },
+    {
+      "code": "VE-P",
+      "name": {
+        "en": "Portuguesa"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Acarigua"
+          },
+          "latitude": 9.55451,
+          "longitude": -69.19564
+        },
+        {
+          "name": {
+            "en": "Araure"
+          },
+          "latitude": 9.58144,
+          "longitude": -69.23851
+        },
+        {
+          "name": {
+            "en": "Guanare"
+          },
+          "latitude": 9.04183,
+          "longitude": -69.74206
+        },
+        {
+          "name": {
+            "en": "Villa Bruzual"
+          },
+          "latitude": 9.33186,
+          "longitude": -69.11968
+        }
+      ]
+    },
+    {
+      "code": "VE-R",
+      "name": {
+        "en": "Sucre"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Carúpano"
+          },
+          "latitude": 10.66516,
+          "longitude": -63.25387
+        },
+        {
+          "name": {
+            "en": "Cumaná"
+          },
+          "latitude": 10.45397,
+          "longitude": -64.18256
+        },
+        {
+          "name": {
+            "en": "Güiria"
+          },
+          "latitude": 10.57721,
+          "longitude": -62.29841
+        },
+        {
+          "name": {
+            "en": "Municipio Valdez"
+          },
+          "latitude": 10.57945,
+          "longitude": -62.30029
+        }
+      ]
+    },
+    {
+      "code": "VE-S",
+      "name": {
+        "en": "Táchira"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Colón"
+          },
+          "latitude": 8.03125,
+          "longitude": -72.26053
+        },
+        {
+          "name": {
+            "en": "La Fría"
+          },
+          "latitude": 8.21523,
+          "longitude": -72.24888
+        },
+        {
+          "name": {
+            "en": "La Grita"
+          },
+          "latitude": 8.13316,
+          "longitude": -71.9839
+        },
+        {
+          "name": {
+            "en": "Municipio José María Vargas"
+          },
+          "latitude": 8.03514,
+          "longitude": -72.05675
+        },
+        {
+          "name": {
+            "en": "Rubio"
+          },
+          "latitude": 7.70131,
+          "longitude": -72.35569
+        },
+        {
+          "name": {
+            "en": "San Antonio del Táchira"
+          },
+          "latitude": 7.81454,
+          "longitude": -72.4431
+        },
+        {
+          "name": {
+            "en": "San Cristóbal"
+          },
+          "latitude": 7.76694,
+          "longitude": -72.225
+        },
+        {
+          "name": {
+            "en": "Táriba"
+          },
+          "latitude": 7.8188,
+          "longitude": -72.22427
+        }
+      ]
+    },
+    {
+      "code": "VE-T",
+      "name": {
+        "en": "Trujillo"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Boconó"
+          },
+          "latitude": 9.25385,
+          "longitude": -70.25105
+        },
+        {
+          "name": {
+            "en": "Municipio Pampanito"
+          },
+          "latitude": 9.41147,
+          "longitude": -70.49592
+        },
+        {
+          "name": {
+            "en": "Municipio San Rafael de Carvajal"
+          },
+          "latitude": 9.30756,
+          "longitude": -70.58965
+        },
+        {
+          "name": {
+            "en": "Trujillo"
+          },
+          "latitude": 9.36583,
+          "longitude": -70.43694
+        },
+        {
+          "name": {
+            "en": "Valera"
+          },
+          "latitude": 9.31778,
+          "longitude": -70.60361
+        }
+      ]
+    },
+    {
+      "code": "VE-U",
+      "name": {
+        "en": "Yaracuy"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Chivacoa"
+          },
+          "latitude": 10.15951,
+          "longitude": -68.89453
+        },
+        {
+          "name": {
+            "en": "Municipio Independencia"
+          },
+          "latitude": 10.33472,
+          "longitude": -68.75555
+        },
+        {
+          "name": {
+            "en": "Nirgua"
+          },
+          "latitude": 10.15039,
+          "longitude": -68.56478
+        },
+        {
+          "name": {
+            "en": "San Felipe"
+          },
+          "latitude": 10.33991,
+          "longitude": -68.74247
+        },
+        {
+          "name": {
+            "en": "Yaritagua"
+          },
+          "latitude": 10.08081,
+          "longitude": -69.1242
+        }
+      ]
+    },
+    {
+      "code": "VE-V",
+      "name": {
+        "en": "Zulia"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Cabimas",
+            "ar": "كابيماس"
+          },
+          "latitude": 10.39907,
+          "longitude": -71.45206
+        },
+        {
+          "name": {
+            "en": "Ciudad Ojeda"
+          },
+          "latitude": 10.20161,
+          "longitude": -71.3148
+        },
+        {
+          "name": {
+            "en": "La Villa del Rosario"
+          },
+          "latitude": 10.3258,
+          "longitude": -72.31343
+        },
+        {
+          "name": {
+            "en": "Lagunillas"
+          },
+          "latitude": 10.13008,
+          "longitude": -71.25946
+        },
+        {
+          "name": {
+            "en": "Machiques"
+          },
+          "latitude": 10.06077,
+          "longitude": -72.55212
+        },
+        {
+          "name": {
+            "en": "Maracaibo"
+          },
+          "latitude": 10.66663,
+          "longitude": -71.61245
+        },
+        {
+          "name": {
+            "en": "San Carlos del Zulia"
+          },
+          "latitude": 9.00098,
+          "longitude": -71.92683
+        },
+        {
+          "name": {
+            "en": "Santa Rita"
+          },
+          "latitude": 10.53642,
+          "longitude": -71.51104
+        }
+      ]
+    }
+  ]
+}

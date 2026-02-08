@@ -1,0 +1,1013 @@
+{
+  "code": "AF",
+  "iso3": "AFG",
+  "name": {
+    "en": "Afghanistan",
+    "ar": "أفغانستان",
+    "de": "Afghanistan",
+    "es": "Afganistán",
+    "fr": "Afghanistan",
+    "hi": "अफ़ग़ानिस्तान",
+    "it": "Afghanistan",
+    "ja": "アフガニスタン",
+    "ko": "아프가니스탄",
+    "nl": "Afghanistan",
+    "pl": "Afganistan",
+    "pt": "Afeganistão",
+    "pt-BR": "Afeganistão",
+    "ru": "Афганистан",
+    "tr": "Afganistan",
+    "uk": "Афганістан",
+    "zh": "阿富汗"
+  },
+  "phone": "+93",
+  "currency": "AFN",
+  "timezone": "Asia/Kabul",
+  "flag": "🇦🇫",
+  "regions": [
+    {
+      "code": "AF-BDS",
+      "name": {
+        "en": "Badakhshan"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ashkāsham"
+          },
+          "latitude": 36.68333,
+          "longitude": 71.53333
+        },
+        {
+          "name": {
+            "en": "Fayzabad"
+          },
+          "latitude": 37.11664,
+          "longitude": 70.58002
+        },
+        {
+          "name": {
+            "en": "Jurm"
+          },
+          "latitude": 36.86477,
+          "longitude": 70.83421
+        },
+        {
+          "name": {
+            "en": "Khandūd"
+          },
+          "latitude": 36.95127,
+          "longitude": 72.318
+        },
+        {
+          "name": {
+            "en": "Rāghistān"
+          },
+          "latitude": 37.66079,
+          "longitude": 70.67346
+        },
+        {
+          "name": {
+            "en": "Wākhān"
+          },
+          "latitude": 37.0571,
+          "longitude": 73.34928
+        }
+      ]
+    },
+    {
+      "code": "AF-BDG",
+      "name": {
+        "en": "Badghis"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ghormach"
+          },
+          "latitude": 35.73062,
+          "longitude": 63.78264
+        },
+        {
+          "name": {
+            "en": "Qala i Naw"
+          },
+          "latitude": 34.98735,
+          "longitude": 63.12891
+        }
+      ]
+    },
+    {
+      "code": "AF-BGL",
+      "name": {
+        "en": "Baghlan"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Baghlān",
+            "ar": "بغلان"
+          },
+          "latitude": 36.13068,
+          "longitude": 68.70829
+        },
+        {
+          "name": {
+            "en": "Ḩukūmatī Dahanah-ye Ghōrī"
+          },
+          "latitude": 35.90617,
+          "longitude": 68.48869
+        },
+        {
+          "name": {
+            "en": "Nahrīn"
+          },
+          "latitude": 36.0649,
+          "longitude": 69.13343
+        },
+        {
+          "name": {
+            "en": "Pul-e Khumrī"
+          },
+          "latitude": 35.94458,
+          "longitude": 68.71512
+        }
+      ]
+    },
+    {
+      "code": "AF-BAL",
+      "name": {
+        "en": "Balkh"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Balkh",
+            "ar": "بلخ"
+          },
+          "latitude": 36.75635,
+          "longitude": 66.8972
+        },
+        {
+          "name": {
+            "en": "Dowlatābād"
+          },
+          "latitude": 36.98821,
+          "longitude": 66.82069
+        },
+        {
+          "name": {
+            "en": "Khulm"
+          },
+          "latitude": 36.69736,
+          "longitude": 67.69826
+        },
+        {
+          "name": {
+            "en": "Lab-Sar"
+          },
+          "latitude": 36.02634,
+          "longitude": 66.83799
+        },
+        {
+          "name": {
+            "en": "Mazār-e Sharīf",
+            "ar": "مزار شريف"
+          },
+          "latitude": 36.70904,
+          "longitude": 67.11087
+        },
+        {
+          "name": {
+            "en": "Qarchī Gak"
+          },
+          "latitude": 37.03999,
+          "longitude": 66.78891
+        }
+      ]
+    },
+    {
+      "code": "AF-BAM",
+      "name": {
+        "en": "Bamyan"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bāmyān"
+          },
+          "latitude": 34.82156,
+          "longitude": 67.82734
+        },
+        {
+          "name": {
+            "en": "Panjāb"
+          },
+          "latitude": 34.38795,
+          "longitude": 67.02327
+        }
+      ]
+    },
+    {
+      "code": "AF-DAY",
+      "name": {
+        "en": "Daykundi"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Nīlī"
+          },
+          "latitude": 33.76329,
+          "longitude": 66.07617
+        }
+      ]
+    },
+    {
+      "code": "AF-FRA",
+      "name": {
+        "en": "Farah"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Farah"
+          },
+          "latitude": 32.37451,
+          "longitude": 62.11638
+        }
+      ]
+    },
+    {
+      "code": "AF-FYB",
+      "name": {
+        "en": "Faryab"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Andkhoy"
+          },
+          "latitude": 36.95293,
+          "longitude": 65.12376
+        },
+        {
+          "name": {
+            "en": "Maymana"
+          },
+          "latitude": 35.92139,
+          "longitude": 64.78361
+        }
+      ]
+    },
+    {
+      "code": "AF-GHA",
+      "name": {
+        "en": "Ghazni"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ghazni",
+            "ar": "غزنة"
+          },
+          "latitude": 33.55391,
+          "longitude": 68.42096
+        }
+      ]
+    },
+    {
+      "code": "AF-GHO",
+      "name": {
+        "en": "Ghōr"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Fayrōz Kōh"
+          },
+          "latitude": 34.51952,
+          "longitude": 65.25093
+        },
+        {
+          "name": {
+            "en": "Shahrak"
+          },
+          "latitude": 34.10737,
+          "longitude": 64.3052
+        }
+      ]
+    },
+    {
+      "code": "AF-HEL",
+      "name": {
+        "en": "Helmand"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "‘Alāqahdārī Dīshū"
+          },
+          "latitude": 30.43206,
+          "longitude": 63.29802
+        },
+        {
+          "name": {
+            "en": "Gereshk"
+          },
+          "latitude": 31.82089,
+          "longitude": 64.57005
+        },
+        {
+          "name": {
+            "en": "Lashkar Gāh"
+          },
+          "latitude": 31.59382,
+          "longitude": 64.37161
+        },
+        {
+          "name": {
+            "en": "Markaz-e Ḩukūmat-e Darwēshān"
+          },
+          "latitude": 31.13231,
+          "longitude": 64.1934
+        },
+        {
+          "name": {
+            "en": "Sangīn"
+          },
+          "latitude": 32.07275,
+          "longitude": 64.8359
+        }
+      ]
+    },
+    {
+      "code": "AF-HER",
+      "name": {
+        "en": "Herat"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Chahār Burj"
+          },
+          "latitude": 34.24475,
+          "longitude": 62.19165
+        },
+        {
+          "name": {
+            "en": "Ghōriyān"
+          },
+          "latitude": 34.3448,
+          "longitude": 61.49321
+        },
+        {
+          "name": {
+            "en": "Herāt",
+            "ar": "هراة"
+          },
+          "latitude": 34.34817,
+          "longitude": 62.19967
+        },
+        {
+          "name": {
+            "en": "Kafir Qala"
+          },
+          "latitude": 34.66667,
+          "longitude": 61.06667
+        },
+        {
+          "name": {
+            "en": "Karukh"
+          },
+          "latitude": 34.48108,
+          "longitude": 62.5863
+        },
+        {
+          "name": {
+            "en": "Kuhsān"
+          },
+          "latitude": 34.65389,
+          "longitude": 61.19778
+        },
+        {
+          "name": {
+            "en": "Kushk"
+          },
+          "latitude": 33.29565,
+          "longitude": 61.95221
+        },
+        {
+          "name": {
+            "en": "Qarah Bāgh"
+          },
+          "latitude": 34.94023,
+          "longitude": 61.77589
+        },
+        {
+          "name": {
+            "en": "Shīnḏanḏ"
+          },
+          "latitude": 33.30294,
+          "longitude": 62.1474
+        },
+        {
+          "name": {
+            "en": "Tīr Pul"
+          },
+          "latitude": 34.59431,
+          "longitude": 61.26895
+        },
+        {
+          "name": {
+            "en": "Zindah Jān"
+          },
+          "latitude": 34.34264,
+          "longitude": 61.74675
+        }
+      ]
+    },
+    {
+      "code": "AF-JOW",
+      "name": {
+        "en": "Jowzjan"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Āqchah"
+          },
+          "latitude": 36.905,
+          "longitude": 66.18341
+        },
+        {
+          "name": {
+            "en": "Darzāb"
+          },
+          "latitude": 35.97744,
+          "longitude": 65.37828
+        },
+        {
+          "name": {
+            "en": "Qarqīn"
+          },
+          "latitude": 37.41853,
+          "longitude": 66.04358
+        },
+        {
+          "name": {
+            "en": "Shibirghān"
+          },
+          "latitude": 36.66757,
+          "longitude": 65.7529
+        }
+      ]
+    },
+    {
+      "code": "AF-KAB",
+      "name": {
+        "en": "Kabul"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Kabul",
+            "ar": "كابل"
+          },
+          "latitude": 34.52813,
+          "longitude": 69.17233
+        },
+        {
+          "name": {
+            "en": "Mīr Bachah Kōṯ"
+          },
+          "latitude": 34.74999,
+          "longitude": 69.11899
+        },
+        {
+          "name": {
+            "en": "Paghmān"
+          },
+          "latitude": 34.58787,
+          "longitude": 68.95091
+        }
+      ]
+    },
+    {
+      "code": "AF-KAN",
+      "name": {
+        "en": "Kandahar"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Kandahār",
+            "ar": "قندهار"
+          },
+          "latitude": 31.61332,
+          "longitude": 65.71013
+        }
+      ]
+    },
+    {
+      "code": "AF-KAP",
+      "name": {
+        "en": "Kapisa"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Sidqābād"
+          },
+          "latitude": 35.02298,
+          "longitude": 69.35112
+        }
+      ]
+    },
+    {
+      "code": "AF-KHO",
+      "name": {
+        "en": "Khost"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Khōst"
+          },
+          "latitude": 33.33951,
+          "longitude": 69.92041
+        }
+      ]
+    },
+    {
+      "code": "AF-KNR",
+      "name": {
+        "en": "Kunar"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Asadabad"
+          },
+          "latitude": 34.87311,
+          "longitude": 71.14697
+        },
+        {
+          "name": {
+            "en": "Āsmār"
+          },
+          "latitude": 35.03333,
+          "longitude": 71.35809
+        }
+      ]
+    },
+    {
+      "code": "AF-KDZ",
+      "name": {
+        "en": "Kunduz Province"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Dasht-e Archī"
+          },
+          "latitude": 37.13333,
+          "longitude": 69.16667
+        },
+        {
+          "name": {
+            "en": "Imām Şāḩib"
+          },
+          "latitude": 37.18897,
+          "longitude": 68.93644
+        },
+        {
+          "name": {
+            "en": "Khanabad"
+          },
+          "latitude": 36.6825,
+          "longitude": 69.11556
+        },
+        {
+          "name": {
+            "en": "Kunduz",
+            "ar": "قندوز"
+          },
+          "latitude": 36.72895,
+          "longitude": 68.857
+        },
+        {
+          "name": {
+            "en": "Qarāwul"
+          },
+          "latitude": 37.21959,
+          "longitude": 68.7802
+        }
+      ]
+    },
+    {
+      "code": "AF-LAG",
+      "name": {
+        "en": "Laghman"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Mehtar Lām"
+          },
+          "latitude": 34.67139,
+          "longitude": 70.20944
+        }
+      ]
+    },
+    {
+      "code": "AF-LOG",
+      "name": {
+        "en": "Logar"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Baraki Barak",
+            "ar": "برکی برک"
+          },
+          "latitude": 33.96744,
+          "longitude": 68.9492
+        },
+        {
+          "name": {
+            "en": "Ḩukūmatī Azrah"
+          },
+          "latitude": 34.17355,
+          "longitude": 69.64573
+        },
+        {
+          "name": {
+            "en": "Pul-e ‘Alam"
+          },
+          "latitude": 33.99529,
+          "longitude": 69.02274
+        }
+      ]
+    },
+    {
+      "code": "AF-NAN",
+      "name": {
+        "en": "Nangarhar"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bāsawul"
+          },
+          "latitude": 34.24749,
+          "longitude": 70.87218
+        },
+        {
+          "name": {
+            "en": "Jalālābād",
+            "ar": "جلال آباد"
+          },
+          "latitude": 34.42647,
+          "longitude": 70.45153
+        }
+      ]
+    },
+    {
+      "code": "AF-NIM",
+      "name": {
+        "en": "Nimruz"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Khāsh"
+          },
+          "latitude": 31.52919,
+          "longitude": 62.79055
+        },
+        {
+          "name": {
+            "en": "Mīrābād"
+          },
+          "latitude": 30.43624,
+          "longitude": 61.8383
+        },
+        {
+          "name": {
+            "en": "Rūdbār"
+          },
+          "latitude": 30.15,
+          "longitude": 62.6
+        },
+        {
+          "name": {
+            "en": "Zaranj",
+            "ar": "زرنج"
+          },
+          "latitude": 30.95962,
+          "longitude": 61.86037
+        }
+      ]
+    },
+    {
+      "code": "AF-NUR",
+      "name": {
+        "en": "Nuristan"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Pārūn"
+          },
+          "latitude": 35.42064,
+          "longitude": 70.92261
+        }
+      ]
+    },
+    {
+      "code": "AF-PIA",
+      "name": {
+        "en": "Paktia"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Gardez"
+          },
+          "latitude": 33.59744,
+          "longitude": 69.22592
+        }
+      ]
+    },
+    {
+      "code": "AF-PKA",
+      "name": {
+        "en": "Paktika"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Saṟōbī"
+          },
+          "latitude": 32.75221,
+          "longitude": 69.04587
+        },
+        {
+          "name": {
+            "en": "Zaṟah Sharan"
+          },
+          "latitude": 33.14641,
+          "longitude": 68.79213
+        },
+        {
+          "name": {
+            "en": "Zarghūn Shahr"
+          },
+          "latitude": 32.84734,
+          "longitude": 68.44573
+        }
+      ]
+    },
+    {
+      "code": "AF-PAN",
+      "name": {
+        "en": "Panjshir"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bāzārak"
+          },
+          "latitude": 35.31292,
+          "longitude": 69.51519
+        }
+      ]
+    },
+    {
+      "code": "AF-PAR",
+      "name": {
+        "en": "Parwan"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Charikar"
+          },
+          "latitude": 35.01361,
+          "longitude": 69.17139
+        },
+        {
+          "name": {
+            "en": "Jabal os Saraj"
+          },
+          "latitude": 35.11833,
+          "longitude": 69.23778
+        }
+      ]
+    },
+    {
+      "code": "AF-SAM",
+      "name": {
+        "en": "Samangan"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Aībak"
+          },
+          "latitude": 36.26468,
+          "longitude": 68.01551
+        }
+      ]
+    },
+    {
+      "code": "AF-SAR",
+      "name": {
+        "en": "Sar-e Pol"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Chīras"
+          },
+          "latitude": 35.41674,
+          "longitude": 65.98234
+        },
+        {
+          "name": {
+            "en": "Larkird"
+          },
+          "latitude": 35.48936,
+          "longitude": 66.66409
+        },
+        {
+          "name": {
+            "en": "Qal‘ah-ye Shahr"
+          },
+          "latitude": 35.54729,
+          "longitude": 65.5676
+        },
+        {
+          "name": {
+            "en": "Sang-e Chārak"
+          },
+          "latitude": 35.84972,
+          "longitude": 66.43694
+        },
+        {
+          "name": {
+            "en": "Sar-e Pul"
+          },
+          "latitude": 36.21544,
+          "longitude": 65.93249
+        },
+        {
+          "name": {
+            "en": "Tagāw-Bāy"
+          },
+          "latitude": 35.69941,
+          "longitude": 66.06164
+        },
+        {
+          "name": {
+            "en": "Tukzār"
+          },
+          "latitude": 35.94831,
+          "longitude": 66.42132
+        }
+      ]
+    },
+    {
+      "code": "AF-TAK",
+      "name": {
+        "en": "Takhar"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ārt Khwājah"
+          },
+          "latitude": 37.08571,
+          "longitude": 69.47958
+        },
+        {
+          "name": {
+            "en": "Taloqan",
+            "ar": "تالقان"
+          },
+          "latitude": 36.73605,
+          "longitude": 69.53451
+        }
+      ]
+    },
+    {
+      "code": "AF-URU",
+      "name": {
+        "en": "Urozgan"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Tarinkot"
+          },
+          "latitude": 32.62998,
+          "longitude": 65.87806
+        },
+        {
+          "name": {
+            "en": "Uruzgān"
+          },
+          "latitude": 32.92775,
+          "longitude": 66.63253
+        }
+      ]
+    },
+    {
+      "code": "AF-WAR",
+      "name": {
+        "en": "Wardak"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Chaki Wardak"
+          },
+          "latitude": 34.29,
+          "longitude": 68.58
+        },
+        {
+          "name": {
+            "en": "Day Mirdad"
+          },
+          "latitude": 34.5,
+          "longitude": 69
+        },
+        {
+          "name": {
+            "en": "Hisa-i-Awali Bihsud"
+          },
+          "latitude": 34.65,
+          "longitude": 68.18
+        },
+        {
+          "name": {
+            "en": "Jaghatu"
+          },
+          "latitude": 34.08,
+          "longitude": 68.45
+        },
+        {
+          "name": {
+            "en": "Jalrez"
+          },
+          "latitude": 34.52,
+          "longitude": 68.78
+        },
+        {
+          "name": {
+            "en": "Maidan Shahr"
+          },
+          "latitude": 34.38,
+          "longitude": 68.54
+        },
+        {
+          "name": {
+            "en": "Markaz-i-Bihsud"
+          },
+          "latitude": 34.55,
+          "longitude": 67.8
+        },
+        {
+          "name": {
+            "en": "Nerkh"
+          },
+          "latitude": 34.49,
+          "longitude": 68.51
+        },
+        {
+          "name": {
+            "en": "Sayed Abad"
+          },
+          "latitude": 34,
+          "longitude": 68.63
+        }
+      ]
+    },
+    {
+      "code": "AF-ZAB",
+      "name": {
+        "en": "Zabul"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Qalāt"
+          },
+          "latitude": 32.10575,
+          "longitude": 66.90833
+        }
+      ]
+    }
+  ]
+}

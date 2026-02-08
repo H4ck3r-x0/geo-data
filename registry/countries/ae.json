@@ -1,0 +1,311 @@
+{
+  "code": "AE",
+  "iso3": "ARE",
+  "name": {
+    "en": "United Arab Emirates",
+    "ar": "الإمارات العربية المتحدة",
+    "de": "Vereinigte Arabische Emirate",
+    "es": "Emiratos Árabes Unidos",
+    "fr": "Émirats arabes unis",
+    "hi": "संयुक्त अरब अमीरात",
+    "it": "Emirati Arabi Uniti",
+    "ja": "アラブ首長国連邦",
+    "ko": "아랍에미리트",
+    "nl": "Verenigde Arabische Emiraten",
+    "pl": "Zjednoczone Emiraty Arabskie",
+    "pt": "Emirados árabes Unidos",
+    "pt-BR": "Emirados árabes Unidos",
+    "ru": "Объединенные Арабские Эмираты",
+    "tr": "Birleşik Arap Emirlikleri",
+    "uk": "Об'єднані Арабські Емірати",
+    "zh": "阿拉伯联合酋长国"
+  },
+  "phone": "+971",
+  "currency": "AED",
+  "timezone": "Asia/Dubai",
+  "flag": "🇦🇪",
+  "regions": [
+    {
+      "code": "AE-AZ",
+      "name": {
+        "en": "Abu Dhabi"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Abu Dhabi",
+            "ar": "أبوظبي"
+          },
+          "latitude": 24.41361,
+          "longitude": 54.43295
+        },
+        {
+          "name": {
+            "en": "Al Ain City",
+            "ar": "العين"
+          },
+          "latitude": 24.19167,
+          "longitude": 55.76056
+        },
+        {
+          "name": {
+            "en": "Al Dhafra"
+          },
+          "latitude": 23.65745,
+          "longitude": 53.72225
+        },
+        {
+          "name": {
+            "en": "Bani Yas City",
+            "ar": "مدينة بني ياس"
+          },
+          "latitude": 24.30978,
+          "longitude": 54.62944
+        },
+        {
+          "name": {
+            "en": "Ghayathi"
+          },
+          "latitude": 23.9045342,
+          "longitude": 52.5871026
+        },
+        {
+          "name": {
+            "en": "Khalifa City",
+            "ar": "مدينة خليفة أ"
+          },
+          "latitude": 24.42588,
+          "longitude": 54.605
+        },
+        {
+          "name": {
+            "en": "Liwa Oasis"
+          },
+          "latitude": 22.8697255,
+          "longitude": 53.2408608
+        },
+        {
+          "name": {
+            "en": "Mussafah",
+            "ar": "مصفح"
+          },
+          "latitude": 24.35893,
+          "longitude": 54.48267
+        },
+        {
+          "name": {
+            "en": "Muzayri‘"
+          },
+          "latitude": 23.14355,
+          "longitude": 53.7881
+        },
+        {
+          "name": {
+            "en": "Ruwais",
+            "ar": "الرويس"
+          },
+          "latitude": 24.11028,
+          "longitude": 52.73056
+        },
+        {
+          "name": {
+            "en": "Zayed City",
+            "ar": "مدينة زايد"
+          },
+          "latitude": 23.65416,
+          "longitude": 53.70522
+        }
+      ]
+    },
+    {
+      "code": "AE-AJ",
+      "name": {
+        "en": "Ajman"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ajman",
+            "ar": "عجمان"
+          },
+          "latitude": 25.40328,
+          "longitude": 55.52341
+        },
+        {
+          "name": {
+            "en": "Manama"
+          },
+          "latitude": 25.32568,
+          "longitude": 56.00259
+        },
+        {
+          "name": {
+            "en": "Masfut"
+          },
+          "latitude": 24.83982,
+          "longitude": 56.05158
+        }
+      ]
+    },
+    {
+      "code": "AE-DU",
+      "name": {
+        "en": "Dubai"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Dubai",
+            "ar": "دبي"
+          },
+          "latitude": 25.0657,
+          "longitude": 55.17128
+        }
+      ]
+    },
+    {
+      "code": "AE-FU",
+      "name": {
+        "en": "Fujairah"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Dibba Al Fujairah",
+            "ar": "الفجيرة"
+          },
+          "latitude": 25.5858,
+          "longitude": 56.24792
+        },
+        {
+          "name": {
+            "en": "Dibba Al-Fujairah",
+            "ar": "الفجيرة"
+          },
+          "latitude": 25.59246,
+          "longitude": 56.26176
+        },
+        {
+          "name": {
+            "en": "Dibba Al-Hisn"
+          },
+          "latitude": 25.61955,
+          "longitude": 56.27291
+        },
+        {
+          "name": {
+            "en": "Fujairah",
+            "ar": "الفجيرة"
+          },
+          "latitude": 25.11641,
+          "longitude": 56.34141
+        }
+      ]
+    },
+    {
+      "code": "AE-RK",
+      "name": {
+        "en": "Ras Al Khaimah"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ras Al Khaimah",
+            "ar": "رأس الخيمة"
+          },
+          "latitude": 25.46116,
+          "longitude": 56.04058
+        }
+      ]
+    },
+    {
+      "code": "AE-SH",
+      "name": {
+        "en": "Sharjah"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Al Batayih"
+          },
+          "latitude": 25.22317,
+          "longitude": 55.74272
+        },
+        {
+          "name": {
+            "en": "Al Dhaid",
+            "ar": "الذيد"
+          },
+          "latitude": 25.28812,
+          "longitude": 55.88157
+        },
+        {
+          "name": {
+            "en": "Al Hamriyah"
+          },
+          "latitude": 25.46121,
+          "longitude": 55.54813
+        },
+        {
+          "name": {
+            "en": "Al Madam"
+          },
+          "latitude": 24.95536,
+          "longitude": 55.7682
+        },
+        {
+          "name": {
+            "en": "Kalba"
+          },
+          "latitude": 24.99816,
+          "longitude": 56.27207
+        },
+        {
+          "name": {
+            "en": "Khor Fakkan"
+          },
+          "latitude": 25.33966,
+          "longitude": 56.3028
+        },
+        {
+          "name": {
+            "en": "Milehah"
+          },
+          "latitude": 25.10097,
+          "longitude": 55.91282
+        },
+        {
+          "name": {
+            "en": "Murbaḩ"
+          },
+          "latitude": 25.27623,
+          "longitude": 56.36256
+        },
+        {
+          "name": {
+            "en": "Sharjah",
+            "ar": "الشارقة"
+          },
+          "latitude": 25.33737,
+          "longitude": 55.41206
+        }
+      ]
+    },
+    {
+      "code": "AE-UQ",
+      "name": {
+        "en": "Umm Al Quwain"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Umm AL Quwain",
+            "ar": "أم القيوين"
+          },
+          "latitude": 25.49326,
+          "longitude": 55.7352
+        }
+      ]
+    }
+  ]
+}

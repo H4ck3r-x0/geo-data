@@ -1,0 +1,680 @@
+{
+  "code": "AO",
+  "iso3": "AGO",
+  "name": {
+    "en": "Angola",
+    "ar": "أنغولا",
+    "de": "Angola",
+    "es": "Angola",
+    "fr": "Angola",
+    "hi": "अंगोला",
+    "it": "Angola",
+    "ja": "アンゴラ",
+    "ko": "앙골라",
+    "nl": "Angola",
+    "pl": "Angola",
+    "pt": "Angola",
+    "pt-BR": "Angola",
+    "ru": "Ангола",
+    "tr": "Angola",
+    "uk": "Ангола",
+    "zh": "安哥拉"
+  },
+  "phone": "+244",
+  "currency": "AOA",
+  "timezone": "Africa/Luanda",
+  "flag": "🇦🇴",
+  "regions": [
+    {
+      "code": "AO-BGO",
+      "name": {
+        "en": "Bengo"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ambriz"
+          },
+          "latitude": -7.8574,
+          "longitude": 13.1251
+        },
+        {
+          "name": {
+            "en": "Bula Atumba"
+          },
+          "latitude": -7.3117,
+          "longitude": 14.3147
+        },
+        {
+          "name": {
+            "en": "Caxito"
+          },
+          "latitude": -8.57848,
+          "longitude": 13.66425
+        },
+        {
+          "name": {
+            "en": "Dande"
+          },
+          "latitude": -8.1133,
+          "longitude": 13.7652
+        },
+        {
+          "name": {
+            "en": "Muxima"
+          },
+          "latitude": -9.5879,
+          "longitude": 13.5251
+        },
+        {
+          "name": {
+            "en": "Nambuangongo"
+          },
+          "latitude": -8.5656,
+          "longitude": 13.6572
+        },
+        {
+          "name": {
+            "en": "Pango Aluquém"
+          },
+          "latitude": -8.5544,
+          "longitude": 13.5815
+        },
+        {
+          "name": {
+            "en": "Úcua"
+          },
+          "latitude": -8.6724,
+          "longitude": 13.6829
+        }
+      ]
+    },
+    {
+      "code": "AO-BGU",
+      "name": {
+        "en": "Benguela"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Baía Farta"
+          },
+          "latitude": -12.5766,
+          "longitude": 13.4776
+        },
+        {
+          "name": {
+            "en": "Balombo"
+          },
+          "latitude": -12.9046,
+          "longitude": 13.5959
+        },
+        {
+          "name": {
+            "en": "Benguela"
+          },
+          "latitude": -12.57626,
+          "longitude": 13.40547
+        },
+        {
+          "name": {
+            "en": "Bocoio"
+          },
+          "latitude": -12.5303,
+          "longitude": 13.4042
+        },
+        {
+          "name": {
+            "en": "Caimbambo"
+          },
+          "latitude": -12.6133,
+          "longitude": 14.4194
+        },
+        {
+          "name": {
+            "en": "Catumbela"
+          },
+          "latitude": -12.43002,
+          "longitude": 13.54677
+        },
+        {
+          "name": {
+            "en": "Chongoroi"
+          },
+          "latitude": -12.7888,
+          "longitude": 13.7975
+        },
+        {
+          "name": {
+            "en": "Cubal"
+          },
+          "latitude": -12.5885,
+          "longitude": 14.4267
+        },
+        {
+          "name": {
+            "en": "Ganda"
+          },
+          "latitude": -12.6825,
+          "longitude": 14.4233
+        },
+        {
+          "name": {
+            "en": "Lobito",
+            "ar": "وبيتو"
+          },
+          "latitude": -12.3644,
+          "longitude": 13.53601
+        },
+        {
+          "name": {
+            "en": "Sumbe"
+          },
+          "latitude": -11.2061,
+          "longitude": 13.8448
+        }
+      ]
+    },
+    {
+      "code": "AO-BIE",
+      "name": {
+        "en": "Bié"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Camacupa"
+          },
+          "latitude": -12.01667,
+          "longitude": 17.48333
+        },
+        {
+          "name": {
+            "en": "Catabola"
+          },
+          "latitude": -12.15,
+          "longitude": 17.28333
+        },
+        {
+          "name": {
+            "en": "Chissamba"
+          },
+          "latitude": -12.16667,
+          "longitude": 17.33333
+        },
+        {
+          "name": {
+            "en": "Cuito"
+          },
+          "latitude": -12.38333,
+          "longitude": 16.93333
+        }
+      ]
+    },
+    {
+      "code": "AO-CAB",
+      "name": {
+        "en": "Cabinda"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Cabinda"
+          },
+          "latitude": -5.55,
+          "longitude": 12.2
+        }
+      ]
+    },
+    {
+      "code": "AO-CCU",
+      "name": {
+        "en": "Cuando Cubango"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Menongue"
+          },
+          "latitude": -14.6585,
+          "longitude": 17.69099
+        }
+      ]
+    },
+    {
+      "code": "AO-CUS",
+      "name": {
+        "en": "Cuanza"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Quibala"
+          },
+          "latitude": -10.73366,
+          "longitude": 14.97995
+        },
+        {
+          "name": {
+            "en": "Sumbe"
+          },
+          "latitude": -11.20605,
+          "longitude": 13.84371
+        },
+        {
+          "name": {
+            "en": "Uacu Cungo"
+          },
+          "latitude": -11.35669,
+          "longitude": 15.11719
+        }
+      ]
+    },
+    {
+      "code": "AO-CNO",
+      "name": {
+        "en": "Cuanza Norte"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Camabatela"
+          },
+          "latitude": -8.18812,
+          "longitude": 15.37495
+        },
+        {
+          "name": {
+            "en": "N’dalatando"
+          },
+          "latitude": -9.29782,
+          "longitude": 14.91162
+        }
+      ]
+    },
+    {
+      "code": "AO-CNN",
+      "name": {
+        "en": "Cunene"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ondjiva"
+          },
+          "latitude": -17.06667,
+          "longitude": 15.73333
+        }
+      ]
+    },
+    {
+      "code": "AO-HUA",
+      "name": {
+        "en": "Huambo"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Caála"
+          },
+          "latitude": -12.8525,
+          "longitude": 15.56056
+        },
+        {
+          "name": {
+            "en": "Chela"
+          },
+          "latitude": -12.30261,
+          "longitude": 15.43358
+        },
+        {
+          "name": {
+            "en": "Huambo"
+          },
+          "latitude": -12.77611,
+          "longitude": 15.73917
+        },
+        {
+          "name": {
+            "en": "Longonjo"
+          },
+          "latitude": -12.90667,
+          "longitude": 15.25333
+        }
+      ]
+    },
+    {
+      "code": "AO-HUI",
+      "name": {
+        "en": "Huíla"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Caconda"
+          },
+          "latitude": -13.73333,
+          "longitude": 15.06667
+        },
+        {
+          "name": {
+            "en": "Caluquembe"
+          },
+          "latitude": -13.92093,
+          "longitude": 14.53476
+        },
+        {
+          "name": {
+            "en": "Chibia"
+          },
+          "latitude": -15.23657,
+          "longitude": 13.88468
+        },
+        {
+          "name": {
+            "en": "Chicomba"
+          },
+          "latitude": -14.30788,
+          "longitude": 14.98672
+        },
+        {
+          "name": {
+            "en": "Chipindo"
+          },
+          "latitude": -13.8683,
+          "longitude": 15.73277
+        },
+        {
+          "name": {
+            "en": "Cuvango"
+          },
+          "latitude": -14.27693,
+          "longitude": 16.31475
+        },
+        {
+          "name": {
+            "en": "Gambos"
+          },
+          "latitude": -15.80926,
+          "longitude": 14.07661
+        },
+        {
+          "name": {
+            "en": "Humpata"
+          },
+          "latitude": -15.0725,
+          "longitude": 13.36771
+        },
+        {
+          "name": {
+            "en": "Jamba"
+          },
+          "latitude": -14.76294,
+          "longitude": 15.83493
+        },
+        {
+          "name": {
+            "en": "Lubango",
+            "ar": "لوبانغو"
+          },
+          "latitude": -14.91717,
+          "longitude": 13.4925
+        },
+        {
+          "name": {
+            "en": "Matala"
+          },
+          "latitude": -15.23967,
+          "longitude": 15.17246
+        },
+        {
+          "name": {
+            "en": "Quilengues"
+          },
+          "latitude": -13.99213,
+          "longitude": 13.76705
+        },
+        {
+          "name": {
+            "en": "Quipungo"
+          },
+          "latitude": -15.12203,
+          "longitude": 14.55953
+        }
+      ]
+    },
+    {
+      "code": "AO-LUA",
+      "name": {
+        "en": "Luanda"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Belas"
+          },
+          "latitude": -9.06875,
+          "longitude": 13.16072
+        },
+        {
+          "name": {
+            "en": "Cacuaco"
+          },
+          "latitude": -8.8296,
+          "longitude": 13.2973
+        },
+        {
+          "name": {
+            "en": "Cazenga"
+          },
+          "latitude": -8.8286,
+          "longitude": 13.2665
+        },
+        {
+          "name": {
+            "en": "Icolo e Bengo"
+          },
+          "latitude": -9.24191,
+          "longitude": 13.73549
+        },
+        {
+          "name": {
+            "en": "Luanda",
+            "ar": "لواندا"
+          },
+          "latitude": -8.83682,
+          "longitude": 13.23432
+        },
+        {
+          "name": {
+            "en": "Talatona"
+          },
+          "latitude": -8.8957,
+          "longitude": 13.1943
+        },
+        {
+          "name": {
+            "en": "Viana"
+          },
+          "latitude": -8.9021,
+          "longitude": 13.2861
+        }
+      ]
+    },
+    {
+      "code": "AO-LNO",
+      "name": {
+        "en": "Lunda Norte"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Lucapa"
+          },
+          "latitude": -8.68337,
+          "longitude": 20.27045
+        }
+      ]
+    },
+    {
+      "code": "AO-LSU",
+      "name": {
+        "en": "Lunda Sul"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Cazaji"
+          },
+          "latitude": -11.06715,
+          "longitude": 20.70148
+        },
+        {
+          "name": {
+            "en": "Saurimo"
+          },
+          "latitude": -9.66078,
+          "longitude": 20.39155
+        }
+      ]
+    },
+    {
+      "code": "AO-MAL",
+      "name": {
+        "en": "Malanje"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Malanje"
+          },
+          "latitude": -9.54015,
+          "longitude": 16.34096
+        }
+      ]
+    },
+    {
+      "code": "AO-MOX",
+      "name": {
+        "en": "Moxico"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Léua"
+          },
+          "latitude": -11.65,
+          "longitude": 20.45
+        },
+        {
+          "name": {
+            "en": "Luau"
+          },
+          "latitude": -10.70727,
+          "longitude": 22.22466
+        },
+        {
+          "name": {
+            "en": "Luena"
+          },
+          "latitude": -11.78333,
+          "longitude": 19.91667
+        },
+        {
+          "name": {
+            "en": "Lumeje"
+          },
+          "latitude": -11.55,
+          "longitude": 20.78333
+        }
+      ]
+    },
+    {
+      "code": "AO-NAM",
+      "name": {
+        "en": "Namibe"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bibala"
+          },
+          "latitude": -14.9333,
+          "longitude": 13.6833
+        },
+        {
+          "name": {
+            "en": "Camucuio"
+          },
+          "latitude": -15.45,
+          "longitude": 12.8833
+        },
+        {
+          "name": {
+            "en": "Namibe"
+          },
+          "latitude": -15.1967,
+          "longitude": 12.1522
+        },
+        {
+          "name": {
+            "en": "Tombua"
+          },
+          "latitude": -15.7833,
+          "longitude": 11.8667
+        },
+        {
+          "name": {
+            "en": "Virei"
+          },
+          "latitude": -14.4667,
+          "longitude": 13.2667
+        }
+      ]
+    },
+    {
+      "code": "AO-UIG",
+      "name": {
+        "en": "Uíge"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Uíge"
+          },
+          "latitude": -7.60874,
+          "longitude": 15.06131
+        }
+      ]
+    },
+    {
+      "code": "AO-ZAI",
+      "name": {
+        "en": "Zaire"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Mbanza Congo"
+          },
+          "latitude": -6.26703,
+          "longitude": 14.2401
+        },
+        {
+          "name": {
+            "en": "N'zeto"
+          },
+          "latitude": -7.23116,
+          "longitude": 12.8666
+        },
+        {
+          "name": {
+            "en": "Soio"
+          },
+          "latitude": -6.1349,
+          "longitude": 12.36894
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,621 @@
+{
+  "code": "FM",
+  "iso3": "FSM",
+  "name": {
+    "en": "Micronesia",
+    "ar": "ميكرونيسيا",
+    "de": "Mikronesien",
+    "es": "Micronesia",
+    "fr": "Micronésie",
+    "hi": "माइक्रोनेशिया",
+    "it": "Micronesia",
+    "ja": "ミクロネシア連邦",
+    "ko": "미크로네시아 연방",
+    "nl": "Micronesië",
+    "pl": "Mikronezja",
+    "pt": "Micronésia",
+    "pt-BR": "Micronésia",
+    "ru": "Микронезия",
+    "tr": "Mikronezya",
+    "uk": "Мікронезія",
+    "zh": "密克罗尼西亚"
+  },
+  "phone": "+691",
+  "currency": "USD",
+  "timezone": "Pacific/Chuuk",
+  "flag": "🇫🇲",
+  "regions": [
+    {
+      "code": "FM-TRK",
+      "name": {
+        "en": "Chuuk"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Eot"
+          },
+          "latitude": 7.3854,
+          "longitude": 151.7392
+        },
+        {
+          "name": {
+            "en": "Ettal"
+          },
+          "latitude": 5.592,
+          "longitude": 153.56
+        },
+        {
+          "name": {
+            "en": "Fananu"
+          },
+          "latitude": 8.55811,
+          "longitude": 151.90822
+        },
+        {
+          "name": {
+            "en": "Fanapanges"
+          },
+          "latitude": 7.353,
+          "longitude": 151.6676
+        },
+        {
+          "name": {
+            "en": "Fefen"
+          },
+          "latitude": 7.353,
+          "longitude": 151.831
+        },
+        {
+          "name": {
+            "en": "Fonoton"
+          },
+          "latitude": 7.486,
+          "longitude": 151.8794
+        },
+        {
+          "name": {
+            "en": "Houk"
+          },
+          "latitude": 6.683,
+          "longitude": 149.3
+        },
+        {
+          "name": {
+            "en": "Kuttu"
+          },
+          "latitude": 5.453,
+          "longitude": 153.456
+        },
+        {
+          "name": {
+            "en": "Lekinioch"
+          },
+          "latitude": 5.507,
+          "longitude": 153.819
+        },
+        {
+          "name": {
+            "en": "Losap"
+          },
+          "latitude": 6.894,
+          "longitude": 152.739
+        },
+        {
+          "name": {
+            "en": "Makur"
+          },
+          "latitude": 8.985,
+          "longitude": 150.126
+        },
+        {
+          "name": {
+            "en": "Moch"
+          },
+          "latitude": 5.4918,
+          "longitude": 153.5385
+        },
+        {
+          "name": {
+            "en": "Murilo"
+          },
+          "latitude": 8.69242,
+          "longitude": 152.33934
+        },
+        {
+          "name": {
+            "en": "Murilo Municipality"
+          },
+          "latitude": 8.692,
+          "longitude": 152.342
+        },
+        {
+          "name": {
+            "en": "Namoluk"
+          },
+          "latitude": 5.915,
+          "longitude": 153.136
+        },
+        {
+          "name": {
+            "en": "Nema"
+          },
+          "latitude": 6.98922,
+          "longitude": 152.57377
+        },
+        {
+          "name": {
+            "en": "Nema Municipality"
+          },
+          "latitude": 6.993,
+          "longitude": 152.574
+        },
+        {
+          "name": {
+            "en": "Nomwin"
+          },
+          "latitude": 8.43,
+          "longitude": 151.745
+        },
+        {
+          "name": {
+            "en": "Oneop"
+          },
+          "latitude": 5.5066,
+          "longitude": 153.709
+        },
+        {
+          "name": {
+            "en": "Onou"
+          },
+          "latitude": 8.799,
+          "longitude": 150.29
+        },
+        {
+          "name": {
+            "en": "Onoun"
+          },
+          "latitude": 8.575,
+          "longitude": 149.6855
+        },
+        {
+          "name": {
+            "en": "Paata-Tupunion"
+          },
+          "latitude": 7.376,
+          "longitude": 151.583
+        },
+        {
+          "name": {
+            "en": "Parem"
+          },
+          "latitude": 7.362,
+          "longitude": 151.789
+        },
+        {
+          "name": {
+            "en": "Piherarh"
+          },
+          "latitude": 8.569,
+          "longitude": 150.418
+        },
+        {
+          "name": {
+            "en": "Piis-Emwar"
+          },
+          "latitude": 6.834,
+          "longitude": 152.7
+        },
+        {
+          "name": {
+            "en": "Piis-Panewu"
+          },
+          "latitude": 7.678,
+          "longitude": 151.7634
+        },
+        {
+          "name": {
+            "en": "Pollap"
+          },
+          "latitude": 7.63971,
+          "longitude": 149.43011
+        },
+        {
+          "name": {
+            "en": "Polowat"
+          },
+          "latitude": 7.355,
+          "longitude": 149.182
+        },
+        {
+          "name": {
+            "en": "Pwene"
+          },
+          "latitude": 7.337,
+          "longitude": 151.584
+        },
+        {
+          "name": {
+            "en": "Ramanum"
+          },
+          "latitude": 7.4135,
+          "longitude": 151.6646
+        },
+        {
+          "name": {
+            "en": "Ruo"
+          },
+          "latitude": 8.609,
+          "longitude": 152.244
+        },
+        {
+          "name": {
+            "en": "Satowan"
+          },
+          "latitude": 5.334,
+          "longitude": 153.7365
+        },
+        {
+          "name": {
+            "en": "Siis"
+          },
+          "latitude": 7.295,
+          "longitude": 151.8246
+        },
+        {
+          "name": {
+            "en": "Ta"
+          },
+          "latitude": 5.2842,
+          "longitude": 153.6465
+        },
+        {
+          "name": {
+            "en": "Tamatam"
+          },
+          "latitude": 7.53898,
+          "longitude": 149.41175
+        },
+        {
+          "name": {
+            "en": "Tolensom"
+          },
+          "latitude": 7.333,
+          "longitude": 151.623
+        },
+        {
+          "name": {
+            "en": "Tonoas"
+          },
+          "latitude": 7.381,
+          "longitude": 151.89
+        },
+        {
+          "name": {
+            "en": "Udot-Fonuweisom"
+          },
+          "latitude": 7.389,
+          "longitude": 151.708
+        },
+        {
+          "name": {
+            "en": "Uman-Fonuweisom"
+          },
+          "latitude": 7.299,
+          "longitude": 151.877
+        },
+        {
+          "name": {
+            "en": "Unanu"
+          },
+          "latitude": 8.75,
+          "longitude": 150.3395
+        },
+        {
+          "name": {
+            "en": "Weno"
+          },
+          "latitude": 7.44648,
+          "longitude": 151.84135
+        },
+        {
+          "name": {
+            "en": "Weno Municipality"
+          },
+          "latitude": 7.44,
+          "longitude": 151.881
+        },
+        {
+          "name": {
+            "en": "Wonei"
+          },
+          "latitude": 7.387,
+          "longitude": 151.601
+        }
+      ]
+    },
+    {
+      "code": "FM-KSA",
+      "name": {
+        "en": "Kosrae"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Lelu"
+          },
+          "latitude": 5.34865,
+          "longitude": 163.01917
+        },
+        {
+          "name": {
+            "en": "Malem"
+          },
+          "latitude": 5.27507,
+          "longitude": 163.01685
+        },
+        {
+          "name": {
+            "en": "Tafunsak"
+          },
+          "latitude": 5.34993,
+          "longitude": 162.96965
+        },
+        {
+          "name": {
+            "en": "Tofol"
+          },
+          "latitude": 5.32479,
+          "longitude": 163.00781
+        },
+        {
+          "name": {
+            "en": "Utwe"
+          },
+          "latitude": 5.27511,
+          "longitude": 162.95617
+        }
+      ]
+    },
+    {
+      "code": "FM-PNI",
+      "name": {
+        "en": "Pohnpei"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Kitti"
+          },
+          "latitude": 6.8249,
+          "longitude": 158.16081
+        },
+        {
+          "name": {
+            "en": "Kolonia"
+          },
+          "latitude": 6.964,
+          "longitude": 158.2062
+        },
+        {
+          "name": {
+            "en": "Kolonia Municipality"
+          },
+          "latitude": 6.964,
+          "longitude": 158.2058
+        },
+        {
+          "name": {
+            "en": "Madolenihm"
+          },
+          "latitude": 6.86759,
+          "longitude": 158.31277
+        },
+        {
+          "name": {
+            "en": "Mokil"
+          },
+          "latitude": 6.68916,
+          "longitude": 159.7661
+        },
+        {
+          "name": {
+            "en": "Nett"
+          },
+          "latitude": 6.95152,
+          "longitude": 158.22437
+        },
+        {
+          "name": {
+            "en": "Ngatik"
+          },
+          "latitude": 5.78849,
+          "longitude": 157.15954
+        },
+        {
+          "name": {
+            "en": "Nukuoro"
+          },
+          "latitude": 3.841,
+          "longitude": 154.93
+        },
+        {
+          "name": {
+            "en": "Palikir - National Government Center"
+          },
+          "latitude": 6.92477,
+          "longitude": 158.16109
+        },
+        {
+          "name": {
+            "en": "Pingelap"
+          },
+          "latitude": 6.20908,
+          "longitude": 160.71033
+        },
+        {
+          "name": {
+            "en": "Sapwuahfik"
+          },
+          "latitude": 5.815,
+          "longitude": 157.28
+        },
+        {
+          "name": {
+            "en": "Sokehs"
+          },
+          "latitude": 6.93273,
+          "longitude": 158.1427
+        },
+        {
+          "name": {
+            "en": "U"
+          },
+          "latitude": 6.94972,
+          "longitude": 158.27361
+        }
+      ]
+    },
+    {
+      "code": "FM-YAP",
+      "name": {
+        "en": "Yap"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Colonia"
+          },
+          "latitude": 9.51638,
+          "longitude": 138.12167
+        },
+        {
+          "name": {
+            "en": "Dalipebinaw"
+          },
+          "latitude": 9.52229,
+          "longitude": 138.0854
+        },
+        {
+          "name": {
+            "en": "Fais"
+          },
+          "latitude": 9.766,
+          "longitude": 140.52
+        },
+        {
+          "name": {
+            "en": "Fais Municipality"
+          },
+          "latitude": 9.766,
+          "longitude": 140.519
+        },
+        {
+          "name": {
+            "en": "Fanif"
+          },
+          "latitude": 9.56056,
+          "longitude": 138.11333
+        },
+        {
+          "name": {
+            "en": "Faraulep"
+          },
+          "latitude": 8.588,
+          "longitude": 144.5065
+        },
+        {
+          "name": {
+            "en": "Gagil"
+          },
+          "latitude": 9.54722,
+          "longitude": 138.19028
+        },
+        {
+          "name": {
+            "en": "Gilman"
+          },
+          "latitude": 9.44611,
+          "longitude": 138.06389
+        },
+        {
+          "name": {
+            "en": "Kanifay"
+          },
+          "latitude": 9.46735,
+          "longitude": 138.05935
+        },
+        {
+          "name": {
+            "en": "Lamotrek"
+          },
+          "latitude": 7.491,
+          "longitude": 146.303
+        },
+        {
+          "name": {
+            "en": "Maap"
+          },
+          "latitude": 9.58975,
+          "longitude": 138.17119
+        },
+        {
+          "name": {
+            "en": "Ngulu"
+          },
+          "latitude": 8.45,
+          "longitude": 137.481
+        },
+        {
+          "name": {
+            "en": "Rull"
+          },
+          "latitude": 9.50773,
+          "longitude": 138.1154
+        },
+        {
+          "name": {
+            "en": "Rumung"
+          },
+          "latitude": 9.62428,
+          "longitude": 138.15745
+        },
+        {
+          "name": {
+            "en": "Satawal"
+          },
+          "latitude": 7.382,
+          "longitude": 147.0318
+        },
+        {
+          "name": {
+            "en": "Tomil"
+          },
+          "latitude": 9.52517,
+          "longitude": 138.15488
+        },
+        {
+          "name": {
+            "en": "Ulithi"
+          },
+          "latitude": 9.9,
+          "longitude": 139.6
+        },
+        {
+          "name": {
+            "en": "Weloy"
+          },
+          "latitude": 9.52712,
+          "longitude": 138.11909
+        },
+        {
+          "name": {
+            "en": "Woleai"
+          },
+          "latitude": 7.345,
+          "longitude": 143.857
+        }
+      ]
+    }
+  ]
+}

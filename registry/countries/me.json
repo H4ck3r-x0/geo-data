@@ -1,0 +1,504 @@
+{
+  "code": "ME",
+  "iso3": "MNE",
+  "name": {
+    "en": "Montenegro",
+    "ar": "الجبل الأسود",
+    "de": "Montenegro",
+    "es": "Montenegro",
+    "fr": "Monténégro",
+    "hi": "मोंटेनेग्रो",
+    "it": "Montenegro",
+    "ja": "モンテネグロ",
+    "ko": "몬테네그로",
+    "nl": "Montenegro",
+    "pl": "Czarnogóra",
+    "pt": "Montenegro",
+    "pt-BR": "Montenegro",
+    "ru": "Черногория",
+    "tr": "Karadağ",
+    "uk": "Чорногорія",
+    "zh": "黑山"
+  },
+  "phone": "+382",
+  "currency": "EUR",
+  "timezone": "Europe/Podgorica",
+  "flag": "🇲🇪",
+  "regions": [
+    {
+      "code": "ME-01",
+      "name": {
+        "en": "Andrijevica"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Andrijevica"
+          },
+          "latitude": 42.73389,
+          "longitude": 19.79194
+        }
+      ]
+    },
+    {
+      "code": "ME-02",
+      "name": {
+        "en": "Bar"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bar",
+            "ar": "بار"
+          },
+          "latitude": 42.09306,
+          "longitude": 19.10028
+        },
+        {
+          "name": {
+            "en": "Stari Bar"
+          },
+          "latitude": 42.097,
+          "longitude": 19.136
+        },
+        {
+          "name": {
+            "en": "Šušanj"
+          },
+          "latitude": 42.11556,
+          "longitude": 19.08833
+        },
+        {
+          "name": {
+            "en": "Sutomore"
+          },
+          "latitude": 42.14278,
+          "longitude": 19.04667
+        }
+      ]
+    },
+    {
+      "code": "ME-03",
+      "name": {
+        "en": "Berane"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Berane"
+          },
+          "latitude": 42.8425,
+          "longitude": 19.87333
+        }
+      ]
+    },
+    {
+      "code": "ME-04",
+      "name": {
+        "en": "Bijelo Polje"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bijelo Polje"
+          },
+          "latitude": 43.03834,
+          "longitude": 19.74758
+        }
+      ]
+    },
+    {
+      "code": "ME-05",
+      "name": {
+        "en": "Budva"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Budva"
+          },
+          "latitude": 42.28639,
+          "longitude": 18.84
+        },
+        {
+          "name": {
+            "en": "Petrovac na Moru"
+          },
+          "latitude": 42.20556,
+          "longitude": 18.9425
+        }
+      ]
+    },
+    {
+      "code": "ME-07",
+      "name": {
+        "en": "Danilovgrad"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Danilovgrad"
+          },
+          "latitude": 42.55384,
+          "longitude": 19.14608
+        },
+        {
+          "name": {
+            "en": "Spuž"
+          },
+          "latitude": 42.515,
+          "longitude": 19.195
+        }
+      ]
+    },
+    {
+      "code": "ME-22",
+      "name": {
+        "en": "Gusinje"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Gusinje"
+          },
+          "latitude": 42.56194,
+          "longitude": 19.83389
+        }
+      ]
+    },
+    {
+      "code": "ME-08",
+      "name": {
+        "en": "Herceg-Novi"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bijela"
+          },
+          "latitude": 42.44778,
+          "longitude": 18.65972
+        },
+        {
+          "name": {
+            "en": "Herceg Novi"
+          },
+          "latitude": 42.45306,
+          "longitude": 18.53722
+        },
+        {
+          "name": {
+            "en": "Igalo"
+          },
+          "latitude": 42.45583,
+          "longitude": 18.51667
+        },
+        {
+          "name": {
+            "en": "Kamenari"
+          },
+          "latitude": 42.46167,
+          "longitude": 18.68806
+        }
+      ]
+    },
+    {
+      "code": "ME-09",
+      "name": {
+        "en": "Kolašin"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Kolašin"
+          },
+          "latitude": 42.82229,
+          "longitude": 19.51653
+        }
+      ]
+    },
+    {
+      "code": "ME-10",
+      "name": {
+        "en": "Kotor"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Dobrota"
+          },
+          "latitude": 42.45417,
+          "longitude": 18.76833
+        },
+        {
+          "name": {
+            "en": "Kotor"
+          },
+          "latitude": 42.42067,
+          "longitude": 18.76825
+        },
+        {
+          "name": {
+            "en": "Prčanj"
+          },
+          "latitude": 42.4575,
+          "longitude": 18.74222
+        },
+        {
+          "name": {
+            "en": "Risan"
+          },
+          "latitude": 42.515,
+          "longitude": 18.69556
+        }
+      ]
+    },
+    {
+      "code": "ME-11",
+      "name": {
+        "en": "Mojkovac"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Mojkovac"
+          },
+          "latitude": 42.96044,
+          "longitude": 19.5833
+        }
+      ]
+    },
+    {
+      "code": "ME-12",
+      "name": {
+        "en": "Nikšić"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Nikšić"
+          },
+          "latitude": 42.7731,
+          "longitude": 18.94446
+        }
+      ]
+    },
+    {
+      "code": "ME-06",
+      "name": {
+        "en": "Old Royal Capital Cetinje"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Cetinje",
+            "ar": "ستنيي"
+          },
+          "latitude": 42.39063,
+          "longitude": 18.91417
+        }
+      ]
+    },
+    {
+      "code": "ME-13",
+      "name": {
+        "en": "Plav"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Plav"
+          },
+          "latitude": 42.59694,
+          "longitude": 19.94556
+        }
+      ]
+    },
+    {
+      "code": "ME-14",
+      "name": {
+        "en": "Pljevlja"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Pljevlja"
+          },
+          "latitude": 43.3567,
+          "longitude": 19.35843
+        }
+      ]
+    },
+    {
+      "code": "ME-15",
+      "name": {
+        "en": "Plužine"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Plužine"
+          },
+          "latitude": 43.15278,
+          "longitude": 18.83944
+        }
+      ]
+    },
+    {
+      "code": "ME-16",
+      "name": {
+        "en": "Podgorica"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Goričani"
+          },
+          "latitude": 42.33222,
+          "longitude": 19.21194
+        },
+        {
+          "name": {
+            "en": "Mojanovići"
+          },
+          "latitude": 42.34167,
+          "longitude": 19.22139
+        },
+        {
+          "name": {
+            "en": "Podgorica",
+            "ar": "بودغوريتسا"
+          },
+          "latitude": 42.44111,
+          "longitude": 19.26361
+        }
+      ]
+    },
+    {
+      "code": "ME-17",
+      "name": {
+        "en": "Rožaje"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Rožaje"
+          },
+          "latitude": 42.83299,
+          "longitude": 20.16652
+        }
+      ]
+    },
+    {
+      "code": "ME-18",
+      "name": {
+        "en": "Šavnik"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Šavnik"
+          },
+          "latitude": 42.95639,
+          "longitude": 19.09667
+        }
+      ]
+    },
+    {
+      "code": "ME-19",
+      "name": {
+        "en": "Tivat"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Tivat"
+          },
+          "latitude": 42.43639,
+          "longitude": 18.69611
+        }
+      ]
+    },
+    {
+      "code": "ME-24",
+      "name": {
+        "en": "Tuzi"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Dinoša"
+          },
+          "latitude": 42.38333,
+          "longitude": 19.38333
+        },
+        {
+          "name": {
+            "en": "Mataguži"
+          },
+          "latitude": 42.35,
+          "longitude": 19.41667
+        },
+        {
+          "name": {
+            "en": "Tuzi"
+          },
+          "latitude": 42.36667,
+          "longitude": 19.4
+        }
+      ]
+    },
+    {
+      "code": "ME-20",
+      "name": {
+        "en": "Ulcinj"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ulcinj"
+          },
+          "latitude": 41.92936,
+          "longitude": 19.22436
+        }
+      ]
+    },
+    {
+      "code": "ME-21",
+      "name": {
+        "en": "Žabljak"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Žabljak"
+          },
+          "latitude": 43.15423,
+          "longitude": 19.12325
+        }
+      ]
+    },
+    {
+      "code": "ME-25",
+      "name": {
+        "en": "Zeta"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Golubovci"
+          },
+          "latitude": 42.36667,
+          "longitude": 19.23333
+        },
+        {
+          "name": {
+            "en": "Ponari"
+          },
+          "latitude": 42.4,
+          "longitude": 19.28333
+        }
+      ]
+    }
+  ]
+}

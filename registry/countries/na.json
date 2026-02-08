@@ -1,0 +1,473 @@
+{
+  "code": "NA",
+  "iso3": "NAM",
+  "name": {
+    "en": "Namibia",
+    "ar": "ناميبيا",
+    "de": "Namibia",
+    "es": "Namibia",
+    "fr": "Namibie",
+    "hi": "नामिबिया",
+    "it": "Namibia",
+    "ja": "ナミビア",
+    "ko": "나미비아",
+    "nl": "Namibië",
+    "pl": "Namibia",
+    "pt": "Namíbia",
+    "pt-BR": "Namíbia",
+    "ru": "Намибия",
+    "tr": "Namibya",
+    "uk": "Намібія",
+    "zh": "纳米比亚"
+  },
+  "phone": "+264",
+  "currency": "NAD",
+  "timezone": "Africa/Windhoek",
+  "flag": "🇳🇦",
+  "regions": [
+    {
+      "code": "NA-ER",
+      "name": {
+        "en": "Erongo"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Arandis"
+          },
+          "latitude": -22.41667,
+          "longitude": 14.96667
+        },
+        {
+          "name": {
+            "en": "Hentiesbaai"
+          },
+          "latitude": -22.11667,
+          "longitude": 14.28333
+        },
+        {
+          "name": {
+            "en": "Karibib"
+          },
+          "latitude": -21.93333,
+          "longitude": 15.83333
+        },
+        {
+          "name": {
+            "en": "Omaruru"
+          },
+          "latitude": -21.43333,
+          "longitude": 15.93333
+        },
+        {
+          "name": {
+            "en": "Otjimbingwe"
+          },
+          "latitude": -22.35,
+          "longitude": 16.13333
+        },
+        {
+          "name": {
+            "en": "Swakopmund"
+          },
+          "latitude": -22.67842,
+          "longitude": 14.52663
+        },
+        {
+          "name": {
+            "en": "Swakopmund Constituency"
+          },
+          "latitude": -22.63199,
+          "longitude": 14.60119
+        },
+        {
+          "name": {
+            "en": "Usakos"
+          },
+          "latitude": -22,
+          "longitude": 15.6
+        },
+        {
+          "name": {
+            "en": "Walvis Bay",
+            "ar": "ولفس بي"
+          },
+          "latitude": -22.9575,
+          "longitude": 14.50528
+        }
+      ]
+    },
+    {
+      "code": "NA-HA",
+      "name": {
+        "en": "Hardap"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Aranos"
+          },
+          "latitude": -24.13333,
+          "longitude": 19.11667
+        },
+        {
+          "name": {
+            "en": "Hoachanas"
+          },
+          "latitude": -23.91667,
+          "longitude": 18.05
+        },
+        {
+          "name": {
+            "en": "Maltahöhe"
+          },
+          "latitude": -24.83333,
+          "longitude": 16.98333
+        },
+        {
+          "name": {
+            "en": "Mariental"
+          },
+          "latitude": -24.63333,
+          "longitude": 17.96667
+        },
+        {
+          "name": {
+            "en": "Rehoboth",
+            "ar": "ريهوبوث"
+          },
+          "latitude": -23.317,
+          "longitude": 17.09
+        }
+      ]
+    },
+    {
+      "code": "NA-KA",
+      "name": {
+        "en": "Karas"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bethanie"
+          },
+          "latitude": -26.48333,
+          "longitude": 17.15
+        },
+        {
+          "name": {
+            "en": "Karasburg"
+          },
+          "latitude": -28.01667,
+          "longitude": 18.75
+        },
+        {
+          "name": {
+            "en": "Keetmanshoop"
+          },
+          "latitude": -26.58333,
+          "longitude": 18.13333
+        },
+        {
+          "name": {
+            "en": "Lüderitz",
+            "ar": "لودريتز"
+          },
+          "latitude": -26.64807,
+          "longitude": 15.15383
+        },
+        {
+          "name": {
+            "en": "Oranjemund"
+          },
+          "latitude": -28.55,
+          "longitude": 16.43333
+        },
+        {
+          "name": {
+            "en": "Tses"
+          },
+          "latitude": -25.88333,
+          "longitude": 18
+        },
+        {
+          "name": {
+            "en": "Warmbad"
+          },
+          "latitude": -28.45,
+          "longitude": 18.73333
+        }
+      ]
+    },
+    {
+      "code": "NA-KE",
+      "name": {
+        "en": "Kavango East"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Rundu"
+          },
+          "latitude": -17.93333,
+          "longitude": 19.76667
+        }
+      ]
+    },
+    {
+      "code": "NA-KH",
+      "name": {
+        "en": "Khomas"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Katutura"
+          },
+          "latitude": -22.52306,
+          "longitude": 17.06028
+        },
+        {
+          "name": {
+            "en": "Windhoek",
+            "ar": "ويندهوك"
+          },
+          "latitude": -22.55941,
+          "longitude": 17.08323
+        }
+      ]
+    },
+    {
+      "code": "NA-KU",
+      "name": {
+        "en": "Kunene"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Epupa Constituency"
+          },
+          "latitude": -17.00388,
+          "longitude": 13.24825
+        },
+        {
+          "name": {
+            "en": "Khorixas"
+          },
+          "latitude": -20.36667,
+          "longitude": 14.96667
+        },
+        {
+          "name": {
+            "en": "Khorixas Constituency"
+          },
+          "latitude": -20.36792,
+          "longitude": 14.95996
+        },
+        {
+          "name": {
+            "en": "Opuwo"
+          },
+          "latitude": -18.06068,
+          "longitude": 13.83998
+        },
+        {
+          "name": {
+            "en": "Opuwo Constituency"
+          },
+          "latitude": -18.54247,
+          "longitude": 13.51617
+        },
+        {
+          "name": {
+            "en": "Outjo"
+          },
+          "latitude": -20.11667,
+          "longitude": 16.15
+        },
+        {
+          "name": {
+            "en": "Sesfontein Constituency"
+          },
+          "latitude": -19.56106,
+          "longitude": 13.7653
+        }
+      ]
+    },
+    {
+      "code": "NA-OW",
+      "name": {
+        "en": "Ohangwena"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Oshikango"
+          },
+          "latitude": -17.4,
+          "longitude": 15.88333
+        }
+      ]
+    },
+    {
+      "code": "NA-OH",
+      "name": {
+        "en": "Omaheke"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Gobabis"
+          },
+          "latitude": -22.45,
+          "longitude": 18.96667
+        }
+      ]
+    },
+    {
+      "code": "NA-OS",
+      "name": {
+        "en": "Omusati"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Okahao"
+          },
+          "latitude": -17.88758,
+          "longitude": 15.06677
+        },
+        {
+          "name": {
+            "en": "Ongandjera"
+          },
+          "latitude": -17.88333,
+          "longitude": 15.06667
+        },
+        {
+          "name": {
+            "en": "Outapi"
+          },
+          "latitude": -17.5,
+          "longitude": 14.98333
+        }
+      ]
+    },
+    {
+      "code": "NA-ON",
+      "name": {
+        "en": "Oshana"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ondangwa"
+          },
+          "latitude": -17.91667,
+          "longitude": 15.95
+        },
+        {
+          "name": {
+            "en": "Ongwediva"
+          },
+          "latitude": -17.78333,
+          "longitude": 15.76667
+        },
+        {
+          "name": {
+            "en": "Oshakati"
+          },
+          "latitude": -17.78833,
+          "longitude": 15.70436
+        }
+      ]
+    },
+    {
+      "code": "NA-OT",
+      "name": {
+        "en": "Oshikoto"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Omuthiya"
+          },
+          "latitude": -18.36463,
+          "longitude": 16.58146
+        },
+        {
+          "name": {
+            "en": "Tsumeb"
+          },
+          "latitude": -19.23333,
+          "longitude": 17.71667
+        }
+      ]
+    },
+    {
+      "code": "NA-OD",
+      "name": {
+        "en": "Otjozondjupa"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Grootfontein"
+          },
+          "latitude": -19.56667,
+          "longitude": 18.11667
+        },
+        {
+          "name": {
+            "en": "Okahandja"
+          },
+          "latitude": -21.98333,
+          "longitude": 16.91667
+        },
+        {
+          "name": {
+            "en": "Okakarara"
+          },
+          "latitude": -20.58333,
+          "longitude": 17.43333
+        },
+        {
+          "name": {
+            "en": "Otavi"
+          },
+          "latitude": -19.65,
+          "longitude": 17.33333
+        },
+        {
+          "name": {
+            "en": "Otjiwarongo"
+          },
+          "latitude": -20.46369,
+          "longitude": 16.64772
+        }
+      ]
+    },
+    {
+      "code": "NA-CA",
+      "name": {
+        "en": "Zambezi"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bagani"
+          },
+          "latitude": -18.11065,
+          "longitude": 21.61645
+        },
+        {
+          "name": {
+            "en": "Katima Mulilo"
+          },
+          "latitude": -17.5,
+          "longitude": 24.26667
+        }
+      ]
+    }
+  ]
+}

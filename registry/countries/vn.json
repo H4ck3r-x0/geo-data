@@ -1,0 +1,3724 @@
+{
+  "code": "VN",
+  "iso3": "VNM",
+  "name": {
+    "en": "Vietnam",
+    "ar": "فيتنام",
+    "de": "Vietnam",
+    "es": "Vietnam",
+    "fr": "Viêt Nam",
+    "hi": "वियतनाम",
+    "it": "Vietnam",
+    "ja": "ベトナム",
+    "ko": "베트남",
+    "nl": "Vietnam",
+    "pl": "Wietnam",
+    "pt": "Vietname",
+    "pt-BR": "Vietnã",
+    "ru": "Вьетнам",
+    "tr": "Vietnam",
+    "uk": "В'єтнам",
+    "zh": "越南"
+  },
+  "phone": "+84",
+  "currency": "VND",
+  "timezone": "Asia/Ho_Chi_Minh",
+  "flag": "🇻🇳",
+  "regions": [
+    {
+      "code": "VN-44",
+      "name": {
+        "en": "An Giang"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Cho Dok"
+          },
+          "latitude": 10.7,
+          "longitude": 105.11667
+        },
+        {
+          "name": {
+            "en": "Dương Đông"
+          },
+          "latitude": 10.21716,
+          "longitude": 103.95929
+        },
+        {
+          "name": {
+            "en": "Hà Tiên"
+          },
+          "latitude": 10.3831,
+          "longitude": 104.48753
+        },
+        {
+          "name": {
+            "en": "Huyện An Biên"
+          },
+          "latitude": 9.81291,
+          "longitude": 105.0523
+        },
+        {
+          "name": {
+            "en": "Huyện An Minh"
+          },
+          "latitude": 9.66704,
+          "longitude": 104.94848
+        },
+        {
+          "name": {
+            "en": "Huyện An Phú"
+          },
+          "latitude": 10.84274,
+          "longitude": 105.0899
+        },
+        {
+          "name": {
+            "en": "Huyện Châu Phú"
+          },
+          "latitude": 10.57166,
+          "longitude": 105.16991
+        },
+        {
+          "name": {
+            "en": "Huyện Châu Thành"
+          },
+          "latitude": 9.94372,
+          "longitude": 105.16868
+        },
+        {
+          "name": {
+            "en": "Huyện Chợ Mới"
+          },
+          "latitude": 10.4773,
+          "longitude": 105.49092
+        },
+        {
+          "name": {
+            "en": "Huyện Giồng Riềng"
+          },
+          "latitude": 9.91224,
+          "longitude": 105.37311
+        },
+        {
+          "name": {
+            "en": "Huyện Gò Quao"
+          },
+          "latitude": 9.74027,
+          "longitude": 105.29766
+        },
+        {
+          "name": {
+            "en": "Huyện Hòn Đất"
+          },
+          "latitude": 10.22908,
+          "longitude": 104.9528
+        },
+        {
+          "name": {
+            "en": "Huyện Kiên Hải"
+          },
+          "latitude": 9.83971,
+          "longitude": 104.6156
+        },
+        {
+          "name": {
+            "en": "Huyện Phú Quốc"
+          },
+          "latitude": 10.25516,
+          "longitude": 104.01455
+        },
+        {
+          "name": {
+            "en": "Huyện Phú Tân"
+          },
+          "latitude": 10.65716,
+          "longitude": 105.28459
+        },
+        {
+          "name": {
+            "en": "Huyện Tân Hiệp"
+          },
+          "latitude": 10.0954,
+          "longitude": 105.25936
+        },
+        {
+          "name": {
+            "en": "Huyện Tri Tôn"
+          },
+          "latitude": 10.41416,
+          "longitude": 104.96136
+        },
+        {
+          "name": {
+            "en": "Huyện Vĩnh Thuận"
+          },
+          "latitude": 9.53306,
+          "longitude": 105.2449
+        },
+        {
+          "name": {
+            "en": "Kien Luong Town"
+          },
+          "latitude": 10.24892,
+          "longitude": 104.59
+        },
+        {
+          "name": {
+            "en": "Long Xuyên"
+          },
+          "latitude": 10.38639,
+          "longitude": 105.43518
+        },
+        {
+          "name": {
+            "en": "Rạch Giá"
+          },
+          "latitude": 10.01245,
+          "longitude": 105.08091
+        }
+      ]
+    },
+    {
+      "code": "VN-56",
+      "name": {
+        "en": "Bắc Ninh"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bắc Giang"
+          },
+          "latitude": 21.27307,
+          "longitude": 106.1946
+        },
+        {
+          "name": {
+            "en": "Bắc Ninh"
+          },
+          "latitude": 21.18608,
+          "longitude": 106.07631
+        },
+        {
+          "name": {
+            "en": "Cung Kiệm"
+          },
+          "latitude": 21.18697,
+          "longitude": 106.16076
+        },
+        {
+          "name": {
+            "en": "Huyện Gia Bình"
+          },
+          "latitude": 21.07795,
+          "longitude": 106.20903
+        },
+        {
+          "name": {
+            "en": "Huyện Lục Nam"
+          },
+          "latitude": 21.27548,
+          "longitude": 106.46519
+        },
+        {
+          "name": {
+            "en": "Huyện Lục Ngạn"
+          },
+          "latitude": 21.43719,
+          "longitude": 106.65845
+        },
+        {
+          "name": {
+            "en": "Huyện Thuận Thành"
+          },
+          "latitude": 21.04085,
+          "longitude": 106.07515
+        },
+        {
+          "name": {
+            "en": "Huyện Tiên Du"
+          },
+          "latitude": 21.12195,
+          "longitude": 106.03995
+        },
+        {
+          "name": {
+            "en": "Huyện Yên Phong"
+          },
+          "latitude": 21.20676,
+          "longitude": 105.99427
+        },
+        {
+          "name": {
+            "en": "Huyện Yên Thế"
+          },
+          "latitude": 21.51667,
+          "longitude": 106.11689
+        }
+      ]
+    },
+    {
+      "code": "VN-59",
+      "name": {
+        "en": "Cà Mau"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bạc Liêu"
+          },
+          "latitude": 9.29414,
+          "longitude": 105.72776
+        },
+        {
+          "name": {
+            "en": "Cà Mau"
+          },
+          "latitude": 9.17682,
+          "longitude": 105.15242
+        },
+        {
+          "name": {
+            "en": "Huyện Cái Nước"
+          },
+          "latitude": 9.00094,
+          "longitude": 105.04201
+        },
+        {
+          "name": {
+            "en": "Huyện Đầm Dơi"
+          },
+          "latitude": 8.96029,
+          "longitude": 105.24107
+        },
+        {
+          "name": {
+            "en": "Huyện Giá Rai"
+          },
+          "latitude": 9.27162,
+          "longitude": 105.40017
+        },
+        {
+          "name": {
+            "en": "Huyện Hồng Dân"
+          },
+          "latitude": 9.53822,
+          "longitude": 105.42242
+        },
+        {
+          "name": {
+            "en": "Huyen Nam Can"
+          },
+          "latitude": 8.81531,
+          "longitude": 105.05574
+        },
+        {
+          "name": {
+            "en": "Huyện Thới Bình"
+          },
+          "latitude": 9.3579,
+          "longitude": 105.16023
+        }
+      ]
+    },
+    {
+      "code": "VN-CT",
+      "name": {
+        "en": "Cần Thơ"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Cần Thơ"
+          },
+          "latitude": 10.11667,
+          "longitude": 105.5
+        },
+        {
+          "name": {
+            "en": "Cờ Đỏ"
+          },
+          "latitude": 10.09472222,
+          "longitude": 105.43194444
+        },
+        {
+          "name": {
+            "en": "Huyện Châu Thành A"
+          },
+          "latitude": 9.93056,
+          "longitude": 105.64194
+        },
+        {
+          "name": {
+            "en": "Huyện Kế Sách"
+          },
+          "latitude": 9.81771,
+          "longitude": 105.9419
+        },
+        {
+          "name": {
+            "en": "Huyện Long Phú"
+          },
+          "latitude": 9.63715,
+          "longitude": 106.08226
+        },
+        {
+          "name": {
+            "en": "Huyện Mỹ Tú"
+          },
+          "latitude": 9.60849,
+          "longitude": 105.80681
+        },
+        {
+          "name": {
+            "en": "Huyện Mỹ Xuyên"
+          },
+          "latitude": 9.442,
+          "longitude": 105.88546
+        },
+        {
+          "name": {
+            "en": "Huyen Nga Nam"
+          },
+          "latitude": 9.56127,
+          "longitude": 105.59476
+        },
+        {
+          "name": {
+            "en": "Huyện Thạnh Trị"
+          },
+          "latitude": 9.46939,
+          "longitude": 105.71196
+        },
+        {
+          "name": {
+            "en": "Sóc Trăng"
+          },
+          "latitude": 9.59995,
+          "longitude": 105.97193
+        },
+        {
+          "name": {
+            "en": "Thới Lai"
+          },
+          "latitude": 10.06305556,
+          "longitude": 105.56083333
+        },
+        {
+          "name": {
+            "en": "Vị Thanh"
+          },
+          "latitude": 9.78449,
+          "longitude": 105.47012
+        },
+        {
+          "name": {
+            "en": "Vĩnh Thạnh"
+          },
+          "latitude": 10.21916667,
+          "longitude": 105.40111111
+        }
+      ]
+    },
+    {
+      "code": "VN-04",
+      "name": {
+        "en": "Cao Bằng"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Cao Bằng"
+          },
+          "latitude": 22.66568,
+          "longitude": 106.25786
+        },
+        {
+          "name": {
+            "en": "Huyện Bảo Lac"
+          },
+          "latitude": 22.90085,
+          "longitude": 105.73332
+        },
+        {
+          "name": {
+            "en": "Huyện Bảo Lâm"
+          },
+          "latitude": 22.87041,
+          "longitude": 105.4878
+        },
+        {
+          "name": {
+            "en": "Huyện Hạ Lang"
+          },
+          "latitude": 22.70933,
+          "longitude": 106.67657
+        },
+        {
+          "name": {
+            "en": "Huyện Hà Quảng"
+          },
+          "latitude": 22.90763,
+          "longitude": 106.12487
+        },
+        {
+          "name": {
+            "en": "Huyện Nguyên Bình"
+          },
+          "latitude": 22.624,
+          "longitude": 105.93248
+        },
+        {
+          "name": {
+            "en": "Huyen Phuc Hoa"
+          },
+          "latitude": 22.5384,
+          "longitude": 106.51039
+        },
+        {
+          "name": {
+            "en": "Huyện Thạch An"
+          },
+          "latitude": 22.47654,
+          "longitude": 106.34237
+        },
+        {
+          "name": {
+            "en": "Huyện Thông Nông"
+          },
+          "latitude": 22.80735,
+          "longitude": 105.95846
+        },
+        {
+          "name": {
+            "en": "Huyện Trà Lĩnh"
+          },
+          "latitude": 22.80961,
+          "longitude": 106.32543
+        },
+        {
+          "name": {
+            "en": "Huyện Trùng Khánh"
+          },
+          "latitude": 22.83333,
+          "longitude": 106.56074
+        }
+      ]
+    },
+    {
+      "code": "VN-DN",
+      "name": {
+        "en": "Đà Nẵng"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Da Nang"
+          },
+          "latitude": 16.06778,
+          "longitude": 108.22083
+        },
+        {
+          "name": {
+            "en": "Hội An",
+            "ar": "هوي أن"
+          },
+          "latitude": 15.87944,
+          "longitude": 108.335
+        },
+        {
+          "name": {
+            "en": "Huyện Duy Xuyên"
+          },
+          "latitude": 15.7897,
+          "longitude": 108.20247
+        },
+        {
+          "name": {
+            "en": "Huyện Đại Lộc"
+          },
+          "latitude": 15.83721,
+          "longitude": 107.97894
+        },
+        {
+          "name": {
+            "en": "Huyện Điện Bàn"
+          },
+          "latitude": 15.89917,
+          "longitude": 108.2247
+        },
+        {
+          "name": {
+            "en": "Huyện Hiệp Đức"
+          },
+          "latitude": 15.53857,
+          "longitude": 108.09539
+        },
+        {
+          "name": {
+            "en": "Huyện Nam Giang"
+          },
+          "latitude": 15.63201,
+          "longitude": 107.60267
+        },
+        {
+          "name": {
+            "en": "Huyện Núi Thành"
+          },
+          "latitude": 15.43345,
+          "longitude": 108.57438
+        },
+        {
+          "name": {
+            "en": "Huyện Phước Sơn"
+          },
+          "latitude": 15.38806,
+          "longitude": 107.85766
+        },
+        {
+          "name": {
+            "en": "Huyện Tiên Phước"
+          },
+          "latitude": 15.4709,
+          "longitude": 108.28257
+        },
+        {
+          "name": {
+            "en": "Huyện Trà My"
+          },
+          "latitude": 15.25,
+          "longitude": 108.08333
+        },
+        {
+          "name": {
+            "en": "Tam Kỳ"
+          },
+          "latitude": 15.57364,
+          "longitude": 108.47403
+        }
+      ]
+    },
+    {
+      "code": "VN-33",
+      "name": {
+        "en": "Đắk Lắk"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Buôn Ma Thuột"
+          },
+          "latitude": 12.66747,
+          "longitude": 108.03775
+        },
+        {
+          "name": {
+            "en": "Huyện Buôn Đôn"
+          },
+          "latitude": 12.90396,
+          "longitude": 107.7387
+        },
+        {
+          "name": {
+            "en": "Huyện Ea H'Leo"
+          },
+          "latitude": 13.31814,
+          "longitude": 108.07148
+        },
+        {
+          "name": {
+            "en": "Huyện Ea Súp"
+          },
+          "latitude": 13.18279,
+          "longitude": 107.79954
+        },
+        {
+          "name": {
+            "en": "Huyện Sơn Hòa"
+          },
+          "latitude": 13.15868,
+          "longitude": 108.97281
+        },
+        {
+          "name": {
+            "en": "Huyện Sông Hinh"
+          },
+          "latitude": 12.91667,
+          "longitude": 108.91667
+        },
+        {
+          "name": {
+            "en": "Sông Cầu"
+          },
+          "latitude": 13.4556,
+          "longitude": 109.22348
+        },
+        {
+          "name": {
+            "en": "Tuy Hòa"
+          },
+          "latitude": 13.09546,
+          "longitude": 109.32094
+        }
+      ]
+    },
+    {
+      "code": "VN-71",
+      "name": {
+        "en": "Điện Biên"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Dien Bien Phu"
+          },
+          "latitude": 21.38602,
+          "longitude": 103.02301
+        },
+        {
+          "name": {
+            "en": "Huyện Điện Biên Đông"
+          },
+          "latitude": 21.25266,
+          "longitude": 103.269
+        },
+        {
+          "name": {
+            "en": "Huyện Mường Nhé"
+          },
+          "latitude": 22.10353,
+          "longitude": 102.58465
+        },
+        {
+          "name": {
+            "en": "Huyện Tủa Chùa"
+          },
+          "latitude": 21.95357,
+          "longitude": 103.37332
+        },
+        {
+          "name": {
+            "en": "Huyện Tuần Giáo"
+          },
+          "latitude": 21.69481,
+          "longitude": 103.41758
+        },
+        {
+          "name": {
+            "en": "Thị Xã Mưòng Lay"
+          },
+          "latitude": 22.03374,
+          "longitude": 103.12331
+        }
+      ]
+    },
+    {
+      "code": "VN-39",
+      "name": {
+        "en": "Đồng Nai"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Biên Hòa"
+          },
+          "latitude": 10.94469,
+          "longitude": 106.82432
+        },
+        {
+          "name": {
+            "en": "Bình Long"
+          },
+          "latitude": 11.64711,
+          "longitude": 106.60586
+        },
+        {
+          "name": {
+            "en": "Don Luan"
+          },
+          "latitude": 11.53495,
+          "longitude": 106.88324
+        },
+        {
+          "name": {
+            "en": "Huyện Bù Đốp"
+          },
+          "latitude": 12.00374,
+          "longitude": 106.81545
+        },
+        {
+          "name": {
+            "en": "Huyện Chơn Thành"
+          },
+          "latitude": 11.46283,
+          "longitude": 106.66655
+        },
+        {
+          "name": {
+            "en": "Huyện Định Quán"
+          },
+          "latitude": 11.21866,
+          "longitude": 107.33959
+        },
+        {
+          "name": {
+            "en": "Huyện Đồng Phú"
+          },
+          "latitude": 11.50071,
+          "longitude": 107.01192
+        },
+        {
+          "name": {
+            "en": "Huyện Hớn Quản"
+          },
+          "latitude": 11.59718,
+          "longitude": 106.62739
+        },
+        {
+          "name": {
+            "en": "Huyện Long Thành"
+          },
+          "latitude": 10.76162,
+          "longitude": 107.02688
+        },
+        {
+          "name": {
+            "en": "Huyện Tân Phú"
+          },
+          "latitude": 11.39867,
+          "longitude": 107.39976
+        },
+        {
+          "name": {
+            "en": "Huyện Thống Nhất"
+          },
+          "latitude": 10.97764,
+          "longitude": 107.15909
+        },
+        {
+          "name": {
+            "en": "Huyện Trảng Bom"
+          },
+          "latitude": 10.96624,
+          "longitude": 107.03614
+        },
+        {
+          "name": {
+            "en": "Huyện Vĩnh Cửu"
+          },
+          "latitude": 11.25725,
+          "longitude": 107.02773
+        },
+        {
+          "name": {
+            "en": "Thị Xã Phước Long"
+          },
+          "latitude": 11.81142,
+          "longitude": 106.9967
+        }
+      ]
+    },
+    {
+      "code": "VN-45",
+      "name": {
+        "en": "Đồng Tháp"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Cao Lãnh"
+          },
+          "latitude": 10.46017,
+          "longitude": 105.63294
+        },
+        {
+          "name": {
+            "en": "Huyện Cái Bè"
+          },
+          "latitude": 10.38824,
+          "longitude": 105.9462
+        },
+        {
+          "name": {
+            "en": "Huyện Cai Lậy"
+          },
+          "latitude": 10.38943,
+          "longitude": 106.06774
+        },
+        {
+          "name": {
+            "en": "Huyện Châu Thành"
+          },
+          "latitude": 10.386,
+          "longitude": 106.27311
+        },
+        {
+          "name": {
+            "en": "Huyện Chợ Gạo"
+          },
+          "latitude": 10.37373,
+          "longitude": 106.44341
+        },
+        {
+          "name": {
+            "en": "Huyện Gò Công Đông"
+          },
+          "latitude": 10.36784,
+          "longitude": 106.74592
+        },
+        {
+          "name": {
+            "en": "Huyện Gò Công Tây"
+          },
+          "latitude": 10.34527,
+          "longitude": 106.59851
+        },
+        {
+          "name": {
+            "en": "Huyện Lai Vung"
+          },
+          "latitude": 10.24051,
+          "longitude": 105.66327
+        },
+        {
+          "name": {
+            "en": "Huyện Lấp Vò"
+          },
+          "latitude": 10.35918,
+          "longitude": 105.60611
+        },
+        {
+          "name": {
+            "en": "Huyện Tam Nông"
+          },
+          "latitude": 10.72761,
+          "longitude": 105.52522
+        },
+        {
+          "name": {
+            "en": "Huyện Tân Hồng"
+          },
+          "latitude": 10.87089,
+          "longitude": 105.49104
+        },
+        {
+          "name": {
+            "en": "Huyện Tân Phước"
+          },
+          "latitude": 10.51489,
+          "longitude": 106.23312
+        },
+        {
+          "name": {
+            "en": "Huyện Thanh Bình"
+          },
+          "latitude": 10.60137,
+          "longitude": 105.47811
+        },
+        {
+          "name": {
+            "en": "Huyện Tháp Mười"
+          },
+          "latitude": 10.54398,
+          "longitude": 105.81875
+        },
+        {
+          "name": {
+            "en": "Mỹ Tho"
+          },
+          "latitude": 10.36004,
+          "longitude": 106.35996
+        },
+        {
+          "name": {
+            "en": "Sa Dec"
+          },
+          "latitude": 10.29085,
+          "longitude": 105.75635
+        },
+        {
+          "name": {
+            "en": "Thành Phố Mỹ Tho"
+          },
+          "latitude": 10.36221,
+          "longitude": 106.36824
+        },
+        {
+          "name": {
+            "en": "Thị Trấn Tân Thành"
+          },
+          "latitude": 10.25616,
+          "longitude": 105.5928
+        },
+        {
+          "name": {
+            "en": "Thị Xã Gò Công"
+          },
+          "latitude": 10.40005,
+          "longitude": 106.65847
+        }
+      ]
+    },
+    {
+      "code": "VN-30",
+      "name": {
+        "en": "Gia Lai"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Huyện An Lão"
+          },
+          "latitude": 14.55676,
+          "longitude": 108.801
+        },
+        {
+          "name": {
+            "en": "Huyện Chư Păh"
+          },
+          "latitude": 14.15941,
+          "longitude": 107.98411
+        },
+        {
+          "name": {
+            "en": "Huyện Chư Prông"
+          },
+          "latitude": 13.59976,
+          "longitude": 107.81099
+        },
+        {
+          "name": {
+            "en": "Huyện Chư Sê"
+          },
+          "latitude": 13.74254,
+          "longitude": 108.08663
+        },
+        {
+          "name": {
+            "en": "Huyện Đức Cơ"
+          },
+          "latitude": 13.78454,
+          "longitude": 107.6697
+        },
+        {
+          "name": {
+            "en": "Huyện Hoài Nhơn"
+          },
+          "latitude": 14.50535,
+          "longitude": 109.02315
+        },
+        {
+          "name": {
+            "en": "Huyện Ia Grai"
+          },
+          "latitude": 13.98937,
+          "longitude": 107.7374
+        },
+        {
+          "name": {
+            "en": "Huyện KBang"
+          },
+          "latitude": 14.30506,
+          "longitude": 108.49779
+        },
+        {
+          "name": {
+            "en": "Huyện Kông Chro"
+          },
+          "latitude": 13.73519,
+          "longitude": 108.59697
+        },
+        {
+          "name": {
+            "en": "Huyện Krông Pa"
+          },
+          "latitude": 13.23152,
+          "longitude": 108.65494
+        },
+        {
+          "name": {
+            "en": "Huyện Mang Yang"
+          },
+          "latitude": 13.9284,
+          "longitude": 108.30246
+        },
+        {
+          "name": {
+            "en": "Huyện Phù Mỹ"
+          },
+          "latitude": 14.22304,
+          "longitude": 109.08611
+        },
+        {
+          "name": {
+            "en": "Huyện Tây Sơn"
+          },
+          "latitude": 13.94306,
+          "longitude": 108.87999
+        },
+        {
+          "name": {
+            "en": "Huyện Tuy Phước"
+          },
+          "latitude": 13.84564,
+          "longitude": 109.15275
+        },
+        {
+          "name": {
+            "en": "Huyện Vĩnh Thạnh"
+          },
+          "latitude": 14.211,
+          "longitude": 108.74389
+        },
+        {
+          "name": {
+            "en": "Pleiku"
+          },
+          "latitude": 13.98333,
+          "longitude": 108
+        },
+        {
+          "name": {
+            "en": "Qui Nhon"
+          },
+          "latitude": 13.77648,
+          "longitude": 109.22367
+        }
+      ]
+    },
+    {
+      "code": "VN-HN",
+      "name": {
+        "en": "Hà Nội"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ba Đình"
+          },
+          "latitude": 21.0348233,
+          "longitude": 105.808547
+        },
+        {
+          "name": {
+            "en": "Ba Vì"
+          },
+          "latitude": 21.1559059,
+          "longitude": 105.2146361
+        },
+        {
+          "name": {
+            "en": "Bắc Từ Liêm"
+          },
+          "latitude": 21.0714868,
+          "longitude": 105.7199226
+        },
+        {
+          "name": {
+            "en": "Cầu Giấy"
+          },
+          "latitude": 21.0302216,
+          "longitude": 105.7494733
+        },
+        {
+          "name": {
+            "en": "Chương Mỹ"
+          },
+          "latitude": 20.8786344,
+          "longitude": 105.5731324
+        },
+        {
+          "name": {
+            "en": "Đan Phượng"
+          },
+          "latitude": 21.1207337,
+          "longitude": 105.5991076
+        },
+        {
+          "name": {
+            "en": "Đông Anh"
+          },
+          "latitude": 21.1368331,
+          "longitude": 105.7475324
+        },
+        {
+          "name": {
+            "en": "Đống Đa"
+          },
+          "latitude": 21.0146601,
+          "longitude": 105.7995514
+        },
+        {
+          "name": {
+            "en": "Gia Lâm"
+          },
+          "latitude": 21.0240579,
+          "longitude": 105.7853473
+        },
+        {
+          "name": {
+            "en": "Hà Đông"
+          },
+          "latitude": 20.9539496,
+          "longitude": 105.7136901
+        },
+        {
+          "name": {
+            "en": "Hai Bà Trưng"
+          },
+          "latitude": 21.0067597,
+          "longitude": 105.8412663
+        },
+        {
+          "name": {
+            "en": "Hoài Đức"
+          },
+          "latitude": 21.0230026,
+          "longitude": 105.6121945
+        },
+        {
+          "name": {
+            "en": "Hoàn Kiếm"
+          },
+          "latitude": 21.0304457,
+          "longitude": 105.8335861
+        },
+        {
+          "name": {
+            "en": "Hoàng Mai"
+          },
+          "latitude": 20.9740471,
+          "longitude": 105.817047
+        },
+        {
+          "name": {
+            "en": "Long Biên"
+          },
+          "latitude": 21.0380317,
+          "longitude": 105.8490984
+        },
+        {
+          "name": {
+            "en": "Mê Linh"
+          },
+          "latitude": 21.1807846,
+          "longitude": 105.6211298
+        },
+        {
+          "name": {
+            "en": "Mỹ Đức"
+          },
+          "latitude": 20.6974544,
+          "longitude": 105.5658285
+        },
+        {
+          "name": {
+            "en": "Nam Từ Liêm"
+          },
+          "latitude": 21.0178909,
+          "longitude": 105.7210868
+        },
+        {
+          "name": {
+            "en": "Phú Xuyên"
+          },
+          "latitude": 20.7290054,
+          "longitude": 105.8149112
+        },
+        {
+          "name": {
+            "en": "Phúc Thọ"
+          },
+          "latitude": 21.109931,
+          "longitude": 105.5005913
+        },
+        {
+          "name": {
+            "en": "Quốc Oai"
+          },
+          "latitude": 20.978456,
+          "longitude": 105.4380093
+        },
+        {
+          "name": {
+            "en": "Sóc Sơn"
+          },
+          "latitude": 21.2813931,
+          "longitude": 105.6661888
+        },
+        {
+          "name": {
+            "en": "Sơn Tây"
+          },
+          "latitude": 21.0968334,
+          "longitude": 105.3938595
+        },
+        {
+          "name": {
+            "en": "Tây Hồ"
+          },
+          "latitude": 21.0688219,
+          "longitude": 105.7792043
+        },
+        {
+          "name": {
+            "en": "Thạch Thất"
+          },
+          "latitude": 21.0240883,
+          "longitude": 105.351025
+        },
+        {
+          "name": {
+            "en": "Thanh Oai"
+          },
+          "latitude": 20.860027,
+          "longitude": 105.7015836
+        },
+        {
+          "name": {
+            "en": "Thanh Trì"
+          },
+          "latitude": 20.9417602,
+          "longitude": 105.7682179
+        },
+        {
+          "name": {
+            "en": "Thanh Xuân"
+          },
+          "latitude": 20.9948255,
+          "longitude": 105.7969604
+        },
+        {
+          "name": {
+            "en": "Thường Tín"
+          },
+          "latitude": 20.8322342,
+          "longitude": 105.7919213
+        },
+        {
+          "name": {
+            "en": "Ứng Hòa"
+          },
+          "latitude": 20.7109791,
+          "longitude": 105.6364852
+        }
+      ]
+    },
+    {
+      "code": "VN-23",
+      "name": {
+        "en": "Hà Tĩnh"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Hà Tĩnh"
+          },
+          "latitude": 18.34282,
+          "longitude": 105.90569
+        },
+        {
+          "name": {
+            "en": "Huyện Cẩm Xuyên"
+          },
+          "latitude": 18.19059,
+          "longitude": 106.00186
+        },
+        {
+          "name": {
+            "en": "Huyện Can Lộc"
+          },
+          "latitude": 18.44414,
+          "longitude": 105.7635
+        },
+        {
+          "name": {
+            "en": "Huyện Ðức Thọ"
+          },
+          "latitude": 18.49699,
+          "longitude": 105.61016
+        },
+        {
+          "name": {
+            "en": "Huyện Kỳ Anh"
+          },
+          "latitude": 18.05805,
+          "longitude": 106.2458
+        },
+        {
+          "name": {
+            "en": "Huyện Nghi Xuân"
+          },
+          "latitude": 18.62419,
+          "longitude": 105.76829
+        },
+        {
+          "name": {
+            "en": "Huyện Thạch Hà"
+          },
+          "latitude": 18.35091,
+          "longitude": 105.81123
+        }
+      ]
+    },
+    {
+      "code": "VN-HP",
+      "name": {
+        "en": "Hải Phòng"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Cát Bà"
+          },
+          "latitude": 20.72779,
+          "longitude": 107.04819
+        },
+        {
+          "name": {
+            "en": "Hải Dương"
+          },
+          "latitude": 20.94099,
+          "longitude": 106.33302
+        },
+        {
+          "name": {
+            "en": "Haiphong",
+            "ar": "هايفونغ"
+          },
+          "latitude": 20.86481,
+          "longitude": 106.68345
+        },
+        {
+          "name": {
+            "en": "Huyện Bình Giang"
+          },
+          "latitude": 20.87586,
+          "longitude": 106.19138
+        },
+        {
+          "name": {
+            "en": "Huyện Cẩm Giàng"
+          },
+          "latitude": 20.95,
+          "longitude": 106.21667
+        },
+        {
+          "name": {
+            "en": "Huyện Gia Lộc"
+          },
+          "latitude": 20.85164,
+          "longitude": 106.2913
+        },
+        {
+          "name": {
+            "en": "Huyện Kinh Môn"
+          },
+          "latitude": 21.01634,
+          "longitude": 106.50384
+        },
+        {
+          "name": {
+            "en": "Huyện Nam Sách"
+          },
+          "latitude": 21.00484,
+          "longitude": 106.34042
+        },
+        {
+          "name": {
+            "en": "Huyện Thanh Miện"
+          },
+          "latitude": 20.77953,
+          "longitude": 106.22218
+        },
+        {
+          "name": {
+            "en": "Thị Xã Chí Linh"
+          },
+          "latitude": 21.13722,
+          "longitude": 106.39638
+        }
+      ]
+    },
+    {
+      "code": "VN-SG",
+      "name": {
+        "en": "Hồ Chí Minh"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Cần Giờ"
+          },
+          "latitude": 10.41115,
+          "longitude": 106.95474
+        },
+        {
+          "name": {
+            "en": "Côn Sơn"
+          },
+          "latitude": 8.68641,
+          "longitude": 106.60824
+        },
+        {
+          "name": {
+            "en": "Củ Chi"
+          },
+          "latitude": 10.97333,
+          "longitude": 106.49325
+        },
+        {
+          "name": {
+            "en": "Dĩ An"
+          },
+          "latitude": 10.90682,
+          "longitude": 106.7694
+        },
+        {
+          "name": {
+            "en": "Ho Chi Minh City",
+            "ar": "مدينة هو تشي مينه"
+          },
+          "latitude": 10.82302,
+          "longitude": 106.62965
+        },
+        {
+          "name": {
+            "en": "Huyện Châu Đức"
+          },
+          "latitude": 10.65805,
+          "longitude": 107.25098
+        },
+        {
+          "name": {
+            "en": "Huyện Đất Đỏ"
+          },
+          "latitude": 10.48025,
+          "longitude": 107.27879
+        },
+        {
+          "name": {
+            "en": "Huyện Tân Thành"
+          },
+          "latitude": 10.57381,
+          "longitude": 107.10189
+        },
+        {
+          "name": {
+            "en": "Huyện Xuyên Mộc"
+          },
+          "latitude": 10.63048,
+          "longitude": 107.46568
+        },
+        {
+          "name": {
+            "en": "Thành Phố Vũng Tàu"
+          },
+          "latitude": 10.40239,
+          "longitude": 107.14239
+        },
+        {
+          "name": {
+            "en": "Thị Xã Phú Mỹ"
+          },
+          "latitude": 10.56815,
+          "longitude": 107.12999
+        },
+        {
+          "name": {
+            "en": "Thủ Dầu Một"
+          },
+          "latitude": 10.9804,
+          "longitude": 106.6519
+        },
+        {
+          "name": {
+            "en": "Vũng Tàu"
+          },
+          "latitude": 10.34599,
+          "longitude": 107.08426
+        }
+      ]
+    },
+    {
+      "code": "VN-66",
+      "name": {
+        "en": "Hưng Yên"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Hưng Yên"
+          },
+          "latitude": 20.64637,
+          "longitude": 106.05112
+        },
+        {
+          "name": {
+            "en": "Huyện Ân Thi"
+          },
+          "latitude": 20.81086,
+          "longitude": 106.09995
+        },
+        {
+          "name": {
+            "en": "Huyện Ðông Hưng"
+          },
+          "latitude": 20.54388,
+          "longitude": 106.3409
+        },
+        {
+          "name": {
+            "en": "Huyện Hưng Hà"
+          },
+          "latitude": 20.59464,
+          "longitude": 106.2123
+        },
+        {
+          "name": {
+            "en": "Huyện Khoái Châu"
+          },
+          "latitude": 20.8217,
+          "longitude": 105.97455
+        },
+        {
+          "name": {
+            "en": "Huyện Kiến Xương"
+          },
+          "latitude": 20.40081,
+          "longitude": 106.42032
+        },
+        {
+          "name": {
+            "en": "Huyện Kim Động"
+          },
+          "latitude": 20.74645,
+          "longitude": 106.03632
+        },
+        {
+          "name": {
+            "en": "Huyện Mỹ Hào"
+          },
+          "latitude": 20.9321,
+          "longitude": 106.1063
+        },
+        {
+          "name": {
+            "en": "Huyện Phù Cừ"
+          },
+          "latitude": 20.70997,
+          "longitude": 106.19744
+        },
+        {
+          "name": {
+            "en": "Huyện Quỳnh Phụ"
+          },
+          "latitude": 20.65095,
+          "longitude": 106.36359
+        },
+        {
+          "name": {
+            "en": "Huyện Thái Thụy"
+          },
+          "latitude": 20.53916,
+          "longitude": 106.51688
+        },
+        {
+          "name": {
+            "en": "Huyện Tiền Hải"
+          },
+          "latitude": 20.38465,
+          "longitude": 106.52882
+        },
+        {
+          "name": {
+            "en": "Huyện Tiên Lữ"
+          },
+          "latitude": 20.6849,
+          "longitude": 106.12513
+        },
+        {
+          "name": {
+            "en": "Huyện Vũ Thư"
+          },
+          "latitude": 20.43732,
+          "longitude": 106.26529
+        },
+        {
+          "name": {
+            "en": "Thái Bình"
+          },
+          "latitude": 20.45,
+          "longitude": 106.34002
+        }
+      ]
+    },
+    {
+      "code": "VN-34",
+      "name": {
+        "en": "Khánh Hòa"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Cam Ranh"
+          },
+          "latitude": 11.92144,
+          "longitude": 109.15913
+        },
+        {
+          "name": {
+            "en": "Huyện Diên Khánh"
+          },
+          "latitude": 12.27341,
+          "longitude": 109.0389
+        },
+        {
+          "name": {
+            "en": "Huyện Khánh Sơn"
+          },
+          "latitude": 12.02858,
+          "longitude": 108.90814
+        },
+        {
+          "name": {
+            "en": "Huyện Khánh Vĩnh"
+          },
+          "latitude": 12.30593,
+          "longitude": 108.83073
+        },
+        {
+          "name": {
+            "en": "Huyện Vạn Ninh"
+          },
+          "latitude": 12.72344,
+          "longitude": 109.24586
+        },
+        {
+          "name": {
+            "en": "Nha Trang",
+            "ar": "نها ترانج"
+          },
+          "latitude": 12.24507,
+          "longitude": 109.19432
+        },
+        {
+          "name": {
+            "en": "Phan Rang-Tháp Chàm"
+          },
+          "latitude": 11.56432,
+          "longitude": 108.98858
+        },
+        {
+          "name": {
+            "en": "Thành Phố Cam Ranh"
+          },
+          "latitude": 11.90707,
+          "longitude": 109.14861
+        },
+        {
+          "name": {
+            "en": "Thành Phố Nha Trang"
+          },
+          "latitude": 12.25458,
+          "longitude": 109.16655
+        },
+        {
+          "name": {
+            "en": "Thị Xã Ninh Hòa"
+          },
+          "latitude": 12.53796,
+          "longitude": 109.06057
+        }
+      ]
+    },
+    {
+      "code": "VN-01",
+      "name": {
+        "en": "Lai Châu"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Huyện Mưòng Tè"
+          },
+          "latitude": 22.37443,
+          "longitude": 102.73835
+        },
+        {
+          "name": {
+            "en": "Huyện Tam Đường"
+          },
+          "latitude": 22.35391,
+          "longitude": 103.59342
+        },
+        {
+          "name": {
+            "en": "Huyện Than Uyên"
+          },
+          "latitude": 21.91424,
+          "longitude": 103.82857
+        }
+      ]
+    },
+    {
+      "code": "VN-35",
+      "name": {
+        "en": "Lâm Đồng"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bảo Lộc"
+          },
+          "latitude": 11.54798,
+          "longitude": 107.80772
+        },
+        {
+          "name": {
+            "en": "Đam Rong"
+          },
+          "latitude": 12.05409,
+          "longitude": 108.14941
+        },
+        {
+          "name": {
+            "en": "Đinh Văn"
+          },
+          "latitude": 11.78624,
+          "longitude": 108.24282
+        },
+        {
+          "name": {
+            "en": "Đưc Trọng"
+          },
+          "latitude": 11.73559,
+          "longitude": 108.3733
+        },
+        {
+          "name": {
+            "en": "Ðà Lạt"
+          },
+          "latitude": 11.94646,
+          "longitude": 108.44193
+        },
+        {
+          "name": {
+            "en": "Huyện Bắc Bình"
+          },
+          "latitude": 11.27571,
+          "longitude": 108.38506
+        },
+        {
+          "name": {
+            "en": "Huyện Bảo Lâm"
+          },
+          "latitude": 11.71163,
+          "longitude": 107.75338
+        },
+        {
+          "name": {
+            "en": "Huyện Cư Jút"
+          },
+          "latitude": 12.69591,
+          "longitude": 107.76316
+        },
+        {
+          "name": {
+            "en": "Huyện Đạ Huoai"
+          },
+          "latitude": 11.42465,
+          "longitude": 107.63825
+        },
+        {
+          "name": {
+            "en": "Huyện Đạ Tẻh"
+          },
+          "latitude": 11.58446,
+          "longitude": 107.52792
+        },
+        {
+          "name": {
+            "en": "Huyện Đắk R’Lấp"
+          },
+          "latitude": 11.8799,
+          "longitude": 107.52244
+        },
+        {
+          "name": {
+            "en": "Huyện Đơn Dương"
+          },
+          "latitude": 11.75308,
+          "longitude": 108.55397
+        },
+        {
+          "name": {
+            "en": "Huyện Đức Trọng"
+          },
+          "latitude": 11.62686,
+          "longitude": 108.3533
+        },
+        {
+          "name": {
+            "en": "Huyện Hàm Tân"
+          },
+          "latitude": 10.76856,
+          "longitude": 107.64233
+        },
+        {
+          "name": {
+            "en": "Huyện Hàm Thuận Bắc"
+          },
+          "latitude": 11.14703,
+          "longitude": 108.08172
+        },
+        {
+          "name": {
+            "en": "Huyện Hàm Thuận Nam"
+          },
+          "latitude": 10.92101,
+          "longitude": 107.93325
+        },
+        {
+          "name": {
+            "en": "Huyện Krông Nô"
+          },
+          "latitude": 12.36285,
+          "longitude": 107.83445
+        },
+        {
+          "name": {
+            "en": "Huyện Lâm Hà"
+          },
+          "latitude": 11.8189,
+          "longitude": 108.21215
+        },
+        {
+          "name": {
+            "en": "Huyện Tánh Linh"
+          },
+          "latitude": 11.11367,
+          "longitude": 107.68427
+        },
+        {
+          "name": {
+            "en": "Huyện Tuy Phong"
+          },
+          "latitude": 11.34746,
+          "longitude": 108.70466
+        },
+        {
+          "name": {
+            "en": "La Gi"
+          },
+          "latitude": 10.65993,
+          "longitude": 107.77206
+        },
+        {
+          "name": {
+            "en": "Phan Thiết"
+          },
+          "latitude": 10.92889,
+          "longitude": 108.10208
+        },
+        {
+          "name": {
+            "en": "Thành Phố Phan Thiết"
+          },
+          "latitude": 10.937,
+          "longitude": 108.15778
+        }
+      ]
+    },
+    {
+      "code": "VN-09",
+      "name": {
+        "en": "Lạng Sơn"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Huyện Bắc Sơn"
+          },
+          "latitude": 21.83801,
+          "longitude": 106.2769
+        },
+        {
+          "name": {
+            "en": "Huyện Bình Gia"
+          },
+          "latitude": 22.07281,
+          "longitude": 106.3041
+        },
+        {
+          "name": {
+            "en": "Huyện Cao Lộc"
+          },
+          "latitude": 21.89857,
+          "longitude": 106.85435
+        },
+        {
+          "name": {
+            "en": "Huyện Chi Lăng"
+          },
+          "latitude": 21.67602,
+          "longitude": 106.62925
+        },
+        {
+          "name": {
+            "en": "Huyện Đình Lập"
+          },
+          "latitude": 21.5421,
+          "longitude": 107.12925
+        },
+        {
+          "name": {
+            "en": "Huyện Hũu Lũng"
+          },
+          "latitude": 21.54474,
+          "longitude": 106.34386
+        },
+        {
+          "name": {
+            "en": "Huyện Vặn Quan"
+          },
+          "latitude": 21.83333,
+          "longitude": 106.54942
+        },
+        {
+          "name": {
+            "en": "Lạng Sơn"
+          },
+          "latitude": 21.85264,
+          "longitude": 106.76101
+        }
+      ]
+    },
+    {
+      "code": "VN-02",
+      "name": {
+        "en": "Lào Cai"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Huyện Bắc Hà"
+          },
+          "latitude": 22.50998,
+          "longitude": 104.30769
+        },
+        {
+          "name": {
+            "en": "Huyện Bảo Yên"
+          },
+          "latitude": 22.26109,
+          "longitude": 104.46424
+        },
+        {
+          "name": {
+            "en": "Huyện Bát Xát"
+          },
+          "latitude": 22.56767,
+          "longitude": 103.71339
+        },
+        {
+          "name": {
+            "en": "Huyện Lục Yên"
+          },
+          "latitude": 22.10235,
+          "longitude": 104.72538
+        },
+        {
+          "name": {
+            "en": "Huyện Mù Cang Chải"
+          },
+          "latitude": 21.78815,
+          "longitude": 104.11998
+        },
+        {
+          "name": {
+            "en": "Huyện Mường Khương"
+          },
+          "latitude": 22.67111,
+          "longitude": 104.11772
+        },
+        {
+          "name": {
+            "en": "Huyện Sa Pa"
+          },
+          "latitude": 22.33769,
+          "longitude": 103.84037
+        },
+        {
+          "name": {
+            "en": "Huyện Si Ma Cai"
+          },
+          "latitude": 22.67161,
+          "longitude": 104.27326
+        },
+        {
+          "name": {
+            "en": "Huyện Trạm Tấu"
+          },
+          "latitude": 21.48553,
+          "longitude": 104.42756
+        },
+        {
+          "name": {
+            "en": "Huyện Trấn Yên"
+          },
+          "latitude": 21.66586,
+          "longitude": 104.79702
+        },
+        {
+          "name": {
+            "en": "Huyện Văn Bàn"
+          },
+          "latitude": 22.07002,
+          "longitude": 104.18122
+        },
+        {
+          "name": {
+            "en": "Huyện Văn Chấn"
+          },
+          "latitude": 21.55722,
+          "longitude": 104.64038
+        },
+        {
+          "name": {
+            "en": "Huyện Văn Yên"
+          },
+          "latitude": 21.90022,
+          "longitude": 104.56669
+        },
+        {
+          "name": {
+            "en": "Lào Cai"
+          },
+          "latitude": 22.48556,
+          "longitude": 103.97066
+        },
+        {
+          "name": {
+            "en": "Lao Chải"
+          },
+          "latitude": 22.31377,
+          "longitude": 103.86844
+        },
+        {
+          "name": {
+            "en": "Sa Pa"
+          },
+          "latitude": 22.34023,
+          "longitude": 103.84415
+        },
+        {
+          "name": {
+            "en": "Yên Bái"
+          },
+          "latitude": 21.72288,
+          "longitude": 104.9113
+        }
+      ]
+    },
+    {
+      "code": "VN-22",
+      "name": {
+        "en": "Nghệ An"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Huyện Anh Sơn"
+          },
+          "latitude": 18.92902,
+          "longitude": 105.08294
+        },
+        {
+          "name": {
+            "en": "Huyện Con Cuông"
+          },
+          "latitude": 19.03898,
+          "longitude": 104.80353
+        },
+        {
+          "name": {
+            "en": "Huyện Diễn Châu"
+          },
+          "latitude": 18.98892,
+          "longitude": 105.57625
+        },
+        {
+          "name": {
+            "en": "Huyện Đô Lương"
+          },
+          "latitude": 18.89259,
+          "longitude": 105.34027
+        },
+        {
+          "name": {
+            "en": "Huyện Hưng Nguyên"
+          },
+          "latitude": 18.67811,
+          "longitude": 105.62523
+        },
+        {
+          "name": {
+            "en": "Huyện Kỳ Sơn"
+          },
+          "latitude": 19.42397,
+          "longitude": 104.22199
+        },
+        {
+          "name": {
+            "en": "Huyện Nam Đàn"
+          },
+          "latitude": 18.67041,
+          "longitude": 105.52575
+        },
+        {
+          "name": {
+            "en": "Huyện Nghi Lộc"
+          },
+          "latitude": 18.83131,
+          "longitude": 105.62411
+        },
+        {
+          "name": {
+            "en": "Huyện Nghĩa Đàn"
+          },
+          "latitude": 19.38234,
+          "longitude": 105.44072
+        },
+        {
+          "name": {
+            "en": "Huyện Quế Phong"
+          },
+          "latitude": 19.70177,
+          "longitude": 104.87913
+        },
+        {
+          "name": {
+            "en": "Huyện Quỳ Châu"
+          },
+          "latitude": 19.55707,
+          "longitude": 105.09173
+        },
+        {
+          "name": {
+            "en": "Huyện Quỳ Hợp"
+          },
+          "latitude": 19.32514,
+          "longitude": 105.16009
+        },
+        {
+          "name": {
+            "en": "Huyện Quỳnh Lưu"
+          },
+          "latitude": 19.22717,
+          "longitude": 105.64354
+        },
+        {
+          "name": {
+            "en": "Huyện Thanh Chương"
+          },
+          "latitude": 18.73929,
+          "longitude": 105.24053
+        },
+        {
+          "name": {
+            "en": "Huyện Tương Dương"
+          },
+          "latitude": 19.30979,
+          "longitude": 104.57788
+        },
+        {
+          "name": {
+            "en": "Huyện Yên Thành"
+          },
+          "latitude": 19.02724,
+          "longitude": 105.43649
+        },
+        {
+          "name": {
+            "en": "Vinh",
+            "ar": "فينه"
+          },
+          "latitude": 18.67337,
+          "longitude": 105.69232
+        },
+        {
+          "name": {
+            "en": "Yên Vinh"
+          },
+          "latitude": 18.66667,
+          "longitude": 105.66667
+        }
+      ]
+    },
+    {
+      "code": "VN-18",
+      "name": {
+        "en": "Ninh Bình"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Huyện Bình Lục"
+          },
+          "latitude": 20.50126,
+          "longitude": 106.02959
+        },
+        {
+          "name": {
+            "en": "Huyện Duy Tiên"
+          },
+          "latitude": 20.62803,
+          "longitude": 105.96193
+        },
+        {
+          "name": {
+            "en": "Huyện Giao Thủy"
+          },
+          "latitude": 20.25706,
+          "longitude": 106.46245
+        },
+        {
+          "name": {
+            "en": "Huyện Hải Hậu"
+          },
+          "latitude": 20.15057,
+          "longitude": 106.27161
+        },
+        {
+          "name": {
+            "en": "Huyện Hoa Lư"
+          },
+          "latitude": 20.25391,
+          "longitude": 105.90789
+        },
+        {
+          "name": {
+            "en": "Huyện Kim Bảng"
+          },
+          "latitude": 20.57254,
+          "longitude": 105.85043
+        },
+        {
+          "name": {
+            "en": "Huyện Kim Sơn"
+          },
+          "latitude": 20.06034,
+          "longitude": 106.09863
+        },
+        {
+          "name": {
+            "en": "Huyện Lý Nhân"
+          },
+          "latitude": 20.56422,
+          "longitude": 106.09455
+        },
+        {
+          "name": {
+            "en": "Huyện Mỹ Lộc"
+          },
+          "latitude": 20.46079,
+          "longitude": 106.12319
+        },
+        {
+          "name": {
+            "en": "Huyện Nam Trực"
+          },
+          "latitude": 20.34106,
+          "longitude": 106.20821
+        },
+        {
+          "name": {
+            "en": "Huyện Nghĩa Hưng"
+          },
+          "latitude": 20.10598,
+          "longitude": 106.17345
+        },
+        {
+          "name": {
+            "en": "Huyện Nho Quan"
+          },
+          "latitude": 20.27606,
+          "longitude": 105.75442
+        },
+        {
+          "name": {
+            "en": "Huyện Thanh Liêm"
+          },
+          "latitude": 20.46249,
+          "longitude": 105.921
+        },
+        {
+          "name": {
+            "en": "Huyện Trực Ninh"
+          },
+          "latitude": 20.2569,
+          "longitude": 106.24582
+        },
+        {
+          "name": {
+            "en": "Huyện Vụ Bản"
+          },
+          "latitude": 20.37705,
+          "longitude": 106.09707
+        },
+        {
+          "name": {
+            "en": "Huyện Ý Yên"
+          },
+          "latitude": 20.31669,
+          "longitude": 106.02327
+        },
+        {
+          "name": {
+            "en": "Huyện Yên Khánh"
+          },
+          "latitude": 20.19017,
+          "longitude": 106.09605
+        },
+        {
+          "name": {
+            "en": "Huyện Yên Mô"
+          },
+          "latitude": 20.12984,
+          "longitude": 106.00199
+        },
+        {
+          "name": {
+            "en": "Nam Định"
+          },
+          "latitude": 20.43389,
+          "longitude": 106.17729
+        },
+        {
+          "name": {
+            "en": "Ninh Bình"
+          },
+          "latitude": 20.25809,
+          "longitude": 105.97965
+        },
+        {
+          "name": {
+            "en": "Phủ Lý"
+          },
+          "latitude": 20.54531,
+          "longitude": 105.91221
+        }
+      ]
+    },
+    {
+      "code": "VN-68",
+      "name": {
+        "en": "Phú Thọ"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Hòa Bình"
+          },
+          "latitude": 20.81717,
+          "longitude": 105.33759
+        },
+        {
+          "name": {
+            "en": "Huyện Bình Xuyên"
+          },
+          "latitude": 21.30561,
+          "longitude": 105.66225
+        },
+        {
+          "name": {
+            "en": "Huyện Cẩm Khê"
+          },
+          "latitude": 21.40683,
+          "longitude": 105.09845
+        },
+        {
+          "name": {
+            "en": "Huyện Cao Phong"
+          },
+          "latitude": 20.69532,
+          "longitude": 105.33559
+        },
+        {
+          "name": {
+            "en": "Huyện Đoan Hùng"
+          },
+          "latitude": 21.61776,
+          "longitude": 105.1611
+        },
+        {
+          "name": {
+            "en": "Huyện Hạ Hòa"
+          },
+          "latitude": 21.57763,
+          "longitude": 104.99464
+        },
+        {
+          "name": {
+            "en": "Huyện Kỳ Sơn"
+          },
+          "latitude": 20.89631,
+          "longitude": 105.39659
+        },
+        {
+          "name": {
+            "en": "Huyện Lạc Thủy"
+          },
+          "latitude": 20.49794,
+          "longitude": 105.74092
+        },
+        {
+          "name": {
+            "en": "Huyen Lam Thao"
+          },
+          "latitude": 21.29971,
+          "longitude": 105.31119
+        },
+        {
+          "name": {
+            "en": "Huyện Lương Sơn"
+          },
+          "latitude": 20.8765,
+          "longitude": 105.51219
+        },
+        {
+          "name": {
+            "en": "Huyện Tam Dương"
+          },
+          "latitude": 21.36189,
+          "longitude": 105.5569
+        },
+        {
+          "name": {
+            "en": "Huyện Tam Đảo"
+          },
+          "latitude": 21.4569,
+          "longitude": 105.5946
+        },
+        {
+          "name": {
+            "en": "Huyện Tân Lạc"
+          },
+          "latitude": 20.60557,
+          "longitude": 105.23399
+        },
+        {
+          "name": {
+            "en": "Huyện Thanh Ba"
+          },
+          "latitude": 21.47816,
+          "longitude": 105.15881
+        },
+        {
+          "name": {
+            "en": "Huyện Yên Lạc"
+          },
+          "latitude": 21.21845,
+          "longitude": 105.57586
+        },
+        {
+          "name": {
+            "en": "Huyện Yên Lập"
+          },
+          "latitude": 21.35569,
+          "longitude": 105.00493
+        },
+        {
+          "name": {
+            "en": "Thành Phố Việt Trì"
+          },
+          "latitude": 21.32958,
+          "longitude": 105.39217
+        },
+        {
+          "name": {
+            "en": "Thị xã Phú Thọ"
+          },
+          "latitude": 21.41664,
+          "longitude": 105.23636
+        },
+        {
+          "name": {
+            "en": "Việt Trì"
+          },
+          "latitude": 21.32274,
+          "longitude": 105.40198
+        },
+        {
+          "name": {
+            "en": "Vĩnh Yên"
+          },
+          "latitude": 21.30891,
+          "longitude": 105.60489
+        }
+      ]
+    },
+    {
+      "code": "VN-29",
+      "name": {
+        "en": "Quảng Ngãi"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Huyện Ba Tơ"
+          },
+          "latitude": 14.73973,
+          "longitude": 108.69326
+        },
+        {
+          "name": {
+            "en": "Huyện Bình Sơn"
+          },
+          "latitude": 15.31899,
+          "longitude": 108.76383
+        },
+        {
+          "name": {
+            "en": "Huyện Đắk Glei"
+          },
+          "latitude": 15.11358,
+          "longitude": 107.75093
+        },
+        {
+          "name": {
+            "en": "Huyện Đắk Hà"
+          },
+          "latitude": 14.60326,
+          "longitude": 107.98547
+        },
+        {
+          "name": {
+            "en": "Huyện Đắk Tô"
+          },
+          "latitude": 14.70087,
+          "longitude": 107.80816
+        },
+        {
+          "name": {
+            "en": "Huyện Đức Phổ"
+          },
+          "latitude": 14.78,
+          "longitude": 108.97857
+        },
+        {
+          "name": {
+            "en": "Huyện Ia H'Drai"
+          },
+          "latitude": 14.06032,
+          "longitude": 107.46243
+        },
+        {
+          "name": {
+            "en": "Huyện Kon Plông"
+          },
+          "latitude": 14.7562,
+          "longitude": 108.32057
+        },
+        {
+          "name": {
+            "en": "Huyện Lý Sơn"
+          },
+          "latitude": 15.40608,
+          "longitude": 109.09707
+        },
+        {
+          "name": {
+            "en": "Huyện Minh Long"
+          },
+          "latitude": 14.95375,
+          "longitude": 108.67724
+        },
+        {
+          "name": {
+            "en": "Huyện Mộ Đức"
+          },
+          "latitude": 14.95515,
+          "longitude": 108.88841
+        },
+        {
+          "name": {
+            "en": "Huyện Nghĩa Hành"
+          },
+          "latitude": 14.98712,
+          "longitude": 108.80036
+        },
+        {
+          "name": {
+            "en": "Huyện Ngọc Hồi"
+          },
+          "latitude": 14.7194,
+          "longitude": 107.62636
+        },
+        {
+          "name": {
+            "en": "Huyện Sa Thầy"
+          },
+          "latitude": 14.3205,
+          "longitude": 107.59862
+        },
+        {
+          "name": {
+            "en": "Huyện Sơn Hà"
+          },
+          "latitude": 14.98427,
+          "longitude": 108.53643
+        },
+        {
+          "name": {
+            "en": "Huyện Sơn Tây"
+          },
+          "latitude": 14.96392,
+          "longitude": 108.36419
+        },
+        {
+          "name": {
+            "en": "Huyện Sơn Tịnh"
+          },
+          "latitude": 15.1909,
+          "longitude": 108.74295
+        },
+        {
+          "name": {
+            "en": "Huyện Trà Bồng"
+          },
+          "latitude": 15.23752,
+          "longitude": 108.52633
+        },
+        {
+          "name": {
+            "en": "Huyện Tư Nghĩa"
+          },
+          "latitude": 15.09499,
+          "longitude": 108.77053
+        },
+        {
+          "name": {
+            "en": "Kon Tum"
+          },
+          "latitude": 14.35451,
+          "longitude": 108.00759
+        },
+        {
+          "name": {
+            "en": "Quảng Ngãi"
+          },
+          "latitude": 15.12047,
+          "longitude": 108.79232
+        }
+      ]
+    },
+    {
+      "code": "VN-13",
+      "name": {
+        "en": "Quảng Ninh"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Cẩm Phả",
+            "ar": "كام فا"
+          },
+          "latitude": 21.01004,
+          "longitude": 107.27345
+        },
+        {
+          "name": {
+            "en": "Cẩm Phả Mines"
+          },
+          "latitude": 21.01667,
+          "longitude": 107.3
+        },
+        {
+          "name": {
+            "en": "Hạ Long"
+          },
+          "latitude": 20.95045,
+          "longitude": 107.07336
+        },
+        {
+          "name": {
+            "en": "Huyện Ba Chẽ"
+          },
+          "latitude": 21.29503,
+          "longitude": 107.19298
+        },
+        {
+          "name": {
+            "en": "Huyện Bình Liêu"
+          },
+          "latitude": 21.54389,
+          "longitude": 107.44047
+        },
+        {
+          "name": {
+            "en": "Huyện Cô Tô"
+          },
+          "latitude": 21.05418,
+          "longitude": 107.80698
+        },
+        {
+          "name": {
+            "en": "Huyện Đầm Hà"
+          },
+          "latitude": 21.39689,
+          "longitude": 107.56175
+        },
+        {
+          "name": {
+            "en": "Huyện Đông Triều"
+          },
+          "latitude": 21.11043,
+          "longitude": 106.59662
+        },
+        {
+          "name": {
+            "en": "Huyện Hải Hà"
+          },
+          "latitude": 21.49537,
+          "longitude": 107.6679
+        },
+        {
+          "name": {
+            "en": "Huyện Hoành Bồ"
+          },
+          "latitude": 21.11888,
+          "longitude": 107.03149
+        },
+        {
+          "name": {
+            "en": "Huyện Tiên Yên"
+          },
+          "latitude": 21.37571,
+          "longitude": 107.37468
+        },
+        {
+          "name": {
+            "en": "Huyện Vân Đồn"
+          },
+          "latitude": 21.04921,
+          "longitude": 107.50971
+        },
+        {
+          "name": {
+            "en": "Móng Cái"
+          },
+          "latitude": 21.52471,
+          "longitude": 107.96619
+        },
+        {
+          "name": {
+            "en": "Thành Phố Uông Bí"
+          },
+          "latitude": 21.03433,
+          "longitude": 106.77049
+        }
+      ]
+    },
+    {
+      "code": "VN-25",
+      "name": {
+        "en": "Quảng Trị"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ðông Hà"
+          },
+          "latitude": 16.81625,
+          "longitude": 107.10031
+        },
+        {
+          "name": {
+            "en": "Huyện Cam Lộ"
+          },
+          "latitude": 16.79335,
+          "longitude": 106.96175
+        },
+        {
+          "name": {
+            "en": "Huyện Đa Krông"
+          },
+          "latitude": 16.55543,
+          "longitude": 106.97208
+        },
+        {
+          "name": {
+            "en": "Huyện Gio Linh"
+          },
+          "latitude": 16.91667,
+          "longitude": 107
+        },
+        {
+          "name": {
+            "en": "Huyện Hải Lăng"
+          },
+          "latitude": 16.67574,
+          "longitude": 107.23388
+        },
+        {
+          "name": {
+            "en": "Huyện Hướng Hóa"
+          },
+          "latitude": 16.70132,
+          "longitude": 106.67036
+        },
+        {
+          "name": {
+            "en": "Huyện Lệ Thủy"
+          },
+          "latitude": 17.11239,
+          "longitude": 106.70471
+        },
+        {
+          "name": {
+            "en": "Huyện Quảng Ninh"
+          },
+          "latitude": 17.27067,
+          "longitude": 106.51387
+        },
+        {
+          "name": {
+            "en": "Huyện Quảng Trạch"
+          },
+          "latitude": 17.83447,
+          "longitude": 106.36705
+        },
+        {
+          "name": {
+            "en": "Huyện Triệu Phong"
+          },
+          "latitude": 16.78132,
+          "longitude": 107.16034
+        },
+        {
+          "name": {
+            "en": "Huyện Tuyên Hóa"
+          },
+          "latitude": 17.91323,
+          "longitude": 106.02678
+        },
+        {
+          "name": {
+            "en": "Huyện Vĩnh Linh"
+          },
+          "latitude": 17.016,
+          "longitude": 106.93384
+        },
+        {
+          "name": {
+            "en": "Kwang Binh"
+          },
+          "latitude": 17.46885,
+          "longitude": 106.62226
+        }
+      ]
+    },
+    {
+      "code": "VN-05",
+      "name": {
+        "en": "Sơn La"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Huyện Bắc Yên"
+          },
+          "latitude": 21.25042,
+          "longitude": 104.38501
+        },
+        {
+          "name": {
+            "en": "Huyện Mai Sơn"
+          },
+          "latitude": 21.15884,
+          "longitude": 104.04821
+        },
+        {
+          "name": {
+            "en": "Huyện Mộc Châu"
+          },
+          "latitude": 21.83333,
+          "longitude": 104.75
+        },
+        {
+          "name": {
+            "en": "Huyện Mường La"
+          },
+          "latitude": 21.5296,
+          "longitude": 104.11113
+        },
+        {
+          "name": {
+            "en": "Huyện Phù Yên"
+          },
+          "latitude": 21.21412,
+          "longitude": 104.68993
+        },
+        {
+          "name": {
+            "en": "Huyện Quỳnh Nhai"
+          },
+          "latitude": 21.77224,
+          "longitude": 103.6492
+        },
+        {
+          "name": {
+            "en": "Huyện Sông Mã"
+          },
+          "latitude": 21.06971,
+          "longitude": 103.68727
+        },
+        {
+          "name": {
+            "en": "Huyện Thuận Châu"
+          },
+          "latitude": 21.42319,
+          "longitude": 103.64408
+        },
+        {
+          "name": {
+            "en": "Huyện Yên Châu"
+          },
+          "latitude": 21.005,
+          "longitude": 104.33264
+        },
+        {
+          "name": {
+            "en": "Sơn La"
+          },
+          "latitude": 21.3256,
+          "longitude": 103.91882
+        }
+      ]
+    },
+    {
+      "code": "VN-37",
+      "name": {
+        "en": "Tây Ninh"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Cần Giuộc"
+          },
+          "latitude": 10.60857,
+          "longitude": 106.67135
+        },
+        {
+          "name": {
+            "en": "Huyện Bến Cầu"
+          },
+          "latitude": 11.12889,
+          "longitude": 106.14296
+        },
+        {
+          "name": {
+            "en": "Huyện Bến Lức"
+          },
+          "latitude": 10.68858,
+          "longitude": 106.45484
+        },
+        {
+          "name": {
+            "en": "Huyện Cần Đước"
+          },
+          "latitude": 10.54148,
+          "longitude": 106.59636
+        },
+        {
+          "name": {
+            "en": "Huyện Cần Giuộc"
+          },
+          "latitude": 10.57742,
+          "longitude": 106.67279
+        },
+        {
+          "name": {
+            "en": "Huyện Châu Thành"
+          },
+          "latitude": 10.45214,
+          "longitude": 106.49015
+        },
+        {
+          "name": {
+            "en": "Huyện Dương Minh Châu"
+          },
+          "latitude": 11.31833,
+          "longitude": 106.25697
+        },
+        {
+          "name": {
+            "en": "Huyện Đức Hòa"
+          },
+          "latitude": 10.87838,
+          "longitude": 106.42422
+        },
+        {
+          "name": {
+            "en": "Huyện Đức Huệ"
+          },
+          "latitude": 10.86473,
+          "longitude": 106.25914
+        },
+        {
+          "name": {
+            "en": "Huyện Gò Dầu"
+          },
+          "latitude": 11.15737,
+          "longitude": 106.27307
+        },
+        {
+          "name": {
+            "en": "Huyện Hòa Thành"
+          },
+          "latitude": 11.26706,
+          "longitude": 106.14486
+        },
+        {
+          "name": {
+            "en": "Huyện Mộc Hóa"
+          },
+          "latitude": 10.75166,
+          "longitude": 106.01729
+        },
+        {
+          "name": {
+            "en": "Huyện Tân Châu"
+          },
+          "latitude": 11.58739,
+          "longitude": 106.2827
+        },
+        {
+          "name": {
+            "en": "Huyện Tân Hưng"
+          },
+          "latitude": 10.8338,
+          "longitude": 105.68848
+        },
+        {
+          "name": {
+            "en": "Huyện Tân Thạnh"
+          },
+          "latitude": 10.60351,
+          "longitude": 105.96576
+        },
+        {
+          "name": {
+            "en": "Huyện Tân Trụ"
+          },
+          "latitude": 10.53182,
+          "longitude": 106.51644
+        },
+        {
+          "name": {
+            "en": "Huyện Thạnh Hóa"
+          },
+          "latitude": 10.66667,
+          "longitude": 106.16667
+        },
+        {
+          "name": {
+            "en": "Huyện Thủ Thừa"
+          },
+          "latitude": 10.65639,
+          "longitude": 106.3458
+        },
+        {
+          "name": {
+            "en": "Huyện Trảng Bàng"
+          },
+          "latitude": 11.0572,
+          "longitude": 106.37539
+        },
+        {
+          "name": {
+            "en": "Huyện Vĩnh Hưng"
+          },
+          "latitude": 10.88299,
+          "longitude": 105.80364
+        },
+        {
+          "name": {
+            "en": "Phú Khương"
+          },
+          "latitude": 11.28333,
+          "longitude": 106.13333
+        },
+        {
+          "name": {
+            "en": "Tân An"
+          },
+          "latitude": 10.53589,
+          "longitude": 106.41366
+        },
+        {
+          "name": {
+            "en": "Tây Ninh"
+          },
+          "latitude": 11.31004,
+          "longitude": 106.09828
+        }
+      ]
+    },
+    {
+      "code": "VN-69",
+      "name": {
+        "en": "Thái Nguyên"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bắc Kạn"
+          },
+          "latitude": 22.14701,
+          "longitude": 105.83481
+        },
+        {
+          "name": {
+            "en": "Huyện Ba Bể"
+          },
+          "latitude": 22.41667,
+          "longitude": 105.75
+        },
+        {
+          "name": {
+            "en": "Huyện Bạch Thông"
+          },
+          "latitude": 22.25758,
+          "longitude": 105.83295
+        },
+        {
+          "name": {
+            "en": "Huyện Chợ Đồn"
+          },
+          "latitude": 22.18681,
+          "longitude": 105.5728
+        },
+        {
+          "name": {
+            "en": "Huyện Na Rì"
+          },
+          "latitude": 22.17883,
+          "longitude": 106.11221
+        },
+        {
+          "name": {
+            "en": "Huyện Ngân Sơn"
+          },
+          "latitude": 22.42962,
+          "longitude": 106.0103
+        },
+        {
+          "name": {
+            "en": "Thái Nguyên"
+          },
+          "latitude": 21.59422,
+          "longitude": 105.84817
+        },
+        {
+          "name": {
+            "en": "Thị Xã Bắc Kạn"
+          },
+          "latitude": 22.1413,
+          "longitude": 105.83867
+        }
+      ]
+    },
+    {
+      "code": "VN-21",
+      "name": {
+        "en": "Thanh Hóa"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bỉm Sơn"
+          },
+          "latitude": 20.07806,
+          "longitude": 105.86028
+        },
+        {
+          "name": {
+            "en": "Huyện Bá Thước"
+          },
+          "latitude": 20.35767,
+          "longitude": 105.25301
+        },
+        {
+          "name": {
+            "en": "Huyện Cẩm Thủy"
+          },
+          "latitude": 20.19586,
+          "longitude": 105.46817
+        },
+        {
+          "name": {
+            "en": "Huyện Đông Sơn"
+          },
+          "latitude": 19.79742,
+          "longitude": 105.72465
+        },
+        {
+          "name": {
+            "en": "Huyện Hà Trung"
+          },
+          "latitude": 20.02654,
+          "longitude": 105.81931
+        },
+        {
+          "name": {
+            "en": "Huyện Hậu Lộc"
+          },
+          "latitude": 19.93337,
+          "longitude": 105.88894
+        },
+        {
+          "name": {
+            "en": "Huyện Lang Chánh"
+          },
+          "latitude": 20.15926,
+          "longitude": 105.15071
+        },
+        {
+          "name": {
+            "en": "Huyện Mường Lát"
+          },
+          "latitude": 20.52763,
+          "longitude": 104.62941
+        },
+        {
+          "name": {
+            "en": "Huyện Nga Sơn"
+          },
+          "latitude": 20.01561,
+          "longitude": 105.98975
+        },
+        {
+          "name": {
+            "en": "Huyện Ngọc Lặc"
+          },
+          "latitude": 20.06777,
+          "longitude": 105.37386
+        },
+        {
+          "name": {
+            "en": "Huyện Như Thanh"
+          },
+          "latitude": 19.57798,
+          "longitude": 105.55616
+        },
+        {
+          "name": {
+            "en": "Huyện Như Xuân"
+          },
+          "latitude": 19.62527,
+          "longitude": 105.38856
+        },
+        {
+          "name": {
+            "en": "Huyện Nông Cống"
+          },
+          "latitude": 19.61376,
+          "longitude": 105.68279
+        },
+        {
+          "name": {
+            "en": "Huyện Quan Hóa"
+          },
+          "latitude": 20.47565,
+          "longitude": 104.95335
+        },
+        {
+          "name": {
+            "en": "Huyện Quan Sơn"
+          },
+          "latitude": 20.25758,
+          "longitude": 104.83416
+        },
+        {
+          "name": {
+            "en": "Huyện Quảng Xương"
+          },
+          "latitude": 19.70252,
+          "longitude": 105.79298
+        },
+        {
+          "name": {
+            "en": "Huyện Thiệu Hóa"
+          },
+          "latitude": 19.89713,
+          "longitude": 105.68144
+        },
+        {
+          "name": {
+            "en": "Huyện Thọ Xuân"
+          },
+          "latitude": 19.93114,
+          "longitude": 105.48284
+        },
+        {
+          "name": {
+            "en": "Huyện Thường Xuân"
+          },
+          "latitude": 19.93684,
+          "longitude": 105.24109
+        },
+        {
+          "name": {
+            "en": "Huyện Triệu Sơn"
+          },
+          "latitude": 19.82578,
+          "longitude": 105.58293
+        },
+        {
+          "name": {
+            "en": "Huyện Vĩnh Lộc"
+          },
+          "latitude": 20.03482,
+          "longitude": 105.65755
+        },
+        {
+          "name": {
+            "en": "Huyện Yên Định"
+          },
+          "latitude": 19.98666,
+          "longitude": 105.61482
+        },
+        {
+          "name": {
+            "en": "Thanh Hóa",
+            "ar": "تانه هوا"
+          },
+          "latitude": 19.8,
+          "longitude": 105.76667
+        }
+      ]
+    },
+    {
+      "code": "VN-26",
+      "name": {
+        "en": "Thừa Thiên-Huế"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Huế"
+          },
+          "latitude": 16.4619,
+          "longitude": 107.59546
+        },
+        {
+          "name": {
+            "en": "Huyện A Lưới"
+          },
+          "latitude": 16.23422,
+          "longitude": 107.3065
+        },
+        {
+          "name": {
+            "en": "Huyện Nam Đông"
+          },
+          "latitude": 16.12396,
+          "longitude": 107.6927
+        },
+        {
+          "name": {
+            "en": "Huyện Phong Điền"
+          },
+          "latitude": 16.48769,
+          "longitude": 107.28889
+        },
+        {
+          "name": {
+            "en": "Huyện Phú Lộc"
+          },
+          "latitude": 16.27066,
+          "longitude": 107.88545
+        },
+        {
+          "name": {
+            "en": "Huyện Phú Vang"
+          },
+          "latitude": 16.47007,
+          "longitude": 107.71458
+        },
+        {
+          "name": {
+            "en": "Huyện Quảng Ðiền"
+          },
+          "latitude": 16.57941,
+          "longitude": 107.4937
+        }
+      ]
+    },
+    {
+      "code": "VN-07",
+      "name": {
+        "en": "Tuyên Quang"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Hà Giang"
+          },
+          "latitude": 22.82333,
+          "longitude": 104.98357
+        },
+        {
+          "name": {
+            "en": "Huyện Bắc Mê"
+          },
+          "latitude": 22.75477,
+          "longitude": 105.29023
+        },
+        {
+          "name": {
+            "en": "Huyện Bắc Quang"
+          },
+          "latitude": 22.42301,
+          "longitude": 104.91831
+        },
+        {
+          "name": {
+            "en": "Huyện Chiêm Hóa"
+          },
+          "latitude": 22.17895,
+          "longitude": 105.27671
+        },
+        {
+          "name": {
+            "en": "Huyện Đồng Văn"
+          },
+          "latitude": 23.25449,
+          "longitude": 105.27626
+        },
+        {
+          "name": {
+            "en": "Huyện Hàm Yên"
+          },
+          "latitude": 22.10935,
+          "longitude": 105.0163
+        },
+        {
+          "name": {
+            "en": "Huyện Lâm Bình"
+          },
+          "latitude": 22.46411,
+          "longitude": 105.21903
+        },
+        {
+          "name": {
+            "en": "Huyện Na Hang"
+          },
+          "latitude": 22.47522,
+          "longitude": 105.4838
+        },
+        {
+          "name": {
+            "en": "Huyện Quang Bình"
+          },
+          "latitude": 22.41507,
+          "longitude": 104.66018
+        },
+        {
+          "name": {
+            "en": "Huyện Sơn Dương"
+          },
+          "latitude": 21.63623,
+          "longitude": 105.38901
+        },
+        {
+          "name": {
+            "en": "Huyện Vị Xuyên"
+          },
+          "latitude": 22.73096,
+          "longitude": 104.90827
+        },
+        {
+          "name": {
+            "en": "Huyện Xín Mần"
+          },
+          "latitude": 22.64148,
+          "longitude": 104.52089
+        },
+        {
+          "name": {
+            "en": "Huyện Yên Minh"
+          },
+          "latitude": 23.06992,
+          "longitude": 105.17865
+        },
+        {
+          "name": {
+            "en": "Huyện Yên Sơn"
+          },
+          "latitude": 21.88363,
+          "longitude": 105.27656
+        },
+        {
+          "name": {
+            "en": "Tuyên Quang"
+          },
+          "latitude": 21.82356,
+          "longitude": 105.21424
+        }
+      ]
+    },
+    {
+      "code": "VN-49",
+      "name": {
+        "en": "Vĩnh Long"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ấp Tân Ngãi"
+          },
+          "latitude": 10.23333,
+          "longitude": 106.28333
+        },
+        {
+          "name": {
+            "en": "Bến Tre"
+          },
+          "latitude": 10.24147,
+          "longitude": 106.37585
+        },
+        {
+          "name": {
+            "en": "Huyện Ba Tri"
+          },
+          "latitude": 10.06627,
+          "longitude": 106.60554
+        },
+        {
+          "name": {
+            "en": "Huyện Bình Đại"
+          },
+          "latitude": 10.19354,
+          "longitude": 106.64455
+        },
+        {
+          "name": {
+            "en": "Huyện Càng Long"
+          },
+          "latitude": 9.95883,
+          "longitude": 106.21395
+        },
+        {
+          "name": {
+            "en": "Huyện Cầu Kè"
+          },
+          "latitude": 9.86738,
+          "longitude": 106.07916
+        },
+        {
+          "name": {
+            "en": "Huyện Cầu Ngang"
+          },
+          "latitude": 9.77186,
+          "longitude": 106.43654
+        },
+        {
+          "name": {
+            "en": "Huyện Châu Thành"
+          },
+          "latitude": 10.29212,
+          "longitude": 106.30827
+        },
+        {
+          "name": {
+            "en": "Huyện Chợ Lách"
+          },
+          "latitude": 10.22674,
+          "longitude": 106.17077
+        },
+        {
+          "name": {
+            "en": "Huyện Giồng Trôm"
+          },
+          "latitude": 10.15909,
+          "longitude": 106.47004
+        },
+        {
+          "name": {
+            "en": "Huyện Long Hồ"
+          },
+          "latitude": 10.2164,
+          "longitude": 105.98483
+        },
+        {
+          "name": {
+            "en": "Huyện Mang Thít"
+          },
+          "latitude": 10.18731,
+          "longitude": 106.07472
+        },
+        {
+          "name": {
+            "en": "Huyện Tam Bình"
+          },
+          "latitude": 10.08127,
+          "longitude": 105.95352
+        },
+        {
+          "name": {
+            "en": "Huyện Thạnh Phú"
+          },
+          "latitude": 9.92993,
+          "longitude": 106.54316
+        },
+        {
+          "name": {
+            "en": "Huyện Tiểu Cần"
+          },
+          "latitude": 9.8035,
+          "longitude": 106.20594
+        },
+        {
+          "name": {
+            "en": "Huyện Trà Cú"
+          },
+          "latitude": 9.69706,
+          "longitude": 106.29423
+        },
+        {
+          "name": {
+            "en": "Huyện Trà Ôn"
+          },
+          "latitude": 9.97522,
+          "longitude": 106.00957
+        },
+        {
+          "name": {
+            "en": "Huyện Vũng Liêm"
+          },
+          "latitude": 10.08717,
+          "longitude": 106.16038
+        },
+        {
+          "name": {
+            "en": "Trà Vinh"
+          },
+          "latitude": 9.94719,
+          "longitude": 106.34225
+        },
+        {
+          "name": {
+            "en": "Vĩnh Long"
+          },
+          "latitude": 10.25369,
+          "longitude": 105.9722
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,254 @@
+{
+  "code": "PW",
+  "iso3": "PLW",
+  "name": {
+    "en": "Palau",
+    "ar": "بالاو",
+    "de": "Palau",
+    "es": "Palau",
+    "fr": "Palaos",
+    "hi": "पलाउ",
+    "it": "Palau",
+    "ja": "パラオ",
+    "ko": "팔라우",
+    "nl": "Palau",
+    "pl": "Palau",
+    "pt": "Palau",
+    "pt-BR": "Palau",
+    "ru": "Палау",
+    "tr": "Palau",
+    "uk": "Палау",
+    "zh": "帕劳"
+  },
+  "phone": "+680",
+  "currency": "USD",
+  "timezone": "Pacific/Palau",
+  "flag": "🇵🇼",
+  "regions": [
+    {
+      "code": "PW-002",
+      "name": {
+        "en": "Aimeliik"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ngchemiangel"
+          },
+          "latitude": 7.44613,
+          "longitude": 134.47678
+        }
+      ]
+    },
+    {
+      "code": "PW-004",
+      "name": {
+        "en": "Airai"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ngetkib"
+          },
+          "latitude": 7.36451,
+          "longitude": 134.51484
+        }
+      ]
+    },
+    {
+      "code": "PW-010",
+      "name": {
+        "en": "Angaur"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Angaur State"
+          },
+          "latitude": 6.90601,
+          "longitude": 134.12997
+        }
+      ]
+    },
+    {
+      "code": "PW-050",
+      "name": {
+        "en": "Hatohobei"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Tobi Village"
+          },
+          "latitude": 3.00488,
+          "longitude": 131.12168
+        }
+      ]
+    },
+    {
+      "code": "PW-100",
+      "name": {
+        "en": "Kayangel"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Kayangel"
+          },
+          "latitude": 8.08228,
+          "longitude": 134.71725
+        }
+      ]
+    },
+    {
+      "code": "PW-150",
+      "name": {
+        "en": "Koror"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Koror"
+          },
+          "latitude": 7.33978,
+          "longitude": 134.47326
+        }
+      ]
+    },
+    {
+      "code": "PW-212",
+      "name": {
+        "en": "Melekeok"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Melekeok Village"
+          },
+          "latitude": 7.49567,
+          "longitude": 134.63671
+        }
+      ]
+    },
+    {
+      "code": "PW-214",
+      "name": {
+        "en": "Ngaraard"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ulimang"
+          },
+          "latitude": 7.62416,
+          "longitude": 134.64208
+        }
+      ]
+    },
+    {
+      "code": "PW-218",
+      "name": {
+        "en": "Ngarchelong"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Mengellang"
+          },
+          "latitude": 7.6957,
+          "longitude": 134.63054
+        }
+      ]
+    },
+    {
+      "code": "PW-222",
+      "name": {
+        "en": "Ngardmau"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ngardmau"
+          },
+          "latitude": 7.60986,
+          "longitude": 134.5744
+        }
+      ]
+    },
+    {
+      "code": "PW-226",
+      "name": {
+        "en": "Ngchesar"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ngchesar Hamlet"
+          },
+          "latitude": 7.46932,
+          "longitude": 134.60991
+        }
+      ]
+    },
+    {
+      "code": "PW-227",
+      "name": {
+        "en": "Ngeremlengui"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Imeong Hamlet"
+          },
+          "latitude": 7.53134,
+          "longitude": 134.52713
+        }
+      ]
+    },
+    {
+      "code": "PW-228",
+      "name": {
+        "en": "Ngiwal"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ngerkeai"
+          },
+          "latitude": 7.55456,
+          "longitude": 134.63612
+        }
+      ]
+    },
+    {
+      "code": "PW-350",
+      "name": {
+        "en": "Peleliu"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Kloulklubed"
+          },
+          "latitude": 7.04192,
+          "longitude": 134.25561
+        }
+      ]
+    },
+    {
+      "code": "PW-370",
+      "name": {
+        "en": "Sonsorol"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Sonsorol Village"
+          },
+          "latitude": 5.32608,
+          "longitude": 132.21943
+        }
+      ]
+    }
+  ]
+}

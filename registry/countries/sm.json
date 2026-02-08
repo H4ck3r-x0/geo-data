@@ -1,0 +1,166 @@
+{
+  "code": "SM",
+  "iso3": "SMR",
+  "name": {
+    "en": "San Marino",
+    "ar": "سان مارينو",
+    "de": "San Marino",
+    "es": "San Marino",
+    "fr": "Saint-Marin",
+    "hi": "सैन मारिनो",
+    "it": "San Marino",
+    "ja": "サンマリノ",
+    "ko": "산마리노",
+    "nl": "San Marino",
+    "pl": "San Marino",
+    "pt": "São Marinho",
+    "pt-BR": "San Marino",
+    "ru": "Сан-Марино",
+    "tr": "San Marino",
+    "uk": "Сан-Марино",
+    "zh": "圣马力诺"
+  },
+  "phone": "+378",
+  "currency": "EUR",
+  "timezone": "Europe/San_Marino",
+  "flag": "🇸🇲",
+  "regions": [
+    {
+      "code": "SM-01",
+      "name": {
+        "en": "Acquaviva"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Acquaviva"
+          },
+          "latitude": 43.94593,
+          "longitude": 12.4185
+        }
+      ]
+    },
+    {
+      "code": "SM-06",
+      "name": {
+        "en": "Borgo Maggiore"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Borgo Maggiore",
+            "ar": "سان مارينو المدينة"
+          },
+          "latitude": 43.94193,
+          "longitude": 12.44738
+        }
+      ]
+    },
+    {
+      "code": "SM-02",
+      "name": {
+        "en": "Chiesanuova"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Poggio di Chiesanuova"
+          },
+          "latitude": 43.90451,
+          "longitude": 12.42142
+        }
+      ]
+    },
+    {
+      "code": "SM-03",
+      "name": {
+        "en": "Domagnano"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Domagnano"
+          },
+          "latitude": 43.94961,
+          "longitude": 12.46828
+        }
+      ]
+    },
+    {
+      "code": "SM-04",
+      "name": {
+        "en": "Faetano"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Faetano"
+          },
+          "latitude": 43.92831,
+          "longitude": 12.49798
+        }
+      ]
+    },
+    {
+      "code": "SM-05",
+      "name": {
+        "en": "Fiorentino"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Fiorentino"
+          },
+          "latitude": 43.91001,
+          "longitude": 12.45738
+        }
+      ]
+    },
+    {
+      "code": "SM-08",
+      "name": {
+        "en": "Montegiardino"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Monte Giardino"
+          },
+          "latitude": 43.90878,
+          "longitude": 12.48201
+        }
+      ]
+    },
+    {
+      "code": "SM-07",
+      "name": {
+        "en": "San Marino"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "San Marino",
+            "ar": "سان مارينو المدينة"
+          },
+          "latitude": 43.93667,
+          "longitude": 12.44639
+        }
+      ]
+    },
+    {
+      "code": "SM-09",
+      "name": {
+        "en": "Serravalle"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Serravalle"
+          },
+          "latitude": 43.96897,
+          "longitude": 12.48167
+        }
+      ]
+    }
+  ]
+}

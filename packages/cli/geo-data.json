@@ -1,0 +1,7 @@
+{
+  "$schema": "https://geo-data.dev/schema.json",
+  "outputDir": "./src/data/geo",
+  "languages": ["en", "ar"],
+  "includeCoordinates": false,
+  "typescript": true
+}

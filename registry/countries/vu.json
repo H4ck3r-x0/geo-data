@@ -1,0 +1,118 @@
+{
+  "code": "VU",
+  "iso3": "VUT",
+  "name": {
+    "en": "Vanuatu",
+    "ar": "فانواتو",
+    "de": "Vanuatu",
+    "es": "Vanuatu",
+    "fr": "Vanuatu",
+    "hi": "वानुअतु",
+    "it": "Vanuatu",
+    "ja": "バヌアツ",
+    "ko": "바누아투",
+    "nl": "Vanuatu",
+    "pl": "Vanuatu",
+    "pt": "Vanuatu",
+    "pt-BR": "Vanuatu",
+    "ru": "Вануату",
+    "tr": "Vanuatu",
+    "uk": "Вануату",
+    "zh": "瓦努阿图"
+  },
+  "phone": "+678",
+  "currency": "VUV",
+  "timezone": "Pacific/Efate",
+  "flag": "🇻🇺",
+  "regions": [
+    {
+      "code": "VU-MAP",
+      "name": {
+        "en": "Malampa"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Lakatoro"
+          },
+          "latitude": -16.09992,
+          "longitude": 167.41636
+        },
+        {
+          "name": {
+            "en": "Norsup"
+          },
+          "latitude": -16.06536,
+          "longitude": 167.39714
+        }
+      ]
+    },
+    {
+      "code": "VU-SAM",
+      "name": {
+        "en": "Sanma"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Luganville"
+          },
+          "latitude": -15.51989,
+          "longitude": 167.16235
+        },
+        {
+          "name": {
+            "en": "Port-Olry"
+          },
+          "latitude": -15.04175,
+          "longitude": 167.07265
+        }
+      ]
+    },
+    {
+      "code": "VU-SEE",
+      "name": {
+        "en": "Shefa"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Port-Vila"
+          },
+          "latitude": -17.73648,
+          "longitude": 168.31366
+        }
+      ]
+    },
+    {
+      "code": "VU-TAE",
+      "name": {
+        "en": "Tafea"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Isangel"
+          },
+          "latitude": -19.54167,
+          "longitude": 169.28167
+        }
+      ]
+    },
+    {
+      "code": "VU-TOB",
+      "name": {
+        "en": "Torba"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Sola"
+          },
+          "latitude": -13.87611,
+          "longitude": 167.55167
+        }
+      ]
+    }
+  ]
+}

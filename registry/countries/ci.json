@@ -1,0 +1,801 @@
+{
+  "code": "CI",
+  "iso3": "CIV",
+  "name": {
+    "en": "Ivory Coast",
+    "ar": "كوت ديفوار (ساحل العاج)",
+    "de": "Elfenbeinküste",
+    "es": "Costa de Marfil",
+    "fr": "Côte d'Ivoire",
+    "hi": "कोटे डी इवोइरे (आइवरी कोस्ट)",
+    "it": "Costa D'Avorio",
+    "ja": "コートジボワール",
+    "ko": "코트디부아르",
+    "nl": "Ivoorkust",
+    "pl": "Cote D'Ivoire (Wybrzeże Kości Słoniowej)",
+    "pt": "Costa do Marfim",
+    "pt-BR": "Costa do Marfim",
+    "ru": "Кот-д'Ивуар (Берег Слоновой Кости)",
+    "tr": "Kotdivuar",
+    "uk": "Кот-д'Івуар (Берег Слонової Кістки)",
+    "zh": "科特迪瓦"
+  },
+  "phone": "+225",
+  "currency": "XOF",
+  "timezone": "Africa/Abidjan",
+  "flag": "🇨🇮",
+  "regions": [
+    {
+      "code": "CI-AB",
+      "name": {
+        "en": "Abidjan"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Abidjan"
+          },
+          "latitude": 5.30966,
+          "longitude": -4.01266
+        },
+        {
+          "name": {
+            "en": "Abobo"
+          },
+          "latitude": 5.41613,
+          "longitude": -4.0159
+        },
+        {
+          "name": {
+            "en": "Anyama"
+          },
+          "latitude": 5.49462,
+          "longitude": -4.05183
+        },
+        {
+          "name": {
+            "en": "Bingerville"
+          },
+          "latitude": 5.35581,
+          "longitude": -3.88537
+        }
+      ]
+    },
+    {
+      "code": "CI-BS",
+      "name": {
+        "en": "Bas-Sassandra"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Gbôklé"
+          },
+          "latitude": 4.95712,
+          "longitude": -6.09372
+        },
+        {
+          "name": {
+            "en": "Nawa"
+          },
+          "latitude": 5.80112,
+          "longitude": -6.60313
+        },
+        {
+          "name": {
+            "en": "San-Pédro"
+          },
+          "latitude": 4.76768,
+          "longitude": -6.65033
+        },
+        {
+          "name": {
+            "en": "Sassandra",
+            "ar": "ساساندرا"
+          },
+          "latitude": 4.95384,
+          "longitude": -6.08531
+        },
+        {
+          "name": {
+            "en": "Tabou"
+          },
+          "latitude": 4.42295,
+          "longitude": -7.3528
+        }
+      ]
+    },
+    {
+      "code": "CI-CM",
+      "name": {
+        "en": "Comoé"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Abengourou"
+          },
+          "latitude": 6.72972,
+          "longitude": -3.49639
+        },
+        {
+          "name": {
+            "en": "Aboisso"
+          },
+          "latitude": 5.46779,
+          "longitude": -3.20711
+        },
+        {
+          "name": {
+            "en": "Adiaké"
+          },
+          "latitude": 5.28634,
+          "longitude": -3.30403
+        },
+        {
+          "name": {
+            "en": "Agnibilékrou"
+          },
+          "latitude": 7.13113,
+          "longitude": -3.20415
+        },
+        {
+          "name": {
+            "en": "Ayamé"
+          },
+          "latitude": 5.6052,
+          "longitude": -3.15709
+        },
+        {
+          "name": {
+            "en": "Bonoua"
+          },
+          "latitude": 5.27247,
+          "longitude": -3.59625
+        },
+        {
+          "name": {
+            "en": "Grand-Bassam"
+          },
+          "latitude": 5.2118,
+          "longitude": -3.73884
+        },
+        {
+          "name": {
+            "en": "Indénié-Djuablin"
+          },
+          "latitude": 6.74434,
+          "longitude": -3.494
+        },
+        {
+          "name": {
+            "en": "Sud-Comoé"
+          },
+          "latitude": 5.49961,
+          "longitude": -3.2408
+        }
+      ]
+    },
+    {
+      "code": "CI-DN",
+      "name": {
+        "en": "Denguélé"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Folon"
+          },
+          "latitude": 9.81241,
+          "longitude": -7.51894
+        },
+        {
+          "name": {
+            "en": "Kabadougou"
+          },
+          "latitude": 9.60571,
+          "longitude": -7.43774
+        },
+        {
+          "name": {
+            "en": "Odienné"
+          },
+          "latitude": 9.50511,
+          "longitude": -7.56433
+        }
+      ]
+    },
+    {
+      "code": "CI-GD",
+      "name": {
+        "en": "Gôh-Djiboua"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Divo"
+          },
+          "latitude": 5.83739,
+          "longitude": -5.35723
+        },
+        {
+          "name": {
+            "en": "Gagnoa"
+          },
+          "latitude": 6.13193,
+          "longitude": -5.9506
+        },
+        {
+          "name": {
+            "en": "Gôh"
+          },
+          "latitude": 6.14459,
+          "longitude": -5.92644
+        },
+        {
+          "name": {
+            "en": "Guibéroua"
+          },
+          "latitude": 6.23869,
+          "longitude": -6.17147
+        },
+        {
+          "name": {
+            "en": "Lakota"
+          },
+          "latitude": 5.84752,
+          "longitude": -5.682
+        },
+        {
+          "name": {
+            "en": "Lôh-Djiboua"
+          },
+          "latitude": 5.82483,
+          "longitude": -5.47668
+        },
+        {
+          "name": {
+            "en": "Oumé"
+          },
+          "latitude": 6.38309,
+          "longitude": -5.41759
+        }
+      ]
+    },
+    {
+      "code": "CI-LC",
+      "name": {
+        "en": "Lacs"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Arrah"
+          },
+          "latitude": 6.67342,
+          "longitude": -3.96938
+        },
+        {
+          "name": {
+            "en": "Bélier"
+          },
+          "latitude": 7.02582,
+          "longitude": -5.06744
+        },
+        {
+          "name": {
+            "en": "Bocanda"
+          },
+          "latitude": 7.06264,
+          "longitude": -4.49948
+        },
+        {
+          "name": {
+            "en": "Bongouanou"
+          },
+          "latitude": 6.65175,
+          "longitude": -4.20406
+        },
+        {
+          "name": {
+            "en": "Daoukro"
+          },
+          "latitude": 7.0591,
+          "longitude": -3.9631
+        },
+        {
+          "name": {
+            "en": "Dimbokro"
+          },
+          "latitude": 6.64678,
+          "longitude": -4.70519
+        },
+        {
+          "name": {
+            "en": "Iffou"
+          },
+          "latitude": 7.11509,
+          "longitude": -3.95027
+        },
+        {
+          "name": {
+            "en": "Moronou"
+          },
+          "latitude": 6.6683,
+          "longitude": -4.13155
+        },
+        {
+          "name": {
+            "en": "N'Zi"
+          },
+          "latitude": 6.82803,
+          "longitude": -4.5813
+        },
+        {
+          "name": {
+            "en": "Toumodi"
+          },
+          "latitude": 6.55799,
+          "longitude": -5.01769
+        },
+        {
+          "name": {
+            "en": "Yamoussoukro",
+            "ar": "ياموسوكرو"
+          },
+          "latitude": 6.82055,
+          "longitude": -5.27674
+        }
+      ]
+    },
+    {
+      "code": "CI-LG",
+      "name": {
+        "en": "Lagunes"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Adzopé"
+          },
+          "latitude": 6.10694,
+          "longitude": -3.86194
+        },
+        {
+          "name": {
+            "en": "Affery"
+          },
+          "latitude": 6.32035,
+          "longitude": -3.95235
+        },
+        {
+          "name": {
+            "en": "Agboville"
+          },
+          "latitude": 5.92801,
+          "longitude": -4.21319
+        },
+        {
+          "name": {
+            "en": "Agnéby-Tiassa"
+          },
+          "latitude": 5.79488,
+          "longitude": -4.37187
+        },
+        {
+          "name": {
+            "en": "Akoupé"
+          },
+          "latitude": 6.38423,
+          "longitude": -3.88759
+        },
+        {
+          "name": {
+            "en": "Dabou"
+          },
+          "latitude": 5.32556,
+          "longitude": -4.37685
+        },
+        {
+          "name": {
+            "en": "Grand-Lahou"
+          },
+          "latitude": 5.25068,
+          "longitude": -5.00333
+        },
+        {
+          "name": {
+            "en": "Grands-Ponts"
+          },
+          "latitude": 5.30487,
+          "longitude": -4.39247
+        },
+        {
+          "name": {
+            "en": "Tiassalé"
+          },
+          "latitude": 5.89839,
+          "longitude": -4.82293
+        }
+      ]
+    },
+    {
+      "code": "CI-MG",
+      "name": {
+        "en": "Montagnes"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bangolo"
+          },
+          "latitude": 7.01232,
+          "longitude": -7.48639
+        },
+        {
+          "name": {
+            "en": "Biankouma"
+          },
+          "latitude": 7.73909,
+          "longitude": -7.61377
+        },
+        {
+          "name": {
+            "en": "Cavally"
+          },
+          "latitude": 6.56343,
+          "longitude": -7.92526
+        },
+        {
+          "name": {
+            "en": "Danané"
+          },
+          "latitude": 7.25957,
+          "longitude": -8.15498
+        },
+        {
+          "name": {
+            "en": "Duekoué"
+          },
+          "latitude": 6.74202,
+          "longitude": -7.34918
+        },
+        {
+          "name": {
+            "en": "Guémon"
+          },
+          "latitude": 7.093,
+          "longitude": -7.17785
+        },
+        {
+          "name": {
+            "en": "Guiglo"
+          },
+          "latitude": 6.54368,
+          "longitude": -7.4935
+        },
+        {
+          "name": {
+            "en": "Man"
+          },
+          "latitude": 7.41251,
+          "longitude": -7.55383
+        },
+        {
+          "name": {
+            "en": "Tonkpi"
+          },
+          "latitude": 7.56785,
+          "longitude": -7.60941
+        },
+        {
+          "name": {
+            "en": "Toulépleu Gueré"
+          },
+          "latitude": 6.57395,
+          "longitude": -8.42592
+        }
+      ]
+    },
+    {
+      "code": "CI-SM",
+      "name": {
+        "en": "Sassandra-Marahoué"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bouaflé"
+          },
+          "latitude": 6.99041,
+          "longitude": -5.7442
+        },
+        {
+          "name": {
+            "en": "Daloa"
+          },
+          "latitude": 6.87735,
+          "longitude": -6.45022
+        },
+        {
+          "name": {
+            "en": "Haut-Sassandra"
+          },
+          "latitude": 6.66961,
+          "longitude": -6.50116
+        },
+        {
+          "name": {
+            "en": "Issia"
+          },
+          "latitude": 6.49224,
+          "longitude": -6.58558
+        },
+        {
+          "name": {
+            "en": "Marahoué"
+          },
+          "latitude": 7.03252,
+          "longitude": -5.80215
+        },
+        {
+          "name": {
+            "en": "Vavoua"
+          },
+          "latitude": 7.38194,
+          "longitude": -6.47778
+        },
+        {
+          "name": {
+            "en": "Zuénoula"
+          },
+          "latitude": 7.43027,
+          "longitude": -6.05054
+        }
+      ]
+    },
+    {
+      "code": "CI-SV",
+      "name": {
+        "en": "Savanes"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bagoué"
+          },
+          "latitude": 9.75,
+          "longitude": -6.5
+        },
+        {
+          "name": {
+            "en": "Boundiali"
+          },
+          "latitude": 9.52434,
+          "longitude": -6.48973
+        },
+        {
+          "name": {
+            "en": "Ferkéssédougou"
+          },
+          "latitude": 9.60055,
+          "longitude": -5.19611
+        },
+        {
+          "name": {
+            "en": "Kong"
+          },
+          "latitude": 9.15,
+          "longitude": -4.61667
+        },
+        {
+          "name": {
+            "en": "Korhogo"
+          },
+          "latitude": 9.45803,
+          "longitude": -5.62961
+        },
+        {
+          "name": {
+            "en": "Ouangolodougou"
+          },
+          "latitude": 9.96667,
+          "longitude": -5.15
+        },
+        {
+          "name": {
+            "en": "Poro"
+          },
+          "latitude": 9.36667,
+          "longitude": -5.5
+        },
+        {
+          "name": {
+            "en": "Sinématiali"
+          },
+          "latitude": 9.58333,
+          "longitude": -5.38333
+        },
+        {
+          "name": {
+            "en": "Tchologo"
+          },
+          "latitude": 9.76667,
+          "longitude": -5.1
+        },
+        {
+          "name": {
+            "en": "Tengrela"
+          },
+          "latitude": 10.48333,
+          "longitude": -6.40833
+        }
+      ]
+    },
+    {
+      "code": "CI-VB",
+      "name": {
+        "en": "Vallée du Bandama"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Béoumi"
+          },
+          "latitude": 7.67395,
+          "longitude": -5.58085
+        },
+        {
+          "name": {
+            "en": "Botro"
+          },
+          "latitude": 7.85249,
+          "longitude": -5.31063
+        },
+        {
+          "name": {
+            "en": "Bouaké",
+            "ar": "بواكي"
+          },
+          "latitude": 7.69385,
+          "longitude": -5.03031
+        },
+        {
+          "name": {
+            "en": "Dabakala"
+          },
+          "latitude": 8.36321,
+          "longitude": -4.42863
+        },
+        {
+          "name": {
+            "en": "Gbêkê"
+          },
+          "latitude": 7.70271,
+          "longitude": -5.28511
+        },
+        {
+          "name": {
+            "en": "Hambol"
+          },
+          "latitude": 8.30368,
+          "longitude": -5.15396
+        },
+        {
+          "name": {
+            "en": "Katiola"
+          },
+          "latitude": 8.13728,
+          "longitude": -5.10095
+        },
+        {
+          "name": {
+            "en": "Sakassou"
+          },
+          "latitude": 7.45462,
+          "longitude": -5.29263
+        }
+      ]
+    },
+    {
+      "code": "CI-WR",
+      "name": {
+        "en": "Woroba"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bafing"
+          },
+          "latitude": 8.40611,
+          "longitude": -7.58048
+        },
+        {
+          "name": {
+            "en": "Béré"
+          },
+          "latitude": 8.18952,
+          "longitude": -6.17157
+        },
+        {
+          "name": {
+            "en": "Mankono"
+          },
+          "latitude": 8.05861,
+          "longitude": -6.18972
+        },
+        {
+          "name": {
+            "en": "Séguéla"
+          },
+          "latitude": 7.96111,
+          "longitude": -6.67306
+        },
+        {
+          "name": {
+            "en": "Touba"
+          },
+          "latitude": 8.28333,
+          "longitude": -7.68333
+        },
+        {
+          "name": {
+            "en": "Worodougou"
+          },
+          "latitude": 8.16482,
+          "longitude": -6.66595
+        }
+      ]
+    },
+    {
+      "code": "CI-ZZ",
+      "name": {
+        "en": "Zanzan"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bondoukou"
+          },
+          "latitude": 8.0402,
+          "longitude": -2.80003
+        },
+        {
+          "name": {
+            "en": "Bouna"
+          },
+          "latitude": 9.26927,
+          "longitude": -2.9951
+        },
+        {
+          "name": {
+            "en": "Bounkani"
+          },
+          "latitude": 9.47841,
+          "longitude": -3.31238
+        },
+        {
+          "name": {
+            "en": "Gontougo"
+          },
+          "latitude": 7.87132,
+          "longitude": -3.07068
+        },
+        {
+          "name": {
+            "en": "Sinfra"
+          },
+          "latitude": 6.62103,
+          "longitude": -5.91144
+        },
+        {
+          "name": {
+            "en": "Tanda"
+          },
+          "latitude": 7.80335,
+          "longitude": -3.16832
+        }
+      ]
+    }
+  ]
+}

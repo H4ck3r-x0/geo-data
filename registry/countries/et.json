@@ -1,0 +1,1155 @@
+{
+  "code": "ET",
+  "iso3": "ETH",
+  "name": {
+    "en": "Ethiopia",
+    "ar": "أثيوبيا",
+    "de": "Äthiopien",
+    "es": "Etiopía",
+    "fr": "Éthiopie",
+    "hi": "इथियोपिया",
+    "it": "Etiopia",
+    "ja": "エチオピア",
+    "ko": "에티오피아",
+    "nl": "Ethiopië",
+    "pl": "Etiopia",
+    "pt": "Etiópia",
+    "pt-BR": "Etiópia",
+    "ru": "Эфиопия",
+    "tr": "Etiyopya",
+    "uk": "Ефіопія",
+    "zh": "埃塞俄比亚"
+  },
+  "phone": "+251",
+  "currency": "ETB",
+  "timezone": "Africa/Addis_Ababa",
+  "flag": "🇪🇹",
+  "regions": [
+    {
+      "code": "ET-AA",
+      "name": {
+        "en": "Addis Ababa"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Addis Ababa",
+            "ar": "أديس أبابا"
+          },
+          "latitude": 9.02497,
+          "longitude": 38.74689
+        }
+      ]
+    },
+    {
+      "code": "ET-AF",
+      "name": {
+        "en": "Afar"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Administrative Zone 2"
+          },
+          "latitude": 13.68513,
+          "longitude": 40.05615
+        },
+        {
+          "name": {
+            "en": "Administrative Zone 3"
+          },
+          "latitude": 10.00902,
+          "longitude": 40.47394
+        },
+        {
+          "name": {
+            "en": "Asaita"
+          },
+          "latitude": 11.56838,
+          "longitude": 41.43869
+        },
+        {
+          "name": {
+            "en": "Āwash"
+          },
+          "latitude": 8.98333,
+          "longitude": 40.16667
+        },
+        {
+          "name": {
+            "en": "Dubti"
+          },
+          "latitude": 11.73292,
+          "longitude": 41.082
+        },
+        {
+          "name": {
+            "en": "Gewanē"
+          },
+          "latitude": 10.16658,
+          "longitude": 40.64689
+        },
+        {
+          "name": {
+            "en": "Semera"
+          },
+          "latitude": 11.79342,
+          "longitude": 41.00578
+        }
+      ]
+    },
+    {
+      "code": "ET-AM",
+      "name": {
+        "en": "Amhara"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Abomsa"
+          },
+          "latitude": 9.98333,
+          "longitude": 39.98333
+        },
+        {
+          "name": {
+            "en": "Addiet Canna"
+          },
+          "latitude": 11.26667,
+          "longitude": 37.48333
+        },
+        {
+          "name": {
+            "en": "Ādīs Zemen"
+          },
+          "latitude": 12.11667,
+          "longitude": 37.78333
+        },
+        {
+          "name": {
+            "en": "Bahir Dar",
+            "ar": "بحر دار"
+          },
+          "latitude": 11.59364,
+          "longitude": 37.39077
+        },
+        {
+          "name": {
+            "en": "Batī"
+          },
+          "latitude": 11.19152,
+          "longitude": 40.01675
+        },
+        {
+          "name": {
+            "en": "Bichena"
+          },
+          "latitude": 10.45,
+          "longitude": 38.2
+        },
+        {
+          "name": {
+            "en": "Burē",
+            "ar": "بوري"
+          },
+          "latitude": 10.7,
+          "longitude": 37.06667
+        },
+        {
+          "name": {
+            "en": "Dabat",
+            "ar": "دابات"
+          },
+          "latitude": 12.98417,
+          "longitude": 37.765
+        },
+        {
+          "name": {
+            "en": "Debark’"
+          },
+          "latitude": 13.15611,
+          "longitude": 37.89806
+        },
+        {
+          "name": {
+            "en": "Debre Birhan",
+            "ar": "ديبري بيرهان"
+          },
+          "latitude": 9.67954,
+          "longitude": 39.53262
+        },
+        {
+          "name": {
+            "en": "Debre Mark’os"
+          },
+          "latitude": 10.35,
+          "longitude": 37.73333
+        },
+        {
+          "name": {
+            "en": "Debre Sīna"
+          },
+          "latitude": 9.84752,
+          "longitude": 39.76027
+        },
+        {
+          "name": {
+            "en": "Debre Tabor",
+            "ar": "ديبري تابور"
+          },
+          "latitude": 11.85,
+          "longitude": 38.01667
+        },
+        {
+          "name": {
+            "en": "Debre Werk’"
+          },
+          "latitude": 10.66667,
+          "longitude": 38.16667
+        },
+        {
+          "name": {
+            "en": "Dejen"
+          },
+          "latitude": 10.16667,
+          "longitude": 38.13333
+        },
+        {
+          "name": {
+            "en": "Desē",
+            "ar": "ديسي"
+          },
+          "latitude": 11.13333,
+          "longitude": 39.63333
+        },
+        {
+          "name": {
+            "en": "Finote Selam"
+          },
+          "latitude": 10.7,
+          "longitude": 37.26667
+        },
+        {
+          "name": {
+            "en": "Gondar"
+          },
+          "latitude": 12.6,
+          "longitude": 37.46667
+        },
+        {
+          "name": {
+            "en": "Kemisē"
+          },
+          "latitude": 10.71668,
+          "longitude": 39.86997
+        },
+        {
+          "name": {
+            "en": "Kombolcha",
+            "ar": "كومبولشا"
+          },
+          "latitude": 11.08155,
+          "longitude": 39.74339
+        },
+        {
+          "name": {
+            "en": "Lalībela",
+            "ar": "لاليبيلا"
+          },
+          "latitude": 12.03219,
+          "longitude": 39.04756
+        },
+        {
+          "name": {
+            "en": "North Shewa Zone"
+          },
+          "latitude": 9.769,
+          "longitude": 39.668
+        },
+        {
+          "name": {
+            "en": "North Wollo Zone"
+          },
+          "latitude": 11.92,
+          "longitude": 39.1
+        },
+        {
+          "name": {
+            "en": "Robīt"
+          },
+          "latitude": 12.01667,
+          "longitude": 39.63333
+        },
+        {
+          "name": {
+            "en": "South Gondar Zone"
+          },
+          "latitude": 11.8385,
+          "longitude": 38.09954
+        },
+        {
+          "name": {
+            "en": "South Wollo Zone"
+          },
+          "latitude": 11,
+          "longitude": 39.25
+        },
+        {
+          "name": {
+            "en": "Wag Hemra Zone"
+          },
+          "latitude": 12.765,
+          "longitude": 38.843
+        },
+        {
+          "name": {
+            "en": "Were Īlu"
+          },
+          "latitude": 10.58964,
+          "longitude": 39.43767
+        },
+        {
+          "name": {
+            "en": "Werota"
+          },
+          "latitude": 11.91667,
+          "longitude": 37.7
+        }
+      ]
+    },
+    {
+      "code": "ET-BE",
+      "name": {
+        "en": "Benishangul-Gumuz"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Asosa"
+          },
+          "latitude": 10,
+          "longitude": 34.5
+        },
+        {
+          "name": {
+            "en": "Metekel"
+          },
+          "latitude": 10.42673,
+          "longitude": 35.71975
+        }
+      ]
+    },
+    {
+      "code": "ET-DD",
+      "name": {
+        "en": "Dire Dawa"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Dire Dawa",
+            "ar": "ديرة داوا"
+          },
+          "latitude": 9.59306,
+          "longitude": 41.86611
+        }
+      ]
+    },
+    {
+      "code": "ET-GA",
+      "name": {
+        "en": "Gambela"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Administrative Zone 1"
+          },
+          "latitude": 8.14699,
+          "longitude": 33.97335
+        },
+        {
+          "name": {
+            "en": "Gambēla"
+          },
+          "latitude": 8.25,
+          "longitude": 34.58333
+        }
+      ]
+    },
+    {
+      "code": "ET-HA",
+      "name": {
+        "en": "Harari"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Harar",
+            "ar": "هرر"
+          },
+          "latitude": 9.31387,
+          "longitude": 42.11815
+        }
+      ]
+    },
+    {
+      "code": "ET-OR",
+      "name": {
+        "en": "Oromia"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ādīs ‘Alem"
+          },
+          "latitude": 9.03333,
+          "longitude": 38.4
+        },
+        {
+          "name": {
+            "en": "Āgaro"
+          },
+          "latitude": 7.85,
+          "longitude": 36.65
+        },
+        {
+          "name": {
+            "en": "Arsi Zone"
+          },
+          "latitude": 7.5,
+          "longitude": 39.5
+        },
+        {
+          "name": {
+            "en": "Āsasa"
+          },
+          "latitude": 7.1,
+          "longitude": 39.2
+        },
+        {
+          "name": {
+            "en": "Āsbe Teferī"
+          },
+          "latitude": 9.08569,
+          "longitude": 40.86708
+        },
+        {
+          "name": {
+            "en": "Bedelē"
+          },
+          "latitude": 8.456,
+          "longitude": 36.35302
+        },
+        {
+          "name": {
+            "en": "Bedēsa"
+          },
+          "latitude": 8.9,
+          "longitude": 40.78333
+        },
+        {
+          "name": {
+            "en": "Bishoftu"
+          },
+          "latitude": 8.75225,
+          "longitude": 38.97846
+        },
+        {
+          "name": {
+            "en": "Deder"
+          },
+          "latitude": 9.31168,
+          "longitude": 41.44301
+        },
+        {
+          "name": {
+            "en": "Dembī Dolo"
+          },
+          "latitude": 8.53333,
+          "longitude": 34.8
+        },
+        {
+          "name": {
+            "en": "Dodola"
+          },
+          "latitude": 6.98333,
+          "longitude": 39.18333
+        },
+        {
+          "name": {
+            "en": "East Harerghe Zone"
+          },
+          "latitude": 8.70114,
+          "longitude": 42.00241
+        },
+        {
+          "name": {
+            "en": "East Shewa Zone"
+          },
+          "latitude": 8.21353,
+          "longitude": 38.84809
+        },
+        {
+          "name": {
+            "en": "East Wellega Zone"
+          },
+          "latitude": 9.51928,
+          "longitude": 36.75762
+        },
+        {
+          "name": {
+            "en": "Fichē"
+          },
+          "latitude": 9.8,
+          "longitude": 38.73333
+        },
+        {
+          "name": {
+            "en": "Gebre Guracha"
+          },
+          "latitude": 9.8,
+          "longitude": 38.4
+        },
+        {
+          "name": {
+            "en": "Gēdo"
+          },
+          "latitude": 9.01667,
+          "longitude": 37.45
+        },
+        {
+          "name": {
+            "en": "Gelemso"
+          },
+          "latitude": 8.81667,
+          "longitude": 40.51667
+        },
+        {
+          "name": {
+            "en": "Genet"
+          },
+          "latitude": 9.06667,
+          "longitude": 38.5
+        },
+        {
+          "name": {
+            "en": "Gimbi"
+          },
+          "latitude": 9.17031,
+          "longitude": 35.83491
+        },
+        {
+          "name": {
+            "en": "Ginir"
+          },
+          "latitude": 7.13952,
+          "longitude": 40.71083
+        },
+        {
+          "name": {
+            "en": "Goba"
+          },
+          "latitude": 7.01667,
+          "longitude": 39.98333
+        },
+        {
+          "name": {
+            "en": "Gorē"
+          },
+          "latitude": 8.15,
+          "longitude": 35.53333
+        },
+        {
+          "name": {
+            "en": "Guji Zone"
+          },
+          "latitude": 5.588,
+          "longitude": 39.067
+        },
+        {
+          "name": {
+            "en": "Hāgere Hiywet"
+          },
+          "latitude": 8.98333,
+          "longitude": 37.85
+        },
+        {
+          "name": {
+            "en": "Hagere Maryam"
+          },
+          "latitude": 5.63418,
+          "longitude": 38.23603
+        },
+        {
+          "name": {
+            "en": "Hīrna"
+          },
+          "latitude": 9.21667,
+          "longitude": 41.1
+        },
+        {
+          "name": {
+            "en": "Huruta"
+          },
+          "latitude": 8.15,
+          "longitude": 39.35
+        },
+        {
+          "name": {
+            "en": "Illubabor Zone"
+          },
+          "latitude": 8.27526,
+          "longitude": 35.75596
+        },
+        {
+          "name": {
+            "en": "Jimma",
+            "ar": "جيما"
+          },
+          "latitude": 7.67344,
+          "longitude": 36.83441
+        },
+        {
+          "name": {
+            "en": "Jimma Zone"
+          },
+          "latitude": 7.66667,
+          "longitude": 37
+        },
+        {
+          "name": {
+            "en": "Kibre Mengist"
+          },
+          "latitude": 5.88333,
+          "longitude": 38.98333
+        },
+        {
+          "name": {
+            "en": "Kofelē"
+          },
+          "latitude": 7.06667,
+          "longitude": 38.78333
+        },
+        {
+          "name": {
+            "en": "Mēga"
+          },
+          "latitude": 4.05,
+          "longitude": 38.3
+        },
+        {
+          "name": {
+            "en": "Mendī"
+          },
+          "latitude": 9.8,
+          "longitude": 35.1
+        },
+        {
+          "name": {
+            "en": "Metahāra"
+          },
+          "latitude": 8.9,
+          "longitude": 39.91667
+        },
+        {
+          "name": {
+            "en": "Metu"
+          },
+          "latitude": 8.3,
+          "longitude": 35.58333
+        },
+        {
+          "name": {
+            "en": "Mojo"
+          },
+          "latitude": 8.58679,
+          "longitude": 39.12111
+        },
+        {
+          "name": {
+            "en": "Nazrēt"
+          },
+          "latitude": 8.55,
+          "longitude": 39.26667
+        },
+        {
+          "name": {
+            "en": "Nejo"
+          },
+          "latitude": 9.5,
+          "longitude": 35.5
+        },
+        {
+          "name": {
+            "en": "North Shewa Zone"
+          },
+          "latitude": 9.66915,
+          "longitude": 38.8124
+        },
+        {
+          "name": {
+            "en": "Sebeta"
+          },
+          "latitude": 8.91667,
+          "longitude": 38.61667
+        },
+        {
+          "name": {
+            "en": "Sendafa"
+          },
+          "latitude": 9.15203,
+          "longitude": 39.02335
+        },
+        {
+          "name": {
+            "en": "Shakiso"
+          },
+          "latitude": 5.76494,
+          "longitude": 38.91006
+        },
+        {
+          "name": {
+            "en": "Shambu"
+          },
+          "latitude": 9.56667,
+          "longitude": 37.1
+        },
+        {
+          "name": {
+            "en": "Shashemenē"
+          },
+          "latitude": 7.2,
+          "longitude": 38.6
+        },
+        {
+          "name": {
+            "en": "Sirre"
+          },
+          "latitude": 8.31667,
+          "longitude": 39.48333
+        },
+        {
+          "name": {
+            "en": "Tulu Bolo"
+          },
+          "latitude": 8.66667,
+          "longitude": 38.21667
+        },
+        {
+          "name": {
+            "en": "Waliso"
+          },
+          "latitude": 8.53417,
+          "longitude": 37.96515
+        },
+        {
+          "name": {
+            "en": "Wenjī"
+          },
+          "latitude": 8.45,
+          "longitude": 39.28333
+        },
+        {
+          "name": {
+            "en": "West Harerghe Zone"
+          },
+          "latitude": 8.67245,
+          "longitude": 40.84885
+        },
+        {
+          "name": {
+            "en": "West Wellega Zone"
+          },
+          "latitude": 9.17283,
+          "longitude": 35.05279
+        },
+        {
+          "name": {
+            "en": "Yabēlo"
+          },
+          "latitude": 4.88333,
+          "longitude": 38.08333
+        },
+        {
+          "name": {
+            "en": "Ziway"
+          },
+          "latitude": 7.93333,
+          "longitude": 38.71667
+        }
+      ]
+    },
+    {
+      "code": "ET-SI",
+      "name": {
+        "en": "Sidama"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Dīla"
+          },
+          "latitude": 6.41667,
+          "longitude": 38.31667
+        },
+        {
+          "name": {
+            "en": "Hāgere Selam"
+          },
+          "latitude": 6.48333,
+          "longitude": 38.51667
+        },
+        {
+          "name": {
+            "en": "Hawassa"
+          },
+          "latitude": 7.06205,
+          "longitude": 38.47635
+        },
+        {
+          "name": {
+            "en": "Leku"
+          },
+          "latitude": 6.87309,
+          "longitude": 38.44425
+        },
+        {
+          "name": {
+            "en": "Sidama Zone"
+          },
+          "latitude": 6.718,
+          "longitude": 38.448
+        },
+        {
+          "name": {
+            "en": "Wendo"
+          },
+          "latitude": 6.6,
+          "longitude": 38.41667
+        },
+        {
+          "name": {
+            "en": "Yirga ‘Alem",
+            "ar": "إرغالم"
+          },
+          "latitude": 6.75,
+          "longitude": 38.41667
+        }
+      ]
+    },
+    {
+      "code": "ET-SO",
+      "name": {
+        "en": "Somali"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Afder Zone"
+          },
+          "latitude": 5.25,
+          "longitude": 43
+        },
+        {
+          "name": {
+            "en": "Degehabur Zone"
+          },
+          "latitude": 8.25,
+          "longitude": 43.75
+        },
+        {
+          "name": {
+            "en": "Gode Zone"
+          },
+          "latitude": 6,
+          "longitude": 43.75
+        },
+        {
+          "name": {
+            "en": "Jijiga"
+          },
+          "latitude": 9.35,
+          "longitude": 42.8
+        },
+        {
+          "name": {
+            "en": "Liben zone"
+          },
+          "latitude": 4.75,
+          "longitude": 40.5
+        },
+        {
+          "name": {
+            "en": "Shinile Zone"
+          },
+          "latitude": 10.17097,
+          "longitude": 41.83748
+        }
+      ]
+    },
+    {
+      "code": "ET-SN",
+      "name": {
+        "en": "Southern Nations, Nationalities, and Peoples"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Alaba Special Wereda"
+          },
+          "latitude": 7.45347,
+          "longitude": 38.21189
+        },
+        {
+          "name": {
+            "en": "Arba Minch"
+          },
+          "latitude": 6.03333,
+          "longitude": 37.55
+        },
+        {
+          "name": {
+            "en": "Āreka"
+          },
+          "latitude": 7.06667,
+          "longitude": 37.7
+        },
+        {
+          "name": {
+            "en": "Bako"
+          },
+          "latitude": 5.78333,
+          "longitude": 36.56667
+        },
+        {
+          "name": {
+            "en": "Bodītī"
+          },
+          "latitude": 6.96667,
+          "longitude": 37.86667
+        },
+        {
+          "name": {
+            "en": "Butajīra"
+          },
+          "latitude": 8.11667,
+          "longitude": 38.36667
+        },
+        {
+          "name": {
+            "en": "Felege Neway"
+          },
+          "latitude": 6.3,
+          "longitude": 36.88333
+        },
+        {
+          "name": {
+            "en": "Gedeo Zone"
+          },
+          "latitude": 6.12727,
+          "longitude": 38.27716
+        },
+        {
+          "name": {
+            "en": "Gīdolē"
+          },
+          "latitude": 5.65,
+          "longitude": 37.36667
+        },
+        {
+          "name": {
+            "en": "Guraghe Zone"
+          },
+          "latitude": 8.25,
+          "longitude": 38
+        },
+        {
+          "name": {
+            "en": "Hadiya Zone"
+          },
+          "latitude": 7.5,
+          "longitude": 37.75
+        },
+        {
+          "name": {
+            "en": "Hosa’ina"
+          },
+          "latitude": 7.54978,
+          "longitude": 37.85374
+        },
+        {
+          "name": {
+            "en": "Jinka"
+          },
+          "latitude": 5.65,
+          "longitude": 36.65
+        },
+        {
+          "name": {
+            "en": "K’olīto"
+          },
+          "latitude": 7.31667,
+          "longitude": 38.08333
+        },
+        {
+          "name": {
+            "en": "Kembata Alaba Tembaro Zone"
+          },
+          "latitude": 7.27039,
+          "longitude": 37.77887
+        },
+        {
+          "name": {
+            "en": "Konso"
+          },
+          "latitude": 5.25,
+          "longitude": 37.48333
+        },
+        {
+          "name": {
+            "en": "Lobuni"
+          },
+          "latitude": 4.83333,
+          "longitude": 36.1
+        },
+        {
+          "name": {
+            "en": "Sodo"
+          },
+          "latitude": 6.86,
+          "longitude": 37.76159
+        },
+        {
+          "name": {
+            "en": "Turmi"
+          },
+          "latitude": 4.96667,
+          "longitude": 36.48333
+        },
+        {
+          "name": {
+            "en": "Wolayita Zone"
+          },
+          "latitude": 6.84312,
+          "longitude": 37.70051
+        },
+        {
+          "name": {
+            "en": "Yem"
+          },
+          "latitude": 7.83333,
+          "longitude": 37.5
+        }
+      ]
+    },
+    {
+      "code": "ET-SW",
+      "name": {
+        "en": "Southwest Ethiopia Peoples"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bench Maji Zone"
+          },
+          "latitude": 6.45994,
+          "longitude": 35.30549
+        },
+        {
+          "name": {
+            "en": "Bonga"
+          },
+          "latitude": 7.28333,
+          "longitude": 36.23333
+        },
+        {
+          "name": {
+            "en": "Mīzan Teferī"
+          },
+          "latitude": 6.99865,
+          "longitude": 35.58879
+        },
+        {
+          "name": {
+            "en": "Sheka Zone"
+          },
+          "latitude": 7.56166,
+          "longitude": 35.40174
+        },
+        {
+          "name": {
+            "en": "Tippi"
+          },
+          "latitude": 7.2,
+          "longitude": 35.45
+        }
+      ]
+    },
+    {
+      "code": "ET-TI",
+      "name": {
+        "en": "Tigray"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ādīgrat"
+          },
+          "latitude": 14.277,
+          "longitude": 39.462
+        },
+        {
+          "name": {
+            "en": "Axum",
+            "ar": "أكسوم"
+          },
+          "latitude": 14.12109,
+          "longitude": 38.72337
+        },
+        {
+          "name": {
+            "en": "Inda Silasē"
+          },
+          "latitude": 14.10307,
+          "longitude": 38.28289
+        },
+        {
+          "name": {
+            "en": "Korem"
+          },
+          "latitude": 12.50583,
+          "longitude": 39.52278
+        },
+        {
+          "name": {
+            "en": "Maych’ew"
+          },
+          "latitude": 12.7875,
+          "longitude": 39.54222
+        },
+        {
+          "name": {
+            "en": "Mek'ele"
+          },
+          "latitude": 13.49667,
+          "longitude": 39.47528
+        },
+        {
+          "name": {
+            "en": "Southeastern Tigray Zone"
+          },
+          "latitude": 13.24797,
+          "longitude": 39.53156
+        },
+        {
+          "name": {
+            "en": "Southern Tigray Zone"
+          },
+          "latitude": 12.96033,
+          "longitude": 39.52831
+        }
+      ]
+    }
+  ]
+}

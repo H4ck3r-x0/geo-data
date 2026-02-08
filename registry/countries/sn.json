@@ -1,0 +1,655 @@
+{
+  "code": "SN",
+  "iso3": "SEN",
+  "name": {
+    "en": "Senegal",
+    "ar": "السنغال",
+    "de": "Senegal",
+    "es": "Senegal",
+    "fr": "Sénégal",
+    "hi": "सेनेगल",
+    "it": "Senegal",
+    "ja": "セネガル",
+    "ko": "세네갈",
+    "nl": "Senegal",
+    "pl": "Senegal",
+    "pt": "Senegal",
+    "pt-BR": "Senegal",
+    "ru": "Сенегал",
+    "tr": "Senegal",
+    "uk": "Сенегал",
+    "zh": "塞内加尔"
+  },
+  "phone": "+221",
+  "currency": "XOF",
+  "timezone": "Africa/Dakar",
+  "flag": "🇸🇳",
+  "regions": [
+    {
+      "code": "SN-DK",
+      "name": {
+        "en": "Dakar"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Dakar",
+            "ar": "داكار"
+          },
+          "latitude": 14.6937,
+          "longitude": -17.44406
+        },
+        {
+          "name": {
+            "en": "Dakar Department"
+          },
+          "latitude": 14.71403,
+          "longitude": -17.45534
+        },
+        {
+          "name": {
+            "en": "Guédiawaye Department"
+          },
+          "latitude": 14.7761,
+          "longitude": -17.3956
+        },
+        {
+          "name": {
+            "en": "Mermoz Boabab"
+          },
+          "latitude": 14.70649,
+          "longitude": -17.47581
+        },
+        {
+          "name": {
+            "en": "N’diareme limamoulaye"
+          },
+          "latitude": 14.78148,
+          "longitude": -17.3841
+        },
+        {
+          "name": {
+            "en": "Pikine"
+          },
+          "latitude": 14.76457,
+          "longitude": -17.39071
+        },
+        {
+          "name": {
+            "en": "Pikine Department"
+          },
+          "latitude": 14.76515,
+          "longitude": -17.35198
+        },
+        {
+          "name": {
+            "en": "Rufisque Department"
+          },
+          "latitude": 14.74339,
+          "longitude": -17.19841
+        }
+      ]
+    },
+    {
+      "code": "SN-DB",
+      "name": {
+        "en": "Diourbel Region"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Mbacké"
+          },
+          "latitude": 14.80828,
+          "longitude": -15.86454
+        },
+        {
+          "name": {
+            "en": "Mbaké"
+          },
+          "latitude": 14.79032,
+          "longitude": -15.90803
+        },
+        {
+          "name": {
+            "en": "Tiébo"
+          },
+          "latitude": 14.63333,
+          "longitude": -16.23333
+        },
+        {
+          "name": {
+            "en": "Touba"
+          },
+          "latitude": 14.85,
+          "longitude": -15.88333
+        }
+      ]
+    },
+    {
+      "code": "SN-FK",
+      "name": {
+        "en": "Fatick"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Diofior"
+          },
+          "latitude": 14.18333,
+          "longitude": -16.66667
+        },
+        {
+          "name": {
+            "en": "Fatick Department"
+          },
+          "latitude": 14.25909,
+          "longitude": -16.49884
+        },
+        {
+          "name": {
+            "en": "Foundiougne"
+          },
+          "latitude": 14.13333,
+          "longitude": -16.46667
+        },
+        {
+          "name": {
+            "en": "Guinguinéo"
+          },
+          "latitude": 14.26667,
+          "longitude": -15.95
+        },
+        {
+          "name": {
+            "en": "Passi"
+          },
+          "latitude": 13.98333,
+          "longitude": -16.26667
+        },
+        {
+          "name": {
+            "en": "Pourham"
+          },
+          "latitude": 14.35,
+          "longitude": -16.41667
+        },
+        {
+          "name": {
+            "en": "Sokone"
+          },
+          "latitude": 13.88333,
+          "longitude": -16.36667
+        }
+      ]
+    },
+    {
+      "code": "SN-KA",
+      "name": {
+        "en": "Kaffrine"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Kaffrine"
+          },
+          "latitude": 14.10594,
+          "longitude": -15.5508
+        },
+        {
+          "name": {
+            "en": "Koungheul"
+          },
+          "latitude": 13.98333,
+          "longitude": -14.8
+        }
+      ]
+    },
+    {
+      "code": "SN-KL",
+      "name": {
+        "en": "Kaolack"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Gandiaye"
+          },
+          "latitude": 14.23333,
+          "longitude": -16.26667
+        },
+        {
+          "name": {
+            "en": "Kaolack"
+          },
+          "latitude": 14.15197,
+          "longitude": -16.07259
+        },
+        {
+          "name": {
+            "en": "Ndofane"
+          },
+          "latitude": 13.91667,
+          "longitude": -15.93333
+        },
+        {
+          "name": {
+            "en": "Nioro du Rip"
+          },
+          "latitude": 13.75,
+          "longitude": -15.8
+        }
+      ]
+    },
+    {
+      "code": "SN-KE",
+      "name": {
+        "en": "Kédougou"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Département de Salémata"
+          },
+          "latitude": 12.59971,
+          "longitude": -12.77619
+        },
+        {
+          "name": {
+            "en": "Kédougou"
+          },
+          "latitude": 12.55561,
+          "longitude": -12.18076
+        },
+        {
+          "name": {
+            "en": "Kédougou Department"
+          },
+          "latitude": 12.81716,
+          "longitude": -12.17834
+        },
+        {
+          "name": {
+            "en": "Saraya"
+          },
+          "latitude": 13.0015,
+          "longitude": -11.79627
+        }
+      ]
+    },
+    {
+      "code": "SN-KD",
+      "name": {
+        "en": "Kolda"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Kolda"
+          },
+          "latitude": 12.8939,
+          "longitude": -14.94125
+        },
+        {
+          "name": {
+            "en": "Kolda Department"
+          },
+          "latitude": 12.883,
+          "longitude": -14.95
+        },
+        {
+          "name": {
+            "en": "Marsassoum"
+          },
+          "latitude": 12.8275,
+          "longitude": -15.98056
+        },
+        {
+          "name": {
+            "en": "Vélingara"
+          },
+          "latitude": 13.15,
+          "longitude": -14.11667
+        }
+      ]
+    },
+    {
+      "code": "SN-LG",
+      "name": {
+        "en": "Louga"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Dara"
+          },
+          "latitude": 15.34844,
+          "longitude": -15.47993
+        },
+        {
+          "name": {
+            "en": "Guéoul"
+          },
+          "latitude": 15.48333,
+          "longitude": -16.35
+        },
+        {
+          "name": {
+            "en": "Linguere Department"
+          },
+          "latitude": 15.359,
+          "longitude": -15.158
+        },
+        {
+          "name": {
+            "en": "Louga"
+          },
+          "latitude": 15.61867,
+          "longitude": -16.22436
+        },
+        {
+          "name": {
+            "en": "Ndibène Dahra"
+          },
+          "latitude": 15.3338,
+          "longitude": -15.4766
+        }
+      ]
+    },
+    {
+      "code": "SN-MT",
+      "name": {
+        "en": "Matam"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Diawara"
+          },
+          "latitude": 15.02196,
+          "longitude": -12.54374
+        },
+        {
+          "name": {
+            "en": "Kanel"
+          },
+          "latitude": 15.4916,
+          "longitude": -13.17627
+        },
+        {
+          "name": {
+            "en": "Matam"
+          },
+          "latitude": 15.65587,
+          "longitude": -13.25544
+        },
+        {
+          "name": {
+            "en": "Matam Department"
+          },
+          "latitude": 15.73191,
+          "longitude": -13.63393
+        },
+        {
+          "name": {
+            "en": "Ouro Sogui",
+            "ar": "أوروسغي"
+          },
+          "latitude": 15.60588,
+          "longitude": -13.3223
+        },
+        {
+          "name": {
+            "en": "Ranérou"
+          },
+          "latitude": 15.3,
+          "longitude": -13.96667
+        },
+        {
+          "name": {
+            "en": "Sémé"
+          },
+          "latitude": 15.19422,
+          "longitude": -12.94482
+        },
+        {
+          "name": {
+            "en": "Waoundé"
+          },
+          "latitude": 15.26367,
+          "longitude": -12.86821
+        }
+      ]
+    },
+    {
+      "code": "SN-SL",
+      "name": {
+        "en": "Saint-Louis"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Goléré"
+          },
+          "latitude": 16.25575,
+          "longitude": -14.10165
+        },
+        {
+          "name": {
+            "en": "Ndioum"
+          },
+          "latitude": 16.51293,
+          "longitude": -14.64706
+        },
+        {
+          "name": {
+            "en": "Polel Diaoubé"
+          },
+          "latitude": 15.26667,
+          "longitude": -13
+        },
+        {
+          "name": {
+            "en": "Richard-Toll"
+          },
+          "latitude": 16.4625,
+          "longitude": -15.70083
+        },
+        {
+          "name": {
+            "en": "Rosso"
+          },
+          "latitude": 16.42028,
+          "longitude": -15.79834
+        },
+        {
+          "name": {
+            "en": "Saint-Louis",
+            "ar": "سانت لويس"
+          },
+          "latitude": 16.01793,
+          "longitude": -16.48962
+        }
+      ]
+    },
+    {
+      "code": "SN-SE",
+      "name": {
+        "en": "Sédhiou"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Goudomp Department"
+          },
+          "latitude": 12.57778,
+          "longitude": -15.87222
+        },
+        {
+          "name": {
+            "en": "Sédhiou"
+          },
+          "latitude": 12.70806,
+          "longitude": -15.55694
+        }
+      ]
+    },
+    {
+      "code": "SN-TC",
+      "name": {
+        "en": "Tambacounda Region"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Tambacounda"
+          },
+          "latitude": 13.77073,
+          "longitude": -13.66734
+        },
+        {
+          "name": {
+            "en": "Tambacounda Department"
+          },
+          "latitude": 13.605,
+          "longitude": -13.647
+        }
+      ]
+    },
+    {
+      "code": "SN-TH",
+      "name": {
+        "en": "Thiès Region"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Joal-Fadiout"
+          },
+          "latitude": 14.16667,
+          "longitude": -16.83333
+        },
+        {
+          "name": {
+            "en": "Kayar"
+          },
+          "latitude": 14.91893,
+          "longitude": -17.11978
+        },
+        {
+          "name": {
+            "en": "Khombole"
+          },
+          "latitude": 14.76667,
+          "longitude": -16.7
+        },
+        {
+          "name": {
+            "en": "Mbour"
+          },
+          "latitude": 14.40569,
+          "longitude": -16.85559
+        },
+        {
+          "name": {
+            "en": "Mékhé"
+          },
+          "latitude": 15.1097,
+          "longitude": -16.6218
+        },
+        {
+          "name": {
+            "en": "Nguékhokh"
+          },
+          "latitude": 14.51255,
+          "longitude": -17.00447
+        },
+        {
+          "name": {
+            "en": "Pout"
+          },
+          "latitude": 14.77099,
+          "longitude": -17.06107
+        },
+        {
+          "name": {
+            "en": "Thiès"
+          },
+          "latitude": 14.73004,
+          "longitude": -16.86974
+        },
+        {
+          "name": {
+            "en": "Thiès Nones"
+          },
+          "latitude": 14.78333,
+          "longitude": -16.96667
+        },
+        {
+          "name": {
+            "en": "Tiadiaye"
+          },
+          "latitude": 14.41667,
+          "longitude": -16.7
+        },
+        {
+          "name": {
+            "en": "Tivaouane"
+          },
+          "latitude": 15.08519,
+          "longitude": -16.71058
+        },
+        {
+          "name": {
+            "en": "Warang"
+          },
+          "latitude": 14.37349,
+          "longitude": -16.94366
+        }
+      ]
+    },
+    {
+      "code": "SN-ZG",
+      "name": {
+        "en": "Ziguinchor"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Adéane"
+          },
+          "latitude": 12.63,
+          "longitude": -16.01694
+        },
+        {
+          "name": {
+            "en": "Bignona"
+          },
+          "latitude": 12.81028,
+          "longitude": -16.22639
+        },
+        {
+          "name": {
+            "en": "Oussouye"
+          },
+          "latitude": 12.485,
+          "longitude": -16.54694
+        },
+        {
+          "name": {
+            "en": "Tionk Essil"
+          },
+          "latitude": 12.78556,
+          "longitude": -16.52167
+        },
+        {
+          "name": {
+            "en": "Ziguinchor"
+          },
+          "latitude": 12.56801,
+          "longitude": -16.27326
+        }
+      ]
+    }
+  ]
+}

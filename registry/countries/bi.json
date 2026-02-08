@@ -1,0 +1,285 @@
+{
+  "code": "BI",
+  "iso3": "BDI",
+  "name": {
+    "en": "Burundi",
+    "ar": "بوروندي",
+    "de": "Burundi",
+    "es": "Burundi",
+    "fr": "Burundi",
+    "hi": "बुस्र्न्दी",
+    "it": "Burundi",
+    "ja": "ブルンジ",
+    "ko": "부룬디",
+    "nl": "Burundi",
+    "pl": "Burundi",
+    "pt": "Burúndi",
+    "pt-BR": "Burundi",
+    "ru": "Бурунди",
+    "tr": "Burundi",
+    "uk": "Бурунді",
+    "zh": "布隆迪"
+  },
+  "phone": "+257",
+  "currency": "BIF",
+  "timezone": "Africa/Bujumbura",
+  "flag": "🇧🇮",
+  "regions": [
+    {
+      "code": "BI-BB",
+      "name": {
+        "en": "Bubanza"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bubanza"
+          },
+          "latitude": -3.0804,
+          "longitude": 29.391
+        }
+      ]
+    },
+    {
+      "code": "BI-BM",
+      "name": {
+        "en": "Bujumbura Mairie"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bujumbura",
+            "ar": "بوجومبورا"
+          },
+          "latitude": -3.38193,
+          "longitude": 29.36142
+        }
+      ]
+    },
+    {
+      "code": "BI-BR",
+      "name": {
+        "en": "Bururi"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bururi"
+          },
+          "latitude": -3.94877,
+          "longitude": 29.62438
+        }
+      ]
+    },
+    {
+      "code": "BI-CA",
+      "name": {
+        "en": "Cankuzo"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Cankuzo"
+          },
+          "latitude": -3.2186,
+          "longitude": 30.5528
+        }
+      ]
+    },
+    {
+      "code": "BI-CI",
+      "name": {
+        "en": "Cibitoke"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Cibitoke"
+          },
+          "latitude": -2.8869,
+          "longitude": 29.1248
+        }
+      ]
+    },
+    {
+      "code": "BI-GI",
+      "name": {
+        "en": "Gitega"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Gitega"
+          },
+          "latitude": -3.42708,
+          "longitude": 29.92463
+        }
+      ]
+    },
+    {
+      "code": "BI-KR",
+      "name": {
+        "en": "Karuzi"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Karuzi"
+          },
+          "latitude": -3.10139,
+          "longitude": 30.16278
+        }
+      ]
+    },
+    {
+      "code": "BI-KY",
+      "name": {
+        "en": "Kayanza"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Kayanza"
+          },
+          "latitude": -2.9221,
+          "longitude": 29.6293
+        }
+      ]
+    },
+    {
+      "code": "BI-KI",
+      "name": {
+        "en": "Kirundo"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Kirundo"
+          },
+          "latitude": -2.5845,
+          "longitude": 30.0959
+        }
+      ]
+    },
+    {
+      "code": "BI-MA",
+      "name": {
+        "en": "Makamba"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Makamba"
+          },
+          "latitude": -4.1348,
+          "longitude": 29.804
+        }
+      ]
+    },
+    {
+      "code": "BI-MU",
+      "name": {
+        "en": "Muramvya"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Muramvya"
+          },
+          "latitude": -3.2682,
+          "longitude": 29.6079
+        }
+      ]
+    },
+    {
+      "code": "BI-MY",
+      "name": {
+        "en": "Muyinga"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Muyinga"
+          },
+          "latitude": -2.8451,
+          "longitude": 30.3414
+        }
+      ]
+    },
+    {
+      "code": "BI-MW",
+      "name": {
+        "en": "Mwaro"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Mwaro"
+          },
+          "latitude": -3.51128,
+          "longitude": 29.70334
+        }
+      ]
+    },
+    {
+      "code": "BI-NG",
+      "name": {
+        "en": "Ngozi"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ngozi"
+          },
+          "latitude": -2.9075,
+          "longitude": 29.8306
+        }
+      ]
+    },
+    {
+      "code": "BI-RM",
+      "name": {
+        "en": "Rumonge"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Rumonge"
+          },
+          "latitude": -3.9736,
+          "longitude": 29.4386
+        }
+      ]
+    },
+    {
+      "code": "BI-RT",
+      "name": {
+        "en": "Rutana"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Rutana"
+          },
+          "latitude": -3.9279,
+          "longitude": 29.992
+        }
+      ]
+    },
+    {
+      "code": "BI-RY",
+      "name": {
+        "en": "Ruyigi"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ruyigi"
+          },
+          "latitude": -3.47639,
+          "longitude": 30.24861
+        }
+      ]
+    }
+  ]
+}

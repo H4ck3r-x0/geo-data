@@ -1,0 +1,301 @@
+{
+  "code": "GA",
+  "iso3": "GAB",
+  "name": {
+    "en": "Gabon",
+    "ar": "الجابون",
+    "de": "Gabun",
+    "es": "Gabón",
+    "fr": "Gabon",
+    "hi": "गैबॉन",
+    "it": "Gabon",
+    "ja": "ガボン",
+    "ko": "가봉",
+    "nl": "Gabon",
+    "pl": "Gabon",
+    "pt": "Gabão",
+    "pt-BR": "Gabão",
+    "ru": "Габон",
+    "tr": "Gabon",
+    "uk": "Габон",
+    "zh": "加蓬"
+  },
+  "phone": "+241",
+  "currency": "XAF",
+  "timezone": "Africa/Libreville",
+  "flag": "🇬🇦",
+  "regions": [
+    {
+      "code": "GA-1",
+      "name": {
+        "en": "Estuaire"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Cocobeach"
+          },
+          "latitude": 1.00019,
+          "longitude": 9.58229
+        },
+        {
+          "name": {
+            "en": "Libreville",
+            "ar": "ليبرفيل"
+          },
+          "latitude": 0.39241,
+          "longitude": 9.45356
+        },
+        {
+          "name": {
+            "en": "Ntoum"
+          },
+          "latitude": 0.39051,
+          "longitude": 9.76096
+        }
+      ]
+    },
+    {
+      "code": "GA-2",
+      "name": {
+        "en": "Haut-Ogooué"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Franceville",
+            "ar": "فرانسفيل"
+          },
+          "latitude": -1.63333,
+          "longitude": 13.58357
+        },
+        {
+          "name": {
+            "en": "Lékoni"
+          },
+          "latitude": -1.58431,
+          "longitude": 14.25905
+        },
+        {
+          "name": {
+            "en": "Moanda",
+            "ar": "مواندا"
+          },
+          "latitude": -1.56652,
+          "longitude": 13.1987
+        },
+        {
+          "name": {
+            "en": "Mounana"
+          },
+          "latitude": -1.4085,
+          "longitude": 13.15857
+        },
+        {
+          "name": {
+            "en": "Okondja"
+          },
+          "latitude": -0.65487,
+          "longitude": 13.67533
+        }
+      ]
+    },
+    {
+      "code": "GA-3",
+      "name": {
+        "en": "Moyen-Ogooué"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Lambaréné"
+          },
+          "latitude": -0.7001,
+          "longitude": 10.24055
+        },
+        {
+          "name": {
+            "en": "Ndjolé"
+          },
+          "latitude": -0.17827,
+          "longitude": 10.76488
+        }
+      ]
+    },
+    {
+      "code": "GA-4",
+      "name": {
+        "en": "Ngounié"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Fougamou"
+          },
+          "latitude": -1.21544,
+          "longitude": 10.58378
+        },
+        {
+          "name": {
+            "en": "Mbigou"
+          },
+          "latitude": -1.90046,
+          "longitude": 11.906
+        },
+        {
+          "name": {
+            "en": "Mimongo"
+          },
+          "latitude": -1.61952,
+          "longitude": 11.60675
+        },
+        {
+          "name": {
+            "en": "Mouila"
+          },
+          "latitude": -1.86846,
+          "longitude": 11.05594
+        },
+        {
+          "name": {
+            "en": "Ndendé"
+          },
+          "latitude": -2.40077,
+          "longitude": 11.35813
+        }
+      ]
+    },
+    {
+      "code": "GA-5",
+      "name": {
+        "en": "Nyanga"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Mayumba"
+          },
+          "latitude": -3.43198,
+          "longitude": 10.6554
+        },
+        {
+          "name": {
+            "en": "Tchibanga"
+          },
+          "latitude": -2.93323,
+          "longitude": 10.98178
+        }
+      ]
+    },
+    {
+      "code": "GA-6",
+      "name": {
+        "en": "Ogooué-Ivindo"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Booué"
+          },
+          "latitude": -0.09207,
+          "longitude": 11.93846
+        },
+        {
+          "name": {
+            "en": "Makokou"
+          },
+          "latitude": 0.57381,
+          "longitude": 12.86419
+        },
+        {
+          "name": {
+            "en": "Zadie"
+          },
+          "latitude": 0.92582,
+          "longitude": 13.90813
+        }
+      ]
+    },
+    {
+      "code": "GA-7",
+      "name": {
+        "en": "Ogooué-Lolo"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Koulamoutou"
+          },
+          "latitude": -1.13667,
+          "longitude": 12.46399
+        },
+        {
+          "name": {
+            "en": "Lastoursville"
+          },
+          "latitude": -0.81742,
+          "longitude": 12.70818
+        }
+      ]
+    },
+    {
+      "code": "GA-8",
+      "name": {
+        "en": "Ogooué-Maritime"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Gamba"
+          },
+          "latitude": -2.65,
+          "longitude": 10
+        },
+        {
+          "name": {
+            "en": "Omboué"
+          },
+          "latitude": -1.57464,
+          "longitude": 9.26184
+        },
+        {
+          "name": {
+            "en": "Port-Gentil",
+            "ar": "بورت جنتيل"
+          },
+          "latitude": -0.71933,
+          "longitude": 8.78151
+        }
+      ]
+    },
+    {
+      "code": "GA-9",
+      "name": {
+        "en": "Woleu-Ntem"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bitam"
+          },
+          "latitude": 2.07597,
+          "longitude": 11.50065
+        },
+        {
+          "name": {
+            "en": "Mitzic"
+          },
+          "latitude": 0.78205,
+          "longitude": 11.54904
+        },
+        {
+          "name": {
+            "en": "Oyem"
+          },
+          "latitude": 1.5995,
+          "longitude": 11.57933
+        }
+      ]
+    }
+  ]
+}

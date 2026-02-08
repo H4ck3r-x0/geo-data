@@ -1,0 +1,3998 @@
+{
+  "code": "PA",
+  "iso3": "PAN",
+  "name": {
+    "en": "Panama",
+    "ar": "بنما",
+    "de": "Panama",
+    "es": "Panamá",
+    "fr": "Panama",
+    "hi": "पनामा",
+    "it": "Panama",
+    "ja": "パナマ",
+    "ko": "파나마",
+    "nl": "Panama",
+    "pl": "Panama",
+    "pt": "Panamá",
+    "pt-BR": "Panamá",
+    "ru": "Панама",
+    "tr": "Panama",
+    "uk": "Панама",
+    "zh": "巴拿马"
+  },
+  "phone": "+507",
+  "currency": "PAB",
+  "timezone": "America/Panama",
+  "flag": "🇵🇦",
+  "regions": [
+    {
+      "code": "PA-1",
+      "name": {
+        "en": "Bocas del Toro"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Almirante"
+          },
+          "latitude": 9.30091,
+          "longitude": -82.4018
+        },
+        {
+          "name": {
+            "en": "Barranco"
+          },
+          "latitude": 9.51984,
+          "longitude": -82.70424
+        },
+        {
+          "name": {
+            "en": "Barranco Adentro"
+          },
+          "latitude": 9.52757,
+          "longitude": -82.73344
+        },
+        {
+          "name": {
+            "en": "Bastimentos"
+          },
+          "latitude": 9.34707,
+          "longitude": -82.2088
+        },
+        {
+          "name": {
+            "en": "Bocas del Toro"
+          },
+          "latitude": 9.34031,
+          "longitude": -82.24204
+        },
+        {
+          "name": {
+            "en": "Cauchero"
+          },
+          "latitude": 9.15226,
+          "longitude": -82.2645
+        },
+        {
+          "name": {
+            "en": "Changuinola"
+          },
+          "latitude": 9.43,
+          "longitude": -82.52
+        },
+        {
+          "name": {
+            "en": "Chiriquí Grande"
+          },
+          "latitude": 8.94557,
+          "longitude": -82.11769
+        },
+        {
+          "name": {
+            "en": "Distrito Chiriquí Grande"
+          },
+          "latitude": 8.94748,
+          "longitude": -82.12418
+        },
+        {
+          "name": {
+            "en": "Distrito de Bocas del Toro"
+          },
+          "latitude": 9.36235,
+          "longitude": -82.26288
+        },
+        {
+          "name": {
+            "en": "Distrito de Changuinola"
+          },
+          "latitude": 9.25,
+          "longitude": -82.63333
+        },
+        {
+          "name": {
+            "en": "El Empalme"
+          },
+          "latitude": 9.41667,
+          "longitude": -82.51667
+        },
+        {
+          "name": {
+            "en": "El Silencio"
+          },
+          "latitude": 9.37222,
+          "longitude": -82.52877
+        },
+        {
+          "name": {
+            "en": "Guabito"
+          },
+          "latitude": 9.48968,
+          "longitude": -82.61279
+        },
+        {
+          "name": {
+            "en": "Isla Bastimentos"
+          },
+          "latitude": 9.3,
+          "longitude": -82.13333
+        },
+        {
+          "name": {
+            "en": "Miramar"
+          },
+          "latitude": 8.99482,
+          "longitude": -82.24147
+        },
+        {
+          "name": {
+            "en": "Punta Laurel"
+          },
+          "latitude": 9.141,
+          "longitude": -82.12717
+        },
+        {
+          "name": {
+            "en": "Punta Peña"
+          },
+          "latitude": 8.91659,
+          "longitude": -82.18488
+        },
+        {
+          "name": {
+            "en": "Punta Róbalo"
+          },
+          "latitude": 9.03631,
+          "longitude": -82.24952
+        },
+        {
+          "name": {
+            "en": "Valle del Risco"
+          },
+          "latitude": 9.23064,
+          "longitude": -82.42748
+        }
+      ]
+    },
+    {
+      "code": "PA-4",
+      "name": {
+        "en": "Chiriquí Province"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Alanje"
+          },
+          "latitude": 8.39791,
+          "longitude": -82.55947
+        },
+        {
+          "name": {
+            "en": "Algarrobos Arriba"
+          },
+          "latitude": 8.5155,
+          "longitude": -82.42263
+        },
+        {
+          "name": {
+            "en": "Alto Boquete"
+          },
+          "latitude": 8.73458,
+          "longitude": -82.43213
+        },
+        {
+          "name": {
+            "en": "Aserrío de Gariché"
+          },
+          "latitude": 8.48257,
+          "longitude": -82.79086
+        },
+        {
+          "name": {
+            "en": "Bágala"
+          },
+          "latitude": 8.46399,
+          "longitude": -82.52617
+        },
+        {
+          "name": {
+            "en": "Bajo Boquete"
+          },
+          "latitude": 8.77058,
+          "longitude": -82.43306
+        },
+        {
+          "name": {
+            "en": "Barrio Guadalupe"
+          },
+          "latitude": 8.86482,
+          "longitude": -82.56523
+        },
+        {
+          "name": {
+            "en": "Bijagual"
+          },
+          "latitude": 8.51486,
+          "longitude": -82.33361
+        },
+        {
+          "name": {
+            "en": "Boca Chica"
+          },
+          "latitude": 8.21911,
+          "longitude": -82.21592
+        },
+        {
+          "name": {
+            "en": "Boca del Monte"
+          },
+          "latitude": 8.35296,
+          "longitude": -82.11379
+        },
+        {
+          "name": {
+            "en": "Boquerón"
+          },
+          "latitude": 8.5051,
+          "longitude": -82.57025
+        },
+        {
+          "name": {
+            "en": "Boquete"
+          },
+          "latitude": 8.78024,
+          "longitude": -82.44136
+        },
+        {
+          "name": {
+            "en": "Breñón"
+          },
+          "latitude": 8.62491,
+          "longitude": -82.81277
+        },
+        {
+          "name": {
+            "en": "Bugaba"
+          },
+          "latitude": 8.48255,
+          "longitude": -82.61991
+        },
+        {
+          "name": {
+            "en": "Bugabita Arriba"
+          },
+          "latitude": 8.52143,
+          "longitude": -82.63638
+        },
+        {
+          "name": {
+            "en": "Caimito"
+          },
+          "latitude": 8.54162,
+          "longitude": -82.419
+        },
+        {
+          "name": {
+            "en": "Caldera"
+          },
+          "latitude": 8.64907,
+          "longitude": -82.38058
+        },
+        {
+          "name": {
+            "en": "Cañas Gordas"
+          },
+          "latitude": 8.74309,
+          "longitude": -82.91275
+        },
+        {
+          "name": {
+            "en": "Celmira"
+          },
+          "latitude": 8.54026,
+          "longitude": -82.80022
+        },
+        {
+          "name": {
+            "en": "Cerro Punta"
+          },
+          "latitude": 8.84968,
+          "longitude": -82.57261
+        },
+        {
+          "name": {
+            "en": "Cerro Viejo"
+          },
+          "latitude": 8.25349,
+          "longitude": -81.57658
+        },
+        {
+          "name": {
+            "en": "Chiriquí"
+          },
+          "latitude": 8.39291,
+          "longitude": -82.31993
+        },
+        {
+          "name": {
+            "en": "Cochea Abajo"
+          },
+          "latitude": 8.50512,
+          "longitude": -82.35878
+        },
+        {
+          "name": {
+            "en": "Cordillera"
+          },
+          "latitude": 8.70683,
+          "longitude": -82.60327
+        },
+        {
+          "name": {
+            "en": "David"
+          },
+          "latitude": 8.42729,
+          "longitude": -82.43085
+        },
+        {
+          "name": {
+            "en": "Distrito de Alanje"
+          },
+          "latitude": 8.39842,
+          "longitude": -82.64065
+        },
+        {
+          "name": {
+            "en": "Distrito de Barú"
+          },
+          "latitude": 8.29482,
+          "longitude": -82.92726
+        },
+        {
+          "name": {
+            "en": "Distrito de Boquerón"
+          },
+          "latitude": 8.61667,
+          "longitude": -82.56667
+        },
+        {
+          "name": {
+            "en": "Distrito de Boquete"
+          },
+          "latitude": 8.74896,
+          "longitude": -82.36842
+        },
+        {
+          "name": {
+            "en": "Distrito de Bugaba"
+          },
+          "latitude": 8.68786,
+          "longitude": -82.67937
+        },
+        {
+          "name": {
+            "en": "Distrito de David"
+          },
+          "latitude": 8.4,
+          "longitude": -82.4
+        },
+        {
+          "name": {
+            "en": "Distrito de Dolega"
+          },
+          "latitude": 8.61667,
+          "longitude": -82.45
+        },
+        {
+          "name": {
+            "en": "Distrito de Gualaca"
+          },
+          "latitude": 8.57398,
+          "longitude": -82.22207
+        },
+        {
+          "name": {
+            "en": "Distrito de Remedios"
+          },
+          "latitude": 8.20253,
+          "longitude": -81.81163
+        },
+        {
+          "name": {
+            "en": "Distrito de Renacimiento"
+          },
+          "latitude": 8.71667,
+          "longitude": -82.76667
+        },
+        {
+          "name": {
+            "en": "Distrito de San Félix"
+          },
+          "latitude": 8.27768,
+          "longitude": -81.87377
+        },
+        {
+          "name": {
+            "en": "Distrito de San Lorenzo"
+          },
+          "latitude": 8.29366,
+          "longitude": -82.08922
+        },
+        {
+          "name": {
+            "en": "Distrito de Tolé"
+          },
+          "latitude": 8.19015,
+          "longitude": -81.66007
+        },
+        {
+          "name": {
+            "en": "Divalá"
+          },
+          "latitude": 8.41066,
+          "longitude": -82.71332
+        },
+        {
+          "name": {
+            "en": "Dolega"
+          },
+          "latitude": 8.56667,
+          "longitude": -82.41407
+        },
+        {
+          "name": {
+            "en": "El Nancito"
+          },
+          "latitude": 8.23811,
+          "longitude": -81.73218
+        },
+        {
+          "name": {
+            "en": "El Palmar"
+          },
+          "latitude": 8.30098,
+          "longitude": -82.85344
+        },
+        {
+          "name": {
+            "en": "El Porvenir"
+          },
+          "latitude": 8.22919,
+          "longitude": -81.83278
+        },
+        {
+          "name": {
+            "en": "El Tejar"
+          },
+          "latitude": 8.42973,
+          "longitude": -82.57294
+        },
+        {
+          "name": {
+            "en": "Finca Blanco"
+          },
+          "latitude": 8.37979,
+          "longitude": -82.87385
+        },
+        {
+          "name": {
+            "en": "Gómez"
+          },
+          "latitude": 8.56085,
+          "longitude": -82.74142
+        },
+        {
+          "name": {
+            "en": "Guabal"
+          },
+          "latitude": 8.57466,
+          "longitude": -82.5373
+        },
+        {
+          "name": {
+            "en": "Guaca Arriba"
+          },
+          "latitude": 8.53733,
+          "longitude": -82.49281
+        },
+        {
+          "name": {
+            "en": "Gualaca"
+          },
+          "latitude": 8.53006,
+          "longitude": -82.29959
+        },
+        {
+          "name": {
+            "en": "Guayabal"
+          },
+          "latitude": 8.62193,
+          "longitude": -82.57935
+        },
+        {
+          "name": {
+            "en": "Horconcitos"
+          },
+          "latitude": 8.31142,
+          "longitude": -82.15102
+        },
+        {
+          "name": {
+            "en": "La Concepción"
+          },
+          "latitude": 8.51212,
+          "longitude": -82.61858
+        },
+        {
+          "name": {
+            "en": "La Esperanza"
+          },
+          "latitude": 8.40344,
+          "longitude": -82.79197
+        },
+        {
+          "name": {
+            "en": "La Estrella"
+          },
+          "latitude": 8.51572,
+          "longitude": -82.67212
+        },
+        {
+          "name": {
+            "en": "Lajas Adentro"
+          },
+          "latitude": 8.24981,
+          "longitude": -81.87779
+        },
+        {
+          "name": {
+            "en": "Lajas de Tolé"
+          },
+          "latitude": 8.16994,
+          "longitude": -81.69654
+        },
+        {
+          "name": {
+            "en": "Las Lajas"
+          },
+          "latitude": 8.24184,
+          "longitude": -81.86931
+        },
+        {
+          "name": {
+            "en": "Las Lomas"
+          },
+          "latitude": 8.42927,
+          "longitude": -82.38743
+        },
+        {
+          "name": {
+            "en": "Limones"
+          },
+          "latitude": 8.10007,
+          "longitude": -82.86679
+        },
+        {
+          "name": {
+            "en": "Los Anastacios"
+          },
+          "latitude": 8.53027,
+          "longitude": -82.42295
+        },
+        {
+          "name": {
+            "en": "Los Ángeles"
+          },
+          "latitude": 8.52271,
+          "longitude": -82.19997
+        },
+        {
+          "name": {
+            "en": "Los Naranjos"
+          },
+          "latitude": 8.7921,
+          "longitude": -82.44665
+        },
+        {
+          "name": {
+            "en": "Manaca Civil"
+          },
+          "latitude": 8.32458,
+          "longitude": -82.8157
+        },
+        {
+          "name": {
+            "en": "Manaca Norte"
+          },
+          "latitude": 8.33419,
+          "longitude": -82.81003
+        },
+        {
+          "name": {
+            "en": "Mata del Nance"
+          },
+          "latitude": 8.45056,
+          "longitude": -82.40057
+        },
+        {
+          "name": {
+            "en": "Monte Lirio"
+          },
+          "latitude": 8.78935,
+          "longitude": -82.82865
+        },
+        {
+          "name": {
+            "en": "Nuevo San Carlitos"
+          },
+          "latitude": 8.45698,
+          "longitude": -82.43712
+        },
+        {
+          "name": {
+            "en": "Paja de Sombrero"
+          },
+          "latitude": 8.68335,
+          "longitude": -82.31911
+        },
+        {
+          "name": {
+            "en": "Palmira"
+          },
+          "latitude": 8.73401,
+          "longitude": -82.45887
+        },
+        {
+          "name": {
+            "en": "Palmira Centro"
+          },
+          "latitude": 8.73956,
+          "longitude": -82.45228
+        },
+        {
+          "name": {
+            "en": "Paso Canoas Arriba"
+          },
+          "latitude": 8.56516,
+          "longitude": -82.82214
+        },
+        {
+          "name": {
+            "en": "Pedregal"
+          },
+          "latitude": 8.36586,
+          "longitude": -82.43524
+        },
+        {
+          "name": {
+            "en": "Plaza de Caisán"
+          },
+          "latitude": 8.73672,
+          "longitude": -82.81968
+        },
+        {
+          "name": {
+            "en": "Potrerillos Abajo"
+          },
+          "latitude": 8.63978,
+          "longitude": -82.4856
+        },
+        {
+          "name": {
+            "en": "Potrerillos Arriba"
+          },
+          "latitude": 8.68547,
+          "longitude": -82.4909
+        },
+        {
+          "name": {
+            "en": "Progreso"
+          },
+          "latitude": 8.44669,
+          "longitude": -82.83859
+        },
+        {
+          "name": {
+            "en": "Pueblo Viejo"
+          },
+          "latitude": 8.25081,
+          "longitude": -81.66259
+        },
+        {
+          "name": {
+            "en": "Puerto Armuelles"
+          },
+          "latitude": 8.27775,
+          "longitude": -82.86206
+        },
+        {
+          "name": {
+            "en": "Punta de Burica"
+          },
+          "latitude": 8.03333,
+          "longitude": -82.86667
+        },
+        {
+          "name": {
+            "en": "Quebrada de Piedra"
+          },
+          "latitude": 8.09418,
+          "longitude": -81.67915
+        },
+        {
+          "name": {
+            "en": "Querévalo"
+          },
+          "latitude": 8.37174,
+          "longitude": -82.5267
+        },
+        {
+          "name": {
+            "en": "Quinteño"
+          },
+          "latitude": 8.47102,
+          "longitude": -82.39352
+        },
+        {
+          "name": {
+            "en": "Remedios"
+          },
+          "latitude": 8.22436,
+          "longitude": -81.82747
+        },
+        {
+          "name": {
+            "en": "Rincón"
+          },
+          "latitude": 8.46374,
+          "longitude": -82.27951
+        },
+        {
+          "name": {
+            "en": "Río Sereno"
+          },
+          "latitude": 8.81741,
+          "longitude": -82.85731
+        },
+        {
+          "name": {
+            "en": "Rovira Arriba"
+          },
+          "latitude": 8.63822,
+          "longitude": -82.49965
+        },
+        {
+          "name": {
+            "en": "San Andrés"
+          },
+          "latitude": 8.6026,
+          "longitude": -82.72588
+        },
+        {
+          "name": {
+            "en": "San Félix"
+          },
+          "latitude": 8.29063,
+          "longitude": -81.86702
+        },
+        {
+          "name": {
+            "en": "San Isidro"
+          },
+          "latitude": 8.53032,
+          "longitude": -82.8272
+        },
+        {
+          "name": {
+            "en": "San Lorenzo"
+          },
+          "latitude": 8.30561,
+          "longitude": -82.10114
+        },
+        {
+          "name": {
+            "en": "San Pablo Nuevo Abajo"
+          },
+          "latitude": 8.42558,
+          "longitude": -82.50173
+        },
+        {
+          "name": {
+            "en": "San Pablo Viejo Abajo"
+          },
+          "latitude": 8.45339,
+          "longitude": -82.50179
+        },
+        {
+          "name": {
+            "en": "Santa Cruz"
+          },
+          "latitude": 8.23219,
+          "longitude": -81.91323
+        },
+        {
+          "name": {
+            "en": "Santa Marta"
+          },
+          "latitude": 8.51406,
+          "longitude": -82.6987
+        },
+        {
+          "name": {
+            "en": "Santa Rosa"
+          },
+          "latitude": 8.59958,
+          "longitude": -82.68489
+        },
+        {
+          "name": {
+            "en": "Santo Domingo"
+          },
+          "latitude": 8.50803,
+          "longitude": -82.71295
+        },
+        {
+          "name": {
+            "en": "Santo Tomás"
+          },
+          "latitude": 8.38959,
+          "longitude": -82.65058
+        },
+        {
+          "name": {
+            "en": "Sioguí Abajo"
+          },
+          "latitude": 8.48678,
+          "longitude": -82.66539
+        },
+        {
+          "name": {
+            "en": "Sioguí Arriba"
+          },
+          "latitude": 8.53865,
+          "longitude": -82.68619
+        },
+        {
+          "name": {
+            "en": "Sortova"
+          },
+          "latitude": 8.54642,
+          "longitude": -82.6517
+        },
+        {
+          "name": {
+            "en": "Tijeras"
+          },
+          "latitude": 8.47514,
+          "longitude": -82.56058
+        },
+        {
+          "name": {
+            "en": "Tinajas"
+          },
+          "latitude": 8.55281,
+          "longitude": -82.45963
+        },
+        {
+          "name": {
+            "en": "Tolé"
+          },
+          "latitude": 8.23989,
+          "longitude": -81.67168
+        },
+        {
+          "name": {
+            "en": "Veladero"
+          },
+          "latitude": 8.23136,
+          "longitude": -81.65417
+        },
+        {
+          "name": {
+            "en": "Volcán"
+          },
+          "latitude": 8.77291,
+          "longitude": -82.63823
+        }
+      ]
+    },
+    {
+      "code": "PA-2",
+      "name": {
+        "en": "Coclé"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Aguadulce"
+          },
+          "latitude": 8.24183,
+          "longitude": -80.54609
+        },
+        {
+          "name": {
+            "en": "Aguas Blancas"
+          },
+          "latitude": 8.50351,
+          "longitude": -80.31169
+        },
+        {
+          "name": {
+            "en": "Alto de La Estancia"
+          },
+          "latitude": 8.58792,
+          "longitude": -80.18443
+        },
+        {
+          "name": {
+            "en": "Antón"
+          },
+          "latitude": 8.39733,
+          "longitude": -80.26063
+        },
+        {
+          "name": {
+            "en": "Barranco Colorado"
+          },
+          "latitude": 8.38937,
+          "longitude": -80.63546
+        },
+        {
+          "name": {
+            "en": "Caballero"
+          },
+          "latitude": 8.54343,
+          "longitude": -80.19769
+        },
+        {
+          "name": {
+            "en": "Cabuya"
+          },
+          "latitude": 8.54703,
+          "longitude": -80.16756
+        },
+        {
+          "name": {
+            "en": "Cañaveral"
+          },
+          "latitude": 8.517,
+          "longitude": -80.42916
+        },
+        {
+          "name": {
+            "en": "Capellanía"
+          },
+          "latitude": 8.29858,
+          "longitude": -80.5548
+        },
+        {
+          "name": {
+            "en": "Chigoré"
+          },
+          "latitude": 8.53035,
+          "longitude": -80.35117
+        },
+        {
+          "name": {
+            "en": "Chiguirí Arriba"
+          },
+          "latitude": 8.67187,
+          "longitude": -80.18975
+        },
+        {
+          "name": {
+            "en": "Churuquita Chiquita"
+          },
+          "latitude": 8.57555,
+          "longitude": -80.27161
+        },
+        {
+          "name": {
+            "en": "Churuquita Grande"
+          },
+          "latitude": 8.59449,
+          "longitude": -80.27182
+        },
+        {
+          "name": {
+            "en": "Coclé"
+          },
+          "latitude": 8.45601,
+          "longitude": -80.42899
+        },
+        {
+          "name": {
+            "en": "Distrito de Aguadulce"
+          },
+          "latitude": 8.2127,
+          "longitude": -80.61441
+        },
+        {
+          "name": {
+            "en": "Distrito de Antón"
+          },
+          "latitude": 8.45394,
+          "longitude": -80.18361
+        },
+        {
+          "name": {
+            "en": "Distrito de La Pintada"
+          },
+          "latitude": 8.71801,
+          "longitude": -80.53946
+        },
+        {
+          "name": {
+            "en": "Distrito de Natá"
+          },
+          "latitude": 8.34416,
+          "longitude": -80.60934
+        },
+        {
+          "name": {
+            "en": "Distrito de Olá"
+          },
+          "latitude": 8.48053,
+          "longitude": -80.65324
+        },
+        {
+          "name": {
+            "en": "Distrito Penonomé"
+          },
+          "latitude": 8.63,
+          "longitude": -80.28333
+        },
+        {
+          "name": {
+            "en": "El Caño"
+          },
+          "latitude": 8.40195,
+          "longitude": -80.51791
+        },
+        {
+          "name": {
+            "en": "El Chirú"
+          },
+          "latitude": 8.39876,
+          "longitude": -80.18721
+        },
+        {
+          "name": {
+            "en": "El Copé"
+          },
+          "latitude": 8.62036,
+          "longitude": -80.58433
+        },
+        {
+          "name": {
+            "en": "El Cortezo"
+          },
+          "latitude": 8.34556,
+          "longitude": -80.58721
+        },
+        {
+          "name": {
+            "en": "El Cristo"
+          },
+          "latitude": 8.25071,
+          "longitude": -80.62093
+        },
+        {
+          "name": {
+            "en": "El Retiro"
+          },
+          "latitude": 8.48014,
+          "longitude": -80.15426
+        },
+        {
+          "name": {
+            "en": "El Roble"
+          },
+          "latitude": 8.1685,
+          "longitude": -80.65897
+        },
+        {
+          "name": {
+            "en": "Entradero"
+          },
+          "latitude": 8.5688,
+          "longitude": -80.20743
+        },
+        {
+          "name": {
+            "en": "Farallón"
+          },
+          "latitude": 8.35658,
+          "longitude": -80.13723
+        },
+        {
+          "name": {
+            "en": "Guzman"
+          },
+          "latitude": 8.51969,
+          "longitude": -80.58405
+        },
+        {
+          "name": {
+            "en": "La Pintada"
+          },
+          "latitude": 8.59299,
+          "longitude": -80.44349
+        },
+        {
+          "name": {
+            "en": "Las Huacas del Quije"
+          },
+          "latitude": 8.46702,
+          "longitude": -80.75089
+        },
+        {
+          "name": {
+            "en": "Las Marias"
+          },
+          "latitude": 8.88809,
+          "longitude": -80.21893
+        },
+        {
+          "name": {
+            "en": "Las Minas"
+          },
+          "latitude": 8.64118,
+          "longitude": -80.39432
+        },
+        {
+          "name": {
+            "en": "Las Sabanas"
+          },
+          "latitude": 8.58141,
+          "longitude": -80.67978
+        },
+        {
+          "name": {
+            "en": "Llano Grande"
+          },
+          "latitude": 8.63817,
+          "longitude": -80.43848
+        },
+        {
+          "name": {
+            "en": "Llano Marín"
+          },
+          "latitude": 8.47696,
+          "longitude": -80.32499
+        },
+        {
+          "name": {
+            "en": "Los Pollos"
+          },
+          "latitude": 8.39898,
+          "longitude": -80.15731
+        },
+        {
+          "name": {
+            "en": "Natá"
+          },
+          "latitude": 8.33209,
+          "longitude": -80.51969
+        },
+        {
+          "name": {
+            "en": "Nuestro Amo"
+          },
+          "latitude": 8.44485,
+          "longitude": -80.58934
+        },
+        {
+          "name": {
+            "en": "Olá"
+          },
+          "latitude": 8.41807,
+          "longitude": -80.65123
+        },
+        {
+          "name": {
+            "en": "Penonomé"
+          },
+          "latitude": 8.51889,
+          "longitude": -80.35727
+        },
+        {
+          "name": {
+            "en": "Pocrí"
+          },
+          "latitude": 8.25814,
+          "longitude": -80.55
+        },
+        {
+          "name": {
+            "en": "Río Hato"
+          },
+          "latitude": 8.3794,
+          "longitude": -80.16621
+        },
+        {
+          "name": {
+            "en": "San Juan de Dios"
+          },
+          "latitude": 8.55119,
+          "longitude": -80.22623
+        },
+        {
+          "name": {
+            "en": "Toabré"
+          },
+          "latitude": 8.65131,
+          "longitude": -80.32017
+        },
+        {
+          "name": {
+            "en": "Toza"
+          },
+          "latitude": 8.34542,
+          "longitude": -80.64012
+        }
+      ]
+    },
+    {
+      "code": "PA-3",
+      "name": {
+        "en": "Colón"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Buena Vista"
+          },
+          "latitude": 9.27356,
+          "longitude": -79.69551
+        },
+        {
+          "name": {
+            "en": "Cativá"
+          },
+          "latitude": 9.36218,
+          "longitude": -79.83232
+        },
+        {
+          "name": {
+            "en": "Coclé del Norte"
+          },
+          "latitude": 9.0754,
+          "longitude": -80.57177
+        },
+        {
+          "name": {
+            "en": "Colón"
+          },
+          "latitude": 9.35451,
+          "longitude": -79.90011
+        },
+        {
+          "name": {
+            "en": "Cristóbal"
+          },
+          "latitude": 9.35222,
+          "longitude": -79.90444
+        },
+        {
+          "name": {
+            "en": "Distrito de Chagres"
+          },
+          "latitude": 9.123,
+          "longitude": -80.11841
+        },
+        {
+          "name": {
+            "en": "Distrito de Colón"
+          },
+          "latitude": 9.24313,
+          "longitude": -79.79463
+        },
+        {
+          "name": {
+            "en": "Distrito de Donoso"
+          },
+          "latitude": 9.01999,
+          "longitude": -80.42967
+        },
+        {
+          "name": {
+            "en": "Distrito de Portobelo"
+          },
+          "latitude": 9.49748,
+          "longitude": -79.6073
+        },
+        {
+          "name": {
+            "en": "Distrito de Santa Isabel"
+          },
+          "latitude": 9.48333,
+          "longitude": -79.31667
+        },
+        {
+          "name": {
+            "en": "El Giral"
+          },
+          "latitude": 9.24509,
+          "longitude": -79.69266
+        },
+        {
+          "name": {
+            "en": "El Guabo"
+          },
+          "latitude": 9.07842,
+          "longitude": -80.08316
+        },
+        {
+          "name": {
+            "en": "El Valle de la Unión"
+          },
+          "latitude": 9.2363,
+          "longitude": -79.65986
+        },
+        {
+          "name": {
+            "en": "Escobal"
+          },
+          "latitude": 9.14373,
+          "longitude": -79.96439
+        },
+        {
+          "name": {
+            "en": "Gatún"
+          },
+          "latitude": 9.28922,
+          "longitude": -79.77204
+        },
+        {
+          "name": {
+            "en": "Gatuncillo"
+          },
+          "latitude": 9.24346,
+          "longitude": -79.64856
+        },
+        {
+          "name": {
+            "en": "Las Margaritas"
+          },
+          "latitude": 9.32603,
+          "longitude": -79.89028
+        },
+        {
+          "name": {
+            "en": "María Chiquita"
+          },
+          "latitude": 9.43991,
+          "longitude": -79.75455
+        },
+        {
+          "name": {
+            "en": "Nombre de Dios"
+          },
+          "latitude": 9.57937,
+          "longitude": -79.47109
+        },
+        {
+          "name": {
+            "en": "Nuevo Chagres"
+          },
+          "latitude": 9.23979,
+          "longitude": -80.08267
+        },
+        {
+          "name": {
+            "en": "Nuevo San Juan"
+          },
+          "latitude": 9.22205,
+          "longitude": -79.66602
+        },
+        {
+          "name": {
+            "en": "Nuevo Vigía"
+          },
+          "latitude": 9.24263,
+          "longitude": -79.60756
+        },
+        {
+          "name": {
+            "en": "Palenque"
+          },
+          "latitude": 9.5697,
+          "longitude": -79.36341
+        },
+        {
+          "name": {
+            "en": "Palmas Bellas"
+          },
+          "latitude": 9.22838,
+          "longitude": -80.08503
+        },
+        {
+          "name": {
+            "en": "Playa Chiquita"
+          },
+          "latitude": 9.5662,
+          "longitude": -79.29185
+        },
+        {
+          "name": {
+            "en": "Portobelo"
+          },
+          "latitude": 9.55303,
+          "longitude": -79.65693
+        },
+        {
+          "name": {
+            "en": "Puerto Escondido"
+          },
+          "latitude": 9.19333,
+          "longitude": -80.08833
+        },
+        {
+          "name": {
+            "en": "Puerto Pilón"
+          },
+          "latitude": 9.36316,
+          "longitude": -79.79333
+        },
+        {
+          "name": {
+            "en": "Quebrada Bonita Adentro"
+          },
+          "latitude": 9.29662,
+          "longitude": -79.70606
+        },
+        {
+          "name": {
+            "en": "Río Alejandro"
+          },
+          "latitude": 9.37149,
+          "longitude": -79.78809
+        },
+        {
+          "name": {
+            "en": "Río Duque"
+          },
+          "latitude": 9.25688,
+          "longitude": -79.67937
+        },
+        {
+          "name": {
+            "en": "Río Rita"
+          },
+          "latitude": 9.30296,
+          "longitude": -79.79234
+        },
+        {
+          "name": {
+            "en": "Sabanitas"
+          },
+          "latitude": 9.34269,
+          "longitude": -79.80961
+        },
+        {
+          "name": {
+            "en": "Santa Isabel"
+          },
+          "latitude": 9.53922,
+          "longitude": -79.1957
+        },
+        {
+          "name": {
+            "en": "Santa Rita Arriba"
+          },
+          "latitude": 9.33032,
+          "longitude": -79.79363
+        },
+        {
+          "name": {
+            "en": "Viento Frío"
+          },
+          "latitude": 9.58263,
+          "longitude": -79.4069
+        }
+      ]
+    },
+    {
+      "code": "PA-5",
+      "name": {
+        "en": "Darién"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Boca de Cupé"
+          },
+          "latitude": 8.03003,
+          "longitude": -77.58978
+        },
+        {
+          "name": {
+            "en": "Camogantí"
+          },
+          "latitude": 8.04171,
+          "longitude": -77.88682
+        },
+        {
+          "name": {
+            "en": "Cucunatí"
+          },
+          "latitude": 8.57508,
+          "longitude": -78.25671
+        },
+        {
+          "name": {
+            "en": "Distrito de Chepigana"
+          },
+          "latitude": 7.84374,
+          "longitude": -77.8383
+        },
+        {
+          "name": {
+            "en": "Distrito de Pinogana"
+          },
+          "latitude": 7.89343,
+          "longitude": -77.52562
+        },
+        {
+          "name": {
+            "en": "Garachiné"
+          },
+          "latitude": 8.06684,
+          "longitude": -78.36436
+        },
+        {
+          "name": {
+            "en": "Jaqué"
+          },
+          "latitude": 7.51826,
+          "longitude": -78.16343
+        },
+        {
+          "name": {
+            "en": "Metetí"
+          },
+          "latitude": 8.49909,
+          "longitude": -77.97897
+        },
+        {
+          "name": {
+            "en": "Mortí"
+          },
+          "latitude": 8.84246,
+          "longitude": -77.97539
+        },
+        {
+          "name": {
+            "en": "Púcuro"
+          },
+          "latitude": 7.97876,
+          "longitude": -77.48758
+        },
+        {
+          "name": {
+            "en": "Yaviza"
+          },
+          "latitude": 8.15835,
+          "longitude": -77.69276
+        }
+      ]
+    },
+    {
+      "code": "PA-EM",
+      "name": {
+        "en": "Emberá-Wounaan Comarca"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bayamón"
+          },
+          "latitude": 7.96817,
+          "longitude": -78.21648
+        },
+        {
+          "name": {
+            "en": "Cémaco"
+          },
+          "latitude": 8.08285,
+          "longitude": -77.5421
+        },
+        {
+          "name": {
+            "en": "Sambú"
+          },
+          "latitude": 7.82013,
+          "longitude": -78.11005
+        },
+        {
+          "name": {
+            "en": "Unión Chocó"
+          },
+          "latitude": 8.08404,
+          "longitude": -77.53507
+        },
+        {
+          "name": {
+            "en": "Yape"
+          },
+          "latitude": 8.09839,
+          "longitude": -77.59817
+        }
+      ]
+    },
+    {
+      "code": "PA-KY",
+      "name": {
+        "en": "Guna"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Achutupo"
+          },
+          "latitude": 9.19827,
+          "longitude": -77.98729
+        },
+        {
+          "name": {
+            "en": "Ailigandí"
+          },
+          "latitude": 9.2281,
+          "longitude": -78.02778
+        },
+        {
+          "name": {
+            "en": "Cartí Sugdup"
+          },
+          "latitude": 9.4646,
+          "longitude": -78.95931
+        },
+        {
+          "name": {
+            "en": "Mulatupo"
+          },
+          "latitude": 8.94672,
+          "longitude": -77.7508
+        },
+        {
+          "name": {
+            "en": "Narganá"
+          },
+          "latitude": 9.44394,
+          "longitude": -78.58666
+        },
+        {
+          "name": {
+            "en": "Playón Chico"
+          },
+          "latitude": 9.31128,
+          "longitude": -78.2327
+        },
+        {
+          "name": {
+            "en": "Puerto Obaldía"
+          },
+          "latitude": 8.66632,
+          "longitude": -77.41922
+        },
+        {
+          "name": {
+            "en": "San Ignacio de Tupile"
+          },
+          "latitude": 9.28905,
+          "longitude": -78.15206
+        },
+        {
+          "name": {
+            "en": "Tubualá"
+          },
+          "latitude": 9.51667,
+          "longitude": -79.03333
+        },
+        {
+          "name": {
+            "en": "Ustupo"
+          },
+          "latitude": 9.13112,
+          "longitude": -77.9262
+        }
+      ]
+    },
+    {
+      "code": "PA-6",
+      "name": {
+        "en": "Herrera"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Boca de Parita"
+          },
+          "latitude": 8.00796,
+          "longitude": -80.4532
+        },
+        {
+          "name": {
+            "en": "Cerro Largo"
+          },
+          "latitude": 7.83377,
+          "longitude": -80.83168
+        },
+        {
+          "name": {
+            "en": "Chitré"
+          },
+          "latitude": 7.96082,
+          "longitude": -80.42944
+        },
+        {
+          "name": {
+            "en": "Chumical"
+          },
+          "latitude": 7.84482,
+          "longitude": -80.72627
+        },
+        {
+          "name": {
+            "en": "Chupampa"
+          },
+          "latitude": 8.0762,
+          "longitude": -80.77656
+        },
+        {
+          "name": {
+            "en": "Distrito de Chitré"
+          },
+          "latitude": 7.98333,
+          "longitude": -80.43333
+        },
+        {
+          "name": {
+            "en": "Distrito de Las Minas"
+          },
+          "latitude": 7.76525,
+          "longitude": -80.82249
+        },
+        {
+          "name": {
+            "en": "Distrito de Los Pozos"
+          },
+          "latitude": 7.70944,
+          "longitude": -80.64311
+        },
+        {
+          "name": {
+            "en": "Distrito de Ocú"
+          },
+          "latitude": 7.90641,
+          "longitude": -80.79752
+        },
+        {
+          "name": {
+            "en": "Distrito de Parita"
+          },
+          "latitude": 8.0624,
+          "longitude": -80.56373
+        },
+        {
+          "name": {
+            "en": "Distrito de Pesé"
+          },
+          "latitude": 7.88194,
+          "longitude": -80.63261
+        },
+        {
+          "name": {
+            "en": "Distrito de Santa María"
+          },
+          "latitude": 8.11667,
+          "longitude": -80.68333
+        },
+        {
+          "name": {
+            "en": "El Calabacito"
+          },
+          "latitude": 7.71843,
+          "longitude": -80.59757
+        },
+        {
+          "name": {
+            "en": "El Capurí"
+          },
+          "latitude": 7.72571,
+          "longitude": -80.64349
+        },
+        {
+          "name": {
+            "en": "El Cedro"
+          },
+          "latitude": 7.68565,
+          "longitude": -80.65927
+        },
+        {
+          "name": {
+            "en": "El Toro"
+          },
+          "latitude": 7.7511,
+          "longitude": -80.86943
+        },
+        {
+          "name": {
+            "en": "La Arena"
+          },
+          "latitude": 7.96766,
+          "longitude": -80.46523
+        },
+        {
+          "name": {
+            "en": "La Trinidad"
+          },
+          "latitude": 7.91457,
+          "longitude": -80.70332
+        },
+        {
+          "name": {
+            "en": "Limón de Tijeras"
+          },
+          "latitude": 7.81756,
+          "longitude": -80.91335
+        },
+        {
+          "name": {
+            "en": "Llano Bonito"
+          },
+          "latitude": 7.97637,
+          "longitude": -80.41646
+        },
+        {
+          "name": {
+            "en": "Llano de La Cruz"
+          },
+          "latitude": 7.95178,
+          "longitude": -80.64239
+        },
+        {
+          "name": {
+            "en": "Los Canelos"
+          },
+          "latitude": 8.11722,
+          "longitude": -80.70769
+        },
+        {
+          "name": {
+            "en": "Los Cerritos"
+          },
+          "latitude": 7.79746,
+          "longitude": -80.61071
+        },
+        {
+          "name": {
+            "en": "Los Cerros de Paja"
+          },
+          "latitude": 7.71821,
+          "longitude": -80.67273
+        },
+        {
+          "name": {
+            "en": "Los Pozos"
+          },
+          "latitude": 7.783,
+          "longitude": -80.64524
+        },
+        {
+          "name": {
+            "en": "Monagrillo"
+          },
+          "latitude": 7.98179,
+          "longitude": -80.43764
+        },
+        {
+          "name": {
+            "en": "Ocú"
+          },
+          "latitude": 7.94052,
+          "longitude": -80.77936
+        },
+        {
+          "name": {
+            "en": "París"
+          },
+          "latitude": 8.05053,
+          "longitude": -80.55409
+        },
+        {
+          "name": {
+            "en": "Parita"
+          },
+          "latitude": 7.99393,
+          "longitude": -80.52097
+        },
+        {
+          "name": {
+            "en": "Peñas Chatas"
+          },
+          "latitude": 8.01502,
+          "longitude": -80.80366
+        },
+        {
+          "name": {
+            "en": "Pesé"
+          },
+          "latitude": 7.90863,
+          "longitude": -80.61433
+        },
+        {
+          "name": {
+            "en": "Pitaloza Arriba"
+          },
+          "latitude": 7.64216,
+          "longitude": -80.66788
+        },
+        {
+          "name": {
+            "en": "Portobelillo"
+          },
+          "latitude": 8.01738,
+          "longitude": -80.59538
+        },
+        {
+          "name": {
+            "en": "Potuga"
+          },
+          "latitude": 8.06317,
+          "longitude": -80.62271
+        },
+        {
+          "name": {
+            "en": "Quebrada del Rosario"
+          },
+          "latitude": 7.71238,
+          "longitude": -80.74222
+        },
+        {
+          "name": {
+            "en": "Rincón Hondo"
+          },
+          "latitude": 7.84436,
+          "longitude": -80.60397
+        },
+        {
+          "name": {
+            "en": "San Juan Bautista"
+          },
+          "latitude": 7.96099,
+          "longitude": -80.41283
+        },
+        {
+          "name": {
+            "en": "Santa María"
+          },
+          "latitude": 8.11143,
+          "longitude": -80.66582
+        }
+      ]
+    },
+    {
+      "code": "PA-7",
+      "name": {
+        "en": "Los Santos"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Agua Buena"
+          },
+          "latitude": 7.83465,
+          "longitude": -80.39405
+        },
+        {
+          "name": {
+            "en": "Ave María"
+          },
+          "latitude": 7.32481,
+          "longitude": -80.45361
+        },
+        {
+          "name": {
+            "en": "Bahía Honda"
+          },
+          "latitude": 7.70517,
+          "longitude": -80.45342
+        },
+        {
+          "name": {
+            "en": "Bajo Corral"
+          },
+          "latitude": 7.60463,
+          "longitude": -80.26016
+        },
+        {
+          "name": {
+            "en": "Bayano"
+          },
+          "latitude": 7.63014,
+          "longitude": -80.38201
+        },
+        {
+          "name": {
+            "en": "Bella Vista"
+          },
+          "latitude": 7.75,
+          "longitude": -80.23333
+        },
+        {
+          "name": {
+            "en": "Cambutal"
+          },
+          "latitude": 7.26534,
+          "longitude": -80.49105
+        },
+        {
+          "name": {
+            "en": "Cañas"
+          },
+          "latitude": 7.44713,
+          "longitude": -80.2648
+        },
+        {
+          "name": {
+            "en": "Cedro Arriba"
+          },
+          "latitude": 7.78097,
+          "longitude": -80.53057
+        },
+        {
+          "name": {
+            "en": "Distrito de Guararé"
+          },
+          "latitude": 7.77021,
+          "longitude": -80.37515
+        },
+        {
+          "name": {
+            "en": "Distrito de Las Tablas"
+          },
+          "latitude": 7.64843,
+          "longitude": -80.29933
+        },
+        {
+          "name": {
+            "en": "Distrito de Los Santos"
+          },
+          "latitude": 7.88333,
+          "longitude": -80.45
+        },
+        {
+          "name": {
+            "en": "Distrito de Macaracas"
+          },
+          "latitude": 7.65817,
+          "longitude": -80.53526
+        },
+        {
+          "name": {
+            "en": "Distrito de Pedasí"
+          },
+          "latitude": 7.48528,
+          "longitude": -80.12747
+        },
+        {
+          "name": {
+            "en": "Distrito de Pocrí"
+          },
+          "latitude": 7.63721,
+          "longitude": -80.1647
+        },
+        {
+          "name": {
+            "en": "Distrito de Tonosí"
+          },
+          "latitude": 7.43597,
+          "longitude": -80.45828
+        },
+        {
+          "name": {
+            "en": "El Cañafístulo"
+          },
+          "latitude": 7.61768,
+          "longitude": -80.23322
+        },
+        {
+          "name": {
+            "en": "El Carate"
+          },
+          "latitude": 7.73124,
+          "longitude": -80.29691
+        },
+        {
+          "name": {
+            "en": "El Cocal"
+          },
+          "latitude": 7.73697,
+          "longitude": -80.2798
+        },
+        {
+          "name": {
+            "en": "El Ejido"
+          },
+          "latitude": 7.91634,
+          "longitude": -80.38686
+        },
+        {
+          "name": {
+            "en": "El Guásimo"
+          },
+          "latitude": 7.8064,
+          "longitude": -80.52991
+        },
+        {
+          "name": {
+            "en": "El Hato"
+          },
+          "latitude": 7.79316,
+          "longitude": -80.38267
+        },
+        {
+          "name": {
+            "en": "El Macano"
+          },
+          "latitude": 7.68489,
+          "longitude": -80.40309
+        },
+        {
+          "name": {
+            "en": "El Manantial"
+          },
+          "latitude": 7.78245,
+          "longitude": -80.24713
+        },
+        {
+          "name": {
+            "en": "El Muñoz"
+          },
+          "latitude": 7.67582,
+          "longitude": -80.3213
+        },
+        {
+          "name": {
+            "en": "El Pedregoso"
+          },
+          "latitude": 7.69173,
+          "longitude": -80.32793
+        },
+        {
+          "name": {
+            "en": "Flores"
+          },
+          "latitude": 7.48157,
+          "longitude": -80.40695
+        },
+        {
+          "name": {
+            "en": "Guararé"
+          },
+          "latitude": 7.81531,
+          "longitude": -80.28345
+        },
+        {
+          "name": {
+            "en": "Guararé Arriba"
+          },
+          "latitude": 7.80023,
+          "longitude": -80.35983
+        },
+        {
+          "name": {
+            "en": "La Colorada"
+          },
+          "latitude": 7.82362,
+          "longitude": -80.55552
+        },
+        {
+          "name": {
+            "en": "La Enea"
+          },
+          "latitude": 7.83333,
+          "longitude": -80.27417
+        },
+        {
+          "name": {
+            "en": "La Espigadilla"
+          },
+          "latitude": 7.88389,
+          "longitude": -80.39039
+        },
+        {
+          "name": {
+            "en": "La Laja"
+          },
+          "latitude": 7.73102,
+          "longitude": -80.25298
+        },
+        {
+          "name": {
+            "en": "La Mesa"
+          },
+          "latitude": 7.6567,
+          "longitude": -80.61794
+        },
+        {
+          "name": {
+            "en": "La Miel"
+          },
+          "latitude": 7.56022,
+          "longitude": -80.32736
+        },
+        {
+          "name": {
+            "en": "La Palma"
+          },
+          "latitude": 7.71667,
+          "longitude": -80.38333
+        },
+        {
+          "name": {
+            "en": "La Pasera"
+          },
+          "latitude": 7.79757,
+          "longitude": -80.30342
+        },
+        {
+          "name": {
+            "en": "La Tiza"
+          },
+          "latitude": 7.7511,
+          "longitude": -80.29216
+        },
+        {
+          "name": {
+            "en": "La Tronosa"
+          },
+          "latitude": 7.43609,
+          "longitude": -80.58698
+        },
+        {
+          "name": {
+            "en": "Lajamina"
+          },
+          "latitude": 7.58587,
+          "longitude": -80.13212
+        },
+        {
+          "name": {
+            "en": "Las Cruces"
+          },
+          "latitude": 7.82285,
+          "longitude": -80.43003
+        },
+        {
+          "name": {
+            "en": "Las Guabas"
+          },
+          "latitude": 7.81469,
+          "longitude": -80.50155
+        },
+        {
+          "name": {
+            "en": "Las Palmas"
+          },
+          "latitude": 7.68314,
+          "longitude": -80.49728
+        },
+        {
+          "name": {
+            "en": "Las Palmitas"
+          },
+          "latitude": 7.76523,
+          "longitude": -80.2935
+        },
+        {
+          "name": {
+            "en": "Las Tablas"
+          },
+          "latitude": 7.76472,
+          "longitude": -80.27483
+        },
+        {
+          "name": {
+            "en": "Las Trancas"
+          },
+          "latitude": 7.734,
+          "longitude": -80.37384
+        },
+        {
+          "name": {
+            "en": "Llano Abajo"
+          },
+          "latitude": 7.78598,
+          "longitude": -80.4106
+        },
+        {
+          "name": {
+            "en": "Llano de Piedra"
+          },
+          "latitude": 7.65972,
+          "longitude": -80.56347
+        },
+        {
+          "name": {
+            "en": "Llano Largo"
+          },
+          "latitude": 7.90607,
+          "longitude": -80.42561
+        },
+        {
+          "name": {
+            "en": "Los Asientos"
+          },
+          "latitude": 7.51656,
+          "longitude": -80.13521
+        },
+        {
+          "name": {
+            "en": "Los Olivos"
+          },
+          "latitude": 7.91589,
+          "longitude": -80.48884
+        },
+        {
+          "name": {
+            "en": "Los Santos"
+          },
+          "latitude": 7.93333,
+          "longitude": -80.41667
+        },
+        {
+          "name": {
+            "en": "Macaracas"
+          },
+          "latitude": 7.73168,
+          "longitude": -80.55364
+        },
+        {
+          "name": {
+            "en": "Mogollón"
+          },
+          "latitude": 7.64261,
+          "longitude": -80.4595
+        },
+        {
+          "name": {
+            "en": "Nuario"
+          },
+          "latitude": 7.53047,
+          "longitude": -80.32692
+        },
+        {
+          "name": {
+            "en": "Oria Arriba"
+          },
+          "latitude": 7.50505,
+          "longitude": -80.20567
+        },
+        {
+          "name": {
+            "en": "Paraíso"
+          },
+          "latitude": 7.6851,
+          "longitude": -80.16082
+        },
+        {
+          "name": {
+            "en": "Paritilla"
+          },
+          "latitude": 7.62848,
+          "longitude": -80.1724
+        },
+        {
+          "name": {
+            "en": "Pedasí"
+          },
+          "latitude": 7.53034,
+          "longitude": -80.02699
+        },
+        {
+          "name": {
+            "en": "Peña Blanca"
+          },
+          "latitude": 7.71931,
+          "longitude": -80.28366
+        },
+        {
+          "name": {
+            "en": "Perales"
+          },
+          "latitude": 7.77461,
+          "longitude": -80.32494
+        },
+        {
+          "name": {
+            "en": "Río Hondo"
+          },
+          "latitude": 7.71192,
+          "longitude": -80.35904
+        },
+        {
+          "name": {
+            "en": "Sabana Grande"
+          },
+          "latitude": 7.83543,
+          "longitude": -80.3649
+        },
+        {
+          "name": {
+            "en": "Santa Ana Arriba"
+          },
+          "latitude": 7.933,
+          "longitude": -80.36369
+        },
+        {
+          "name": {
+            "en": "Sesteadero"
+          },
+          "latitude": 7.73885,
+          "longitude": -80.24854
+        },
+        {
+          "name": {
+            "en": "Tonosí"
+          },
+          "latitude": 7.40684,
+          "longitude": -80.44217
+        },
+        {
+          "name": {
+            "en": "Tres Quebradas"
+          },
+          "latitude": 7.84018,
+          "longitude": -80.4074
+        },
+        {
+          "name": {
+            "en": "Valle Rico"
+          },
+          "latitude": 7.62011,
+          "longitude": -80.35076
+        },
+        {
+          "name": {
+            "en": "Vallerriquito"
+          },
+          "latitude": 7.62163,
+          "longitude": -80.31975
+        },
+        {
+          "name": {
+            "en": "Villa Lourdes"
+          },
+          "latitude": 7.81141,
+          "longitude": -80.47029
+        }
+      ]
+    },
+    {
+      "code": "PA-NT",
+      "name": {
+        "en": "Naso Tjër Di"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bonyik"
+          },
+          "latitude": 9.35,
+          "longitude": -82.6
+        },
+        {
+          "name": {
+            "en": "San San Drui"
+          },
+          "latitude": 9.3,
+          "longitude": -82.7
+        },
+        {
+          "name": {
+            "en": "Sieyic"
+          },
+          "latitude": 9.38333333,
+          "longitude": -82.65222222
+        },
+        {
+          "name": {
+            "en": "Teribe"
+          },
+          "latitude": 9.38333333,
+          "longitude": -82.58333333
+        }
+      ]
+    },
+    {
+      "code": "PA-NB",
+      "name": {
+        "en": "Ngöbe-Buglé Comarca"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bahía Azul"
+          },
+          "latitude": 9.14176,
+          "longitude": -81.89425
+        },
+        {
+          "name": {
+            "en": "Besiko"
+          },
+          "latitude": 8.54863,
+          "longitude": -82.0898
+        },
+        {
+          "name": {
+            "en": "Bisira"
+          },
+          "latitude": 8.89553,
+          "longitude": -81.85352
+        },
+        {
+          "name": {
+            "en": "Boca de Balsa"
+          },
+          "latitude": 8.52995,
+          "longitude": -82.03132
+        },
+        {
+          "name": {
+            "en": "Buenos Aires"
+          },
+          "latitude": 8.41384,
+          "longitude": -81.4844
+        },
+        {
+          "name": {
+            "en": "Camarón Arriba"
+          },
+          "latitude": 8.38324,
+          "longitude": -81.99345
+        },
+        {
+          "name": {
+            "en": "Cerro Banco"
+          },
+          "latitude": 8.45797,
+          "longitude": -82.03081
+        },
+        {
+          "name": {
+            "en": "Cerro Caña"
+          },
+          "latitude": 8.35174,
+          "longitude": -81.6105
+        },
+        {
+          "name": {
+            "en": "Cerro Plata"
+          },
+          "latitude": 8.47733,
+          "longitude": -81.54585
+        },
+        {
+          "name": {
+            "en": "Chichica"
+          },
+          "latitude": 8.35885,
+          "longitude": -81.66582
+        },
+        {
+          "name": {
+            "en": "Hato Chami"
+          },
+          "latitude": 8.44281,
+          "longitude": -81.77196
+        },
+        {
+          "name": {
+            "en": "Hato Corotú"
+          },
+          "latitude": 8.33516,
+          "longitude": -81.9703
+        },
+        {
+          "name": {
+            "en": "Kankintú"
+          },
+          "latitude": 8.89503,
+          "longitude": -81.8575
+        },
+        {
+          "name": {
+            "en": "Kusapín"
+          },
+          "latitude": 9.17119,
+          "longitude": -81.89621
+        },
+        {
+          "name": {
+            "en": "Lajero Arriba"
+          },
+          "latitude": 8.2906,
+          "longitude": -81.77047
+        },
+        {
+          "name": {
+            "en": "Llano Ñopo"
+          },
+          "latitude": 8.41996,
+          "longitude": -81.61865
+        },
+        {
+          "name": {
+            "en": "Loma Yuca"
+          },
+          "latitude": 8.71817,
+          "longitude": -81.40492
+        },
+        {
+          "name": {
+            "en": "Mirono"
+          },
+          "latitude": 8.40469,
+          "longitude": -81.83064
+        },
+        {
+          "name": {
+            "en": "Müna"
+          },
+          "latitude": 8.35035,
+          "longitude": -81.67219
+        },
+        {
+          "name": {
+            "en": "Nole Düima"
+          },
+          "latitude": 8.32682,
+          "longitude": -81.81531
+        },
+        {
+          "name": {
+            "en": "Nurun"
+          },
+          "latitude": 8.47815,
+          "longitude": -81.47015
+        },
+        {
+          "name": {
+            "en": "Oma"
+          },
+          "latitude": 8.35019,
+          "longitude": -81.80177
+        },
+        {
+          "name": {
+            "en": "Paredón Arriba"
+          },
+          "latitude": 8.45977,
+          "longitude": -81.19592
+        },
+        {
+          "name": {
+            "en": "Plan de Chorcha"
+          },
+          "latitude": 8.46168,
+          "longitude": -82.15924
+        },
+        {
+          "name": {
+            "en": "Pueblo Nuevo"
+          },
+          "latitude": 8.8807,
+          "longitude": -82.22411
+        },
+        {
+          "name": {
+            "en": "Quebrada Canoa"
+          },
+          "latitude": 8.43333,
+          "longitude": -81.78333
+        },
+        {
+          "name": {
+            "en": "Quebrada Tula"
+          },
+          "latitude": 8.84037,
+          "longitude": -81.99645
+        },
+        {
+          "name": {
+            "en": "Sitio Prado"
+          },
+          "latitude": 8.37233,
+          "longitude": -81.58141
+        },
+        {
+          "name": {
+            "en": "Tobobe"
+          },
+          "latitude": 9.12111,
+          "longitude": -81.82471
+        }
+      ]
+    },
+    {
+      "code": "PA-8",
+      "name": {
+        "en": "Panamá"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Alcalde Díaz"
+          },
+          "latitude": 9.12016,
+          "longitude": -79.55641
+        },
+        {
+          "name": {
+            "en": "Ancón"
+          },
+          "latitude": 8.96015,
+          "longitude": -79.5514
+        },
+        {
+          "name": {
+            "en": "Brujas"
+          },
+          "latitude": 8.58536,
+          "longitude": -78.53008
+        },
+        {
+          "name": {
+            "en": "Cabra Número Uno"
+          },
+          "latitude": 9.10863,
+          "longitude": -79.33694
+        },
+        {
+          "name": {
+            "en": "Caimitillo"
+          },
+          "latitude": 9.15559,
+          "longitude": -79.53974
+        },
+        {
+          "name": {
+            "en": "Calzada Larga"
+          },
+          "latitude": 9.17272,
+          "longitude": -79.56212
+        },
+        {
+          "name": {
+            "en": "Cañita"
+          },
+          "latitude": 9.22236,
+          "longitude": -78.89509
+        },
+        {
+          "name": {
+            "en": "Cerro Azul"
+          },
+          "latitude": 9.15735,
+          "longitude": -79.42097
+        },
+        {
+          "name": {
+            "en": "Chepillo"
+          },
+          "latitude": 8.95396,
+          "longitude": -79.12856
+        },
+        {
+          "name": {
+            "en": "Chepo"
+          },
+          "latitude": 9.17019,
+          "longitude": -79.10083
+        },
+        {
+          "name": {
+            "en": "Chilibre"
+          },
+          "latitude": 9.15093,
+          "longitude": -79.62098
+        },
+        {
+          "name": {
+            "en": "Chimán"
+          },
+          "latitude": 8.69125,
+          "longitude": -78.6357
+        },
+        {
+          "name": {
+            "en": "Contadora"
+          },
+          "latitude": 8.62483,
+          "longitude": -79.03748
+        },
+        {
+          "name": {
+            "en": "Curundú"
+          },
+          "latitude": 8.97092,
+          "longitude": -79.54612
+        },
+        {
+          "name": {
+            "en": "Distrito de Balboa"
+          },
+          "latitude": 8.46667,
+          "longitude": -79
+        },
+        {
+          "name": {
+            "en": "Distrito de Chepo"
+          },
+          "latitude": 9.17391,
+          "longitude": -78.70374
+        },
+        {
+          "name": {
+            "en": "Distrito de Chimán"
+          },
+          "latitude": 8.76043,
+          "longitude": -78.5647
+        },
+        {
+          "name": {
+            "en": "Distrito de Panamá"
+          },
+          "latitude": 9.30612,
+          "longitude": -79.45246
+        },
+        {
+          "name": {
+            "en": "Distrito de Taboga"
+          },
+          "latitude": 8.78333,
+          "longitude": -79.55833
+        },
+        {
+          "name": {
+            "en": "El Chorrillo"
+          },
+          "latitude": 8.94964,
+          "longitude": -79.54715
+        },
+        {
+          "name": {
+            "en": "El Progreso"
+          },
+          "latitude": 9.26667,
+          "longitude": -79.11667
+        },
+        {
+          "name": {
+            "en": "Gonzalillo"
+          },
+          "latitude": 9.09183,
+          "longitude": -79.51928
+        },
+        {
+          "name": {
+            "en": "Howard"
+          },
+          "latitude": 8.93942,
+          "longitude": -79.59097
+        },
+        {
+          "name": {
+            "en": "Juan Díaz"
+          },
+          "latitude": 9.05,
+          "longitude": -79.45
+        },
+        {
+          "name": {
+            "en": "La Cabima"
+          },
+          "latitude": 9.11865,
+          "longitude": -79.5366
+        },
+        {
+          "name": {
+            "en": "La Ensenada"
+          },
+          "latitude": 8.36618,
+          "longitude": -78.84606
+        },
+        {
+          "name": {
+            "en": "La Esmeralda"
+          },
+          "latitude": 8.26817,
+          "longitude": -78.9246
+        },
+        {
+          "name": {
+            "en": "La Guinea"
+          },
+          "latitude": 8.3425,
+          "longitude": -78.9343
+        },
+        {
+          "name": {
+            "en": "Las Cumbres"
+          },
+          "latitude": 9.08916,
+          "longitude": -79.52809
+        },
+        {
+          "name": {
+            "en": "Lídice"
+          },
+          "latitude": 8.74869,
+          "longitude": -79.90974
+        },
+        {
+          "name": {
+            "en": "Los Lotes"
+          },
+          "latitude": 9.12425,
+          "longitude": -79.28929
+        },
+        {
+          "name": {
+            "en": "Nueva Esperanza"
+          },
+          "latitude": 9.1021,
+          "longitude": -79.33414
+        },
+        {
+          "name": {
+            "en": "Nuevo Belén"
+          },
+          "latitude": 9.07939,
+          "longitude": -79.39556
+        },
+        {
+          "name": {
+            "en": "Pacora"
+          },
+          "latitude": 9.07937,
+          "longitude": -79.28997
+        },
+        {
+          "name": {
+            "en": "Panamá"
+          },
+          "latitude": 8.9936,
+          "longitude": -79.51973
+        },
+        {
+          "name": {
+            "en": "Parque Lefevre"
+          },
+          "latitude": 9.01667,
+          "longitude": -79.48333
+        },
+        {
+          "name": {
+            "en": "Pásiga"
+          },
+          "latitude": 8.93647,
+          "longitude": -78.90917
+        },
+        {
+          "name": {
+            "en": "Río Abajo"
+          },
+          "latitude": 9.01667,
+          "longitude": -79.5
+        },
+        {
+          "name": {
+            "en": "San Antonio"
+          },
+          "latitude": 9.1729,
+          "longitude": -79.54743
+        },
+        {
+          "name": {
+            "en": "San Felipe"
+          },
+          "latitude": 8.95118,
+          "longitude": -79.53726
+        },
+        {
+          "name": {
+            "en": "San Miguel"
+          },
+          "latitude": 8.45685,
+          "longitude": -78.93695
+        },
+        {
+          "name": {
+            "en": "San Miguelito"
+          },
+          "latitude": 9.05032,
+          "longitude": -79.47068
+        },
+        {
+          "name": {
+            "en": "San Vicente"
+          },
+          "latitude": 9.11445,
+          "longitude": -79.59755
+        },
+        {
+          "name": {
+            "en": "Tocumen"
+          },
+          "latitude": 9.08939,
+          "longitude": -79.3831
+        },
+        {
+          "name": {
+            "en": "Tortí"
+          },
+          "latitude": 8.92132,
+          "longitude": -78.40546
+        },
+        {
+          "name": {
+            "en": "Unión de Azuero"
+          },
+          "latitude": 9.15256,
+          "longitude": -79.17005
+        },
+        {
+          "name": {
+            "en": "Unión Santeña"
+          },
+          "latitude": 8.83525,
+          "longitude": -78.65104
+        },
+        {
+          "name": {
+            "en": "Villa Unida"
+          },
+          "latitude": 9.18908,
+          "longitude": -79.62452
+        },
+        {
+          "name": {
+            "en": "Vista Hermosa"
+          },
+          "latitude": 9.11178,
+          "longitude": -79.36113
+        }
+      ]
+    },
+    {
+      "code": "PA-10",
+      "name": {
+        "en": "Panamá Oeste"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Alto del Espino"
+          },
+          "latitude": 8.84213,
+          "longitude": -79.84551
+        },
+        {
+          "name": {
+            "en": "Altos de San Francisco"
+          },
+          "latitude": 8.86167,
+          "longitude": -79.79
+        },
+        {
+          "name": {
+            "en": "Arenosa"
+          },
+          "latitude": 9.03978,
+          "longitude": -79.95128
+        },
+        {
+          "name": {
+            "en": "Arosemena"
+          },
+          "latitude": 8.97091,
+          "longitude": -79.96641
+        },
+        {
+          "name": {
+            "en": "Arraiján"
+          },
+          "latitude": 8.95187,
+          "longitude": -79.66011
+        },
+        {
+          "name": {
+            "en": "Bejuco"
+          },
+          "latitude": 8.60037,
+          "longitude": -79.88988
+        },
+        {
+          "name": {
+            "en": "Capira"
+          },
+          "latitude": 8.75636,
+          "longitude": -79.87996
+        },
+        {
+          "name": {
+            "en": "Cermeño"
+          },
+          "latitude": 8.74082,
+          "longitude": -79.85299
+        },
+        {
+          "name": {
+            "en": "Cerro Cama"
+          },
+          "latitude": 9.02802,
+          "longitude": -79.90744
+        },
+        {
+          "name": {
+            "en": "Chame"
+          },
+          "latitude": 8.57753,
+          "longitude": -79.88595
+        },
+        {
+          "name": {
+            "en": "Cirí de Los Sotos"
+          },
+          "latitude": 8.97206,
+          "longitude": -80.09209
+        },
+        {
+          "name": {
+            "en": "Distrito Arraiján"
+          },
+          "latitude": 8.95,
+          "longitude": -79.7
+        },
+        {
+          "name": {
+            "en": "Distrito de Capira"
+          },
+          "latitude": 8.76228,
+          "longitude": -79.88275
+        },
+        {
+          "name": {
+            "en": "Distrito de Chame"
+          },
+          "latitude": 8.6,
+          "longitude": -79.91667
+        },
+        {
+          "name": {
+            "en": "Distrito de La Chorrera"
+          },
+          "latitude": 8.95,
+          "longitude": -79.85
+        },
+        {
+          "name": {
+            "en": "Distrito de San Carlos"
+          },
+          "latitude": 8.53196,
+          "longitude": -80.06906
+        },
+        {
+          "name": {
+            "en": "El Cacao"
+          },
+          "latitude": 8.76134,
+          "longitude": -80.01294
+        },
+        {
+          "name": {
+            "en": "El Coco"
+          },
+          "latitude": 8.87009,
+          "longitude": -79.80415
+        },
+        {
+          "name": {
+            "en": "El Espavé"
+          },
+          "latitude": 8.66161,
+          "longitude": -79.87584
+        },
+        {
+          "name": {
+            "en": "El Espino"
+          },
+          "latitude": 8.83795,
+          "longitude": -79.84925
+        },
+        {
+          "name": {
+            "en": "El Higo"
+          },
+          "latitude": 8.44731,
+          "longitude": -80.03603
+        },
+        {
+          "name": {
+            "en": "El Líbano"
+          },
+          "latitude": 8.61685,
+          "longitude": -79.83483
+        },
+        {
+          "name": {
+            "en": "Guadalupe"
+          },
+          "latitude": 8.85452,
+          "longitude": -79.81408
+        },
+        {
+          "name": {
+            "en": "Guayabito"
+          },
+          "latitude": 8.54828,
+          "longitude": -80.0135
+        },
+        {
+          "name": {
+            "en": "Hato Montaña"
+          },
+          "latitude": 8.91938,
+          "longitude": -79.73915
+        },
+        {
+          "name": {
+            "en": "La Chorrera"
+          },
+          "latitude": 8.88028,
+          "longitude": -79.78333
+        },
+        {
+          "name": {
+            "en": "La Ermita"
+          },
+          "latitude": 8.45622,
+          "longitude": -80.06835
+        },
+        {
+          "name": {
+            "en": "La Herradura"
+          },
+          "latitude": 8.84848,
+          "longitude": -79.80404
+        },
+        {
+          "name": {
+            "en": "La Mitra"
+          },
+          "latitude": 8.84091,
+          "longitude": -79.78648
+        },
+        {
+          "name": {
+            "en": "La Pesa"
+          },
+          "latitude": 8.85073,
+          "longitude": -79.82374
+        },
+        {
+          "name": {
+            "en": "Las Colinas"
+          },
+          "latitude": 8.55,
+          "longitude": -80.08333
+        },
+        {
+          "name": {
+            "en": "Las Uvas"
+          },
+          "latitude": 8.45937,
+          "longitude": -80.00075
+        },
+        {
+          "name": {
+            "en": "Los Llanitos"
+          },
+          "latitude": 8.59787,
+          "longitude": -80.09503
+        },
+        {
+          "name": {
+            "en": "Mendoza"
+          },
+          "latitude": 9.01471,
+          "longitude": -79.85073
+        },
+        {
+          "name": {
+            "en": "Nueva Arenosa"
+          },
+          "latitude": 8.86944,
+          "longitude": -79.99472
+        },
+        {
+          "name": {
+            "en": "Nueva Gorgona"
+          },
+          "latitude": 8.55,
+          "longitude": -79.87547
+        },
+        {
+          "name": {
+            "en": "Nuevo Arraiján"
+          },
+          "latitude": 8.92453,
+          "longitude": -79.72004
+        },
+        {
+          "name": {
+            "en": "Nuevo Emperador"
+          },
+          "latitude": 9.00273,
+          "longitude": -79.73141
+        },
+        {
+          "name": {
+            "en": "Playa Leona"
+          },
+          "latitude": 8.78389,
+          "longitude": -79.77547
+        },
+        {
+          "name": {
+            "en": "Potrero Grande"
+          },
+          "latitude": 8.88051,
+          "longitude": -79.82795
+        },
+        {
+          "name": {
+            "en": "Puerto Caimito"
+          },
+          "latitude": 8.87022,
+          "longitude": -79.71423
+        },
+        {
+          "name": {
+            "en": "Río Congo"
+          },
+          "latitude": 8.96666,
+          "longitude": -79.76105
+        },
+        {
+          "name": {
+            "en": "San Carlos"
+          },
+          "latitude": 8.47323,
+          "longitude": -79.96104
+        },
+        {
+          "name": {
+            "en": "San José"
+          },
+          "latitude": 8.93333,
+          "longitude": -79.73333
+        },
+        {
+          "name": {
+            "en": "San Vicente de Bique"
+          },
+          "latitude": 8.91143,
+          "longitude": -79.6736
+        },
+        {
+          "name": {
+            "en": "Santa Clara"
+          },
+          "latitude": 9.02875,
+          "longitude": -79.75443
+        },
+        {
+          "name": {
+            "en": "Santa Rita"
+          },
+          "latitude": 8.85681,
+          "longitude": -79.87954
+        },
+        {
+          "name": {
+            "en": "Sorá"
+          },
+          "latitude": 8.63191,
+          "longitude": -80.00888
+        },
+        {
+          "name": {
+            "en": "Veracruz"
+          },
+          "latitude": 8.88988,
+          "longitude": -79.62603
+        },
+        {
+          "name": {
+            "en": "Villa Carmen"
+          },
+          "latitude": 8.79832,
+          "longitude": -79.86929
+        },
+        {
+          "name": {
+            "en": "Villa Rosario"
+          },
+          "latitude": 8.77379,
+          "longitude": -79.87547
+        },
+        {
+          "name": {
+            "en": "Vista Alegre"
+          },
+          "latitude": 8.92772,
+          "longitude": -79.7028
+        }
+      ]
+    },
+    {
+      "code": "PA-9",
+      "name": {
+        "en": "Veraguas"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Alto de Jesús"
+          },
+          "latitude": 8.26152,
+          "longitude": -81.48412
+        },
+        {
+          "name": {
+            "en": "Arenas"
+          },
+          "latitude": 7.36865,
+          "longitude": -80.86268
+        },
+        {
+          "name": {
+            "en": "Atalaya"
+          },
+          "latitude": 8.04213,
+          "longitude": -80.92528
+        },
+        {
+          "name": {
+            "en": "Barnizal"
+          },
+          "latitude": 8.4046,
+          "longitude": -80.77765
+        },
+        {
+          "name": {
+            "en": "Bisvalles"
+          },
+          "latitude": 8.18298,
+          "longitude": -81.22092
+        },
+        {
+          "name": {
+            "en": "Boró"
+          },
+          "latitude": 8.16933,
+          "longitude": -81.30071
+        },
+        {
+          "name": {
+            "en": "Calabacito"
+          },
+          "latitude": 8.24817,
+          "longitude": -81.08187
+        },
+        {
+          "name": {
+            "en": "Calidonia"
+          },
+          "latitude": 7.95756,
+          "longitude": -81.38633
+        },
+        {
+          "name": {
+            "en": "Calobre"
+          },
+          "latitude": 8.31886,
+          "longitude": -80.84067
+        },
+        {
+          "name": {
+            "en": "Calovébora"
+          },
+          "latitude": 8.78703,
+          "longitude": -81.21056
+        },
+        {
+          "name": {
+            "en": "Cañazas"
+          },
+          "latitude": 8.32004,
+          "longitude": -81.21152
+        },
+        {
+          "name": {
+            "en": "Canto del Llano"
+          },
+          "latitude": 8.12472,
+          "longitude": -80.96374
+        },
+        {
+          "name": {
+            "en": "Corozal"
+          },
+          "latitude": 8.07712,
+          "longitude": -81.4399
+        },
+        {
+          "name": {
+            "en": "Distrito de Atalaya"
+          },
+          "latitude": 8.02899,
+          "longitude": -80.91739
+        },
+        {
+          "name": {
+            "en": "Distrito de Calobre"
+          },
+          "latitude": 8.39684,
+          "longitude": -80.85124
+        },
+        {
+          "name": {
+            "en": "Distrito de Cañazas"
+          },
+          "latitude": 8.35596,
+          "longitude": -81.28633
+        },
+        {
+          "name": {
+            "en": "Distrito de La Mesa"
+          },
+          "latitude": 8.10976,
+          "longitude": -81.17767
+        },
+        {
+          "name": {
+            "en": "Distrito de Las Palmas"
+          },
+          "latitude": 8.14532,
+          "longitude": -81.42849
+        },
+        {
+          "name": {
+            "en": "Distrito de Montijo"
+          },
+          "latitude": 7.95316,
+          "longitude": -81.05301
+        },
+        {
+          "name": {
+            "en": "Distrito de Río de Jesús"
+          },
+          "latitude": 7.91438,
+          "longitude": -81.16133
+        },
+        {
+          "name": {
+            "en": "Distrito de San Francisco"
+          },
+          "latitude": 8.26965,
+          "longitude": -81.00108
+        },
+        {
+          "name": {
+            "en": "Distrito de Santa Fé"
+          },
+          "latitude": 8.72063,
+          "longitude": -80.95858
+        },
+        {
+          "name": {
+            "en": "Distrito de Santiago"
+          },
+          "latitude": 8.12425,
+          "longitude": -80.87827
+        },
+        {
+          "name": {
+            "en": "Distrito de Soná"
+          },
+          "latitude": 7.84378,
+          "longitude": -81.36612
+        },
+        {
+          "name": {
+            "en": "El Alto"
+          },
+          "latitude": 8.51191,
+          "longitude": -81.03646
+        },
+        {
+          "name": {
+            "en": "El Barrito"
+          },
+          "latitude": 7.96059,
+          "longitude": -80.94801
+        },
+        {
+          "name": {
+            "en": "El Coclá"
+          },
+          "latitude": 8.32143,
+          "longitude": -80.92069
+        },
+        {
+          "name": {
+            "en": "El Espino de Santa Rosa"
+          },
+          "latitude": 8.09286,
+          "longitude": -80.8238
+        },
+        {
+          "name": {
+            "en": "El Marañón"
+          },
+          "latitude": 8.03582,
+          "longitude": -81.21489
+        },
+        {
+          "name": {
+            "en": "El María"
+          },
+          "latitude": 8.02905,
+          "longitude": -81.44384
+        },
+        {
+          "name": {
+            "en": "El Pájaro"
+          },
+          "latitude": 7.95342,
+          "longitude": -81.12154
+        },
+        {
+          "name": {
+            "en": "El Pantano"
+          },
+          "latitude": 8.53755,
+          "longitude": -81.06941
+        },
+        {
+          "name": {
+            "en": "El Peñón"
+          },
+          "latitude": 8.35,
+          "longitude": -80.9762
+        },
+        {
+          "name": {
+            "en": "El Picador"
+          },
+          "latitude": 8.37803,
+          "longitude": -81.25621
+        },
+        {
+          "name": {
+            "en": "El Potrero"
+          },
+          "latitude": 8.37692,
+          "longitude": -80.79434
+        },
+        {
+          "name": {
+            "en": "El Rincón"
+          },
+          "latitude": 8.18422,
+          "longitude": -81.43333
+        },
+        {
+          "name": {
+            "en": "El Uvito"
+          },
+          "latitude": 8.11648,
+          "longitude": -80.98461
+        },
+        {
+          "name": {
+            "en": "Guarumal"
+          },
+          "latitude": 7.79404,
+          "longitude": -81.25904
+        },
+        {
+          "name": {
+            "en": "La Garceana"
+          },
+          "latitude": 7.93708,
+          "longitude": -81.01643
+        },
+        {
+          "name": {
+            "en": "La Laguna"
+          },
+          "latitude": 8.33882,
+          "longitude": -80.72949
+        },
+        {
+          "name": {
+            "en": "La Loma"
+          },
+          "latitude": 7.43708,
+          "longitude": -80.89118
+        },
+        {
+          "name": {
+            "en": "La Montañuela"
+          },
+          "latitude": 8.02487,
+          "longitude": -80.86325
+        },
+        {
+          "name": {
+            "en": "La Peña"
+          },
+          "latitude": 8.12784,
+          "longitude": -81.02693
+        },
+        {
+          "name": {
+            "en": "La Raya de Calobre"
+          },
+          "latitude": 8.2163,
+          "longitude": -80.82729
+        },
+        {
+          "name": {
+            "en": "La Raya de Santa María"
+          },
+          "latitude": 8.16429,
+          "longitude": -80.82143
+        },
+        {
+          "name": {
+            "en": "La Yeguada"
+          },
+          "latitude": 8.4306,
+          "longitude": -80.85752
+        },
+        {
+          "name": {
+            "en": "Las Guías Abajo"
+          },
+          "latitude": 8.19451,
+          "longitude": -80.75494
+        },
+        {
+          "name": {
+            "en": "Las Huacas"
+          },
+          "latitude": 7.90167,
+          "longitude": -81.14056
+        },
+        {
+          "name": {
+            "en": "Leones Arriba"
+          },
+          "latitude": 7.75415,
+          "longitude": -81.11556
+        },
+        {
+          "name": {
+            "en": "Lolá"
+          },
+          "latitude": 8.09326,
+          "longitude": -81.47163
+        },
+        {
+          "name": {
+            "en": "Los Algarrobos"
+          },
+          "latitude": 8.10898,
+          "longitude": -81.01355
+        },
+        {
+          "name": {
+            "en": "Los Castillos"
+          },
+          "latitude": 8.02326,
+          "longitude": -81.11941
+        },
+        {
+          "name": {
+            "en": "Los Higos"
+          },
+          "latitude": 8.20553,
+          "longitude": -80.86022
+        },
+        {
+          "name": {
+            "en": "Mariato"
+          },
+          "latitude": 7.6781,
+          "longitude": -81.00409
+        },
+        {
+          "name": {
+            "en": "Monjarás"
+          },
+          "latitude": 8.36942,
+          "longitude": -80.86667
+        },
+        {
+          "name": {
+            "en": "Montijo"
+          },
+          "latitude": 7.98858,
+          "longitude": -81.05643
+        },
+        {
+          "name": {
+            "en": "Piedras Gordas"
+          },
+          "latitude": 8.52419,
+          "longitude": -80.91152
+        },
+        {
+          "name": {
+            "en": "Ponuga"
+          },
+          "latitude": 7.88245,
+          "longitude": -80.9788
+        },
+        {
+          "name": {
+            "en": "Puerto Vidal"
+          },
+          "latitude": 8.04834,
+          "longitude": -81.60499
+        },
+        {
+          "name": {
+            "en": "Quebrada de Oro"
+          },
+          "latitude": 8.03548,
+          "longitude": -81.38692
+        },
+        {
+          "name": {
+            "en": "Río de Jesús"
+          },
+          "latitude": 7.97882,
+          "longitude": -81.16162
+        },
+        {
+          "name": {
+            "en": "Río Grande"
+          },
+          "latitude": 7.71907,
+          "longitude": -81.33423
+        },
+        {
+          "name": {
+            "en": "Rodeo Viejo"
+          },
+          "latitude": 8.11205,
+          "longitude": -81.31684
+        },
+        {
+          "name": {
+            "en": "San Bartolo"
+          },
+          "latitude": 8.21063,
+          "longitude": -81.27572
+        },
+        {
+          "name": {
+            "en": "San Francisco"
+          },
+          "latitude": 8.06667,
+          "longitude": -81.36667
+        },
+        {
+          "name": {
+            "en": "San Juan"
+          },
+          "latitude": 8.30311,
+          "longitude": -81.01575
+        },
+        {
+          "name": {
+            "en": "San Marcelo"
+          },
+          "latitude": 8.27252,
+          "longitude": -81.15988
+        },
+        {
+          "name": {
+            "en": "San Pedro del Espino"
+          },
+          "latitude": 8.14011,
+          "longitude": -81.08663
+        },
+        {
+          "name": {
+            "en": "Santa Fé"
+          },
+          "latitude": 8.51063,
+          "longitude": -81.07802
+        },
+        {
+          "name": {
+            "en": "Santiago de Veraguas"
+          },
+          "latitude": 8.1,
+          "longitude": -80.98333
+        },
+        {
+          "name": {
+            "en": "Soná"
+          },
+          "latitude": 8.01223,
+          "longitude": -81.32163
+        },
+        {
+          "name": {
+            "en": "Tebario"
+          },
+          "latitude": 7.71369,
+          "longitude": -80.97825
+        },
+        {
+          "name": {
+            "en": "Utirá"
+          },
+          "latitude": 7.97208,
+          "longitude": -81.21777
+        },
+        {
+          "name": {
+            "en": "Viguí"
+          },
+          "latitude": 8.33921,
+          "longitude": -81.49823
+        },
+        {
+          "name": {
+            "en": "Zapotillo"
+          },
+          "latitude": 8.00532,
+          "longitude": -81.50653
+        }
+      ]
+    }
+  ]
+}

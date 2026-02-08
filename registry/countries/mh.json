@@ -1,0 +1,403 @@
+{
+  "code": "MH",
+  "iso3": "MHL",
+  "name": {
+    "en": "Marshall Islands",
+    "ar": "جزر مارشال",
+    "de": "Marshallinseln",
+    "es": "Islas Marshall",
+    "fr": "Îles Marshall",
+    "hi": "मार्शल द्वीपसमूह",
+    "it": "Isole Marshall",
+    "ja": "マーシャル諸島",
+    "ko": "마셜 제도",
+    "nl": "Marshalleilanden",
+    "pl": "Wyspy Marshalla",
+    "pt": "Ilhas Marshall",
+    "pt-BR": "Ilhas Marshall",
+    "ru": "Маршалловы острова",
+    "tr": "Marşal Adalari",
+    "uk": "Маршаллові острови",
+    "zh": "马绍尔群岛"
+  },
+  "phone": "+692",
+  "currency": "USD",
+  "timezone": "Pacific/Kwajalein",
+  "flag": "🇲🇭",
+  "regions": [
+    {
+      "code": "MH-ALL",
+      "name": {
+        "en": "Ailinglaplap"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ailinglaplap"
+          },
+          "latitude": 7.5,
+          "longitude": 168.73333333
+        }
+      ]
+    },
+    {
+      "code": "MH-ALK",
+      "name": {
+        "en": "Ailuk"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ailuk"
+          },
+          "latitude": 10.31666667,
+          "longitude": 169.93333333
+        }
+      ]
+    },
+    {
+      "code": "MH-ARN",
+      "name": {
+        "en": "Arno"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Arno"
+          },
+          "latitude": 7.08333333,
+          "longitude": 171.7
+        }
+      ]
+    },
+    {
+      "code": "MH-AUR",
+      "name": {
+        "en": "Aur"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Aur"
+          },
+          "latitude": 8.2,
+          "longitude": 171.1
+        }
+      ]
+    },
+    {
+      "code": "MH-KIL",
+      "name": {
+        "en": "Bikini & Kili"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bikini"
+          },
+          "latitude": 11.6,
+          "longitude": 165.4
+        },
+        {
+          "name": {
+            "en": "Kili"
+          },
+          "latitude": 5.61666667,
+          "longitude": 169.11666667
+        }
+      ]
+    },
+    {
+      "code": "MH-EBO",
+      "name": {
+        "en": "Ebon"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ebon"
+          },
+          "latitude": 4.63333333,
+          "longitude": 168.71666667
+        }
+      ]
+    },
+    {
+      "code": "MH-ENI",
+      "name": {
+        "en": "Enewetak & Ujelang"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Enewetak"
+          },
+          "latitude": 11.5,
+          "longitude": 162.33333333
+        },
+        {
+          "name": {
+            "en": "Ujelang"
+          },
+          "latitude": 9.82222222,
+          "longitude": 160.9
+        }
+      ]
+    },
+    {
+      "code": "MH-JAB",
+      "name": {
+        "en": "Jabat"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Jabat"
+          },
+          "latitude": 7.75,
+          "longitude": 168.96666667
+        }
+      ]
+    },
+    {
+      "code": "MH-JAL",
+      "name": {
+        "en": "Jaluit"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Jabor"
+          },
+          "latitude": 6,
+          "longitude": 169.56666667
+        }
+      ]
+    },
+    {
+      "code": "MH-KWA",
+      "name": {
+        "en": "Kwajalein"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ebeye"
+          },
+          "latitude": 41.0811,
+          "longitude": -111.92
+        }
+      ]
+    },
+    {
+      "code": "MH-LAE",
+      "name": {
+        "en": "Lae"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Lae"
+          },
+          "latitude": 8.93611111,
+          "longitude": 166.2375
+        }
+      ]
+    },
+    {
+      "code": "MH-LIB",
+      "name": {
+        "en": "Lib"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Lib"
+          },
+          "latitude": 8.31305556,
+          "longitude": 167.37777778
+        }
+      ]
+    },
+    {
+      "code": "MH-LIK",
+      "name": {
+        "en": "Likiep"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Likiep"
+          },
+          "latitude": 9.88498,
+          "longitude": 169.14345
+        }
+      ]
+    },
+    {
+      "code": "MH-MAJ",
+      "name": {
+        "en": "Majuro"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Delap-Uliga-Djarrit"
+          },
+          "latitude": 7.08333333,
+          "longitude": 171.38333333
+        }
+      ]
+    },
+    {
+      "code": "MH-MAL",
+      "name": {
+        "en": "Maloelap"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Taroa"
+          },
+          "latitude": 48,
+          "longitude": 33.41666667
+        }
+      ]
+    },
+    {
+      "code": "MH-MEJ",
+      "name": {
+        "en": "Mejit"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Mejit"
+          },
+          "latitude": 10.28333333,
+          "longitude": 170.88333333
+        }
+      ]
+    },
+    {
+      "code": "MH-MIL",
+      "name": {
+        "en": "Mili"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Mili"
+          },
+          "latitude": 6.12621667,
+          "longitude": 171.97998056
+        }
+      ]
+    },
+    {
+      "code": "MH-NMK",
+      "name": {
+        "en": "Namdrik"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Namdrik"
+          },
+          "latitude": 5.61666667,
+          "longitude": 168.11666667
+        }
+      ]
+    },
+    {
+      "code": "MH-NMU",
+      "name": {
+        "en": "Namu"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Namu"
+          },
+          "latitude": 7.98333333,
+          "longitude": 168.17361111
+        }
+      ]
+    },
+    {
+      "code": "MH-RON",
+      "name": {
+        "en": "Rongelap"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Rongelap"
+          },
+          "latitude": 11.31666667,
+          "longitude": 166.78333333
+        }
+      ]
+    },
+    {
+      "code": "MH-UJA",
+      "name": {
+        "en": "Ujae"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ujae"
+          },
+          "latitude": 9.05,
+          "longitude": 165.65
+        }
+      ]
+    },
+    {
+      "code": "MH-UTI",
+      "name": {
+        "en": "Utrik"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Utrik"
+          },
+          "latitude": 11.26730556,
+          "longitude": 169.78426111
+        }
+      ]
+    },
+    {
+      "code": "MH-WTH",
+      "name": {
+        "en": "Wotho"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Wotho"
+          },
+          "latitude": 10.1,
+          "longitude": 165.96666667
+        }
+      ]
+    },
+    {
+      "code": "MH-WTJ",
+      "name": {
+        "en": "Wotje"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Wotje"
+          },
+          "latitude": 9.43333333,
+          "longitude": 170.01666667
+        }
+      ]
+    }
+  ]
+}

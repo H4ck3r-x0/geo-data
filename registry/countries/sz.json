@@ -1,0 +1,301 @@
+{
+  "code": "SZ",
+  "iso3": "SWZ",
+  "name": {
+    "en": "Eswatini",
+    "ar": "الإسواتين",
+    "de": "Swasiland",
+    "es": "Suazilandia",
+    "fr": "Swaziland",
+    "hi": "एस्वातिन",
+    "it": "Swaziland",
+    "ja": "スワジランド",
+    "ko": "에스와티니",
+    "nl": "Swaziland",
+    "pl": "Eswatini",
+    "pt": "Suazilândia",
+    "pt-BR": "Suazilândia",
+    "ru": "Эсватини",
+    "tr": "Esvatini",
+    "uk": "Есватіні",
+    "zh": "斯威士兰"
+  },
+  "phone": "+268",
+  "currency": "SZL",
+  "timezone": "Africa/Mbabane",
+  "flag": "🇸🇿",
+  "regions": [
+    {
+      "code": "SZ-HH",
+      "name": {
+        "en": "Hhohho"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bulembu"
+          },
+          "latitude": -25.96667,
+          "longitude": 31.13333
+        },
+        {
+          "name": {
+            "en": "Hhukwini"
+          },
+          "latitude": -26.31972,
+          "longitude": 31.22222
+        },
+        {
+          "name": {
+            "en": "Lobamba",
+            "ar": "لوبامبا"
+          },
+          "latitude": -26.46667,
+          "longitude": 31.2
+        },
+        {
+          "name": {
+            "en": "Mbabane",
+            "ar": "مبابان"
+          },
+          "latitude": -26.31667,
+          "longitude": 31.13333
+        },
+        {
+          "name": {
+            "en": "Nkhaba"
+          },
+          "latitude": -26.15728,
+          "longitude": 31.16391
+        },
+        {
+          "name": {
+            "en": "Piggs Peak"
+          },
+          "latitude": -25.96082,
+          "longitude": 31.24666
+        }
+      ]
+    },
+    {
+      "code": "SZ-LU",
+      "name": {
+        "en": "Lubombo"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Big Bend"
+          },
+          "latitude": -26.81667,
+          "longitude": 31.93333
+        },
+        {
+          "name": {
+            "en": "Dvokodvweni Inkhundla"
+          },
+          "latitude": -26.45398,
+          "longitude": 31.76456
+        },
+        {
+          "name": {
+            "en": "Lomashasha"
+          },
+          "latitude": -26.06644,
+          "longitude": 32.00768
+        },
+        {
+          "name": {
+            "en": "Mhlume"
+          },
+          "latitude": -26.03333,
+          "longitude": 31.85
+        },
+        {
+          "name": {
+            "en": "Nsoko"
+          },
+          "latitude": -27.03333,
+          "longitude": 31.95
+        },
+        {
+          "name": {
+            "en": "Siteki"
+          },
+          "latitude": -26.4525,
+          "longitude": 31.94722
+        },
+        {
+          "name": {
+            "en": "Tshaneni"
+          },
+          "latitude": -25.98333,
+          "longitude": 31.71667
+        },
+        {
+          "name": {
+            "en": "Vuvulane"
+          },
+          "latitude": -26.07427,
+          "longitude": 31.87672
+        }
+      ]
+    },
+    {
+      "code": "SZ-MA",
+      "name": {
+        "en": "Manzini"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bhunya"
+          },
+          "latitude": -26.55,
+          "longitude": 31.01667
+        },
+        {
+          "name": {
+            "en": "Ekukhanyeni"
+          },
+          "latitude": -26.3875,
+          "longitude": 31.52806
+        },
+        {
+          "name": {
+            "en": "Kwaluseni"
+          },
+          "latitude": -26.48333,
+          "longitude": 31.33333
+        },
+        {
+          "name": {
+            "en": "Malkerns"
+          },
+          "latitude": -26.56667,
+          "longitude": 31.18333
+        },
+        {
+          "name": {
+            "en": "Manzini"
+          },
+          "latitude": -26.49884,
+          "longitude": 31.38004
+        },
+        {
+          "name": {
+            "en": "Manzini South"
+          },
+          "latitude": -26.48333,
+          "longitude": 31.36667
+        },
+        {
+          "name": {
+            "en": "Mhlambanyatsi"
+          },
+          "latitude": -26.45,
+          "longitude": 31.01667
+        },
+        {
+          "name": {
+            "en": "Ngwempisi"
+          },
+          "latitude": -26.6999,
+          "longitude": 31.28876
+        },
+        {
+          "name": {
+            "en": "Ntondozi"
+          },
+          "latitude": -26.635,
+          "longitude": 31.22556
+        },
+        {
+          "name": {
+            "en": "Sidvokodvo"
+          },
+          "latitude": -26.6282,
+          "longitude": 31.42021
+        }
+      ]
+    },
+    {
+      "code": "SZ-SH",
+      "name": {
+        "en": "Shiselweni"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Hlatikulu"
+          },
+          "latitude": -26.97917,
+          "longitude": 31.32444
+        },
+        {
+          "name": {
+            "en": "Hluti"
+          },
+          "latitude": -27.21667,
+          "longitude": 31.61667
+        },
+        {
+          "name": {
+            "en": "Kubuta"
+          },
+          "latitude": -26.88333,
+          "longitude": 31.48333
+        },
+        {
+          "name": {
+            "en": "Lavumisa"
+          },
+          "latitude": -27.31005,
+          "longitude": 31.89198
+        },
+        {
+          "name": {
+            "en": "Matsanjeni"
+          },
+          "latitude": -27.21585,
+          "longitude": 31.72309
+        },
+        {
+          "name": {
+            "en": "Ngudzeni"
+          },
+          "latitude": -27.03583,
+          "longitude": 31.55111
+        },
+        {
+          "name": {
+            "en": "Nhlangano"
+          },
+          "latitude": -27.11222,
+          "longitude": 31.19833
+        },
+        {
+          "name": {
+            "en": "Nkwene"
+          },
+          "latitude": -26.89778,
+          "longitude": 31.24972
+        },
+        {
+          "name": {
+            "en": "Sigwe Inkhundla"
+          },
+          "latitude": -27.05821,
+          "longitude": 31.64543
+        },
+        {
+          "name": {
+            "en": "Zombodze Ikhundla"
+          },
+          "latitude": -27.22746,
+          "longitude": 31.33799
+        }
+      ]
+    }
+  ]
+}

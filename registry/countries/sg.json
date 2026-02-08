@@ -1,0 +1,252 @@
+{
+  "code": "SG",
+  "iso3": "SGP",
+  "name": {
+    "en": "Singapore",
+    "ar": "سنغافورة",
+    "de": "Singapur",
+    "es": "Singapur",
+    "fr": "Singapour",
+    "hi": "सिंगापुर",
+    "it": "Singapore",
+    "ja": "シンガポール",
+    "ko": "싱가포르",
+    "nl": "Singapore",
+    "pl": "Singapur",
+    "pt": "Singapura",
+    "pt-BR": "Singapura",
+    "ru": "Сингапур",
+    "tr": "Singapur",
+    "uk": "Сінгапур",
+    "zh": "新加坡"
+  },
+  "phone": "+65",
+  "currency": "SGD",
+  "timezone": "Asia/Singapore",
+  "flag": "🇸🇬",
+  "regions": [
+    {
+      "code": "SG-01",
+      "name": {
+        "en": "Central Singapore"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bukit Timah"
+          },
+          "latitude": 1.3294,
+          "longitude": 103.8021
+        },
+        {
+          "name": {
+            "en": "Downtown Core"
+          },
+          "latitude": 1.278,
+          "longitude": 103.852
+        },
+        {
+          "name": {
+            "en": "Geylang"
+          },
+          "latitude": 1.3182,
+          "longitude": 103.8871
+        },
+        {
+          "name": {
+            "en": "Kallang"
+          },
+          "latitude": 1.3106,
+          "longitude": 103.866
+        },
+        {
+          "name": {
+            "en": "Marine Parade"
+          },
+          "latitude": 1.303,
+          "longitude": 103.9072
+        },
+        {
+          "name": {
+            "en": "Novena"
+          },
+          "latitude": 1.3201,
+          "longitude": 103.8439
+        },
+        {
+          "name": {
+            "en": "Orchard Road"
+          },
+          "latitude": 1.3036,
+          "longitude": 103.8318
+        },
+        {
+          "name": {
+            "en": "Outram"
+          },
+          "latitude": 1.2819,
+          "longitude": 103.839
+        },
+        {
+          "name": {
+            "en": "Rochor"
+          },
+          "latitude": 1.3049,
+          "longitude": 103.852
+        },
+        {
+          "name": {
+            "en": "Singapore",
+            "ar": "سنغافورة"
+          },
+          "latitude": 1.28967,
+          "longitude": 103.85007
+        },
+        {
+          "name": {
+            "en": "Tanjong Pagar"
+          },
+          "latitude": 1.2764,
+          "longitude": 103.8434
+        },
+        {
+          "name": {
+            "en": "Toa Payoh"
+          },
+          "latitude": 1.3354,
+          "longitude": 103.8497
+        }
+      ]
+    },
+    {
+      "code": "SG-02",
+      "name": {
+        "en": "North East"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ang Mo Kio"
+          },
+          "latitude": 1.3698,
+          "longitude": 103.8461
+        },
+        {
+          "name": {
+            "en": "Hougang"
+          },
+          "latitude": 1.3736,
+          "longitude": 103.8867
+        },
+        {
+          "name": {
+            "en": "Punggol"
+          },
+          "latitude": 1.4051,
+          "longitude": 103.9023
+        },
+        {
+          "name": {
+            "en": "Sengkang"
+          },
+          "latitude": 1.3901,
+          "longitude": 103.8952
+        },
+        {
+          "name": {
+            "en": "Serangoon"
+          },
+          "latitude": 1.3496,
+          "longitude": 103.8737
+        }
+      ]
+    },
+    {
+      "code": "SG-03",
+      "name": {
+        "en": "North West"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Sembawang"
+          },
+          "latitude": 1.4491,
+          "longitude": 103.8201
+        },
+        {
+          "name": {
+            "en": "Woodlands"
+          },
+          "latitude": 1.43801,
+          "longitude": 103.78877
+        },
+        {
+          "name": {
+            "en": "Yishun"
+          },
+          "latitude": 1.4293,
+          "longitude": 103.8355
+        }
+      ]
+    },
+    {
+      "code": "SG-04",
+      "name": {
+        "en": "South East"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bedok"
+          },
+          "latitude": 1.3236,
+          "longitude": 103.9273
+        },
+        {
+          "name": {
+            "en": "Pasir Ris"
+          },
+          "latitude": 1.3739,
+          "longitude": 103.9493
+        },
+        {
+          "name": {
+            "en": "Tampines"
+          },
+          "latitude": 1.3547,
+          "longitude": 103.9437
+        }
+      ]
+    },
+    {
+      "code": "SG-05",
+      "name": {
+        "en": "South West"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bukit Batok"
+          },
+          "latitude": 1.3496,
+          "longitude": 103.7528
+        },
+        {
+          "name": {
+            "en": "Bukit Panjang"
+          },
+          "latitude": 1.3786,
+          "longitude": 103.7626
+        },
+        {
+          "name": {
+            "en": "Jurong West"
+          },
+          "latitude": 1.3396,
+          "longitude": 103.7073
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "code": "DJ",
+  "iso3": "DJI",
+  "name": {
+    "en": "Djibouti",
+    "ar": "جيبوتي",
+    "de": "Dschibuti",
+    "es": "Yibuti",
+    "fr": "Djibouti",
+    "hi": "ज़िबूटी",
+    "it": "Gibuti",
+    "ja": "ジブチ",
+    "ko": "지부티",
+    "nl": "Djibouti",
+    "pl": "Dżibuti",
+    "pt": "Djibuti",
+    "pt-BR": "Djibuti",
+    "ru": "Джибути",
+    "tr": "Cibuti",
+    "uk": "Джибуті",
+    "zh": "吉布提"
+  },
+  "phone": "+253",
+  "currency": "DJF",
+  "timezone": "Africa/Djibouti",
+  "flag": "🇩🇯",
+  "regions": [
+    {
+      "code": "DJ-AS",
+      "name": {
+        "en": "Ali Sabieh"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ali Sabieh",
+            "ar": "علي صبيح"
+          },
+          "latitude": 11.15583,
+          "longitude": 42.7125
+        },
+        {
+          "name": {
+            "en": "Goubétto"
+          },
+          "latitude": 11.42389,
+          "longitude": 43.00028
+        },
+        {
+          "name": {
+            "en": "Holhol"
+          },
+          "latitude": 11.31028,
+          "longitude": 42.92944
+        }
+      ]
+    },
+    {
+      "code": "DJ-AR",
+      "name": {
+        "en": "Arta"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Arta",
+            "ar": "أرتا"
+          },
+          "latitude": 11.52639,
+          "longitude": 42.85194
+        }
+      ]
+    },
+    {
+      "code": "DJ-DI",
+      "name": {
+        "en": "Dikhil"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Dikhil",
+            "ar": "دخيل"
+          },
+          "latitude": 11.10454,
+          "longitude": 42.36971
+        },
+        {
+          "name": {
+            "en": "Gâlâfi"
+          },
+          "latitude": 11.71583,
+          "longitude": 41.83611
+        }
+      ]
+    },
+    {
+      "code": "DJ-DJ",
+      "name": {
+        "en": "Djibouti"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Djibouti",
+            "ar": "جيبوتي"
+          },
+          "latitude": 11.58901,
+          "longitude": 43.14503
+        },
+        {
+          "name": {
+            "en": "Loyada"
+          },
+          "latitude": 11.46111,
+          "longitude": 43.25278
+        }
+      ]
+    },
+    {
+      "code": "DJ-OB",
+      "name": {
+        "en": "Obock"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Alaïli Ḏaḏḏa‘"
+          },
+          "latitude": 12.42167,
+          "longitude": 42.89556
+        },
+        {
+          "name": {
+            "en": "Obock",
+            "ar": "أوبوك"
+          },
+          "latitude": 11.96693,
+          "longitude": 43.28835
+        }
+      ]
+    },
+    {
+      "code": "DJ-TA",
+      "name": {
+        "en": "Tadjourah"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Dorra"
+          },
+          "latitude": 12.15028,
+          "longitude": 42.47624
+        },
+        {
+          "name": {
+            "en": "Tadjourah",
+            "ar": "تاجورة"
+          },
+          "latitude": 11.78778,
+          "longitude": 42.88222
+        }
+      ]
+    }
+  ]
+}

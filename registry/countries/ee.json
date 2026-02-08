@@ -1,0 +1,1286 @@
+{
+  "code": "EE",
+  "iso3": "EST",
+  "name": {
+    "en": "Estonia",
+    "ar": "إستونيا",
+    "de": "Estland",
+    "es": "Estonia",
+    "fr": "Estonie",
+    "hi": "एस्तोनिया",
+    "it": "Estonia",
+    "ja": "エストニア",
+    "ko": "에스토니아",
+    "nl": "Estland",
+    "pl": "Estonia",
+    "pt": "Estónia",
+    "pt-BR": "Estônia",
+    "ru": "Эстония",
+    "tr": "Estonya",
+    "uk": "Естонія",
+    "zh": "爱沙尼亚"
+  },
+  "phone": "+372",
+  "currency": "EUR",
+  "timezone": "Europe/Tallinn",
+  "flag": "🇪🇪",
+  "regions": [
+    {
+      "code": "EE-37",
+      "name": {
+        "en": "Harju"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Anija vald"
+          },
+          "latitude": 59.27644,
+          "longitude": 25.48168
+        },
+        {
+          "name": {
+            "en": "Aruküla"
+          },
+          "latitude": 59.36686,
+          "longitude": 25.07618
+        },
+        {
+          "name": {
+            "en": "Haabneeme"
+          },
+          "latitude": 59.51358,
+          "longitude": 24.82225
+        },
+        {
+          "name": {
+            "en": "Harku"
+          },
+          "latitude": 59.38641,
+          "longitude": 24.57176
+        },
+        {
+          "name": {
+            "en": "Harku vald"
+          },
+          "latitude": 59.39157,
+          "longitude": 24.46206
+        },
+        {
+          "name": {
+            "en": "Jõelähtme vald"
+          },
+          "latitude": 59.43996,
+          "longitude": 25.13535
+        },
+        {
+          "name": {
+            "en": "Jüri"
+          },
+          "latitude": 59.35417,
+          "longitude": 24.89417
+        },
+        {
+          "name": {
+            "en": "Kehra"
+          },
+          "latitude": 59.33611,
+          "longitude": 25.32111
+        },
+        {
+          "name": {
+            "en": "Keila"
+          },
+          "latitude": 59.30361,
+          "longitude": 24.41306
+        },
+        {
+          "name": {
+            "en": "Kiili"
+          },
+          "latitude": 59.30775,
+          "longitude": 24.83776
+        },
+        {
+          "name": {
+            "en": "Kiili vald"
+          },
+          "latitude": 59.29672,
+          "longitude": 24.85292
+        },
+        {
+          "name": {
+            "en": "Kose"
+          },
+          "latitude": 59.46001,
+          "longitude": 24.87824
+        },
+        {
+          "name": {
+            "en": "Kuusalu"
+          },
+          "latitude": 59.44389,
+          "longitude": 25.44139
+        },
+        {
+          "name": {
+            "en": "Laagri"
+          },
+          "latitude": 59.35083,
+          "longitude": 24.61418
+        },
+        {
+          "name": {
+            "en": "Loksa"
+          },
+          "latitude": 59.57639,
+          "longitude": 25.72139
+        },
+        {
+          "name": {
+            "en": "Loksa linn"
+          },
+          "latitude": 59.57844,
+          "longitude": 25.71667
+        },
+        {
+          "name": {
+            "en": "Loo"
+          },
+          "latitude": 59.43123,
+          "longitude": 24.94949
+        },
+        {
+          "name": {
+            "en": "Maardu"
+          },
+          "latitude": 59.46529,
+          "longitude": 24.98215
+        },
+        {
+          "name": {
+            "en": "Maardu linn"
+          },
+          "latitude": 59.46385,
+          "longitude": 24.9735
+        },
+        {
+          "name": {
+            "en": "Paldiski"
+          },
+          "latitude": 59.35667,
+          "longitude": 24.05306
+        },
+        {
+          "name": {
+            "en": "Pringi"
+          },
+          "latitude": 59.53459,
+          "longitude": 24.79726
+        },
+        {
+          "name": {
+            "en": "Raasiku"
+          },
+          "latitude": 59.36639,
+          "longitude": 25.18306
+        },
+        {
+          "name": {
+            "en": "Rae vald"
+          },
+          "latitude": 59.33202,
+          "longitude": 24.93932
+        },
+        {
+          "name": {
+            "en": "Riisipere"
+          },
+          "latitude": 59.11417,
+          "longitude": 24.31056
+        },
+        {
+          "name": {
+            "en": "Rummu"
+          },
+          "latitude": 59.53528,
+          "longitude": 24.79972
+        },
+        {
+          "name": {
+            "en": "Saku"
+          },
+          "latitude": 59.30354,
+          "longitude": 24.66382
+        },
+        {
+          "name": {
+            "en": "Saku vald"
+          },
+          "latitude": 59.28069,
+          "longitude": 24.71649
+        },
+        {
+          "name": {
+            "en": "Saue"
+          },
+          "latitude": 59.32258,
+          "longitude": 24.54967
+        },
+        {
+          "name": {
+            "en": "Saue vald"
+          },
+          "latitude": 59.29255,
+          "longitude": 24.52503
+        },
+        {
+          "name": {
+            "en": "Tabasalu"
+          },
+          "latitude": 59.42607,
+          "longitude": 24.5533
+        },
+        {
+          "name": {
+            "en": "Tallinn",
+            "ar": "تالين"
+          },
+          "latitude": 59.43696,
+          "longitude": 24.75353
+        },
+        {
+          "name": {
+            "en": "Turba"
+          },
+          "latitude": 59.08306,
+          "longitude": 24.225
+        },
+        {
+          "name": {
+            "en": "Vaida"
+          },
+          "latitude": 59.28546,
+          "longitude": 24.97897
+        },
+        {
+          "name": {
+            "en": "Viimsi"
+          },
+          "latitude": 59.50502,
+          "longitude": 24.84807
+        },
+        {
+          "name": {
+            "en": "Viimsi vald"
+          },
+          "latitude": 59.50204,
+          "longitude": 24.84833
+        }
+      ]
+    },
+    {
+      "code": "EE-39",
+      "name": {
+        "en": "Hiiu"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Kärdla"
+          },
+          "latitude": 58.99778,
+          "longitude": 22.74917
+        }
+      ]
+    },
+    {
+      "code": "EE-45",
+      "name": {
+        "en": "Ida-Viru"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Iisaku"
+          },
+          "latitude": 59.10139,
+          "longitude": 27.30806
+        },
+        {
+          "name": {
+            "en": "Jõhvi"
+          },
+          "latitude": 59.35917,
+          "longitude": 27.42111
+        },
+        {
+          "name": {
+            "en": "Jõhvi vald"
+          },
+          "latitude": 59.35653,
+          "longitude": 27.39304
+        },
+        {
+          "name": {
+            "en": "Kiviõli"
+          },
+          "latitude": 59.35306,
+          "longitude": 26.97111
+        },
+        {
+          "name": {
+            "en": "Kohtla-Järve"
+          },
+          "latitude": 59.39861,
+          "longitude": 27.27306
+        },
+        {
+          "name": {
+            "en": "Kohtla-Nõmme"
+          },
+          "latitude": 59.35167,
+          "longitude": 27.175
+        },
+        {
+          "name": {
+            "en": "Lüganuse vald"
+          },
+          "latitude": 59.39262,
+          "longitude": 27.07641
+        },
+        {
+          "name": {
+            "en": "Narva",
+            "ar": "نارفا"
+          },
+          "latitude": 59.37722,
+          "longitude": 28.19028
+        },
+        {
+          "name": {
+            "en": "Narva-Jõesuu"
+          },
+          "latitude": 59.45889,
+          "longitude": 28.04083
+        },
+        {
+          "name": {
+            "en": "Narva-Jõesuu linn"
+          },
+          "latitude": 59.44127,
+          "longitude": 28.02142
+        },
+        {
+          "name": {
+            "en": "Püssi"
+          },
+          "latitude": 59.36,
+          "longitude": 27.04972
+        },
+        {
+          "name": {
+            "en": "Sillamäe"
+          },
+          "latitude": 59.39697,
+          "longitude": 27.76331
+        },
+        {
+          "name": {
+            "en": "Toila"
+          },
+          "latitude": 59.42127,
+          "longitude": 27.50807
+        },
+        {
+          "name": {
+            "en": "Voka"
+          },
+          "latitude": 59.40776,
+          "longitude": 27.58263
+        }
+      ]
+    },
+    {
+      "code": "EE-52",
+      "name": {
+        "en": "Järva"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Järva-Jaani"
+          },
+          "latitude": 59.03861,
+          "longitude": 25.88639
+        },
+        {
+          "name": {
+            "en": "Koeru"
+          },
+          "latitude": 58.96306,
+          "longitude": 26.03083
+        },
+        {
+          "name": {
+            "en": "Paide"
+          },
+          "latitude": 58.88556,
+          "longitude": 25.55722
+        },
+        {
+          "name": {
+            "en": "Paide linn"
+          },
+          "latitude": 58.88504,
+          "longitude": 25.56021
+        },
+        {
+          "name": {
+            "en": "Särevere"
+          },
+          "latitude": 58.79,
+          "longitude": 25.42806
+        },
+        {
+          "name": {
+            "en": "Türi"
+          },
+          "latitude": 58.80861,
+          "longitude": 25.4325
+        },
+        {
+          "name": {
+            "en": "Türi vald"
+          },
+          "latitude": 58.74143,
+          "longitude": 25.46443
+        }
+      ]
+    },
+    {
+      "code": "EE-50",
+      "name": {
+        "en": "Jõgeva"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Jõgeva"
+          },
+          "latitude": 58.74667,
+          "longitude": 26.39389
+        },
+        {
+          "name": {
+            "en": "Jõgeva vald"
+          },
+          "latitude": 58.78732,
+          "longitude": 26.38122
+        },
+        {
+          "name": {
+            "en": "Mustvee"
+          },
+          "latitude": 58.84861,
+          "longitude": 26.93972
+        },
+        {
+          "name": {
+            "en": "Põltsamaa"
+          },
+          "latitude": 58.6525,
+          "longitude": 25.97056
+        },
+        {
+          "name": {
+            "en": "Põltsamaa vald"
+          },
+          "latitude": 58.64067,
+          "longitude": 26.00957
+        }
+      ]
+    },
+    {
+      "code": "EE-56",
+      "name": {
+        "en": "Lääne"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Haapsalu"
+          },
+          "latitude": 58.94306,
+          "longitude": 23.54139
+        },
+        {
+          "name": {
+            "en": "Haapsalu linn"
+          },
+          "latitude": 58.9358,
+          "longitude": 23.53005
+        },
+        {
+          "name": {
+            "en": "Hullo"
+          },
+          "latitude": 58.99004,
+          "longitude": 23.24441
+        },
+        {
+          "name": {
+            "en": "Lääne-Nigula vald"
+          },
+          "latitude": 58.96045,
+          "longitude": 23.74489
+        },
+        {
+          "name": {
+            "en": "Taebla"
+          },
+          "latitude": 58.95389,
+          "longitude": 23.75222
+        },
+        {
+          "name": {
+            "en": "Uuemõisa"
+          },
+          "latitude": 58.93944,
+          "longitude": 23.58944
+        },
+        {
+          "name": {
+            "en": "Vormsi vald"
+          },
+          "latitude": 58.99986,
+          "longitude": 23.23408
+        }
+      ]
+    },
+    {
+      "code": "EE-60",
+      "name": {
+        "en": "Lääne-Viru"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Aseri"
+          },
+          "latitude": 59.45056,
+          "longitude": 26.8675
+        },
+        {
+          "name": {
+            "en": "Haljala"
+          },
+          "latitude": 59.43361,
+          "longitude": 26.26139
+        },
+        {
+          "name": {
+            "en": "Haljala vald"
+          },
+          "latitude": 59.45427,
+          "longitude": 26.22015
+        },
+        {
+          "name": {
+            "en": "Kadrina"
+          },
+          "latitude": 59.33472,
+          "longitude": 26.145
+        },
+        {
+          "name": {
+            "en": "Kadrina vald"
+          },
+          "latitude": 59.37463,
+          "longitude": 26.0415
+        },
+        {
+          "name": {
+            "en": "Kunda"
+          },
+          "latitude": 59.49861,
+          "longitude": 26.52611
+        },
+        {
+          "name": {
+            "en": "Pajusti"
+          },
+          "latitude": 59.27444,
+          "longitude": 26.42333
+        },
+        {
+          "name": {
+            "en": "Rakke"
+          },
+          "latitude": 58.98167,
+          "longitude": 26.25444
+        },
+        {
+          "name": {
+            "en": "Rakvere"
+          },
+          "latitude": 59.34639,
+          "longitude": 26.35583
+        },
+        {
+          "name": {
+            "en": "Rakvere vald"
+          },
+          "latitude": 59.32457,
+          "longitude": 26.29757
+        },
+        {
+          "name": {
+            "en": "Sõmeru"
+          },
+          "latitude": 59.36111,
+          "longitude": 26.4375
+        },
+        {
+          "name": {
+            "en": "Tamsalu"
+          },
+          "latitude": 59.15861,
+          "longitude": 26.11528
+        },
+        {
+          "name": {
+            "en": "Tapa"
+          },
+          "latitude": 59.26056,
+          "longitude": 25.95861
+        },
+        {
+          "name": {
+            "en": "Tapa vald"
+          },
+          "latitude": 59.23821,
+          "longitude": 25.84572
+        },
+        {
+          "name": {
+            "en": "Vaiatu"
+          },
+          "latitude": 59.35556,
+          "longitude": 25.99528
+        },
+        {
+          "name": {
+            "en": "Väike-Maarja"
+          },
+          "latitude": 59.12639,
+          "longitude": 26.25
+        },
+        {
+          "name": {
+            "en": "Väike-Maarja vald"
+          },
+          "latitude": 59.06556,
+          "longitude": 26.31417
+        },
+        {
+          "name": {
+            "en": "Vinni"
+          },
+          "latitude": 59.29583,
+          "longitude": 26.43222
+        },
+        {
+          "name": {
+            "en": "Vinni vald"
+          },
+          "latitude": 59.23744,
+          "longitude": 26.62261
+        },
+        {
+          "name": {
+            "en": "Viru-Nigula vald"
+          },
+          "latitude": 59.46387,
+          "longitude": 26.58585
+        }
+      ]
+    },
+    {
+      "code": "EE-68",
+      "name": {
+        "en": "Pärnu"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Audru"
+          },
+          "latitude": 58.40861,
+          "longitude": 24.37389
+        },
+        {
+          "name": {
+            "en": "Kihnu vald"
+          },
+          "latitude": 58.13,
+          "longitude": 23.99002
+        },
+        {
+          "name": {
+            "en": "Kilingi-Nõmme"
+          },
+          "latitude": 58.15028,
+          "longitude": 24.96417
+        },
+        {
+          "name": {
+            "en": "Lihula"
+          },
+          "latitude": 58.68139,
+          "longitude": 23.84528
+        },
+        {
+          "name": {
+            "en": "Linaküla"
+          },
+          "latitude": 58.13722,
+          "longitude": 23.97444
+        },
+        {
+          "name": {
+            "en": "Paikuse"
+          },
+          "latitude": 58.37917,
+          "longitude": 24.63444
+        },
+        {
+          "name": {
+            "en": "Pärnu"
+          },
+          "latitude": 58.38588,
+          "longitude": 24.49711
+        },
+        {
+          "name": {
+            "en": "Pärnu linn"
+          },
+          "latitude": 58.37901,
+          "longitude": 24.52784
+        },
+        {
+          "name": {
+            "en": "Pärnu-Jaagupi"
+          },
+          "latitude": 58.61052,
+          "longitude": 24.50689
+        },
+        {
+          "name": {
+            "en": "Saarde vald"
+          },
+          "latitude": 58.13802,
+          "longitude": 24.95564
+        },
+        {
+          "name": {
+            "en": "Sauga"
+          },
+          "latitude": 58.4272,
+          "longitude": 24.49496
+        },
+        {
+          "name": {
+            "en": "Sindi"
+          },
+          "latitude": 58.40056,
+          "longitude": 24.6675
+        },
+        {
+          "name": {
+            "en": "Tootsi"
+          },
+          "latitude": 58.57806,
+          "longitude": 24.7925
+        },
+        {
+          "name": {
+            "en": "Tori vald"
+          },
+          "latitude": 58.48663,
+          "longitude": 24.88961
+        },
+        {
+          "name": {
+            "en": "Uulu"
+          },
+          "latitude": 58.28361,
+          "longitude": 24.58722
+        },
+        {
+          "name": {
+            "en": "Vändra"
+          },
+          "latitude": 58.64806,
+          "longitude": 25.03611
+        }
+      ]
+    },
+    {
+      "code": "EE-64",
+      "name": {
+        "en": "Põlva"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Kanepi"
+          },
+          "latitude": 57.98306,
+          "longitude": 26.75639
+        },
+        {
+          "name": {
+            "en": "Kanepi vald"
+          },
+          "latitude": 57.98058,
+          "longitude": 26.76151
+        },
+        {
+          "name": {
+            "en": "Põlva"
+          },
+          "latitude": 58.06028,
+          "longitude": 27.06944
+        },
+        {
+          "name": {
+            "en": "Põlva vald"
+          },
+          "latitude": 58.08368,
+          "longitude": 26.98242
+        },
+        {
+          "name": {
+            "en": "Räpina"
+          },
+          "latitude": 58.09806,
+          "longitude": 27.46361
+        },
+        {
+          "name": {
+            "en": "Räpina vald"
+          },
+          "latitude": 58.10777,
+          "longitude": 27.3858
+        }
+      ]
+    },
+    {
+      "code": "EE-71",
+      "name": {
+        "en": "Rapla"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Järvakandi"
+          },
+          "latitude": 58.77889,
+          "longitude": 24.82583
+        },
+        {
+          "name": {
+            "en": "Kehtna"
+          },
+          "latitude": 58.93028,
+          "longitude": 24.87806
+        },
+        {
+          "name": {
+            "en": "Kehtna vald"
+          },
+          "latitude": 58.84274,
+          "longitude": 24.89002
+        },
+        {
+          "name": {
+            "en": "Kohila"
+          },
+          "latitude": 59.16806,
+          "longitude": 24.7575
+        },
+        {
+          "name": {
+            "en": "Kohila vald"
+          },
+          "latitude": 59.15283,
+          "longitude": 24.73337
+        },
+        {
+          "name": {
+            "en": "Märjamaa"
+          },
+          "latitude": 58.90389,
+          "longitude": 24.43056
+        },
+        {
+          "name": {
+            "en": "Märjamaa vald"
+          },
+          "latitude": 58.90262,
+          "longitude": 24.39423
+        },
+        {
+          "name": {
+            "en": "Rapla"
+          },
+          "latitude": 59.00722,
+          "longitude": 24.79278
+        },
+        {
+          "name": {
+            "en": "Rapla vald"
+          },
+          "latitude": 59.03309,
+          "longitude": 24.71793
+        }
+      ]
+    },
+    {
+      "code": "EE-74",
+      "name": {
+        "en": "Saare"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Kuressaare"
+          },
+          "latitude": 58.24806,
+          "longitude": 22.50389
+        },
+        {
+          "name": {
+            "en": "Liiva"
+          },
+          "latitude": 58.60194,
+          "longitude": 23.24694
+        },
+        {
+          "name": {
+            "en": "Muhu vald"
+          },
+          "latitude": 58.58486,
+          "longitude": 23.25609
+        },
+        {
+          "name": {
+            "en": "Orissaare"
+          },
+          "latitude": 58.55917,
+          "longitude": 23.08262
+        },
+        {
+          "name": {
+            "en": "Ruhnu"
+          },
+          "latitude": 57.80028,
+          "longitude": 23.24833
+        },
+        {
+          "name": {
+            "en": "Ruhnu vald"
+          },
+          "latitude": 57.80309,
+          "longitude": 23.2425
+        },
+        {
+          "name": {
+            "en": "Tehumardi"
+          },
+          "latitude": 58.18027,
+          "longitude": 22.24646
+        }
+      ]
+    },
+    {
+      "code": "EE-79",
+      "name": {
+        "en": "Tartu"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Alatskivi"
+          },
+          "latitude": 58.59806,
+          "longitude": 27.13361
+        },
+        {
+          "name": {
+            "en": "Elva"
+          },
+          "latitude": 58.2225,
+          "longitude": 26.42111
+        },
+        {
+          "name": {
+            "en": "Kallaste"
+          },
+          "latitude": 58.66312,
+          "longitude": 27.16164
+        },
+        {
+          "name": {
+            "en": "Kambja vald"
+          },
+          "latitude": 58.20255,
+          "longitude": 26.68996
+        },
+        {
+          "name": {
+            "en": "Kõrveküla"
+          },
+          "latitude": 58.42417,
+          "longitude": 26.78222
+        },
+        {
+          "name": {
+            "en": "Kurepalu"
+          },
+          "latitude": 58.31861,
+          "longitude": 26.84083
+        },
+        {
+          "name": {
+            "en": "Luunja"
+          },
+          "latitude": 58.35583,
+          "longitude": 26.88083
+        },
+        {
+          "name": {
+            "en": "Luunja vald"
+          },
+          "latitude": 58.39178,
+          "longitude": 26.95574
+        },
+        {
+          "name": {
+            "en": "Nõo"
+          },
+          "latitude": 58.27556,
+          "longitude": 26.5375
+        },
+        {
+          "name": {
+            "en": "Nõo vald"
+          },
+          "latitude": 58.24199,
+          "longitude": 26.52499
+        },
+        {
+          "name": {
+            "en": "Peipsiääre vald"
+          },
+          "latitude": 58.51559,
+          "longitude": 27.18444
+        },
+        {
+          "name": {
+            "en": "Puhja"
+          },
+          "latitude": 58.34194,
+          "longitude": 26.31472
+        },
+        {
+          "name": {
+            "en": "Tartu"
+          },
+          "latitude": 58.38062,
+          "longitude": 26.72509
+        },
+        {
+          "name": {
+            "en": "Tartu linn"
+          },
+          "latitude": 58.37498,
+          "longitude": 26.73256
+        },
+        {
+          "name": {
+            "en": "Tartu vald"
+          },
+          "latitude": 58.478,
+          "longitude": 26.74956
+        },
+        {
+          "name": {
+            "en": "Ülenurme"
+          },
+          "latitude": 58.3162,
+          "longitude": 26.72517
+        }
+      ]
+    },
+    {
+      "code": "EE-81",
+      "name": {
+        "en": "Valga"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Otepää vald"
+          },
+          "latitude": 58.02177,
+          "longitude": 26.45306
+        },
+        {
+          "name": {
+            "en": "Tõrva"
+          },
+          "latitude": 58.00278,
+          "longitude": 25.935
+        },
+        {
+          "name": {
+            "en": "Valga"
+          },
+          "latitude": 57.77781,
+          "longitude": 26.0473
+        }
+      ]
+    },
+    {
+      "code": "EE-84",
+      "name": {
+        "en": "Viljandi"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Abja-Paluoja"
+          },
+          "latitude": 58.12528,
+          "longitude": 25.34972
+        },
+        {
+          "name": {
+            "en": "Karksi-Nuia"
+          },
+          "latitude": 58.10333,
+          "longitude": 25.56278
+        },
+        {
+          "name": {
+            "en": "Mõisaküla"
+          },
+          "latitude": 58.09222,
+          "longitude": 25.18639
+        },
+        {
+          "name": {
+            "en": "Suure-Jaani"
+          },
+          "latitude": 58.53611,
+          "longitude": 25.47056
+        },
+        {
+          "name": {
+            "en": "Viiratsi"
+          },
+          "latitude": 58.36,
+          "longitude": 25.63722
+        },
+        {
+          "name": {
+            "en": "Viljandi",
+            "ar": "فيلياندي"
+          },
+          "latitude": 58.36389,
+          "longitude": 25.59
+        },
+        {
+          "name": {
+            "en": "Viljandi vald"
+          },
+          "latitude": 58.36392,
+          "longitude": 25.49103
+        },
+        {
+          "name": {
+            "en": "Võhma"
+          },
+          "latitude": 58.62833,
+          "longitude": 25.54833
+        }
+      ]
+    },
+    {
+      "code": "EE-87",
+      "name": {
+        "en": "Võru"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Antsla"
+          },
+          "latitude": 57.82556,
+          "longitude": 26.54056
+        },
+        {
+          "name": {
+            "en": "Antsla vald"
+          },
+          "latitude": 57.77738,
+          "longitude": 26.5952
+        },
+        {
+          "name": {
+            "en": "Rõuge"
+          },
+          "latitude": 57.72778,
+          "longitude": 26.90972
+        },
+        {
+          "name": {
+            "en": "Rõuge vald"
+          },
+          "latitude": 57.7278,
+          "longitude": 26.88033
+        },
+        {
+          "name": {
+            "en": "Vana-Antsla"
+          },
+          "latitude": 57.86611,
+          "longitude": 26.53222
+        },
+        {
+          "name": {
+            "en": "Värska"
+          },
+          "latitude": 57.95806,
+          "longitude": 27.63806
+        },
+        {
+          "name": {
+            "en": "Võru"
+          },
+          "latitude": 57.83389,
+          "longitude": 27.01944
+        },
+        {
+          "name": {
+            "en": "Võru vald"
+          },
+          "latitude": 57.86618,
+          "longitude": 26.97418
+        }
+      ]
+    }
+  ]
+}

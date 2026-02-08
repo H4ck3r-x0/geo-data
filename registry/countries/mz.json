@@ -1,0 +1,387 @@
+{
+  "code": "MZ",
+  "iso3": "MOZ",
+  "name": {
+    "en": "Mozambique",
+    "ar": "موزمبيق",
+    "de": "Mosambik",
+    "es": "Mozambique",
+    "fr": "Mozambique",
+    "hi": "मोज़ाम्बिक",
+    "it": "Mozambico",
+    "ja": "モザンビーク",
+    "ko": "모잠비크",
+    "nl": "Mozambique",
+    "pl": "Mozambik",
+    "pt": "Moçambique",
+    "pt-BR": "Moçambique",
+    "ru": "Мозамбик",
+    "tr": "Mozambik",
+    "uk": "Мозамбік",
+    "zh": "莫桑比克"
+  },
+  "phone": "+258",
+  "currency": "MZN",
+  "timezone": "Africa/Maputo",
+  "flag": "🇲🇿",
+  "regions": [
+    {
+      "code": "MZ-P",
+      "name": {
+        "en": "Cabo Delgado"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Chiure"
+          },
+          "latitude": -13.46665,
+          "longitude": 39.70317
+        },
+        {
+          "name": {
+            "en": "Mocímboa"
+          },
+          "latitude": -11.31667,
+          "longitude": 40.35
+        },
+        {
+          "name": {
+            "en": "Montepuez",
+            "ar": "مونتيبويز"
+          },
+          "latitude": -13.12556,
+          "longitude": 38.99972
+        },
+        {
+          "name": {
+            "en": "Pemba"
+          },
+          "latitude": -12.97395,
+          "longitude": 40.51775
+        }
+      ]
+    },
+    {
+      "code": "MZ-G",
+      "name": {
+        "en": "Gaza"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Chibuto"
+          },
+          "latitude": -24.68667,
+          "longitude": 33.53056
+        },
+        {
+          "name": {
+            "en": "Chokwé"
+          },
+          "latitude": -24.53333,
+          "longitude": 32.98333
+        },
+        {
+          "name": {
+            "en": "Macia"
+          },
+          "latitude": -25.02694,
+          "longitude": 33.09889
+        },
+        {
+          "name": {
+            "en": "Xai-Xai"
+          },
+          "latitude": -25.05194,
+          "longitude": 33.64417
+        }
+      ]
+    },
+    {
+      "code": "MZ-I",
+      "name": {
+        "en": "Inhambane"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Inhambane"
+          },
+          "latitude": -23.865,
+          "longitude": 35.38333
+        },
+        {
+          "name": {
+            "en": "Maxixe",
+            "ar": "ماكسيكسي"
+          },
+          "latitude": -23.85972,
+          "longitude": 35.34722
+        }
+      ]
+    },
+    {
+      "code": "MZ-B",
+      "name": {
+        "en": "Manica"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Chimoio"
+          },
+          "latitude": -19.11639,
+          "longitude": 33.48333
+        }
+      ]
+    },
+    {
+      "code": "MZ-L",
+      "name": {
+        "en": "Maputo"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Boane"
+          },
+          "latitude": -26.029,
+          "longitude": 32.389
+        },
+        {
+          "name": {
+            "en": "Concelho de Matola"
+          },
+          "latitude": -25.83472,
+          "longitude": 32.49516
+        },
+        {
+          "name": {
+            "en": "Magude"
+          },
+          "latitude": -25.02389,
+          "longitude": 32.6515
+        },
+        {
+          "name": {
+            "en": "Manhica"
+          },
+          "latitude": -25.34035,
+          "longitude": 32.84234
+        },
+        {
+          "name": {
+            "en": "Marracuene"
+          },
+          "latitude": -25.73938,
+          "longitude": 32.67436
+        },
+        {
+          "name": {
+            "en": "Matola"
+          },
+          "latitude": -25.96222,
+          "longitude": 32.45889
+        },
+        {
+          "name": {
+            "en": "Matutiune"
+          },
+          "latitude": -26.43418,
+          "longitude": 32.5882
+        },
+        {
+          "name": {
+            "en": "Moamba"
+          },
+          "latitude": -25.60934,
+          "longitude": 32.24321
+        },
+        {
+          "name": {
+            "en": "Namaacha"
+          },
+          "latitude": -26.109,
+          "longitude": 32.18
+        },
+        {
+          "name": {
+            "en": "Ressano Garcia"
+          },
+          "latitude": -25.44278,
+          "longitude": 31.99528
+        }
+      ]
+    },
+    {
+      "code": "MZ-MPM",
+      "name": {
+        "en": "Maputo"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "KaTembe"
+          },
+          "latitude": -26.02985,
+          "longitude": 32.53204
+        },
+        {
+          "name": {
+            "en": "Maputo",
+            "ar": "مابوتو"
+          },
+          "latitude": -25.96553,
+          "longitude": 32.58322
+        }
+      ]
+    },
+    {
+      "code": "MZ-N",
+      "name": {
+        "en": "Nampula"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "António Enes",
+            "ar": "أنغوتشي"
+          },
+          "latitude": -16.2325,
+          "longitude": 39.90861
+        },
+        {
+          "name": {
+            "en": "Ilha de Moçambique"
+          },
+          "latitude": -15.03417,
+          "longitude": 40.73583
+        },
+        {
+          "name": {
+            "en": "Mutuáli"
+          },
+          "latitude": -14.87056,
+          "longitude": 37.00444
+        },
+        {
+          "name": {
+            "en": "Nacala"
+          },
+          "latitude": -14.56257,
+          "longitude": 40.68538
+        },
+        {
+          "name": {
+            "en": "Nampula"
+          },
+          "latitude": -15.11646,
+          "longitude": 39.2666
+        }
+      ]
+    },
+    {
+      "code": "MZ-A",
+      "name": {
+        "en": "Niassa"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Cuamba"
+          },
+          "latitude": -14.80306,
+          "longitude": 36.53722
+        },
+        {
+          "name": {
+            "en": "Lichinga"
+          },
+          "latitude": -13.31278,
+          "longitude": 35.24056
+        },
+        {
+          "name": {
+            "en": "Mandimba"
+          },
+          "latitude": -14.3525,
+          "longitude": 35.65056
+        }
+      ]
+    },
+    {
+      "code": "MZ-S",
+      "name": {
+        "en": "Sofala"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Beira"
+          },
+          "latitude": -19.84361,
+          "longitude": 34.83889
+        },
+        {
+          "name": {
+            "en": "Dondo"
+          },
+          "latitude": -19.60944,
+          "longitude": 34.74306
+        },
+        {
+          "name": {
+            "en": "Nhamatanda"
+          },
+          "latitude": -19.349,
+          "longitude": 34.268
+        }
+      ]
+    },
+    {
+      "code": "MZ-T",
+      "name": {
+        "en": "Tete"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Tete"
+          },
+          "latitude": -16.15639,
+          "longitude": 33.58667
+        }
+      ]
+    },
+    {
+      "code": "MZ-Q",
+      "name": {
+        "en": "Zambezia"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Alto Molócuè"
+          },
+          "latitude": -15.64932,
+          "longitude": 37.66384
+        },
+        {
+          "name": {
+            "en": "Chinde"
+          },
+          "latitude": -18.58111,
+          "longitude": 36.45861
+        },
+        {
+          "name": {
+            "en": "Quelimane"
+          },
+          "latitude": -17.87861,
+          "longitude": 36.88833
+        }
+      ]
+    }
+  ]
+}

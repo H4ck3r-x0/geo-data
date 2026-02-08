@@ -1,0 +1,1136 @@
+{
+  "code": "MT",
+  "iso3": "MLT",
+  "name": {
+    "en": "Malta",
+    "ar": "مالطا",
+    "de": "Malta",
+    "es": "Malta",
+    "fr": "Malte",
+    "hi": "माल्टा",
+    "it": "Malta",
+    "ja": "マルタ",
+    "ko": "몰타",
+    "nl": "Malta",
+    "pl": "Malta",
+    "pt": "Malta",
+    "pt-BR": "Malta",
+    "ru": "Мальта",
+    "tr": "Malta",
+    "uk": "Мальта",
+    "zh": "马耳他"
+  },
+  "phone": "+356",
+  "currency": "EUR",
+  "timezone": "Europe/Malta",
+  "flag": "🇲🇹",
+  "regions": [
+    {
+      "code": "MT-01",
+      "name": {
+        "en": "Attard"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Attard"
+          },
+          "latitude": 35.88972,
+          "longitude": 14.4425
+        }
+      ]
+    },
+    {
+      "code": "MT-02",
+      "name": {
+        "en": "Balzan"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Balzan"
+          },
+          "latitude": 35.90028,
+          "longitude": 14.455
+        }
+      ]
+    },
+    {
+      "code": "MT-03",
+      "name": {
+        "en": "Birgu"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Birgu (Vittoriosa)"
+          },
+          "latitude": 35.89222,
+          "longitude": 14.51833
+        }
+      ]
+    },
+    {
+      "code": "MT-04",
+      "name": {
+        "en": "Birkirkara"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Birkirkara"
+          },
+          "latitude": 35.89722,
+          "longitude": 14.46111
+        },
+        {
+          "name": {
+            "en": "Fleur De Lys"
+          },
+          "latitude": 35.8953,
+          "longitude": 14.4656
+        },
+        {
+          "name": {
+            "en": "Swatar"
+          },
+          "latitude": 35.898778,
+          "longitude": 14.476592
+        }
+      ]
+    },
+    {
+      "code": "MT-05",
+      "name": {
+        "en": "Birżebbuġa"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Birżebbuġa"
+          },
+          "latitude": 35.82583,
+          "longitude": 14.52694
+        },
+        {
+          "name": {
+            "en": "Ħal Far"
+          },
+          "latitude": 35.811349,
+          "longitude": 14.510686
+        }
+      ]
+    },
+    {
+      "code": "MT-06",
+      "name": {
+        "en": "Cospicua"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Cospicua"
+          },
+          "latitude": 35.88556,
+          "longitude": 14.5275
+        }
+      ]
+    },
+    {
+      "code": "MT-07",
+      "name": {
+        "en": "Dingli"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Dingli"
+          },
+          "latitude": 35.86139,
+          "longitude": 14.38222
+        }
+      ]
+    },
+    {
+      "code": "MT-08",
+      "name": {
+        "en": "Fgura"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Fgura"
+          },
+          "latitude": 35.87028,
+          "longitude": 14.51333
+        }
+      ]
+    },
+    {
+      "code": "MT-09",
+      "name": {
+        "en": "Floriana"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Floriana",
+            "ar": "فاليتا"
+          },
+          "latitude": 35.89583,
+          "longitude": 14.50833
+        }
+      ]
+    },
+    {
+      "code": "MT-10",
+      "name": {
+        "en": "Fontana"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Fontana"
+          },
+          "latitude": 36.0375,
+          "longitude": 14.23611
+        }
+      ]
+    },
+    {
+      "code": "MT-13",
+      "name": {
+        "en": "Għajnsielem"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Għajnsielem"
+          },
+          "latitude": 36.02639,
+          "longitude": 14.285
+        },
+        {
+          "name": {
+            "en": "Ħal Għargħur"
+          },
+          "latitude": 35.92409,
+          "longitude": 14.45118
+        }
+      ]
+    },
+    {
+      "code": "MT-15",
+      "name": {
+        "en": "Għargħur"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ħal Għaxaq"
+          },
+          "latitude": 35.84889,
+          "longitude": 14.51667
+        }
+      ]
+    },
+    {
+      "code": "MT-16",
+      "name": {
+        "en": "Għasri"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Gudja"
+          },
+          "latitude": 35.84917,
+          "longitude": 14.50306
+        }
+      ]
+    },
+    {
+      "code": "MT-17",
+      "name": {
+        "en": "Għaxaq"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Gżira"
+          },
+          "latitude": 35.90583,
+          "longitude": 14.48806
+        }
+      ]
+    },
+    {
+      "code": "MT-12",
+      "name": {
+        "en": "Gżira"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Għarb"
+          },
+          "latitude": 36.06,
+          "longitude": 14.20889
+        }
+      ]
+    },
+    {
+      "code": "MT-18",
+      "name": {
+        "en": "Ħamrun"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Blata l' Bajda"
+          },
+          "latitude": 35.8875,
+          "longitude": 14.498611
+        },
+        {
+          "name": {
+            "en": "Ħamrun"
+          },
+          "latitude": 35.88472,
+          "longitude": 14.48444
+        }
+      ]
+    },
+    {
+      "code": "MT-19",
+      "name": {
+        "en": "Iklin"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "L-Iklin"
+          },
+          "latitude": 35.90414,
+          "longitude": 14.45415
+        }
+      ]
+    },
+    {
+      "code": "MT-21",
+      "name": {
+        "en": "Kalkara"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Imġarr"
+          },
+          "latitude": 35.92056,
+          "longitude": 14.36639
+        },
+        {
+          "name": {
+            "en": "Mġarr"
+          },
+          "latitude": 36.02528,
+          "longitude": 14.295
+        }
+      ]
+    },
+    {
+      "code": "MT-22",
+      "name": {
+        "en": "Kerċem"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Mqabba"
+          },
+          "latitude": 35.84763,
+          "longitude": 14.46824
+        }
+      ]
+    },
+    {
+      "code": "MT-23",
+      "name": {
+        "en": "Kirkop"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Imsida"
+          },
+          "latitude": 35.8925,
+          "longitude": 14.48278
+        },
+        {
+          "name": {
+            "en": "Kirkop"
+          },
+          "latitude": 35.84222,
+          "longitude": 14.48528
+        }
+      ]
+    },
+    {
+      "code": "MT-24",
+      "name": {
+        "en": "Lija"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ħal Lija"
+          },
+          "latitude": 35.90056,
+          "longitude": 14.44639
+        },
+        {
+          "name": {
+            "en": "Imtarfa"
+          },
+          "latitude": 35.89333,
+          "longitude": 14.39889
+        }
+      ]
+    },
+    {
+      "code": "MT-25",
+      "name": {
+        "en": "Luqa"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ħal Luqa"
+          },
+          "latitude": 35.85889,
+          "longitude": 14.48861
+        },
+        {
+          "name": {
+            "en": "Senglea"
+          },
+          "latitude": 35.8875,
+          "longitude": 14.51694
+        }
+      ]
+    },
+    {
+      "code": "MT-26",
+      "name": {
+        "en": "Marsa"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Kalkara"
+          },
+          "latitude": 35.88917,
+          "longitude": 14.53278
+        }
+      ]
+    },
+    {
+      "code": "MT-27",
+      "name": {
+        "en": "Marsaskala"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Kerċem"
+          },
+          "latitude": 36.04194,
+          "longitude": 14.22667
+        },
+        {
+          "name": {
+            "en": "Marsaskala"
+          },
+          "latitude": 35.8622,
+          "longitude": 14.56701
+        }
+      ]
+    },
+    {
+      "code": "MT-28",
+      "name": {
+        "en": "Marsaxlokk"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Marsaxlokk"
+          },
+          "latitude": 35.84194,
+          "longitude": 14.54306
+        }
+      ]
+    },
+    {
+      "code": "MT-30",
+      "name": {
+        "en": "Mellieħa"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Manikata"
+          },
+          "latitude": 35.94,
+          "longitude": 14.35333
+        }
+      ]
+    },
+    {
+      "code": "MT-31",
+      "name": {
+        "en": "Mġarr"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Marsa"
+          },
+          "latitude": 35.87917,
+          "longitude": 14.49528
+        }
+      ]
+    },
+    {
+      "code": "MT-32",
+      "name": {
+        "en": "Mosta"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bidnija"
+          },
+          "latitude": 35.926944,
+          "longitude": 14.398333
+        }
+      ]
+    },
+    {
+      "code": "MT-34",
+      "name": {
+        "en": "Msida"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Mellieħa"
+          },
+          "latitude": 35.95639,
+          "longitude": 14.36222
+        }
+      ]
+    },
+    {
+      "code": "MT-36",
+      "name": {
+        "en": "Munxar"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Munxar"
+          },
+          "latitude": 36.03,
+          "longitude": 14.23333
+        }
+      ]
+    },
+    {
+      "code": "MT-37",
+      "name": {
+        "en": "Nadur"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Nadur"
+          },
+          "latitude": 36.03778,
+          "longitude": 14.29417
+        }
+      ]
+    },
+    {
+      "code": "MT-38",
+      "name": {
+        "en": "Naxxar"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Baħar iċ-Ċagħaq"
+          },
+          "latitude": 35.938787,
+          "longitude": 14.453725
+        },
+        {
+          "name": {
+            "en": "Magħtab"
+          },
+          "latitude": 35.945,
+          "longitude": 14.44
+        },
+        {
+          "name": {
+            "en": "Naxxar"
+          },
+          "latitude": 35.91361,
+          "longitude": 14.44361
+        },
+        {
+          "name": {
+            "en": "Salina"
+          },
+          "latitude": 35.945556,
+          "longitude": 14.424444
+        }
+      ]
+    },
+    {
+      "code": "MT-39",
+      "name": {
+        "en": "Paola"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Paola"
+          },
+          "latitude": 35.87306,
+          "longitude": 14.49889
+        }
+      ]
+    },
+    {
+      "code": "MT-40",
+      "name": {
+        "en": "Pembroke"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Pembroke"
+          },
+          "latitude": 35.93056,
+          "longitude": 14.47639
+        }
+      ]
+    },
+    {
+      "code": "MT-41",
+      "name": {
+        "en": "Pietà"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Pietà"
+          },
+          "latitude": 35.89472,
+          "longitude": 14.495
+        }
+      ]
+    },
+    {
+      "code": "MT-42",
+      "name": {
+        "en": "Qala"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Qala"
+          },
+          "latitude": 36.03611,
+          "longitude": 14.30944
+        }
+      ]
+    },
+    {
+      "code": "MT-43",
+      "name": {
+        "en": "Qormi"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Qormi"
+          },
+          "latitude": 35.87601,
+          "longitude": 14.472
+        }
+      ]
+    },
+    {
+      "code": "MT-44",
+      "name": {
+        "en": "Qrendi"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Qrendi"
+          },
+          "latitude": 35.83472,
+          "longitude": 14.45833
+        }
+      ]
+    },
+    {
+      "code": "MT-46",
+      "name": {
+        "en": "Rabat"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Baħrija"
+          },
+          "latitude": 35.894722,
+          "longitude": 14.348333
+        },
+        {
+          "name": {
+            "en": "Binġemma"
+          },
+          "latitude": 35.902778,
+          "longitude": 14.377778
+        }
+      ]
+    },
+    {
+      "code": "MT-47",
+      "name": {
+        "en": "Safi"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ħal Safi"
+          },
+          "latitude": 35.833333,
+          "longitude": 14.485
+        }
+      ]
+    },
+    {
+      "code": "MT-49",
+      "name": {
+        "en": "San Ġwann"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "San Ġiljan (St. Julian's)"
+          },
+          "latitude": 35.91839,
+          "longitude": 14.48977
+        }
+      ]
+    },
+    {
+      "code": "MT-50",
+      "name": {
+        "en": "San Lawrenz"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "San Lawrenz"
+          },
+          "latitude": 36.05556,
+          "longitude": 14.20361
+        }
+      ]
+    },
+    {
+      "code": "MT-52",
+      "name": {
+        "en": "Sannat"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "San Pawl il-Baħar"
+          },
+          "latitude": 35.95064,
+          "longitude": 14.41561
+        },
+        {
+          "name": {
+            "en": "Sannat"
+          },
+          "latitude": 36.02444,
+          "longitude": 14.24278
+        }
+      ]
+    },
+    {
+      "code": "MT-53",
+      "name": {
+        "en": "Santa Luċija"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Santa Venera"
+          },
+          "latitude": 35.89083,
+          "longitude": 14.47417
+        }
+      ]
+    },
+    {
+      "code": "MT-20",
+      "name": {
+        "en": "Senglea"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Imdina"
+          },
+          "latitude": 35.88694,
+          "longitude": 14.4025
+        }
+      ]
+    },
+    {
+      "code": "MT-55",
+      "name": {
+        "en": "Siġġiewi"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Siġġiewi"
+          },
+          "latitude": 35.85556,
+          "longitude": 14.43639
+        }
+      ]
+    },
+    {
+      "code": "MT-56",
+      "name": {
+        "en": "Sliema"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Sliema"
+          },
+          "latitude": 35.9125,
+          "longitude": 14.50194
+        }
+      ]
+    },
+    {
+      "code": "MT-48",
+      "name": {
+        "en": "St. Julian's"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Paceville"
+          },
+          "latitude": 35.9237,
+          "longitude": 14.4914
+        },
+        {
+          "name": {
+            "en": "San Ġwann"
+          },
+          "latitude": 35.90556,
+          "longitude": 14.47611
+        }
+      ]
+    },
+    {
+      "code": "MT-51",
+      "name": {
+        "en": "St. Paul's Bay"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Buġibba"
+          },
+          "latitude": 35.949167,
+          "longitude": 14.411667
+        },
+        {
+          "name": {
+            "en": "Burmarrad"
+          },
+          "latitude": 35.9349,
+          "longitude": 14.4143
+        },
+        {
+          "name": {
+            "en": "Mosta"
+          },
+          "latitude": 35.90917,
+          "longitude": 14.42556
+        },
+        {
+          "name": {
+            "en": "Qawra"
+          },
+          "latitude": 35.954167,
+          "longitude": 14.42
+        },
+        {
+          "name": {
+            "en": "Santa Luċija"
+          },
+          "latitude": 36.04306,
+          "longitude": 14.21722
+        },
+        {
+          "name": {
+            "en": "Santa Luċija, Gozo"
+          },
+          "latitude": 35.86278,
+          "longitude": 14.5075
+        },
+        {
+          "name": {
+            "en": "Wardija"
+          },
+          "latitude": 35.937958,
+          "longitude": 14.392542
+        },
+        {
+          "name": {
+            "en": "Xemxija"
+          },
+          "latitude": 35.950556,
+          "longitude": 14.385833
+        }
+      ]
+    },
+    {
+      "code": "MT-57",
+      "name": {
+        "en": "Swieqi"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Madliena"
+          },
+          "latitude": 35.933333,
+          "longitude": 14.466667
+        },
+        {
+          "name": {
+            "en": "Swieqi"
+          },
+          "latitude": 35.9225,
+          "longitude": 14.48
+        }
+      ]
+    },
+    {
+      "code": "MT-58",
+      "name": {
+        "en": "Ta' Xbiex"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ta’ Xbiex"
+          },
+          "latitude": 35.89917,
+          "longitude": 14.49444
+        }
+      ]
+    },
+    {
+      "code": "MT-59",
+      "name": {
+        "en": "Tarxien"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ħal Tarxien"
+          },
+          "latitude": 35.86583,
+          "longitude": 14.515
+        }
+      ]
+    },
+    {
+      "code": "MT-60",
+      "name": {
+        "en": "Valletta"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Valletta",
+            "ar": "فاليتا"
+          },
+          "latitude": 35.89972,
+          "longitude": 14.51472
+        }
+      ]
+    },
+    {
+      "code": "MT-45",
+      "name": {
+        "en": "Victoria"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Rabat"
+          },
+          "latitude": 35.88152,
+          "longitude": 14.39872
+        },
+        {
+          "name": {
+            "en": "Victoria"
+          },
+          "latitude": 36.04444,
+          "longitude": 14.23972
+        }
+      ]
+    },
+    {
+      "code": "MT-61",
+      "name": {
+        "en": "Xagħra"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Xagħra"
+          },
+          "latitude": 36.05,
+          "longitude": 14.26444
+        }
+      ]
+    },
+    {
+      "code": "MT-62",
+      "name": {
+        "en": "Xewkija"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Xewkija"
+          },
+          "latitude": 36.03278,
+          "longitude": 14.25806
+        }
+      ]
+    },
+    {
+      "code": "MT-63",
+      "name": {
+        "en": "Xgħajra"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Xgħajra"
+          },
+          "latitude": 35.88556,
+          "longitude": 14.5475
+        }
+      ]
+    },
+    {
+      "code": "MT-64",
+      "name": {
+        "en": "Żabbar"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Żabbar"
+          },
+          "latitude": 35.87611,
+          "longitude": 14.535
+        }
+      ]
+    },
+    {
+      "code": "MT-65",
+      "name": {
+        "en": "Żebbuġ Gozo"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ħaż-Żebbuġ"
+          },
+          "latitude": 35.87194,
+          "longitude": 14.44111
+        }
+      ]
+    },
+    {
+      "code": "MT-66",
+      "name": {
+        "en": "Żebbuġ Malta"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Żebbuġ"
+          },
+          "latitude": 36.07222,
+          "longitude": 14.23583
+        }
+      ]
+    },
+    {
+      "code": "MT-67",
+      "name": {
+        "en": "Żejtun"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Żejtun"
+          },
+          "latitude": 35.85583,
+          "longitude": 14.53306
+        }
+      ]
+    },
+    {
+      "code": "MT-68",
+      "name": {
+        "en": "Żurrieq"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Żurrieq"
+          },
+          "latitude": 35.83111,
+          "longitude": 14.47417
+        }
+      ]
+    }
+  ]
+}

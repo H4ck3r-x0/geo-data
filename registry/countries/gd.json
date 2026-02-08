@@ -1,0 +1,134 @@
+{
+  "code": "GD",
+  "iso3": "GRD",
+  "name": {
+    "en": "Grenada",
+    "ar": "غرينادا",
+    "de": "Grenada",
+    "es": "Grenada",
+    "fr": "Grenade",
+    "hi": "ग्रेनेडा",
+    "it": "Grenada",
+    "ja": "グレナダ",
+    "ko": "그레나다",
+    "nl": "Grenada",
+    "pl": "Grenada",
+    "pt": "Granada",
+    "pt-BR": "Granada",
+    "ru": "Гренада",
+    "tr": "Grenada",
+    "uk": "Гренада",
+    "zh": "格林纳达"
+  },
+  "phone": "+1",
+  "currency": "XCD",
+  "timezone": "America/Grenada",
+  "flag": "🇬🇩",
+  "regions": [
+    {
+      "code": "GD-10",
+      "name": {
+        "en": "Carriacou"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Hillsborough"
+          },
+          "latitude": 12.48292,
+          "longitude": -61.45597
+        }
+      ]
+    },
+    {
+      "code": "GD-01",
+      "name": {
+        "en": "Saint Andrew"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Grenville"
+          },
+          "latitude": 12.12278,
+          "longitude": -61.62498
+        }
+      ]
+    },
+    {
+      "code": "GD-02",
+      "name": {
+        "en": "Saint David"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Saint David’s"
+          },
+          "latitude": 12.04903,
+          "longitude": -61.66875
+        }
+      ]
+    },
+    {
+      "code": "GD-03",
+      "name": {
+        "en": "Saint George"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Saint George's"
+          },
+          "latitude": 12.05288,
+          "longitude": -61.75226
+        }
+      ]
+    },
+    {
+      "code": "GD-04",
+      "name": {
+        "en": "Saint John"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Gouyave"
+          },
+          "latitude": 12.16462,
+          "longitude": -61.72965
+        }
+      ]
+    },
+    {
+      "code": "GD-05",
+      "name": {
+        "en": "Saint Mark"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Victoria"
+          },
+          "latitude": 12.19021,
+          "longitude": -61.70677
+        }
+      ]
+    },
+    {
+      "code": "GD-06",
+      "name": {
+        "en": "Saint Patrick"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Sauteurs"
+          },
+          "latitude": 12.21833,
+          "longitude": -61.63917
+        }
+      ]
+    }
+  ]
+}

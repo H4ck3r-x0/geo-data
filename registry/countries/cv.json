@@ -1,0 +1,402 @@
+{
+  "code": "CV",
+  "iso3": "CPV",
+  "name": {
+    "en": "Cape Verde",
+    "ar": "الرأس الأخضر",
+    "de": "Kap Verde",
+    "es": "Cabo Verde",
+    "fr": "Cap Vert",
+    "hi": "ग्केप वर्ड",
+    "it": "Capo Verde",
+    "ja": "カーボベルデ",
+    "ko": "카보베르데",
+    "nl": "Kaapverdië",
+    "pl": "Republika Zielonego Przylądka",
+    "pt": "Cabo Verde",
+    "pt-BR": "Cabo Verde",
+    "ru": "Кабо-Верде",
+    "tr": "Cabo Verde",
+    "uk": "Кабо-Верде",
+    "zh": "佛得角"
+  },
+  "phone": "+238",
+  "currency": "CVE",
+  "timezone": "Atlantic/Cape_Verde",
+  "flag": "🇨🇻",
+  "regions": [
+    {
+      "code": "CV-BV",
+      "name": {
+        "en": "Boa Vista"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Sal Rei"
+          },
+          "latitude": 16.17611,
+          "longitude": -22.91722
+        }
+      ]
+    },
+    {
+      "code": "CV-BR",
+      "name": {
+        "en": "Brava"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Nova Sintra"
+          },
+          "latitude": 14.87139,
+          "longitude": -24.69556
+        }
+      ]
+    },
+    {
+      "code": "CV-MA",
+      "name": {
+        "en": "Maio"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Vila do Maio"
+          },
+          "latitude": 15.13823,
+          "longitude": -23.21158
+        }
+      ]
+    },
+    {
+      "code": "CV-MO",
+      "name": {
+        "en": "Mosteiros"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Igreja"
+          },
+          "latitude": 15.03389,
+          "longitude": -24.325
+        }
+      ]
+    },
+    {
+      "code": "CV-PA",
+      "name": {
+        "en": "Paul"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Pombas"
+          },
+          "latitude": 17.15026,
+          "longitude": -25.02007
+        }
+      ]
+    },
+    {
+      "code": "CV-PN",
+      "name": {
+        "en": "Porto Novo"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Porto Novo"
+          },
+          "latitude": 17.01969,
+          "longitude": -25.06471
+        }
+      ]
+    },
+    {
+      "code": "CV-PR",
+      "name": {
+        "en": "Praia"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Praia",
+            "ar": "برايا"
+          },
+          "latitude": 14.93152,
+          "longitude": -23.51254
+        }
+      ]
+    },
+    {
+      "code": "CV-RB",
+      "name": {
+        "en": "Ribeira Brava"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ribeira Brava"
+          },
+          "latitude": 16.61583,
+          "longitude": -24.29833
+        }
+      ]
+    },
+    {
+      "code": "CV-RG",
+      "name": {
+        "en": "Ribeira Grande"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ponta do Sol"
+          },
+          "latitude": 17.20171,
+          "longitude": -25.09217
+        },
+        {
+          "name": {
+            "en": "Ribeira Grande"
+          },
+          "latitude": 17.1825,
+          "longitude": -25.065
+        }
+      ]
+    },
+    {
+      "code": "CV-RS",
+      "name": {
+        "en": "Ribeira Grande de Santiago"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Cidade Velha"
+          },
+          "latitude": 14.91531,
+          "longitude": -23.60527
+        }
+      ]
+    },
+    {
+      "code": "CV-SL",
+      "name": {
+        "en": "Sal"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Espargos"
+          },
+          "latitude": 16.75524,
+          "longitude": -22.9446
+        },
+        {
+          "name": {
+            "en": "Santa Maria"
+          },
+          "latitude": 16.59796,
+          "longitude": -22.90509
+        }
+      ]
+    },
+    {
+      "code": "CV-CA",
+      "name": {
+        "en": "Santa Catarina"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Assomada"
+          },
+          "latitude": 15.1,
+          "longitude": -23.68333
+        }
+      ]
+    },
+    {
+      "code": "CV-CF",
+      "name": {
+        "en": "Santa Catarina do Fogo"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Cova Figueira"
+          },
+          "latitude": 14.89054,
+          "longitude": -24.29343
+        }
+      ]
+    },
+    {
+      "code": "CV-CR",
+      "name": {
+        "en": "Santa Cruz"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Pedra Badejo"
+          },
+          "latitude": 15.1375,
+          "longitude": -23.53083
+        },
+        {
+          "name": {
+            "en": "Santa Cruz"
+          },
+          "latitude": 15.13333,
+          "longitude": -23.56667
+        }
+      ]
+    },
+    {
+      "code": "CV-SD",
+      "name": {
+        "en": "São Domingos"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "São Domingos"
+          },
+          "latitude": 15.02438,
+          "longitude": -23.5625
+        }
+      ]
+    },
+    {
+      "code": "CV-SF",
+      "name": {
+        "en": "São Filipe"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "São Filipe"
+          },
+          "latitude": 14.8961,
+          "longitude": -24.49556
+        }
+      ]
+    },
+    {
+      "code": "CV-SO",
+      "name": {
+        "en": "São Lourenço dos Órgãos"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "João Teves"
+          },
+          "latitude": 15.06694,
+          "longitude": -23.58917
+        }
+      ]
+    },
+    {
+      "code": "CV-SM",
+      "name": {
+        "en": "São Miguel"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Calheta"
+          },
+          "latitude": 15.18613,
+          "longitude": -23.59228
+        }
+      ]
+    },
+    {
+      "code": "CV-SS",
+      "name": {
+        "en": "São Salvador do Mundo"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Achada Leitão"
+          },
+          "latitude": 15.08,
+          "longitude": -23.64
+        },
+        {
+          "name": {
+            "en": "Leitão Grande"
+          },
+          "latitude": 15.075,
+          "longitude": -23.645
+        },
+        {
+          "name": {
+            "en": "Picos"
+          },
+          "latitude": 15.083,
+          "longitude": -23.632
+        },
+        {
+          "name": {
+            "en": "Picos Acima"
+          },
+          "latitude": 15.09,
+          "longitude": -23.63
+        }
+      ]
+    },
+    {
+      "code": "CV-SV",
+      "name": {
+        "en": "São Vicente"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Mindelo"
+          },
+          "latitude": 16.89014,
+          "longitude": -24.98042
+        }
+      ]
+    },
+    {
+      "code": "CV-TA",
+      "name": {
+        "en": "Tarrafal"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Tarrafal"
+          },
+          "latitude": 15.27881,
+          "longitude": -23.75192
+        }
+      ]
+    },
+    {
+      "code": "CV-TS",
+      "name": {
+        "en": "Tarrafal de São Nicolau"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Tarrafal de São Nicolau"
+          },
+          "latitude": 16.56622,
+          "longitude": -24.35793
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1305 @@
+{
+  "code": "MU",
+  "iso3": "MUS",
+  "name": {
+    "en": "Mauritius",
+    "ar": "موريشيوس",
+    "de": "Mauritius",
+    "es": "Mauricio",
+    "fr": "Île Maurice",
+    "hi": "मॉरीशस",
+    "it": "Mauritius",
+    "ja": "モーリシャス",
+    "ko": "모리셔스",
+    "nl": "Mauritius",
+    "pl": "Mauritius",
+    "pt": "Maurícia",
+    "pt-BR": "Maurício",
+    "ru": "Маврикий",
+    "tr": "Morityus",
+    "uk": "Маврикій",
+    "zh": "毛里求斯"
+  },
+  "phone": "+230",
+  "currency": "MUR",
+  "timezone": "Indian/Mauritius",
+  "flag": "🇲🇺",
+  "regions": [
+    {
+      "code": "MU-AG",
+      "name": {
+        "en": "Agalega Islands"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Vingt Cinq"
+          },
+          "latitude": -10.38803,
+          "longitude": 56.61795
+        }
+      ]
+    },
+    {
+      "code": "MU-BL",
+      "name": {
+        "en": "Black River"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Albion"
+          },
+          "latitude": -20.20814,
+          "longitude": 57.40766
+        },
+        {
+          "name": {
+            "en": "Bambous",
+            "ar": "بامبوس"
+          },
+          "latitude": -20.25667,
+          "longitude": 57.40611
+        },
+        {
+          "name": {
+            "en": "Black River"
+          },
+          "latitude": -20.320479,
+          "longitude": 57.403725
+        },
+        {
+          "name": {
+            "en": "Cascavelle"
+          },
+          "latitude": -20.28694,
+          "longitude": 57.40722
+        },
+        {
+          "name": {
+            "en": "Case Noyale"
+          },
+          "latitude": -20.413704,
+          "longitude": 57.369065
+        },
+        {
+          "name": {
+            "en": "Chamarel"
+          },
+          "latitude": -20.425236,
+          "longitude": 57.391165
+        },
+        {
+          "name": {
+            "en": "Flic en Flac"
+          },
+          "latitude": -20.27417,
+          "longitude": 57.36306
+        },
+        {
+          "name": {
+            "en": "Grande Rivière Noire"
+          },
+          "latitude": -20.36028,
+          "longitude": 57.36611
+        },
+        {
+          "name": {
+            "en": "Gros Cailloux"
+          },
+          "latitude": -20.20722,
+          "longitude": 57.43
+        },
+        {
+          "name": {
+            "en": "La Gaulette"
+          },
+          "latitude": -20.429388,
+          "longitude": 57.358841
+        },
+        {
+          "name": {
+            "en": "Le Morne"
+          },
+          "latitude": -20.444174,
+          "longitude": 57.330315
+        },
+        {
+          "name": {
+            "en": "Petite Case Noyale"
+          },
+          "latitude": -20.39306,
+          "longitude": 57.365
+        },
+        {
+          "name": {
+            "en": "Petite Rivière"
+          },
+          "latitude": -20.19551,
+          "longitude": 57.44592
+        },
+        {
+          "name": {
+            "en": "Richelieu"
+          },
+          "latitude": -20.190849,
+          "longitude": 57.461299
+        },
+        {
+          "name": {
+            "en": "Tamarin"
+          },
+          "latitude": -20.32556,
+          "longitude": 57.37056
+        }
+      ]
+    },
+    {
+      "code": "MU-FL",
+      "name": {
+        "en": "Flacq"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bel Air"
+          },
+          "latitude": -20.258493,
+          "longitude": 57.754987
+        },
+        {
+          "name": {
+            "en": "Bel Air Rivière Sèche"
+          },
+          "latitude": -20.25777,
+          "longitude": 57.74976
+        },
+        {
+          "name": {
+            "en": "Bon Accueil"
+          },
+          "latitude": -20.17083,
+          "longitude": 57.65639
+        },
+        {
+          "name": {
+            "en": "Bramsthan"
+          },
+          "latitude": -20.212979,
+          "longitude": 57.73768
+        },
+        {
+          "name": {
+            "en": "Brisée Verdière"
+          },
+          "latitude": -20.16389,
+          "longitude": 57.64667
+        },
+        {
+          "name": {
+            "en": "Camp de Masque"
+          },
+          "latitude": -20.23694,
+          "longitude": 57.66333
+        },
+        {
+          "name": {
+            "en": "Camp De Masque Pave"
+          },
+          "latitude": -20.250063,
+          "longitude": 57.67997
+        },
+        {
+          "name": {
+            "en": "Camp Ithier"
+          },
+          "latitude": -20.21583,
+          "longitude": 57.74556
+        },
+        {
+          "name": {
+            "en": "Centre de Flacq"
+          },
+          "latitude": -20.18972,
+          "longitude": 57.71444
+        },
+        {
+          "name": {
+            "en": "Clémencia"
+          },
+          "latitude": -20.26389,
+          "longitude": 57.70611
+        },
+        {
+          "name": {
+            "en": "Ecroignard"
+          },
+          "latitude": -20.22611,
+          "longitude": 57.73611
+        },
+        {
+          "name": {
+            "en": "Grande Retraite"
+          },
+          "latitude": -20.165077,
+          "longitude": 57.694616
+        },
+        {
+          "name": {
+            "en": "Grande Rivière Sud Est"
+          },
+          "latitude": -20.28611,
+          "longitude": 57.77583
+        },
+        {
+          "name": {
+            "en": "Lalmatie"
+          },
+          "latitude": -20.18972,
+          "longitude": 57.66111
+        },
+        {
+          "name": {
+            "en": "Laventure"
+          },
+          "latitude": -20.14583,
+          "longitude": 57.67667
+        },
+        {
+          "name": {
+            "en": "Mare La Chaux"
+          },
+          "latitude": -20.19806,
+          "longitude": 57.74944
+        },
+        {
+          "name": {
+            "en": "Medine Camp De Masque"
+          },
+          "latitude": -20.243958,
+          "longitude": 57.647035
+        },
+        {
+          "name": {
+            "en": "Olivia"
+          },
+          "latitude": -20.28778,
+          "longitude": 57.73097
+        },
+        {
+          "name": {
+            "en": "Poste de Flacq"
+          },
+          "latitude": -20.16306,
+          "longitude": 57.73056
+        },
+        {
+          "name": {
+            "en": "Quatre Cocos"
+          },
+          "latitude": -20.20151,
+          "longitude": 57.77448
+        },
+        {
+          "name": {
+            "en": "Quatre Soeurs"
+          },
+          "latitude": -20.29917,
+          "longitude": 57.77056
+        },
+        {
+          "name": {
+            "en": "Queen Victoria"
+          },
+          "latitude": -20.22,
+          "longitude": 57.7075
+        },
+        {
+          "name": {
+            "en": "Saint Julien"
+          },
+          "latitude": -20.22639,
+          "longitude": 57.63639
+        },
+        {
+          "name": {
+            "en": "Sebastopol"
+          },
+          "latitude": -20.2907,
+          "longitude": 57.68779
+        },
+        {
+          "name": {
+            "en": "Trou D'Eau Douce"
+          },
+          "latitude": -20.234586,
+          "longitude": 57.794861
+        }
+      ]
+    },
+    {
+      "code": "MU-GP",
+      "name": {
+        "en": "Grand Port"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bambous Virieux"
+          },
+          "latitude": -20.34278,
+          "longitude": 57.7575
+        },
+        {
+          "name": {
+            "en": "Beau Vallon"
+          },
+          "latitude": -20.41889,
+          "longitude": 57.69528
+        },
+        {
+          "name": {
+            "en": "Bois des Amourettes"
+          },
+          "latitude": -20.36306,
+          "longitude": 57.73111
+        },
+        {
+          "name": {
+            "en": "Camp Carol"
+          },
+          "latitude": -20.461785,
+          "longitude": 57.678456
+        },
+        {
+          "name": {
+            "en": "Cluny"
+          },
+          "latitude": -20.36694,
+          "longitude": 57.60389
+        },
+        {
+          "name": {
+            "en": "Grand Bel Air"
+          },
+          "latitude": -20.409124,
+          "longitude": 57.681742
+        },
+        {
+          "name": {
+            "en": "Grand Sable"
+          },
+          "latitude": -20.31417,
+          "longitude": 57.76444
+        },
+        {
+          "name": {
+            "en": "Mahébourg"
+          },
+          "latitude": -20.40806,
+          "longitude": 57.7
+        },
+        {
+          "name": {
+            "en": "Mare D'Albert"
+          },
+          "latitude": -20.420195,
+          "longitude": 57.627288
+        },
+        {
+          "name": {
+            "en": "Mare Tabac"
+          },
+          "latitude": -20.440358,
+          "longitude": 57.594215
+        },
+        {
+          "name": {
+            "en": "New Grove"
+          },
+          "latitude": -20.40861,
+          "longitude": 57.61361
+        },
+        {
+          "name": {
+            "en": "Nouvelle France"
+          },
+          "latitude": -20.37056,
+          "longitude": 57.56111
+        },
+        {
+          "name": {
+            "en": "Petit Bel Air"
+          },
+          "latitude": -20.399412,
+          "longitude": 57.692959
+        },
+        {
+          "name": {
+            "en": "Plaine Magnien"
+          },
+          "latitude": -20.42967,
+          "longitude": 57.66968
+        },
+        {
+          "name": {
+            "en": "Riviere Des Creoles"
+          },
+          "latitude": -20.39084,
+          "longitude": 57.69696
+        },
+        {
+          "name": {
+            "en": "Rose Belle"
+          },
+          "latitude": -20.40028,
+          "longitude": 57.59667
+        },
+        {
+          "name": {
+            "en": "Saint Hubert"
+          },
+          "latitude": -20.36417,
+          "longitude": 57.63833
+        },
+        {
+          "name": {
+            "en": "Seizieme Mille"
+          },
+          "latitude": -20.342111,
+          "longitude": 57.549244
+        },
+        {
+          "name": {
+            "en": "Trois Boutiques"
+          },
+          "latitude": -20.450461,
+          "longitude": 57.646829
+        },
+        {
+          "name": {
+            "en": "Union Park"
+          },
+          "latitude": -20.386294,
+          "longitude": 57.58068
+        },
+        {
+          "name": {
+            "en": "Vieux Grand Port"
+          },
+          "latitude": -20.374066,
+          "longitude": 57.716077
+        }
+      ]
+    },
+    {
+      "code": "MU-MO",
+      "name": {
+        "en": "Moka"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Camp Thorel"
+          },
+          "latitude": -20.21472,
+          "longitude": 57.61611
+        },
+        {
+          "name": {
+            "en": "Dagotière"
+          },
+          "latitude": -20.24476,
+          "longitude": 57.56188
+        },
+        {
+          "name": {
+            "en": "Dubreuil"
+          },
+          "latitude": -20.30132,
+          "longitude": 57.59861
+        },
+        {
+          "name": {
+            "en": "L'Avenir"
+          },
+          "latitude": -20.217142,
+          "longitude": 57.550482
+        },
+        {
+          "name": {
+            "en": "L'Esperance"
+          },
+          "latitude": -20.230413,
+          "longitude": 57.595268
+        },
+        {
+          "name": {
+            "en": "La Laura-Malenga"
+          },
+          "latitude": -20.203861,
+          "longitude": 57.549915
+        },
+        {
+          "name": {
+            "en": "Melrose"
+          },
+          "latitude": -20.26972,
+          "longitude": 57.63194
+        },
+        {
+          "name": {
+            "en": "Moka"
+          },
+          "latitude": -20.21889,
+          "longitude": 57.49583
+        },
+        {
+          "name": {
+            "en": "Montagne Blanche"
+          },
+          "latitude": -20.28592,
+          "longitude": 57.657746
+        },
+        {
+          "name": {
+            "en": "Nouvelle Découverte"
+          },
+          "latitude": -20.186,
+          "longitude": 57.590797
+        },
+        {
+          "name": {
+            "en": "Pailles"
+          },
+          "latitude": -20.19271,
+          "longitude": 57.48826
+        },
+        {
+          "name": {
+            "en": "Providence"
+          },
+          "latitude": -20.24472,
+          "longitude": 57.61222
+        },
+        {
+          "name": {
+            "en": "Quartier Militaire"
+          },
+          "latitude": -20.2479,
+          "longitude": 57.59737
+        },
+        {
+          "name": {
+            "en": "Ripailles"
+          },
+          "latitude": -20.194725,
+          "longitude": 57.580596
+        },
+        {
+          "name": {
+            "en": "Saint Julien D'Hotman"
+          },
+          "latitude": -20.23067,
+          "longitude": 57.640378
+        },
+        {
+          "name": {
+            "en": "Saint Pierre"
+          },
+          "latitude": -20.2175,
+          "longitude": 57.52083
+        },
+        {
+          "name": {
+            "en": "Verdun"
+          },
+          "latitude": -20.23417,
+          "longitude": 57.55476
+        }
+      ]
+    },
+    {
+      "code": "MU-PA",
+      "name": {
+        "en": "Pamplemousses"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Arsenal"
+          },
+          "latitude": -20.10556,
+          "longitude": 57.53528
+        },
+        {
+          "name": {
+            "en": "Calebasses"
+          },
+          "latitude": -20.11167,
+          "longitude": 57.55389
+        },
+        {
+          "name": {
+            "en": "Congomah"
+          },
+          "latitude": -20.14889,
+          "longitude": 57.59083
+        },
+        {
+          "name": {
+            "en": "Crève Coeur"
+          },
+          "latitude": -20.19111,
+          "longitude": 57.55722
+        },
+        {
+          "name": {
+            "en": "D'Epinay"
+          },
+          "latitude": -20.130211,
+          "longitude": 57.595838
+        },
+        {
+          "name": {
+            "en": "Fond du Sac"
+          },
+          "latitude": -20.04732,
+          "longitude": 57.584
+        },
+        {
+          "name": {
+            "en": "Le Hochet"
+          },
+          "latitude": -20.135,
+          "longitude": 57.52111
+        },
+        {
+          "name": {
+            "en": "Long Mountain"
+          },
+          "latitude": -20.14306,
+          "longitude": 57.56222
+        },
+        {
+          "name": {
+            "en": "Morcellement Saint André"
+          },
+          "latitude": -20.07199,
+          "longitude": 57.56833
+        },
+        {
+          "name": {
+            "en": "Notre Dame"
+          },
+          "latitude": -20.14056,
+          "longitude": 57.55306
+        },
+        {
+          "name": {
+            "en": "Pamplemousses"
+          },
+          "latitude": -20.10389,
+          "longitude": 57.57028
+        },
+        {
+          "name": {
+            "en": "Plaine des Papayes"
+          },
+          "latitude": -20.065,
+          "longitude": 57.5725
+        },
+        {
+          "name": {
+            "en": "Pointe aux Piments"
+          },
+          "latitude": -20.06494,
+          "longitude": 57.52347
+        },
+        {
+          "name": {
+            "en": "Terre Rouge"
+          },
+          "latitude": -20.12611,
+          "longitude": 57.52444
+        },
+        {
+          "name": {
+            "en": "Tombeau Bay"
+          },
+          "latitude": -20.123451,
+          "longitude": 57.502184
+        },
+        {
+          "name": {
+            "en": "Triolet"
+          },
+          "latitude": -20.0576,
+          "longitude": 57.55025
+        },
+        {
+          "name": {
+            "en": "Trou Aux Biches"
+          },
+          "latitude": -20.031235,
+          "longitude": 57.551897
+        },
+        {
+          "name": {
+            "en": "Ville Bague"
+          },
+          "latitude": -20.146045,
+          "longitude": 57.624149
+        }
+      ]
+    },
+    {
+      "code": "MU-PW",
+      "name": {
+        "en": "Plaines Wilhems"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Beau Bassin"
+          },
+          "latitude": -20.225387,
+          "longitude": 57.471455
+        },
+        {
+          "name": {
+            "en": "Beau Bassin-Rose Hill"
+          },
+          "latitude": -20.23325,
+          "longitude": 57.46609
+        },
+        {
+          "name": {
+            "en": "Belle Terre"
+          },
+          "latitude": -20.2694837,
+          "longitude": 57.5165553
+        },
+        {
+          "name": {
+            "en": "Camp Fouqueraux"
+          },
+          "latitude": -20.2856863,
+          "longitude": 57.5171827
+        },
+        {
+          "name": {
+            "en": "Chebel"
+          },
+          "latitude": -20.2137319,
+          "longitude": 57.4607545
+        },
+        {
+          "name": {
+            "en": "Coromandel"
+          },
+          "latitude": -20.1952292,
+          "longitude": 57.4456534
+        },
+        {
+          "name": {
+            "en": "Curepipe",
+            "ar": "كوريبيب"
+          },
+          "latitude": -20.31628,
+          "longitude": 57.52594
+        },
+        {
+          "name": {
+            "en": "Eau Coulee"
+          },
+          "latitude": -20.303366,
+          "longitude": 57.527788
+        },
+        {
+          "name": {
+            "en": "Ebene"
+          },
+          "latitude": -20.24494,
+          "longitude": 57.49163
+        },
+        {
+          "name": {
+            "en": "Floreal"
+          },
+          "latitude": -20.311214,
+          "longitude": 57.507263
+        },
+        {
+          "name": {
+            "en": "Forest Side"
+          },
+          "latitude": -20.329521,
+          "longitude": 57.538981
+        },
+        {
+          "name": {
+            "en": "Glen Park"
+          },
+          "latitude": -20.3244068,
+          "longitude": 57.4753188
+        },
+        {
+          "name": {
+            "en": "Henrietta"
+          },
+          "latitude": -20.2720048,
+          "longitude": 57.5289887
+        },
+        {
+          "name": {
+            "en": "Hermitage"
+          },
+          "latitude": -20.2768508,
+          "longitude": 57.5347137
+        },
+        {
+          "name": {
+            "en": "Highlands"
+          },
+          "latitude": -20.2782748,
+          "longitude": 57.5135041
+        },
+        {
+          "name": {
+            "en": "Midlands"
+          },
+          "latitude": -20.31907,
+          "longitude": 57.57016
+        },
+        {
+          "name": {
+            "en": "Phoenix"
+          },
+          "latitude": -20.2858446,
+          "longitude": 57.5029186
+        },
+        {
+          "name": {
+            "en": "Quatre Bornes"
+          },
+          "latitude": -20.26381,
+          "longitude": 57.4791
+        },
+        {
+          "name": {
+            "en": "Rose Hill"
+          },
+          "latitude": -20.243478,
+          "longitude": 57.469855
+        },
+        {
+          "name": {
+            "en": "Vacoas"
+          },
+          "latitude": -20.29806,
+          "longitude": 57.47833
+        }
+      ]
+    },
+    {
+      "code": "MU-PL",
+      "name": {
+        "en": "Port Louis"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bell Village"
+          },
+          "latitude": -20.170497,
+          "longitude": 57.486184
+        },
+        {
+          "name": {
+            "en": "Caudan Waterfront",
+            "ar": "بور لويس"
+          },
+          "latitude": -20.1608988,
+          "longitude": 57.4977256
+        },
+        {
+          "name": {
+            "en": "China Town"
+          },
+          "latitude": -20.158797,
+          "longitude": 57.506789
+        },
+        {
+          "name": {
+            "en": "Les Pailles"
+          },
+          "latitude": -20.193527,
+          "longitude": 57.489629
+        },
+        {
+          "name": {
+            "en": "Les Salines"
+          },
+          "latitude": -20.160168,
+          "longitude": 57.489041
+        },
+        {
+          "name": {
+            "en": "Plaine Verte"
+          },
+          "latitude": -20.15841,
+          "longitude": 57.514215
+        },
+        {
+          "name": {
+            "en": "Pointe aux Sables"
+          },
+          "latitude": -20.171687,
+          "longitude": 57.453893
+        },
+        {
+          "name": {
+            "en": "Port Louis",
+            "ar": "بور لويس"
+          },
+          "latitude": -20.16194,
+          "longitude": 57.49889
+        },
+        {
+          "name": {
+            "en": "Soreze"
+          },
+          "latitude": -20.208561,
+          "longitude": 57.486382
+        },
+        {
+          "name": {
+            "en": "Tour Koenig"
+          },
+          "latitude": -20.178646,
+          "longitude": 57.468721
+        },
+        {
+          "name": {
+            "en": "Tranquebar"
+          },
+          "latitude": -20.176816,
+          "longitude": 57.511329
+        },
+        {
+          "name": {
+            "en": "Vallée des Prêtres"
+          },
+          "latitude": -20.165147,
+          "longitude": 57.534039
+        },
+        {
+          "name": {
+            "en": "Vallee Pitot"
+          },
+          "latitude": -20.1692,
+          "longitude": 57.51997
+        }
+      ]
+    },
+    {
+      "code": "MU-RR",
+      "name": {
+        "en": "Rivière du Rempart"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Amaury"
+          },
+          "latitude": -20.13083,
+          "longitude": 57.65917
+        },
+        {
+          "name": {
+            "en": "Amitié Gokoola"
+          },
+          "latitude": -20.106883,
+          "longitude": 57.654728
+        },
+        {
+          "name": {
+            "en": "Cap Malheureux"
+          },
+          "latitude": -19.98417,
+          "longitude": 57.61417
+        },
+        {
+          "name": {
+            "en": "Cottage"
+          },
+          "latitude": -20.05972,
+          "longitude": 57.62917
+        },
+        {
+          "name": {
+            "en": "Espérance Trébuchet"
+          },
+          "latitude": -20.06972,
+          "longitude": 57.64194
+        },
+        {
+          "name": {
+            "en": "Goodlands"
+          },
+          "latitude": -20.03841,
+          "longitude": 57.65055
+        },
+        {
+          "name": {
+            "en": "Grand Baie"
+          },
+          "latitude": -20.01816,
+          "longitude": 57.58015
+        },
+        {
+          "name": {
+            "en": "Grand Gaube"
+          },
+          "latitude": -20.00639,
+          "longitude": 57.66083
+        },
+        {
+          "name": {
+            "en": "Mapou"
+          },
+          "latitude": -20.07583,
+          "longitude": 57.60139
+        },
+        {
+          "name": {
+            "en": "Petit Raffray"
+          },
+          "latitude": -20.02022,
+          "longitude": 57.62296
+        },
+        {
+          "name": {
+            "en": "Piton"
+          },
+          "latitude": -20.09028,
+          "longitude": 57.63028
+        },
+        {
+          "name": {
+            "en": "Plaines des Roches"
+          },
+          "latitude": -20.11167,
+          "longitude": 57.69083
+        },
+        {
+          "name": {
+            "en": "Poudre D'Or"
+          },
+          "latitude": -20.061627,
+          "longitude": 57.682971
+        },
+        {
+          "name": {
+            "en": "Poudre D'Or Hamlet"
+          },
+          "latitude": -20.081024,
+          "longitude": 57.652726
+        },
+        {
+          "name": {
+            "en": "Rivière du Rempart"
+          },
+          "latitude": -20.10306,
+          "longitude": 57.68472
+        },
+        {
+          "name": {
+            "en": "Roche Terre"
+          },
+          "latitude": -20.01861,
+          "longitude": 57.64472
+        },
+        {
+          "name": {
+            "en": "Roches Noire"
+          },
+          "latitude": -20.11111,
+          "longitude": 57.71222
+        },
+        {
+          "name": {
+            "en": "The Vale"
+          },
+          "latitude": -20.03018,
+          "longitude": 57.60219
+        }
+      ]
+    },
+    {
+      "code": "MU-RO",
+      "name": {
+        "en": "Rodrigues Island"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Baie aux Huîtres"
+          },
+          "latitude": -19.69444,
+          "longitude": 63.40833
+        },
+        {
+          "name": {
+            "en": "Port Mathurin"
+          },
+          "latitude": -19.68333,
+          "longitude": 63.41667
+        }
+      ]
+    },
+    {
+      "code": "MU-CC",
+      "name": {
+        "en": "Saint Brandon Islands"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Cargados Carajos"
+          },
+          "latitude": -16.60329,
+          "longitude": 59.65851
+        }
+      ]
+    },
+    {
+      "code": "MU-SA",
+      "name": {
+        "en": "Savanne"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Baie Du Cap"
+          },
+          "latitude": -20.486644,
+          "longitude": 57.378815
+        },
+        {
+          "name": {
+            "en": "Bel Ombre"
+          },
+          "latitude": -20.501919,
+          "longitude": 57.425507
+        },
+        {
+          "name": {
+            "en": "Benares"
+          },
+          "latitude": -20.484407,
+          "longitude": 57.588717
+        },
+        {
+          "name": {
+            "en": "Bois Cheri"
+          },
+          "latitude": -20.426671,
+          "longitude": 57.534252
+        },
+        {
+          "name": {
+            "en": "Britannia"
+          },
+          "latitude": -20.448655,
+          "longitude": 57.563407
+        },
+        {
+          "name": {
+            "en": "Camp Diable"
+          },
+          "latitude": -20.46278,
+          "longitude": 57.57889
+        },
+        {
+          "name": {
+            "en": "Chamouny"
+          },
+          "latitude": -20.48222,
+          "longitude": 57.46611
+        },
+        {
+          "name": {
+            "en": "Chemin Grenier"
+          },
+          "latitude": -20.48722,
+          "longitude": 57.46556
+        },
+        {
+          "name": {
+            "en": "Grand Bois"
+          },
+          "latitude": -20.41889,
+          "longitude": 57.54417
+        },
+        {
+          "name": {
+            "en": "L'Escalier"
+          },
+          "latitude": -20.473335,
+          "longitude": 57.618676
+        },
+        {
+          "name": {
+            "en": "La Flora"
+          },
+          "latitude": -20.410005,
+          "longitude": 57.560487
+        },
+        {
+          "name": {
+            "en": "Rivière des Anguilles"
+          },
+          "latitude": -20.48528,
+          "longitude": 57.55083
+        },
+        {
+          "name": {
+            "en": "Rivière Du Poste"
+          },
+          "latitude": -20.428662,
+          "longitude": 57.573681
+        },
+        {
+          "name": {
+            "en": "Saint Aubin"
+          },
+          "latitude": -20.496,
+          "longitude": 57.55
+        },
+        {
+          "name": {
+            "en": "Souillac"
+          },
+          "latitude": -20.51667,
+          "longitude": 57.51667
+        },
+        {
+          "name": {
+            "en": "St Aubin"
+          },
+          "latitude": -20.494446,
+          "longitude": 57.550335
+        },
+        {
+          "name": {
+            "en": "Surinam"
+          },
+          "latitude": -20.50972,
+          "longitude": 57.50528
+        }
+      ]
+    }
+  ]
+}

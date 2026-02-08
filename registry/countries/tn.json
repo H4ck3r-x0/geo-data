@@ -1,0 +1,1417 @@
+{
+  "code": "TN",
+  "iso3": "TUN",
+  "name": {
+    "en": "Tunisia",
+    "ar": "تونس",
+    "de": "Tunesien",
+    "es": "Túnez",
+    "fr": "Tunisie",
+    "hi": "ट्यूनीशिया",
+    "it": "Tunisia",
+    "ja": "チュニジア",
+    "ko": "튀니지",
+    "nl": "Tunesië",
+    "pl": "Tunezja",
+    "pt": "Tunísia",
+    "pt-BR": "Tunísia",
+    "ru": "Тунис",
+    "tr": "Tunus",
+    "uk": "Туніс",
+    "zh": "突尼斯"
+  },
+  "phone": "+216",
+  "currency": "TND",
+  "timezone": "Africa/Tunis",
+  "flag": "🇹🇳",
+  "regions": [
+    {
+      "code": "TN-12",
+      "name": {
+        "en": "Ariana"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ariana",
+            "ar": "أريانة‎"
+          },
+          "latitude": 36.86012,
+          "longitude": 10.19337
+        },
+        {
+          "name": {
+            "en": "Ettadhamen-Mnihla"
+          },
+          "latitude": 36.8625,
+          "longitude": 10.1703
+        },
+        {
+          "name": {
+            "en": "Kalaat el-Andalous"
+          },
+          "latitude": 36.8811,
+          "longitude": 10.2622
+        },
+        {
+          "name": {
+            "en": "La Soukra"
+          },
+          "latitude": 36.8535,
+          "longitude": 10.2525
+        },
+        {
+          "name": {
+            "en": "Mnihla"
+          },
+          "latitude": 36.8369,
+          "longitude": 10.2002
+        },
+        {
+          "name": {
+            "en": "Raoued",
+            "ar": "سكرة"
+          },
+          "latitude": 36.885,
+          "longitude": 10.2465
+        },
+        {
+          "name": {
+            "en": "Sidi Thabet"
+          },
+          "latitude": 36.8399,
+          "longitude": 10.0403
+        }
+      ]
+    },
+    {
+      "code": "TN-31",
+      "name": {
+        "en": "Béja"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Amdoun"
+          },
+          "latitude": 36.7442,
+          "longitude": 9.0513
+        },
+        {
+          "name": {
+            "en": "Béja",
+            "ar": "باجة"
+          },
+          "latitude": 36.72564,
+          "longitude": 9.18169
+        },
+        {
+          "name": {
+            "en": "Goubellat"
+          },
+          "latitude": 36.5956,
+          "longitude": 9.2078
+        },
+        {
+          "name": {
+            "en": "Medjez el Bab"
+          },
+          "latitude": 36.7064,
+          "longitude": 9.6106
+        },
+        {
+          "name": {
+            "en": "Nefza"
+          },
+          "latitude": 36.6049,
+          "longitude": 8.9702
+        },
+        {
+          "name": {
+            "en": "Tabursuq"
+          },
+          "latitude": 36.45692,
+          "longitude": 9.24751
+        },
+        {
+          "name": {
+            "en": "Téboursouk"
+          },
+          "latitude": 36.7104,
+          "longitude": 9.0008
+        },
+        {
+          "name": {
+            "en": "Testour"
+          },
+          "latitude": 36.5014,
+          "longitude": 9.6664
+        },
+        {
+          "name": {
+            "en": "Thibar"
+          },
+          "latitude": 36.4656,
+          "longitude": 9.0622
+        }
+      ]
+    },
+    {
+      "code": "TN-13",
+      "name": {
+        "en": "Ben Arous"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ben Arous"
+          },
+          "latitude": 36.7531,
+          "longitude": 10.2294
+        },
+        {
+          "name": {
+            "en": "Hammam Lif"
+          },
+          "latitude": 36.7203,
+          "longitude": 10.3261
+        },
+        {
+          "name": {
+            "en": "Mornag"
+          },
+          "latitude": 36.6616,
+          "longitude": 10.1463
+        },
+        {
+          "name": {
+            "en": "Mornaguia"
+          },
+          "latitude": 36.7214,
+          "longitude": 10.0494
+        },
+        {
+          "name": {
+            "en": "Radès",
+            "ar": "رادس"
+          },
+          "latitude": 36.76946,
+          "longitude": 10.27468
+        }
+      ]
+    },
+    {
+      "code": "TN-23",
+      "name": {
+        "en": "Bizerte"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Al Matlīn"
+          },
+          "latitude": 37.24516,
+          "longitude": 10.05
+        },
+        {
+          "name": {
+            "en": "Bizerte",
+            "ar": "بنزرت"
+          },
+          "latitude": 37.27442,
+          "longitude": 9.87391
+        },
+        {
+          "name": {
+            "en": "Bizerte Sud"
+          },
+          "latitude": 37.25528,
+          "longitude": 9.67915
+        },
+        {
+          "name": {
+            "en": "Douar Tindja"
+          },
+          "latitude": 37.16667,
+          "longitude": 9.75
+        },
+        {
+          "name": {
+            "en": "El Alia"
+          },
+          "latitude": 37.16911,
+          "longitude": 10.03478
+        },
+        {
+          "name": {
+            "en": "Mateur"
+          },
+          "latitude": 37.04045,
+          "longitude": 9.66557
+        },
+        {
+          "name": {
+            "en": "Menzel Abderhaman",
+            "ar": "منزل عبد الرحمان"
+          },
+          "latitude": 37.23737,
+          "longitude": 9.86313
+        },
+        {
+          "name": {
+            "en": "Menzel Bourguiba",
+            "ar": "منزل بورقيبة"
+          },
+          "latitude": 37.15368,
+          "longitude": 9.78594
+        },
+        {
+          "name": {
+            "en": "Menzel Jemil",
+            "ar": "منزل جميل"
+          },
+          "latitude": 37.23618,
+          "longitude": 9.91448
+        },
+        {
+          "name": {
+            "en": "Rafrāf"
+          },
+          "latitude": 37.19043,
+          "longitude": 10.18365
+        },
+        {
+          "name": {
+            "en": "Rhar el Melah"
+          },
+          "latitude": 37.16939,
+          "longitude": 10.19064
+        },
+        {
+          "name": {
+            "en": "Sejenane"
+          },
+          "latitude": 37.05722,
+          "longitude": 9.23806
+        },
+        {
+          "name": {
+            "en": "Zahānah"
+          },
+          "latitude": 37.03959,
+          "longitude": 10.03876
+        }
+      ]
+    },
+    {
+      "code": "TN-81",
+      "name": {
+        "en": "Gabès"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bou Attouche"
+          },
+          "latitude": 33.89927,
+          "longitude": 9.78496
+        },
+        {
+          "name": {
+            "en": "El Hamma",
+            "ar": "الحامة"
+          },
+          "latitude": 33.89152,
+          "longitude": 9.79629
+        },
+        {
+          "name": {
+            "en": "Gabès",
+            "ar": "ولاية قابس"
+          },
+          "latitude": 33.88146,
+          "longitude": 10.0982
+        },
+        {
+          "name": {
+            "en": "Matmata"
+          },
+          "latitude": 33.54445,
+          "longitude": 9.97157
+        }
+      ]
+    },
+    {
+      "code": "TN-71",
+      "name": {
+        "en": "Gafsa"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ar Rudayyif",
+            "ar": "الرّدَيِّف"
+          },
+          "latitude": 34.3827,
+          "longitude": 8.15549
+        },
+        {
+          "name": {
+            "en": "As Sanad"
+          },
+          "latitude": 34.4628,
+          "longitude": 9.26404
+        },
+        {
+          "name": {
+            "en": "Gafsa",
+            "ar": "ڤفصة"
+          },
+          "latitude": 34.425,
+          "longitude": 8.78417
+        },
+        {
+          "name": {
+            "en": "Metlaoui",
+            "ar": "متلوي"
+          },
+          "latitude": 34.32081,
+          "longitude": 8.40157
+        },
+        {
+          "name": {
+            "en": "Mu‘tamadīyat ar Rudayyif"
+          },
+          "latitude": 34.40081,
+          "longitude": 8.17057
+        }
+      ]
+    },
+    {
+      "code": "TN-32",
+      "name": {
+        "en": "Jendouba"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Fernana"
+          },
+          "latitude": 36.65547,
+          "longitude": 8.69602
+        },
+        {
+          "name": {
+            "en": "Jendouba"
+          },
+          "latitude": 36.48519,
+          "longitude": 8.82325
+        },
+        {
+          "name": {
+            "en": "Oued Meliz"
+          },
+          "latitude": 36.46813,
+          "longitude": 8.54951
+        },
+        {
+          "name": {
+            "en": "Tabarka",
+            "ar": "طبرقة"
+          },
+          "latitude": 36.95442,
+          "longitude": 8.75801
+        }
+      ]
+    },
+    {
+      "code": "TN-41",
+      "name": {
+        "en": "Kairouan"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Haffouz"
+          },
+          "latitude": 35.63235,
+          "longitude": 9.67624
+        },
+        {
+          "name": {
+            "en": "Kairouan",
+            "ar": "القيروان"
+          },
+          "latitude": 35.6781,
+          "longitude": 10.09633
+        },
+        {
+          "name": {
+            "en": "Sbikha"
+          },
+          "latitude": 35.93325,
+          "longitude": 10.02081
+        }
+      ]
+    },
+    {
+      "code": "TN-42",
+      "name": {
+        "en": "Kasserine"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Kasserine",
+            "ar": "القصرين"
+          },
+          "latitude": 35.16758,
+          "longitude": 8.83651
+        },
+        {
+          "name": {
+            "en": "Rohia"
+          },
+          "latitude": 35.65129,
+          "longitude": 9.05306
+        },
+        {
+          "name": {
+            "en": "Sbiba"
+          },
+          "latitude": 35.54332,
+          "longitude": 9.0737
+        },
+        {
+          "name": {
+            "en": "Thala"
+          },
+          "latitude": 35.57244,
+          "longitude": 8.67031
+        }
+      ]
+    },
+    {
+      "code": "TN-73",
+      "name": {
+        "en": "Kebili"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Douz"
+          },
+          "latitude": 33.46632,
+          "longitude": 9.0203
+        },
+        {
+          "name": {
+            "en": "El Golaa"
+          },
+          "latitude": 33.48485,
+          "longitude": 9.00678
+        },
+        {
+          "name": {
+            "en": "Jemna"
+          },
+          "latitude": 33.57778,
+          "longitude": 9.01472
+        },
+        {
+          "name": {
+            "en": "Kebili",
+            "ar": "قبلي"
+          },
+          "latitude": 33.70439,
+          "longitude": 8.96903
+        }
+      ]
+    },
+    {
+      "code": "TN-33",
+      "name": {
+        "en": "Kef"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "As Sars"
+          },
+          "latitude": 36.0764,
+          "longitude": 9.02117
+        },
+        {
+          "name": {
+            "en": "El Kef",
+            "ar": "الكاف"
+          },
+          "latitude": 36.17424,
+          "longitude": 8.70486
+        },
+        {
+          "name": {
+            "en": "El Ksour"
+          },
+          "latitude": 35.89607,
+          "longitude": 8.88493
+        },
+        {
+          "name": {
+            "en": "Menzel Salem"
+          },
+          "latitude": 35.85673,
+          "longitude": 8.47654
+        },
+        {
+          "name": {
+            "en": "Nibbar"
+          },
+          "latitude": 36.29411,
+          "longitude": 8.76657
+        },
+        {
+          "name": {
+            "en": "Sakiet Sidi Youssef"
+          },
+          "latitude": 36.22292,
+          "longitude": 8.35547
+        },
+        {
+          "name": {
+            "en": "Tajerouine"
+          },
+          "latitude": 35.89174,
+          "longitude": 8.55276
+        }
+      ]
+    },
+    {
+      "code": "TN-53",
+      "name": {
+        "en": "Mahdia"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Chebba"
+          },
+          "latitude": 35.23722,
+          "longitude": 11.115
+        },
+        {
+          "name": {
+            "en": "Chorbane"
+          },
+          "latitude": 35.28581,
+          "longitude": 10.3858
+        },
+        {
+          "name": {
+            "en": "El Jem"
+          },
+          "latitude": 35.3,
+          "longitude": 10.71667
+        },
+        {
+          "name": {
+            "en": "Ksour Essaf",
+            "ar": "قصور الساف"
+          },
+          "latitude": 35.41808,
+          "longitude": 10.99475
+        },
+        {
+          "name": {
+            "en": "Mahdia",
+            "ar": "المهدية"
+          },
+          "latitude": 35.50472,
+          "longitude": 11.06222
+        },
+        {
+          "name": {
+            "en": "Melloulèche"
+          },
+          "latitude": 35.16617,
+          "longitude": 11.03504
+        },
+        {
+          "name": {
+            "en": "Salakta"
+          },
+          "latitude": 35.39444,
+          "longitude": 11.04361
+        },
+        {
+          "name": {
+            "en": "Sidi Alouane"
+          },
+          "latitude": 35.37505,
+          "longitude": 10.93899
+        },
+        {
+          "name": {
+            "en": "Zouila",
+            "ar": "المهدية"
+          },
+          "latitude": 35.50056,
+          "longitude": 11.06056
+        }
+      ]
+    },
+    {
+      "code": "TN-14",
+      "name": {
+        "en": "Manouba"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "El Battan"
+          },
+          "latitude": 36.80368,
+          "longitude": 9.84424
+        },
+        {
+          "name": {
+            "en": "Manouba",
+            "ar": "منوبة"
+          },
+          "latitude": 36.81006,
+          "longitude": 10.09557
+        },
+        {
+          "name": {
+            "en": "Mu‘tamadīyat Manūbah"
+          },
+          "latitude": 36.80907,
+          "longitude": 10.09467
+        },
+        {
+          "name": {
+            "en": "Oued Lill"
+          },
+          "latitude": 36.83408,
+          "longitude": 10.04057
+        }
+      ]
+    },
+    {
+      "code": "TN-82",
+      "name": {
+        "en": "Medenine"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ben Gardane",
+            "ar": "بنڤردان"
+          },
+          "latitude": 33.13783,
+          "longitude": 11.21965
+        },
+        {
+          "name": {
+            "en": "Beni Kheddache"
+          },
+          "latitude": 33.25279,
+          "longitude": 10.19883
+        },
+        {
+          "name": {
+            "en": "Erriadh"
+          },
+          "latitude": 33.82063,
+          "longitude": 10.85394
+        },
+        {
+          "name": {
+            "en": "Houmt El Souk",
+            "ar": "حومة السوق"
+          },
+          "latitude": 33.87576,
+          "longitude": 10.85745
+        },
+        {
+          "name": {
+            "en": "Jerba Midoun"
+          },
+          "latitude": 33.77918,
+          "longitude": 10.95215
+        },
+        {
+          "name": {
+            "en": "Medenine",
+            "ar": "مدنين"
+          },
+          "latitude": 33.35495,
+          "longitude": 10.50548
+        },
+        {
+          "name": {
+            "en": "Midoun"
+          },
+          "latitude": 33.80813,
+          "longitude": 10.99228
+        },
+        {
+          "name": {
+            "en": "Zarzis",
+            "ar": "جرجيس"
+          },
+          "latitude": 33.50398,
+          "longitude": 11.11215
+        }
+      ]
+    },
+    {
+      "code": "TN-52",
+      "name": {
+        "en": "Monastir"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Banbalah"
+          },
+          "latitude": 35.7,
+          "longitude": 10.8
+        },
+        {
+          "name": {
+            "en": "Bekalta",
+            "ar": "البقالطة"
+          },
+          "latitude": 35.61739,
+          "longitude": 10.99466
+        },
+        {
+          "name": {
+            "en": "Beni Hassane"
+          },
+          "latitude": 35.5672,
+          "longitude": 10.80869
+        },
+        {
+          "name": {
+            "en": "Djemmal",
+            "ar": "جمال"
+          },
+          "latitude": 35.62231,
+          "longitude": 10.75696
+        },
+        {
+          "name": {
+            "en": "Ksar Hellal"
+          },
+          "latitude": 35.64773,
+          "longitude": 10.89046
+        },
+        {
+          "name": {
+            "en": "Ksibet el Mediouni"
+          },
+          "latitude": 35.68561,
+          "longitude": 10.84256
+        },
+        {
+          "name": {
+            "en": "Lemta"
+          },
+          "latitude": 35.66667,
+          "longitude": 10.88333
+        },
+        {
+          "name": {
+            "en": "Menzel Kamel"
+          },
+          "latitude": 35.62477,
+          "longitude": 10.66727
+        },
+        {
+          "name": {
+            "en": "Mesdour"
+          },
+          "latitude": 35.68206,
+          "longitude": 10.72746
+        },
+        {
+          "name": {
+            "en": "Monastir",
+            "ar": "المنستير"
+          },
+          "latitude": 35.77799,
+          "longitude": 10.82617
+        },
+        {
+          "name": {
+            "en": "Ouardenine"
+          },
+          "latitude": 35.70915,
+          "longitude": 10.67397
+        },
+        {
+          "name": {
+            "en": "Sahline"
+          },
+          "latitude": 35.75166,
+          "longitude": 10.71109
+        },
+        {
+          "name": {
+            "en": "Seïada"
+          },
+          "latitude": 35.66887,
+          "longitude": 10.89246
+        },
+        {
+          "name": {
+            "en": "Sidi Ben Nour"
+          },
+          "latitude": 35.53333,
+          "longitude": 10.91667
+        },
+        {
+          "name": {
+            "en": "Skanes"
+          },
+          "latitude": 35.78333,
+          "longitude": 10.8
+        },
+        {
+          "name": {
+            "en": "Touza"
+          },
+          "latitude": 35.63544,
+          "longitude": 10.82732
+        }
+      ]
+    },
+    {
+      "code": "TN-21",
+      "name": {
+        "en": "Nabeul"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Azmour"
+          },
+          "latitude": 36.9244,
+          "longitude": 11.0069
+        },
+        {
+          "name": {
+            "en": "Beni Khalled"
+          },
+          "latitude": 36.65038,
+          "longitude": 10.59004
+        },
+        {
+          "name": {
+            "en": "Béni Khiar"
+          },
+          "latitude": 36.46666667,
+          "longitude": 10.78333333
+        },
+        {
+          "name": {
+            "en": "Bou Argoub"
+          },
+          "latitude": 36.53853,
+          "longitude": 10.55093
+        },
+        {
+          "name": {
+            "en": "Dar Chaabane"
+          },
+          "latitude": 36.47,
+          "longitude": 10.75
+        },
+        {
+          "name": {
+            "en": "El Haouaria"
+          },
+          "latitude": 37.05,
+          "longitude": 11.01111111
+        },
+        {
+          "name": {
+            "en": "El Maâmoura"
+          },
+          "latitude": 36.46666667,
+          "longitude": 10.8
+        },
+        {
+          "name": {
+            "en": "El Mida"
+          },
+          "latitude": 36.73333333,
+          "longitude": 10.85
+        },
+        {
+          "name": {
+            "en": "El Mrezga"
+          },
+          "latitude": 36.42163,
+          "longitude": 10.66411
+        },
+        {
+          "name": {
+            "en": "Grombalia"
+          },
+          "latitude": 36.61,
+          "longitude": 10.5
+        },
+        {
+          "name": {
+            "en": "Hammamet"
+          },
+          "latitude": 36.41666667,
+          "longitude": 10.6
+        },
+        {
+          "name": {
+            "en": "Kelibia",
+            "ar": "قليبية"
+          },
+          "latitude": 36.8475,
+          "longitude": 11.09388889
+        },
+        {
+          "name": {
+            "en": "Korba"
+          },
+          "latitude": 36.56666667,
+          "longitude": 10.86666667
+        },
+        {
+          "name": {
+            "en": "Korbous"
+          },
+          "latitude": 36.81638889,
+          "longitude": 10.56861111
+        },
+        {
+          "name": {
+            "en": "Menzel Bouzelfa"
+          },
+          "latitude": 36.6817,
+          "longitude": 10.5847
+        },
+        {
+          "name": {
+            "en": "Menzel Horr"
+          },
+          "latitude": 36.73333333,
+          "longitude": 10.95
+        },
+        {
+          "name": {
+            "en": "Menzel Temime"
+          },
+          "latitude": 36.78333333,
+          "longitude": 10.98333333
+        },
+        {
+          "name": {
+            "en": "Nabeul"
+          },
+          "latitude": 36.451389,
+          "longitude": 10.736111
+        },
+        {
+          "name": {
+            "en": "Soliman"
+          },
+          "latitude": 36.695126,
+          "longitude": 10.491257
+        },
+        {
+          "name": {
+            "en": "Takelsa"
+          },
+          "latitude": 36.79,
+          "longitude": 10.63
+        },
+        {
+          "name": {
+            "en": "Tazerka"
+          },
+          "latitude": 36.55,
+          "longitude": 10.8
+        },
+        {
+          "name": {
+            "en": "Zaouiet Djedidi"
+          },
+          "latitude": 36.65,
+          "longitude": 10.6
+        },
+        {
+          "name": {
+            "en": "Zriba"
+          },
+          "latitude": 36.35585,
+          "longitude": 10.206034
+        }
+      ]
+    },
+    {
+      "code": "TN-61",
+      "name": {
+        "en": "Sfax"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Agareb"
+          },
+          "latitude": 34.74406,
+          "longitude": 10.4611
+        },
+        {
+          "name": {
+            "en": "Bir Ali Ben Khalifa"
+          },
+          "latitude": 34.73592,
+          "longitude": 10.0924
+        },
+        {
+          "name": {
+            "en": "Djebeniana"
+          },
+          "latitude": 35.035,
+          "longitude": 10.90809
+        },
+        {
+          "name": {
+            "en": "Gremda"
+          },
+          "latitude": 34.75,
+          "longitude": 10.78333
+        },
+        {
+          "name": {
+            "en": "Sfax",
+            "ar": "صفاقس"
+          },
+          "latitude": 34.74056,
+          "longitude": 10.76028
+        },
+        {
+          "name": {
+            "en": "Skhira"
+          },
+          "latitude": 34.2992,
+          "longitude": 10.06999
+        }
+      ]
+    },
+    {
+      "code": "TN-43",
+      "name": {
+        "en": "Sidi Bouzid"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bir el Hafey"
+          },
+          "latitude": 34.93212,
+          "longitude": 9.19321
+        },
+        {
+          "name": {
+            "en": "Er Regueb"
+          },
+          "latitude": 34.85932,
+          "longitude": 9.78654
+        },
+        {
+          "name": {
+            "en": "Jilma"
+          },
+          "latitude": 35.27311,
+          "longitude": 9.42385
+        },
+        {
+          "name": {
+            "en": "Mezzouna"
+          },
+          "latitude": 34.57758,
+          "longitude": 9.84193
+        },
+        {
+          "name": {
+            "en": "Sidi Bouzid",
+            "ar": "سيدي بوزيد"
+          },
+          "latitude": 35.03823,
+          "longitude": 9.48494
+        }
+      ]
+    },
+    {
+      "code": "TN-34",
+      "name": {
+        "en": "Siliana"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bou Arada"
+          },
+          "latitude": 36.35251,
+          "longitude": 9.62175
+        },
+        {
+          "name": {
+            "en": "Gafour"
+          },
+          "latitude": 36.32045,
+          "longitude": 9.32424
+        },
+        {
+          "name": {
+            "en": "Kesra"
+          },
+          "latitude": 35.81363,
+          "longitude": 9.36434
+        },
+        {
+          "name": {
+            "en": "Le Krib"
+          },
+          "latitude": 36.32802,
+          "longitude": 9.13613
+        },
+        {
+          "name": {
+            "en": "Maktar"
+          },
+          "latitude": 35.85798,
+          "longitude": 9.20072
+        },
+        {
+          "name": {
+            "en": "Siliana",
+            "ar": "سليانة"
+          },
+          "latitude": 36.08497,
+          "longitude": 9.37082
+        }
+      ]
+    },
+    {
+      "code": "TN-51",
+      "name": {
+        "en": "Sousse"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Akouda"
+          },
+          "latitude": 35.8691,
+          "longitude": 10.5653
+        },
+        {
+          "name": {
+            "en": "Hammam Sousse"
+          },
+          "latitude": 35.8609,
+          "longitude": 10.60313
+        },
+        {
+          "name": {
+            "en": "Harqalah"
+          },
+          "latitude": 36.03027,
+          "longitude": 10.50904
+        },
+        {
+          "name": {
+            "en": "Msaken",
+            "ar": "مساكن"
+          },
+          "latitude": 35.72917,
+          "longitude": 10.58082
+        },
+        {
+          "name": {
+            "en": "Port el Kantaoui"
+          },
+          "latitude": 35.89239,
+          "longitude": 10.59434
+        },
+        {
+          "name": {
+            "en": "Sidi Bou Ali"
+          },
+          "latitude": 35.95667,
+          "longitude": 10.47306
+        },
+        {
+          "name": {
+            "en": "Sidi el Hani"
+          },
+          "latitude": 35.67139,
+          "longitude": 10.31583
+        },
+        {
+          "name": {
+            "en": "Sousse",
+            "ar": "سوسة"
+          },
+          "latitude": 35.82539,
+          "longitude": 10.63699
+        }
+      ]
+    },
+    {
+      "code": "TN-83",
+      "name": {
+        "en": "Tataouine"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Remada"
+          },
+          "latitude": 32.31662,
+          "longitude": 10.39551
+        },
+        {
+          "name": {
+            "en": "Tataouine",
+            "ar": "تطاوين"
+          },
+          "latitude": 32.92967,
+          "longitude": 10.45177
+        }
+      ]
+    },
+    {
+      "code": "TN-72",
+      "name": {
+        "en": "Tozeur"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Chebika"
+          },
+          "latitude": 34.31909,
+          "longitude": 7.93519
+        },
+        {
+          "name": {
+            "en": "Degache"
+          },
+          "latitude": 33.97606,
+          "longitude": 8.2081
+        },
+        {
+          "name": {
+            "en": "Nefta"
+          },
+          "latitude": 33.87309,
+          "longitude": 7.87765
+        },
+        {
+          "name": {
+            "en": "Tamaghzah"
+          },
+          "latitude": 34.38849,
+          "longitude": 7.94313
+        },
+        {
+          "name": {
+            "en": "Tozeur",
+            "ar": "توزر"
+          },
+          "latitude": 33.91968,
+          "longitude": 8.13352
+        }
+      ]
+    },
+    {
+      "code": "TN-11",
+      "name": {
+        "en": "Tunis"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Al Marsá"
+          },
+          "latitude": 36.87818,
+          "longitude": 10.32466
+        },
+        {
+          "name": {
+            "en": "Carthage"
+          },
+          "latitude": 36.85961,
+          "longitude": 10.32978
+        },
+        {
+          "name": {
+            "en": "La Goulette",
+            "ar": "حلق الوادي"
+          },
+          "latitude": 36.81825,
+          "longitude": 10.3052
+        },
+        {
+          "name": {
+            "en": "La Mohammedia"
+          },
+          "latitude": 36.67446,
+          "longitude": 10.15633
+        },
+        {
+          "name": {
+            "en": "Sidi Bou Saïd"
+          },
+          "latitude": 36.8687,
+          "longitude": 10.34174
+        },
+        {
+          "name": {
+            "en": "Tunis",
+            "ar": "تونس"
+          },
+          "latitude": 36.81897,
+          "longitude": 10.16579
+        }
+      ]
+    },
+    {
+      "code": "TN-22",
+      "name": {
+        "en": "Zaghouan"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "El Fahs",
+            "ar": "الفحص"
+          },
+          "latitude": 36.37419,
+          "longitude": 9.90651
+        },
+        {
+          "name": {
+            "en": "Zaghouan",
+            "ar": "زغوان"
+          },
+          "latitude": 36.40291,
+          "longitude": 10.14292
+        }
+      ]
+    }
+  ]
+}

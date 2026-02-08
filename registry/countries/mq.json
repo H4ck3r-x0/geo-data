@@ -1,0 +1,299 @@
+{
+  "code": "MQ",
+  "iso3": "MTQ",
+  "name": {
+    "en": "Martinique",
+    "ar": "مارتينيك",
+    "de": "Martinique",
+    "es": "Martinica",
+    "fr": "Martinique",
+    "hi": "मार्टीनिक",
+    "it": "Martinica",
+    "ja": "マルティニーク",
+    "ko": "마르티니크",
+    "nl": "Martinique",
+    "pl": "Martynika",
+    "pt": "Martinica",
+    "pt-BR": "Martinica",
+    "ru": "Мартиника",
+    "tr": "Martinik",
+    "uk": "Мартініка",
+    "zh": "马提尼克岛"
+  },
+  "phone": "+596",
+  "currency": "EUR",
+  "timezone": "America/Martinique",
+  "flag": "🇲🇶",
+  "regions": [
+    {
+      "code": "MQ-01",
+      "name": {
+        "en": "Fort-de-France"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Fort-de-France"
+          },
+          "latitude": 14.6492418,
+          "longitude": -61.1098445
+        },
+        {
+          "name": {
+            "en": "Le Lamentin"
+          },
+          "latitude": 14.6230862,
+          "longitude": -61.0334749
+        },
+        {
+          "name": {
+            "en": "Saint-Joseph"
+          },
+          "latitude": 14.683534,
+          "longitude": -61.0818662
+        },
+        {
+          "name": {
+            "en": "Schœlcher"
+          },
+          "latitude": 14.6517997,
+          "longitude": -61.1412867
+        }
+      ]
+    },
+    {
+      "code": "MQ-02",
+      "name": {
+        "en": "La Trinité"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Basse-Pointe"
+          },
+          "latitude": 14.8409708,
+          "longitude": -61.1648523
+        },
+        {
+          "name": {
+            "en": "Grand'Rivière"
+          },
+          "latitude": 14.8469663,
+          "longitude": -61.2042764
+        },
+        {
+          "name": {
+            "en": "Gros-Morne"
+          },
+          "latitude": 14.7084184,
+          "longitude": -61.1127122
+        },
+        {
+          "name": {
+            "en": "L'Ajoupa-Bouillon"
+          },
+          "latitude": 14.8159718,
+          "longitude": -61.1717063
+        },
+        {
+          "name": {
+            "en": "La Trinité"
+          },
+          "latitude": 14.7380415,
+          "longitude": -61.0292956
+        },
+        {
+          "name": {
+            "en": "Le Lorrain"
+          },
+          "latitude": 14.7995256,
+          "longitude": -61.1151374
+        },
+        {
+          "name": {
+            "en": "Le Marigot"
+          },
+          "latitude": 14.7795818,
+          "longitude": -61.0942458
+        },
+        {
+          "name": {
+            "en": "Le Robert"
+          },
+          "latitude": 14.6744327,
+          "longitude": -61.0169272
+        },
+        {
+          "name": {
+            "en": "Macouba"
+          },
+          "latitude": 14.8474386,
+          "longitude": -61.1670946
+        },
+        {
+          "name": {
+            "en": "Sainte-Marie"
+          },
+          "latitude": 14.7730093,
+          "longitude": -61.0495997
+        }
+      ]
+    },
+    {
+      "code": "MQ-03",
+      "name": {
+        "en": "Le Marin"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ducos"
+          },
+          "latitude": 14.5785442,
+          "longitude": -61.0097386
+        },
+        {
+          "name": {
+            "en": "Le Diamant"
+          },
+          "latitude": 14.4768004,
+          "longitude": -61.0597384
+        },
+        {
+          "name": {
+            "en": "Le François"
+          },
+          "latitude": 14.6092885,
+          "longitude": -60.9799911
+        },
+        {
+          "name": {
+            "en": "Le Marin"
+          },
+          "latitude": 14.4822169,
+          "longitude": -60.9001141
+        },
+        {
+          "name": {
+            "en": "Le Vauclin"
+          },
+          "latitude": 14.542086,
+          "longitude": -60.9006006
+        },
+        {
+          "name": {
+            "en": "Les Anses-d'Arlet"
+          },
+          "latitude": 14.4995478,
+          "longitude": -61.1148162
+        },
+        {
+          "name": {
+            "en": "Les Trois-Îlets"
+          },
+          "latitude": 14.5328746,
+          "longitude": -61.0787769
+        },
+        {
+          "name": {
+            "en": "Rivière-Pilote"
+          },
+          "latitude": 14.5026697,
+          "longitude": -60.9381921
+        },
+        {
+          "name": {
+            "en": "Rivière-Salée"
+          },
+          "latitude": 14.526214,
+          "longitude": -61.0035309
+        },
+        {
+          "name": {
+            "en": "Saint-Esprit"
+          },
+          "latitude": 14.5617595,
+          "longitude": -60.9645111
+        },
+        {
+          "name": {
+            "en": "Sainte-Anne"
+          },
+          "latitude": 14.431422,
+          "longitude": -60.8927876
+        },
+        {
+          "name": {
+            "en": "Sainte-Luce"
+          },
+          "latitude": 14.4904093,
+          "longitude": -60.9879365
+        }
+      ]
+    },
+    {
+      "code": "MQ-04",
+      "name": {
+        "en": "Saint-Pierre"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bellefontaine"
+          },
+          "latitude": 14.6747476,
+          "longitude": -61.1665308
+        },
+        {
+          "name": {
+            "en": "Case-Pilote"
+          },
+          "latitude": 14.6593399,
+          "longitude": -61.1502612
+        },
+        {
+          "name": {
+            "en": "Fonds-Saint-Denis"
+          },
+          "latitude": 14.7227546,
+          "longitude": -61.1618919
+        },
+        {
+          "name": {
+            "en": "Le Carbet"
+          },
+          "latitude": 14.7052158,
+          "longitude": -61.1944468
+        },
+        {
+          "name": {
+            "en": "Le Morne-Rouge"
+          },
+          "latitude": 14.7695364,
+          "longitude": -61.1629284
+        },
+        {
+          "name": {
+            "en": "Le Morne-Vert"
+          },
+          "latitude": 14.7046433,
+          "longitude": -61.1567977
+        },
+        {
+          "name": {
+            "en": "Le Prêcheur"
+          },
+          "latitude": 14.8220261,
+          "longitude": -61.2374686
+        },
+        {
+          "name": {
+            "en": "Saint-Pierre"
+          },
+          "latitude": 14.7716719,
+          "longitude": -61.2147501
+        }
+      ]
+    }
+  ]
+}

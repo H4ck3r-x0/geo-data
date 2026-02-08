@@ -1,0 +1,1469 @@
+{
+  "code": "CU",
+  "iso3": "CUB",
+  "name": {
+    "en": "Cuba",
+    "ar": "كوبا",
+    "de": "Kuba",
+    "es": "Cuba",
+    "fr": "Cuba",
+    "hi": "क्यूबा",
+    "it": "Cuba",
+    "ja": "キューバ",
+    "ko": "쿠바",
+    "nl": "Cuba",
+    "pl": "Kuba",
+    "pt": "Cuba",
+    "pt-BR": "Cuba",
+    "ru": "Куба",
+    "tr": "Küba",
+    "uk": "Куба",
+    "zh": "古巴"
+  },
+  "phone": "+53",
+  "currency": "CUP",
+  "timezone": "America/Havana",
+  "flag": "🇨🇺",
+  "regions": [
+    {
+      "code": "CU-15",
+      "name": {
+        "en": "Artemisa"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Alquízar"
+          },
+          "latitude": 22.80517,
+          "longitude": -82.58392
+        },
+        {
+          "name": {
+            "en": "Artemisa"
+          },
+          "latitude": 22.81667,
+          "longitude": -82.75944
+        },
+        {
+          "name": {
+            "en": "Bahía Honda"
+          },
+          "latitude": 22.90332,
+          "longitude": -83.15994
+        },
+        {
+          "name": {
+            "en": "Bauta"
+          },
+          "latitude": 22.98226,
+          "longitude": -82.54719
+        },
+        {
+          "name": {
+            "en": "Cabañas"
+          },
+          "latitude": 22.97944,
+          "longitude": -82.92214
+        },
+        {
+          "name": {
+            "en": "Candelaria"
+          },
+          "latitude": 22.74057,
+          "longitude": -82.95912
+        },
+        {
+          "name": {
+            "en": "Guanajay"
+          },
+          "latitude": 22.92639,
+          "longitude": -82.6875
+        },
+        {
+          "name": {
+            "en": "Güira de Melena"
+          },
+          "latitude": 22.79613,
+          "longitude": -82.50667
+        },
+        {
+          "name": {
+            "en": "Mariel"
+          },
+          "latitude": 22.98931,
+          "longitude": -82.75376
+        },
+        {
+          "name": {
+            "en": "Municipio de Artemisa"
+          },
+          "latitude": 22.77383,
+          "longitude": -82.80419
+        },
+        {
+          "name": {
+            "en": "Municipio de Bauta"
+          },
+          "latitude": 22.96957,
+          "longitude": -82.49997
+        },
+        {
+          "name": {
+            "en": "Municipio de Guanajay"
+          },
+          "latitude": 22.89215,
+          "longitude": -82.70873
+        },
+        {
+          "name": {
+            "en": "Municipio de Mariel"
+          },
+          "latitude": 22.96515,
+          "longitude": -82.80324
+        },
+        {
+          "name": {
+            "en": "Municipio de San Cristóbal"
+          },
+          "latitude": 22.71446,
+          "longitude": -83.04561
+        },
+        {
+          "name": {
+            "en": "San Antonio de los Baños"
+          },
+          "latitude": 22.89018,
+          "longitude": -82.50099
+        },
+        {
+          "name": {
+            "en": "San Cristobal"
+          },
+          "latitude": 22.71658,
+          "longitude": -83.05647
+        },
+        {
+          "name": {
+            "en": "Soroa"
+          },
+          "latitude": 22.8,
+          "longitude": -83.01667
+        }
+      ]
+    },
+    {
+      "code": "CU-09",
+      "name": {
+        "en": "Camagüey"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Camagüey"
+          },
+          "latitude": 21.38083,
+          "longitude": -77.91694
+        },
+        {
+          "name": {
+            "en": "El Caney"
+          },
+          "latitude": 21.3,
+          "longitude": -78.48333
+        },
+        {
+          "name": {
+            "en": "Esmeralda"
+          },
+          "latitude": 21.85139,
+          "longitude": -78.11725
+        },
+        {
+          "name": {
+            "en": "Florida"
+          },
+          "latitude": 21.52536,
+          "longitude": -78.22579
+        },
+        {
+          "name": {
+            "en": "Guáimaro"
+          },
+          "latitude": 21.05222,
+          "longitude": -77.3499
+        },
+        {
+          "name": {
+            "en": "Jimaguayú"
+          },
+          "latitude": 21.24224,
+          "longitude": -77.82625
+        },
+        {
+          "name": {
+            "en": "Minas"
+          },
+          "latitude": 21.48802,
+          "longitude": -77.61033
+        },
+        {
+          "name": {
+            "en": "Municipio de Florida"
+          },
+          "latitude": 21.46582,
+          "longitude": -78.34848
+        },
+        {
+          "name": {
+            "en": "Municipio de Nuevitas"
+          },
+          "latitude": 21.55,
+          "longitude": -77.26667
+        },
+        {
+          "name": {
+            "en": "Nuevitas"
+          },
+          "latitude": 21.54585,
+          "longitude": -77.26504
+        },
+        {
+          "name": {
+            "en": "Santa Cruz del Sur"
+          },
+          "latitude": 20.71633,
+          "longitude": -77.99816
+        },
+        {
+          "name": {
+            "en": "Sibanicú"
+          },
+          "latitude": 21.23631,
+          "longitude": -77.52561
+        },
+        {
+          "name": {
+            "en": "Vertientes"
+          },
+          "latitude": 21.25817,
+          "longitude": -78.14979
+        }
+      ]
+    },
+    {
+      "code": "CU-08",
+      "name": {
+        "en": "Ciego de Ávila"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Baraguá"
+          },
+          "latitude": 21.68216,
+          "longitude": -78.62567
+        },
+        {
+          "name": {
+            "en": "Chambas"
+          },
+          "latitude": 22.19534,
+          "longitude": -78.9123
+        },
+        {
+          "name": {
+            "en": "Ciego de Ávila"
+          },
+          "latitude": 21.84,
+          "longitude": -78.76194
+        },
+        {
+          "name": {
+            "en": "Ciro Redondo"
+          },
+          "latitude": 22.01921,
+          "longitude": -78.70365
+        },
+        {
+          "name": {
+            "en": "Florencia"
+          },
+          "latitude": 22.1461,
+          "longitude": -78.97328
+        },
+        {
+          "name": {
+            "en": "Morón"
+          },
+          "latitude": 22.10774,
+          "longitude": -78.62667
+        },
+        {
+          "name": {
+            "en": "Municipio de Ciego de Ávila"
+          },
+          "latitude": 21.85,
+          "longitude": -78.76667
+        },
+        {
+          "name": {
+            "en": "Municipio de Morón"
+          },
+          "latitude": 22.2998,
+          "longitude": -78.56875
+        },
+        {
+          "name": {
+            "en": "Primero de Enero"
+          },
+          "latitude": 21.94501,
+          "longitude": -78.4313
+        },
+        {
+          "name": {
+            "en": "Venezuela"
+          },
+          "latitude": 21.73748,
+          "longitude": -78.79336
+        }
+      ]
+    },
+    {
+      "code": "CU-06",
+      "name": {
+        "en": "Cienfuegos"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Abreus"
+          },
+          "latitude": 22.27797,
+          "longitude": -80.56931
+        },
+        {
+          "name": {
+            "en": "Aguada de Pasajeros"
+          },
+          "latitude": 22.3852,
+          "longitude": -80.84792
+        },
+        {
+          "name": {
+            "en": "Cienfuegos",
+            "ar": "سينفويغوس"
+          },
+          "latitude": 22.14957,
+          "longitude": -80.44662
+        },
+        {
+          "name": {
+            "en": "Cruces"
+          },
+          "latitude": 22.34203,
+          "longitude": -80.27021
+        },
+        {
+          "name": {
+            "en": "Cumanayagua"
+          },
+          "latitude": 22.15247,
+          "longitude": -80.20354
+        },
+        {
+          "name": {
+            "en": "Lajas"
+          },
+          "latitude": 22.41479,
+          "longitude": -80.2931
+        },
+        {
+          "name": {
+            "en": "Municipio de Abreus"
+          },
+          "latitude": 22.19229,
+          "longitude": -80.71465
+        },
+        {
+          "name": {
+            "en": "Municipio de Cienfuegos",
+            "ar": "سينفويغوس"
+          },
+          "latitude": 22.15,
+          "longitude": -80.45
+        },
+        {
+          "name": {
+            "en": "Palmira"
+          },
+          "latitude": 22.24126,
+          "longitude": -80.3911
+        },
+        {
+          "name": {
+            "en": "Rodas"
+          },
+          "latitude": 22.34184,
+          "longitude": -80.55596
+        }
+      ]
+    },
+    {
+      "code": "CU-12",
+      "name": {
+        "en": "Granma"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bartolomé Masó"
+          },
+          "latitude": 20.16635,
+          "longitude": -76.94291
+        },
+        {
+          "name": {
+            "en": "Bayamo"
+          },
+          "latitude": 20.37417,
+          "longitude": -76.64361
+        },
+        {
+          "name": {
+            "en": "Campechuela"
+          },
+          "latitude": 20.23329,
+          "longitude": -77.2799
+        },
+        {
+          "name": {
+            "en": "Cauto Cristo"
+          },
+          "latitude": 20.55709,
+          "longitude": -76.4727
+        },
+        {
+          "name": {
+            "en": "Guisa"
+          },
+          "latitude": 20.25494,
+          "longitude": -76.5393
+        },
+        {
+          "name": {
+            "en": "Jiguaní"
+          },
+          "latitude": 20.36785,
+          "longitude": -76.42741
+        },
+        {
+          "name": {
+            "en": "Manzanillo"
+          },
+          "latitude": 20.34173,
+          "longitude": -77.12126
+        },
+        {
+          "name": {
+            "en": "Media Luna"
+          },
+          "latitude": 20.14298,
+          "longitude": -77.43532
+        },
+        {
+          "name": {
+            "en": "Municipio de Bayamo"
+          },
+          "latitude": 20.42511,
+          "longitude": -76.68614
+        },
+        {
+          "name": {
+            "en": "Municipio de Manzanillo"
+          },
+          "latitude": 20.24732,
+          "longitude": -77.10273
+        },
+        {
+          "name": {
+            "en": "Municipio de Niquero"
+          },
+          "latitude": 19.93912,
+          "longitude": -77.57085
+        },
+        {
+          "name": {
+            "en": "Niquero"
+          },
+          "latitude": 20.04698,
+          "longitude": -77.58089
+        },
+        {
+          "name": {
+            "en": "Río Cauto"
+          },
+          "latitude": 20.55971,
+          "longitude": -76.91673
+        },
+        {
+          "name": {
+            "en": "Yara"
+          },
+          "latitude": 20.27465,
+          "longitude": -76.95132
+        }
+      ]
+    },
+    {
+      "code": "CU-14",
+      "name": {
+        "en": "Guantánamo"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Baracoa"
+          },
+          "latitude": 20.34711,
+          "longitude": -74.49624
+        },
+        {
+          "name": {
+            "en": "Guantánamo"
+          },
+          "latitude": 20.14444,
+          "longitude": -75.20917
+        },
+        {
+          "name": {
+            "en": "Maisí"
+          },
+          "latitude": 20.24673,
+          "longitude": -74.15181
+        },
+        {
+          "name": {
+            "en": "Municipio de Guantánamo"
+          },
+          "latitude": 20.26723,
+          "longitude": -75.15546
+        },
+        {
+          "name": {
+            "en": "Río Guayabal de Yateras"
+          },
+          "latitude": 20.36667,
+          "longitude": -75.01667
+        },
+        {
+          "name": {
+            "en": "San Antonio del Sur"
+          },
+          "latitude": 20.05564,
+          "longitude": -74.8075
+        }
+      ]
+    },
+    {
+      "code": "CU-03",
+      "name": {
+        "en": "Havana"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Alamar"
+          },
+          "latitude": 23.15794,
+          "longitude": -82.27837
+        },
+        {
+          "name": {
+            "en": "Arroyo Naranjo"
+          },
+          "latitude": 23.03677,
+          "longitude": -82.36937
+        },
+        {
+          "name": {
+            "en": "Boyeros"
+          },
+          "latitude": 23.0072,
+          "longitude": -82.4017
+        },
+        {
+          "name": {
+            "en": "Centro Habana"
+          },
+          "latitude": 23.13833,
+          "longitude": -82.36417
+        },
+        {
+          "name": {
+            "en": "Cerro"
+          },
+          "latitude": 23.10861,
+          "longitude": -82.37778
+        },
+        {
+          "name": {
+            "en": "Diez de Octubre"
+          },
+          "latitude": 23.0881,
+          "longitude": -82.3597
+        },
+        {
+          "name": {
+            "en": "Guanabacoa"
+          },
+          "latitude": 23.1236,
+          "longitude": -82.30082
+        },
+        {
+          "name": {
+            "en": "Habana del Este"
+          },
+          "latitude": 23.15917,
+          "longitude": -82.33056
+        },
+        {
+          "name": {
+            "en": "Havana",
+            "ar": "هافانا"
+          },
+          "latitude": 23.13302,
+          "longitude": -82.38304
+        },
+        {
+          "name": {
+            "en": "La Habana Vieja"
+          },
+          "latitude": 23.13028,
+          "longitude": -82.35306
+        },
+        {
+          "name": {
+            "en": "Regla"
+          },
+          "latitude": 23.125,
+          "longitude": -82.33194
+        },
+        {
+          "name": {
+            "en": "San Miguel del Padrón"
+          },
+          "latitude": 23.06639,
+          "longitude": -82.29472
+        },
+        {
+          "name": {
+            "en": "Santiago de las Vegas"
+          },
+          "latitude": 22.97,
+          "longitude": -82.38694
+        }
+      ]
+    },
+    {
+      "code": "CU-11",
+      "name": {
+        "en": "Holguín"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Banes"
+          },
+          "latitude": 20.96116,
+          "longitude": -75.722
+        },
+        {
+          "name": {
+            "en": "Cacocum"
+          },
+          "latitude": 20.73775,
+          "longitude": -76.32574
+        },
+        {
+          "name": {
+            "en": "Cueto"
+          },
+          "latitude": 20.64855,
+          "longitude": -75.92967
+        },
+        {
+          "name": {
+            "en": "Gibara"
+          },
+          "latitude": 21.10988,
+          "longitude": -76.13145
+        },
+        {
+          "name": {
+            "en": "Holguín"
+          },
+          "latitude": 20.88722,
+          "longitude": -76.26306
+        },
+        {
+          "name": {
+            "en": "Jobabo"
+          },
+          "latitude": 20.96917,
+          "longitude": -76.29944
+        },
+        {
+          "name": {
+            "en": "Moa"
+          },
+          "latitude": 20.65776,
+          "longitude": -74.95075
+        },
+        {
+          "name": {
+            "en": "Municipio de Banes"
+          },
+          "latitude": 20.98008,
+          "longitude": -75.74933
+        },
+        {
+          "name": {
+            "en": "Municipio de Holguín"
+          },
+          "latitude": 20.91192,
+          "longitude": -76.27057
+        },
+        {
+          "name": {
+            "en": "Sagua de Tánamo"
+          },
+          "latitude": 20.58269,
+          "longitude": -75.24116
+        },
+        {
+          "name": {
+            "en": "San Germán"
+          },
+          "latitude": 20.60009,
+          "longitude": -76.13364
+        }
+      ]
+    },
+    {
+      "code": "CU-99",
+      "name": {
+        "en": "Isla de la Juventud"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Nueva Gerona"
+          },
+          "latitude": 21.88667,
+          "longitude": -82.80556
+        }
+      ]
+    },
+    {
+      "code": "CU-10",
+      "name": {
+        "en": "Las Tunas"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Amancio"
+          },
+          "latitude": 20.81914,
+          "longitude": -77.57958
+        },
+        {
+          "name": {
+            "en": "Colombia"
+          },
+          "latitude": 20.98812,
+          "longitude": -77.42598
+        },
+        {
+          "name": {
+            "en": "Jesús Menéndez"
+          },
+          "latitude": 21.16139,
+          "longitude": -76.47919
+        },
+        {
+          "name": {
+            "en": "Jobabo"
+          },
+          "latitude": 20.90748,
+          "longitude": -77.28194
+        },
+        {
+          "name": {
+            "en": "Las Tunas"
+          },
+          "latitude": 20.96167,
+          "longitude": -76.95111
+        },
+        {
+          "name": {
+            "en": "Manatí"
+          },
+          "latitude": 21.3107,
+          "longitude": -76.93403
+        },
+        {
+          "name": {
+            "en": "Puerto Padre"
+          },
+          "latitude": 21.19517,
+          "longitude": -76.60358
+        }
+      ]
+    },
+    {
+      "code": "CU-04",
+      "name": {
+        "en": "Matanzas"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Alacranes"
+          },
+          "latitude": 22.76719,
+          "longitude": -81.56803
+        },
+        {
+          "name": {
+            "en": "Bolondrón"
+          },
+          "latitude": 22.76307,
+          "longitude": -81.4478
+        },
+        {
+          "name": {
+            "en": "Calimete"
+          },
+          "latitude": 22.5342,
+          "longitude": -80.91105
+        },
+        {
+          "name": {
+            "en": "Cárdenas"
+          },
+          "latitude": 23.03661,
+          "longitude": -81.20596
+        },
+        {
+          "name": {
+            "en": "Colón"
+          },
+          "latitude": 22.72064,
+          "longitude": -80.90492
+        },
+        {
+          "name": {
+            "en": "Jagüey Grande"
+          },
+          "latitude": 22.52694,
+          "longitude": -81.12861
+        },
+        {
+          "name": {
+            "en": "Jovellanos"
+          },
+          "latitude": 22.80375,
+          "longitude": -81.19127
+        },
+        {
+          "name": {
+            "en": "Limonar"
+          },
+          "latitude": 22.95035,
+          "longitude": -81.41059
+        },
+        {
+          "name": {
+            "en": "Los Arabos"
+          },
+          "latitude": 22.72969,
+          "longitude": -80.72081
+        },
+        {
+          "name": {
+            "en": "Manguito"
+          },
+          "latitude": 22.58733,
+          "longitude": -80.91451
+        },
+        {
+          "name": {
+            "en": "Martí"
+          },
+          "latitude": 22.94714,
+          "longitude": -80.91902
+        },
+        {
+          "name": {
+            "en": "Matanzas"
+          },
+          "latitude": 23.04111,
+          "longitude": -81.5775
+        },
+        {
+          "name": {
+            "en": "Municipio de Cárdenas"
+          },
+          "latitude": 22.98978,
+          "longitude": -81.2352
+        },
+        {
+          "name": {
+            "en": "Municipio de Matanzas"
+          },
+          "latitude": 23.05,
+          "longitude": -81.58333
+        },
+        {
+          "name": {
+            "en": "Pedro Betancourt"
+          },
+          "latitude": 22.72709,
+          "longitude": -81.28963
+        },
+        {
+          "name": {
+            "en": "Perico"
+          },
+          "latitude": 22.76987,
+          "longitude": -81.0183
+        },
+        {
+          "name": {
+            "en": "Unión de Reyes"
+          },
+          "latitude": 22.79505,
+          "longitude": -81.53617
+        },
+        {
+          "name": {
+            "en": "Varadero"
+          },
+          "latitude": 23.15678,
+          "longitude": -81.24441
+        }
+      ]
+    },
+    {
+      "code": "CU-16",
+      "name": {
+        "en": "Mayabeque"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Batabanó"
+          },
+          "latitude": 22.71794,
+          "longitude": -82.28965
+        },
+        {
+          "name": {
+            "en": "Bejucal"
+          },
+          "latitude": 22.92861,
+          "longitude": -82.38861
+        },
+        {
+          "name": {
+            "en": "Güines"
+          },
+          "latitude": 22.83727,
+          "longitude": -82.02641
+        },
+        {
+          "name": {
+            "en": "Jamaica"
+          },
+          "latitude": 22.97559,
+          "longitude": -82.16852
+        },
+        {
+          "name": {
+            "en": "Jaruco"
+          },
+          "latitude": 23.04419,
+          "longitude": -82.00919
+        },
+        {
+          "name": {
+            "en": "La Salud"
+          },
+          "latitude": 22.87199,
+          "longitude": -82.42328
+        },
+        {
+          "name": {
+            "en": "Madruga"
+          },
+          "latitude": 22.91,
+          "longitude": -81.85639
+        },
+        {
+          "name": {
+            "en": "Municipio de Güines"
+          },
+          "latitude": 22.78712,
+          "longitude": -82.01602
+        },
+        {
+          "name": {
+            "en": "Municipio de Melena del Sur"
+          },
+          "latitude": 22.78821,
+          "longitude": -82.15113
+        },
+        {
+          "name": {
+            "en": "Quivicán"
+          },
+          "latitude": 22.82313,
+          "longitude": -82.35558
+        },
+        {
+          "name": {
+            "en": "San José de las Lajas"
+          },
+          "latitude": 22.96139,
+          "longitude": -82.15111
+        },
+        {
+          "name": {
+            "en": "San Nicolás de Bari"
+          },
+          "latitude": 22.78444,
+          "longitude": -81.91333
+        },
+        {
+          "name": {
+            "en": "Santa Cruz del Norte"
+          },
+          "latitude": 23.15424,
+          "longitude": -81.92556
+        }
+      ]
+    },
+    {
+      "code": "CU-01",
+      "name": {
+        "en": "Pinar del Río"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Consolación del Sur"
+          },
+          "latitude": 22.50419,
+          "longitude": -83.51442
+        },
+        {
+          "name": {
+            "en": "Guane"
+          },
+          "latitude": 22.20179,
+          "longitude": -84.08484
+        },
+        {
+          "name": {
+            "en": "Los Palacios"
+          },
+          "latitude": 22.58882,
+          "longitude": -83.24671
+        },
+        {
+          "name": {
+            "en": "Mantua"
+          },
+          "latitude": 22.29058,
+          "longitude": -84.28599
+        },
+        {
+          "name": {
+            "en": "Minas de Matahambre"
+          },
+          "latitude": 22.58691,
+          "longitude": -83.94551
+        },
+        {
+          "name": {
+            "en": "Municipio de Consolación del Sur"
+          },
+          "latitude": 22.44095,
+          "longitude": -83.41985
+        },
+        {
+          "name": {
+            "en": "Municipio de Guane"
+          },
+          "latitude": 22.24591,
+          "longitude": -84.0366
+        },
+        {
+          "name": {
+            "en": "Municipio de La Palma"
+          },
+          "latitude": 22.75,
+          "longitude": -83.55
+        },
+        {
+          "name": {
+            "en": "Municipio de Los Palacios"
+          },
+          "latitude": 22.58333,
+          "longitude": -83.25
+        },
+        {
+          "name": {
+            "en": "Pinar del Río"
+          },
+          "latitude": 22.41667,
+          "longitude": -83.69667
+        },
+        {
+          "name": {
+            "en": "Puerto Esperanza"
+          },
+          "latitude": 22.77041,
+          "longitude": -83.73138
+        },
+        {
+          "name": {
+            "en": "San Diego de Los Baños"
+          },
+          "latitude": 22.64667,
+          "longitude": -83.36972
+        },
+        {
+          "name": {
+            "en": "San Luis"
+          },
+          "latitude": 22.27898,
+          "longitude": -83.75956
+        },
+        {
+          "name": {
+            "en": "Viñales"
+          },
+          "latitude": 22.61892,
+          "longitude": -83.70694
+        }
+      ]
+    },
+    {
+      "code": "CU-07",
+      "name": {
+        "en": "Sancti Spíritus"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Cabaiguán"
+          },
+          "latitude": 22.07874,
+          "longitude": -79.49726
+        },
+        {
+          "name": {
+            "en": "Condado"
+          },
+          "latitude": 21.8767,
+          "longitude": -79.84014
+        },
+        {
+          "name": {
+            "en": "Fomento"
+          },
+          "latitude": 22.10475,
+          "longitude": -79.72141
+        },
+        {
+          "name": {
+            "en": "Guayos"
+          },
+          "latitude": 22.04956,
+          "longitude": -79.46106
+        },
+        {
+          "name": {
+            "en": "Jatibonico"
+          },
+          "latitude": 21.94333,
+          "longitude": -79.16906
+        },
+        {
+          "name": {
+            "en": "La Sierpe"
+          },
+          "latitude": 21.77241,
+          "longitude": -79.26832
+        },
+        {
+          "name": {
+            "en": "Municipio de Cabaiguán"
+          },
+          "latitude": 22.08333,
+          "longitude": -79.5
+        },
+        {
+          "name": {
+            "en": "Municipio de Jatibonico"
+          },
+          "latitude": 21.93333,
+          "longitude": -79.16667
+        },
+        {
+          "name": {
+            "en": "Municipio de Sancti Spíritus"
+          },
+          "latitude": 21.82176,
+          "longitude": -79.51036
+        },
+        {
+          "name": {
+            "en": "Municipio de Trinidad"
+          },
+          "latitude": 21.83195,
+          "longitude": -79.88362
+        },
+        {
+          "name": {
+            "en": "Sancti Spíritus"
+          },
+          "latitude": 21.92972,
+          "longitude": -79.4425
+        },
+        {
+          "name": {
+            "en": "Topes de Collantes"
+          },
+          "latitude": 21.91524,
+          "longitude": -80.01929
+        },
+        {
+          "name": {
+            "en": "Trinidad"
+          },
+          "latitude": 21.80224,
+          "longitude": -79.98467
+        },
+        {
+          "name": {
+            "en": "Yaguajay"
+          },
+          "latitude": 22.32691,
+          "longitude": -79.23567
+        },
+        {
+          "name": {
+            "en": "Zaza del Medio"
+          },
+          "latitude": 21.99712,
+          "longitude": -79.36678
+        }
+      ]
+    },
+    {
+      "code": "CU-13",
+      "name": {
+        "en": "Santiago de Cuba"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Contramaestre"
+          },
+          "latitude": 20.29879,
+          "longitude": -76.24511
+        },
+        {
+          "name": {
+            "en": "El Cobre"
+          },
+          "latitude": 20.0485,
+          "longitude": -75.94579
+        },
+        {
+          "name": {
+            "en": "Municipio de Palma Soriano"
+          },
+          "latitude": 20.20897,
+          "longitude": -76.05776
+        },
+        {
+          "name": {
+            "en": "Municipio de Santiago de Cuba"
+          },
+          "latitude": 20.00617,
+          "longitude": -75.70816
+        },
+        {
+          "name": {
+            "en": "Palma Soriano"
+          },
+          "latitude": 20.2113,
+          "longitude": -75.99362
+        },
+        {
+          "name": {
+            "en": "San Luis"
+          },
+          "latitude": 20.18809,
+          "longitude": -75.85031
+        },
+        {
+          "name": {
+            "en": "Santiago de Cuba"
+          },
+          "latitude": 20.02083,
+          "longitude": -75.82667
+        }
+      ]
+    },
+    {
+      "code": "CU-05",
+      "name": {
+        "en": "Villa Clara"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Caibarién"
+          },
+          "latitude": 22.51996,
+          "longitude": -79.46599
+        },
+        {
+          "name": {
+            "en": "Calabazar de Sagua"
+          },
+          "latitude": 22.64515,
+          "longitude": -79.8951
+        },
+        {
+          "name": {
+            "en": "Camajuaní"
+          },
+          "latitude": 22.48333,
+          "longitude": -79.75
+        },
+        {
+          "name": {
+            "en": "Cifuentes"
+          },
+          "latitude": 22.6493,
+          "longitude": -80.04935
+        },
+        {
+          "name": {
+            "en": "Corralillo"
+          },
+          "latitude": 22.98212,
+          "longitude": -80.58556
+        },
+        {
+          "name": {
+            "en": "Encrucijada"
+          },
+          "latitude": 22.61802,
+          "longitude": -79.86603
+        },
+        {
+          "name": {
+            "en": "Esperanza"
+          },
+          "latitude": 22.4468,
+          "longitude": -80.09711
+        },
+        {
+          "name": {
+            "en": "Isabela de Sagua"
+          },
+          "latitude": 22.93924,
+          "longitude": -80.01185
+        },
+        {
+          "name": {
+            "en": "Manicaragua"
+          },
+          "latitude": 22.15021,
+          "longitude": -79.97867
+        },
+        {
+          "name": {
+            "en": "Municipio de Placetas"
+          },
+          "latitude": 22.22248,
+          "longitude": -79.74268
+        },
+        {
+          "name": {
+            "en": "Municipio de Santa Clara"
+          },
+          "latitude": 22.4,
+          "longitude": -79.96667
+        },
+        {
+          "name": {
+            "en": "Placetas"
+          },
+          "latitude": 22.31184,
+          "longitude": -79.6544
+        },
+        {
+          "name": {
+            "en": "Quemado de Güines"
+          },
+          "latitude": 22.78816,
+          "longitude": -80.25226
+        },
+        {
+          "name": {
+            "en": "Rancho Veloz"
+          },
+          "latitude": 22.88042,
+          "longitude": -80.39098
+        },
+        {
+          "name": {
+            "en": "Ranchuelo"
+          },
+          "latitude": 22.37266,
+          "longitude": -80.15046
+        },
+        {
+          "name": {
+            "en": "Sagua la Grande"
+          },
+          "latitude": 22.80667,
+          "longitude": -80.07556
+        },
+        {
+          "name": {
+            "en": "Santa Clara"
+          },
+          "latitude": 22.40694,
+          "longitude": -79.96472
+        },
+        {
+          "name": {
+            "en": "Santo Domingo"
+          },
+          "latitude": 22.58677,
+          "longitude": -80.24261
+        }
+      ]
+    }
+  ]
+}

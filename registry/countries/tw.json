@@ -1,0 +1,475 @@
+{
+  "code": "TW",
+  "iso3": "TWN",
+  "name": {
+    "en": "Taiwan",
+    "ar": "تايوان",
+    "de": "Taiwan",
+    "es": "Taiwán",
+    "fr": "Taïwan",
+    "hi": "ताइवान",
+    "it": "Taiwan",
+    "ja": "台湾（中華民国）",
+    "ko": "대만",
+    "nl": "Taiwan",
+    "pl": "Tajwan",
+    "pt": "Taiwan",
+    "pt-BR": "Taiwan",
+    "ru": "Тайвань",
+    "tr": "Tayvan",
+    "uk": "Тайвань",
+    "zh": "中国台湾"
+  },
+  "phone": "+886",
+  "currency": "TWD",
+  "timezone": "Asia/Taipei",
+  "flag": "🇹🇼",
+  "regions": [
+    {
+      "code": "TW-CHA",
+      "name": {
+        "en": "Changhua"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Changhua"
+          },
+          "latitude": 23.95361,
+          "longitude": 120.49083
+        },
+        {
+          "name": {
+            "en": "Yuanlin"
+          },
+          "latitude": 23.95671,
+          "longitude": 120.57608
+        }
+      ]
+    },
+    {
+      "code": "TW-CYI",
+      "name": {
+        "en": "Chiayi"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Chiayi"
+          },
+          "latitude": 23.47722,
+          "longitude": 120.44527
+        },
+        {
+          "name": {
+            "en": "Pizitou"
+          },
+          "latitude": 23.48556,
+          "longitude": 120.44472
+        }
+      ]
+    },
+    {
+      "code": "TW-CYQ",
+      "name": {
+        "en": "Chiayi County"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Budai"
+          },
+          "latitude": 23.36,
+          "longitude": 120.17
+        },
+        {
+          "name": {
+            "en": "Chiayi"
+          },
+          "latitude": 23.46333,
+          "longitude": 120.58166
+        },
+        {
+          "name": {
+            "en": "Dalin"
+          },
+          "latitude": 23.59888889,
+          "longitude": 120.47
+        },
+        {
+          "name": {
+            "en": "Minxiong"
+          },
+          "latitude": 23.550399,
+          "longitude": 120.445696
+        }
+      ]
+    },
+    {
+      "code": "TW-HSZ",
+      "name": {
+        "en": "Hsinchu"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Hsinchu"
+          },
+          "latitude": 24.67416,
+          "longitude": 121.16111
+        }
+      ]
+    },
+    {
+      "code": "TW-HSQ",
+      "name": {
+        "en": "Hsinchu County"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Hsinchu",
+            "ar": "سين شو"
+          },
+          "latitude": 24.80361,
+          "longitude": 120.96861
+        },
+        {
+          "name": {
+            "en": "Hukou"
+          },
+          "latitude": 24.9,
+          "longitude": 121.05
+        },
+        {
+          "name": {
+            "en": "Zhubei"
+          },
+          "latitude": 24.83333333,
+          "longitude": 121.01194444
+        }
+      ]
+    },
+    {
+      "code": "TW-HUA",
+      "name": {
+        "en": "Hualien"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Hualien"
+          },
+          "latitude": 23.78166,
+          "longitude": 121.39333
+        }
+      ]
+    },
+    {
+      "code": "TW-KHH",
+      "name": {
+        "en": "Kaohsiung"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Kaohsiung",
+            "ar": "كاوهسيونغ"
+          },
+          "latitude": 22.61626,
+          "longitude": 120.31333
+        }
+      ]
+    },
+    {
+      "code": "TW-KIN",
+      "name": {
+        "en": "Kinmen"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Jincheng"
+          },
+          "latitude": 24.43415,
+          "longitude": 118.31712
+        },
+        {
+          "name": {
+            "en": "Kinmen"
+          },
+          "latitude": 24.45333,
+          "longitude": 118.38861
+        }
+      ]
+    },
+    {
+      "code": "TW-LIE",
+      "name": {
+        "en": "Lienchiang"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Lienchiang"
+          },
+          "latitude": 26.37004,
+          "longitude": 120.49545
+        },
+        {
+          "name": {
+            "en": "Nangan"
+          },
+          "latitude": 26.15039,
+          "longitude": 119.93284
+        }
+      ]
+    },
+    {
+      "code": "TW-MIA",
+      "name": {
+        "en": "Miaoli"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Miaoli"
+          },
+          "latitude": 24.48972,
+          "longitude": 120.90638
+        }
+      ]
+    },
+    {
+      "code": "TW-NAN",
+      "name": {
+        "en": "Nantou"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Lugu"
+          },
+          "latitude": 23.74639,
+          "longitude": 120.7525
+        },
+        {
+          "name": {
+            "en": "Nantou"
+          },
+          "latitude": 23.83419,
+          "longitude": 120.92704
+        },
+        {
+          "name": {
+            "en": "Puli"
+          },
+          "latitude": 23.96639,
+          "longitude": 120.96952
+        },
+        {
+          "name": {
+            "en": "Zhongxing New Village"
+          },
+          "latitude": 23.95908,
+          "longitude": 120.68516
+        }
+      ]
+    },
+    {
+      "code": "TW-PEN",
+      "name": {
+        "en": "Penghu"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Magong",
+            "ar": "ماغونغ"
+          },
+          "latitude": 23.5654,
+          "longitude": 119.58627
+        },
+        {
+          "name": {
+            "en": "Penghu"
+          },
+          "latitude": 23.57111,
+          "longitude": 119.61138
+        }
+      ]
+    },
+    {
+      "code": "TW-PIF",
+      "name": {
+        "en": "Pingtung"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Donggang"
+          },
+          "latitude": 22.46515,
+          "longitude": 120.44927
+        },
+        {
+          "name": {
+            "en": "Hengchun"
+          },
+          "latitude": 22.00417,
+          "longitude": 120.74389
+        },
+        {
+          "name": {
+            "en": "Pingtung"
+          },
+          "latitude": 22.49555,
+          "longitude": 120.61444
+        }
+      ]
+    },
+    {
+      "code": "TW-TXG",
+      "name": {
+        "en": "Taichung"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Taichung",
+            "ar": "تاي شانغ"
+          },
+          "latitude": 24.1469,
+          "longitude": 120.6839
+        }
+      ]
+    },
+    {
+      "code": "TW-TNN",
+      "name": {
+        "en": "Tainan"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Tainan",
+            "ar": "تاينان"
+          },
+          "latitude": 22.99083,
+          "longitude": 120.21333
+        },
+        {
+          "name": {
+            "en": "Yujing"
+          },
+          "latitude": 23.12493,
+          "longitude": 120.46138
+        }
+      ]
+    },
+    {
+      "code": "TW-TPE",
+      "name": {
+        "en": "Taipei"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Banqiao"
+          },
+          "latitude": 25.01427,
+          "longitude": 121.46719
+        },
+        {
+          "name": {
+            "en": "Jiufen"
+          },
+          "latitude": 25.10957,
+          "longitude": 121.84424
+        },
+        {
+          "name": {
+            "en": "Taipei",
+            "ar": "تايبيه"
+          },
+          "latitude": 25.04776,
+          "longitude": 121.53185
+        }
+      ]
+    },
+    {
+      "code": "TW-TTT",
+      "name": {
+        "en": "Taitung"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Taitung"
+          },
+          "latitude": 22.88361,
+          "longitude": 121.04833
+        }
+      ]
+    },
+    {
+      "code": "TW-TAO",
+      "name": {
+        "en": "Taoyuan"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Daxi"
+          },
+          "latitude": 24.88373,
+          "longitude": 121.29043
+        },
+        {
+          "name": {
+            "en": "Taoyuan"
+          },
+          "latitude": 24.895,
+          "longitude": 121.24611
+        }
+      ]
+    },
+    {
+      "code": "TW-ILA",
+      "name": {
+        "en": "Yilan"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Yilan"
+          },
+          "latitude": 24.5425,
+          "longitude": 121.63361
+        }
+      ]
+    },
+    {
+      "code": "TW-YUN",
+      "name": {
+        "en": "Yunlin"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Douliu"
+          },
+          "latitude": 23.70944,
+          "longitude": 120.54333
+        },
+        {
+          "name": {
+            "en": "Yunlin"
+          },
+          "latitude": 23.70701,
+          "longitude": 120.38481
+        }
+      ]
+    }
+  ]
+}

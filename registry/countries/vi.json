@@ -1,0 +1,193 @@
+{
+  "code": "VI",
+  "iso3": "VIR",
+  "name": {
+    "en": "Virgin Islands (US)",
+    "ar": "جزر فيرجن (الولايات المتحدة)",
+    "de": "Amerikanische Jungferninseln",
+    "es": "Islas Vírgenes de los Estados Unidos",
+    "fr": "Îles Vierges des États-Unis",
+    "hi": "वर्जिन आइलैंड्स (यूएस)",
+    "it": "Isole Vergini americane",
+    "ja": "アメリカ領ヴァージン諸島",
+    "ko": "미국령 버진아일랜드",
+    "nl": "Verenigde Staten Maagdeneilanden",
+    "pl": "Wyspy Dziewicze (USA)",
+    "pt": "Ilhas Virgens Americanas",
+    "pt-BR": "Ilhas Virgens Americanas",
+    "ru": "Виргинские острова (США)",
+    "tr": "Abd Virjin Adalari",
+    "uk": "Віргінські острови (США)",
+    "zh": "维尔京群岛（美国）"
+  },
+  "phone": "+1",
+  "currency": "USD",
+  "timezone": "America/St_Thomas",
+  "flag": "🇻🇮",
+  "regions": [
+    {
+      "code": "VI-SC",
+      "name": {
+        "en": "Saint Croix"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Christiansted"
+          },
+          "latitude": 17.7440364,
+          "longitude": -64.7106086
+        },
+        {
+          "name": {
+            "en": "East End"
+          },
+          "latitude": 17.7523882,
+          "longitude": -64.670301
+        },
+        {
+          "name": {
+            "en": "Frederiksted"
+          },
+          "latitude": 17.7124691,
+          "longitude": -64.8867192
+        },
+        {
+          "name": {
+            "en": "Good Hope"
+          },
+          "latitude": 17.7223442,
+          "longitude": -64.7172494
+        },
+        {
+          "name": {
+            "en": "Northcentral"
+          },
+          "latitude": 17.7501145,
+          "longitude": -64.8238491
+        },
+        {
+          "name": {
+            "en": "Northwest"
+          },
+          "latitude": 17.7382782,
+          "longitude": -64.8906347
+        },
+        {
+          "name": {
+            "en": "Sion Farm"
+          },
+          "latitude": 17.7543276,
+          "longitude": -64.7794611
+        },
+        {
+          "name": {
+            "en": "Southcentral"
+          },
+          "latitude": 17.7064917,
+          "longitude": -64.8144865
+        },
+        {
+          "name": {
+            "en": "Southwest"
+          },
+          "latitude": 17.6917787,
+          "longitude": -64.9355939
+        }
+      ]
+    },
+    {
+      "code": "VI-SJ",
+      "name": {
+        "en": "Saint John"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Central"
+          },
+          "latitude": 18.3356838,
+          "longitude": -64.7947078
+        },
+        {
+          "name": {
+            "en": "Coral Bay"
+          },
+          "latitude": 18.3480089,
+          "longitude": -64.7219682
+        },
+        {
+          "name": {
+            "en": "Cruz Bay"
+          },
+          "latitude": 18.3182037,
+          "longitude": -64.8024211
+        },
+        {
+          "name": {
+            "en": "East End"
+          },
+          "latitude": 18.3403647,
+          "longitude": -64.6806266
+        }
+      ]
+    },
+    {
+      "code": "VI-ST",
+      "name": {
+        "en": "Saint Thomas"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Charlotte Amalie"
+          },
+          "latitude": 18.3412761,
+          "longitude": -64.9483869
+        },
+        {
+          "name": {
+            "en": "East End"
+          },
+          "latitude": 18.3290162,
+          "longitude": -64.8704731
+        },
+        {
+          "name": {
+            "en": "Northside"
+          },
+          "latitude": 18.3738081,
+          "longitude": -64.9558909
+        },
+        {
+          "name": {
+            "en": "Southside"
+          },
+          "latitude": 18.3052912,
+          "longitude": -64.9172445
+        },
+        {
+          "name": {
+            "en": "Tutu"
+          },
+          "latitude": 18.3388427,
+          "longitude": -64.8953072
+        },
+        {
+          "name": {
+            "en": "Water Island"
+          },
+          "latitude": 18.3208653,
+          "longitude": -64.9693263
+        },
+        {
+          "name": {
+            "en": "West End"
+          },
+          "latitude": 18.3724367,
+          "longitude": -65.0649013
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "code": "VC",
+  "iso3": "VCT",
+  "name": {
+    "en": "Saint Vincent and the Grenadines",
+    "ar": "القديس فنسنت وجرينادين",
+    "de": "Saint Vincent und die Grenadinen",
+    "es": "San Vicente y Granadinas",
+    "fr": "Saint-Vincent-et-les-Grenadines",
+    "hi": "संत विंसेंट अँड थे ग्रेनडीनेस",
+    "it": "Saint Vincent e Grenadine",
+    "ja": "セントビンセントおよびグレナディーン諸島",
+    "ko": "세인트빈센트 그레나딘",
+    "nl": "Saint Vincent en de Grenadines",
+    "pl": "Saint Vincent i Grenadyny",
+    "pt": "São Vicente e Granadinas",
+    "pt-BR": "São Vicente e Granadinas",
+    "ru": "Сент-Винсент и Гренадины",
+    "tr": "Saint Vincent Ve Grenadinler",
+    "uk": "Сент-Вінсент і Гренадини",
+    "zh": "圣文森特和格林纳丁斯"
+  },
+  "phone": "+1",
+  "currency": "XCD",
+  "timezone": "America/St_Vincent",
+  "flag": "🇻🇨",
+  "regions": [
+    {
+      "code": "VC-01",
+      "name": {
+        "en": "Charlotte"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Biabou"
+          },
+          "latitude": 13.1943,
+          "longitude": -61.13904
+        },
+        {
+          "name": {
+            "en": "Byera Village"
+          },
+          "latitude": 13.25636,
+          "longitude": -61.11954
+        },
+        {
+          "name": {
+            "en": "Georgetown"
+          },
+          "latitude": 13.28054,
+          "longitude": -61.1185
+        }
+      ]
+    },
+    {
+      "code": "VC-06",
+      "name": {
+        "en": "Grenadines"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Port Elizabeth"
+          },
+          "latitude": 13.01102,
+          "longitude": -61.23548
+        }
+      ]
+    },
+    {
+      "code": "VC-02",
+      "name": {
+        "en": "Saint Andrew"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Layou"
+          },
+          "latitude": 13.20175,
+          "longitude": -61.27014
+        }
+      ]
+    },
+    {
+      "code": "VC-03",
+      "name": {
+        "en": "Saint David"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Chateaubelair"
+          },
+          "latitude": 13.29069,
+          "longitude": -61.24043
+        }
+      ]
+    },
+    {
+      "code": "VC-04",
+      "name": {
+        "en": "Saint George"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Kingstown",
+            "ar": "كينغستاون"
+          },
+          "latitude": 13.15527,
+          "longitude": -61.22742
+        },
+        {
+          "name": {
+            "en": "Kingstown Park",
+            "ar": "كينغستاون"
+          },
+          "latitude": 13.15924,
+          "longitude": -61.23161
+        }
+      ]
+    },
+    {
+      "code": "VC-05",
+      "name": {
+        "en": "Saint Patrick"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Barrouallie"
+          },
+          "latitude": 13.23676,
+          "longitude": -61.27275
+        }
+      ]
+    }
+  ]
+}

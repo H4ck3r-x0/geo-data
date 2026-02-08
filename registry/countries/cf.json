@@ -1,0 +1,459 @@
+{
+  "code": "CF",
+  "iso3": "CAF",
+  "name": {
+    "en": "Central African Republic",
+    "ar": "جمهورية أفريقيا الوسطى",
+    "de": "Zentralafrikanische Republik",
+    "es": "República Centroafricana",
+    "fr": "République centrafricaine",
+    "hi": "केन्द्रीय अफ़्रीकी गणराज्य",
+    "it": "Repubblica Centrafricana",
+    "ja": "中央アフリカ共和国",
+    "ko": "중앙아프리카 공화국",
+    "nl": "Centraal-Afrikaanse Republiek",
+    "pl": "Republika Środkowoafrykańska",
+    "pt": "República Centro-Africana",
+    "pt-BR": "República Centro-Africana",
+    "ru": "Центральноафриканская Республика",
+    "tr": "Orta Afrika Cumhuriyeti",
+    "uk": "Центральноафриканська Республіка",
+    "zh": "中非"
+  },
+  "phone": "+236",
+  "currency": "XAF",
+  "timezone": "Africa/Bangui",
+  "flag": "🇨🇫",
+  "regions": [
+    {
+      "code": "CF-BB",
+      "name": {
+        "en": "Bamingui-Bangoran"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bamingui"
+          },
+          "latitude": 7.88897,
+          "longitude": 20.04875
+        },
+        {
+          "name": {
+            "en": "Ndélé"
+          },
+          "latitude": 8.74287,
+          "longitude": 20.89108
+        }
+      ]
+    },
+    {
+      "code": "CF-BGF",
+      "name": {
+        "en": "Bangui"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bangui"
+          },
+          "latitude": 4.36122,
+          "longitude": 18.55496
+        }
+      ]
+    },
+    {
+      "code": "CF-BK",
+      "name": {
+        "en": "Basse-Kotto"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Alindao"
+          },
+          "latitude": 5.02667,
+          "longitude": 21.20876
+        },
+        {
+          "name": {
+            "en": "Kembé"
+          },
+          "latitude": 4.62275,
+          "longitude": 21.88645
+        },
+        {
+          "name": {
+            "en": "Mobaye"
+          },
+          "latitude": 4.31902,
+          "longitude": 21.17861
+        }
+      ]
+    },
+    {
+      "code": "CF-HM",
+      "name": {
+        "en": "Haut-Mbomou"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Obo"
+          },
+          "latitude": 5.39586,
+          "longitude": 26.49211
+        },
+        {
+          "name": {
+            "en": "Zemio"
+          },
+          "latitude": 5.03144,
+          "longitude": 25.13614
+        }
+      ]
+    },
+    {
+      "code": "CF-HK",
+      "name": {
+        "en": "Haute-Kotto"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bria"
+          },
+          "latitude": 6.54233,
+          "longitude": 21.98633
+        },
+        {
+          "name": {
+            "en": "Ouadda"
+          },
+          "latitude": 8.07771,
+          "longitude": 22.40075
+        }
+      ]
+    },
+    {
+      "code": "CF-KG",
+      "name": {
+        "en": "Kémo"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Sibut"
+          },
+          "latitude": 5.71801,
+          "longitude": 19.07389
+        }
+      ]
+    },
+    {
+      "code": "CF-LB",
+      "name": {
+        "en": "Lobaye"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Boda"
+          },
+          "latitude": 4.31887,
+          "longitude": 17.46953
+        },
+        {
+          "name": {
+            "en": "Boganangone"
+          },
+          "latitude": 4.73558,
+          "longitude": 17.14047
+        },
+        {
+          "name": {
+            "en": "Mbaiki"
+          },
+          "latitude": 3.97145,
+          "longitude": 17.93352
+        },
+        {
+          "name": {
+            "en": "Mongoumba"
+          },
+          "latitude": 3.64153,
+          "longitude": 18.59364
+        }
+      ]
+    },
+    {
+      "code": "CF-HS",
+      "name": {
+        "en": "Mambéré-Kadéï"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Berberati"
+          },
+          "latitude": 4.31211,
+          "longitude": 15.88948
+        },
+        {
+          "name": {
+            "en": "Carnot"
+          },
+          "latitude": 4.94273,
+          "longitude": 15.87735
+        },
+        {
+          "name": {
+            "en": "Gamboula"
+          },
+          "latitude": 4.11775,
+          "longitude": 15.13926
+        }
+      ]
+    },
+    {
+      "code": "CF-MB",
+      "name": {
+        "en": "Mbomou"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bangassou"
+          },
+          "latitude": 4.74132,
+          "longitude": 22.81838
+        },
+        {
+          "name": {
+            "en": "Gambo"
+          },
+          "latitude": 4.64816,
+          "longitude": 22.26331
+        },
+        {
+          "name": {
+            "en": "Ouango"
+          },
+          "latitude": 4.31325,
+          "longitude": 22.55524
+        },
+        {
+          "name": {
+            "en": "Rafai"
+          },
+          "latitude": 5.81012,
+          "longitude": 24.20305
+        }
+      ]
+    },
+    {
+      "code": "CF-KB",
+      "name": {
+        "en": "Nana-Grébizi"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Kaga Bandoro"
+          },
+          "latitude": 6.98961,
+          "longitude": 19.18744
+        }
+      ]
+    },
+    {
+      "code": "CF-NM",
+      "name": {
+        "en": "Nana-Mambéré"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Baoro"
+          },
+          "latitude": 5.66667,
+          "longitude": 15.96667
+        },
+        {
+          "name": {
+            "en": "Bouar"
+          },
+          "latitude": 5.93404,
+          "longitude": 15.59599
+        }
+      ]
+    },
+    {
+      "code": "CF-MP",
+      "name": {
+        "en": "Ombella-M'Poko"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bimbo"
+          },
+          "latitude": 4.25671,
+          "longitude": 18.41583
+        },
+        {
+          "name": {
+            "en": "Boali"
+          },
+          "latitude": 4.80048,
+          "longitude": 18.12747
+        },
+        {
+          "name": {
+            "en": "Damara"
+          },
+          "latitude": 4.96075,
+          "longitude": 18.7035
+        }
+      ]
+    },
+    {
+      "code": "CF-UK",
+      "name": {
+        "en": "Ouaka"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bambari"
+          },
+          "latitude": 5.76795,
+          "longitude": 20.67565
+        },
+        {
+          "name": {
+            "en": "Grimari"
+          },
+          "latitude": 5.73549,
+          "longitude": 19.91209
+        },
+        {
+          "name": {
+            "en": "Ippy"
+          },
+          "latitude": 6.26793,
+          "longitude": 21.22468
+        },
+        {
+          "name": {
+            "en": "Kouango"
+          },
+          "latitude": 4.99337,
+          "longitude": 19.96186
+        }
+      ]
+    },
+    {
+      "code": "CF-AC",
+      "name": {
+        "en": "Ouham"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Batangafo"
+          },
+          "latitude": 7.30082,
+          "longitude": 18.2833
+        },
+        {
+          "name": {
+            "en": "Bossangoa"
+          },
+          "latitude": 6.49263,
+          "longitude": 17.45518
+        },
+        {
+          "name": {
+            "en": "Bouca"
+          },
+          "latitude": 6.50734,
+          "longitude": 18.2767
+        },
+        {
+          "name": {
+            "en": "Kabo"
+          },
+          "latitude": 7.69937,
+          "longitude": 18.62903
+        }
+      ]
+    },
+    {
+      "code": "CF-OP",
+      "name": {
+        "en": "Ouham-Pendé"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bocaranga"
+          },
+          "latitude": 6.76546,
+          "longitude": 15.77873
+        },
+        {
+          "name": {
+            "en": "Bozoum"
+          },
+          "latitude": 6.31933,
+          "longitude": 16.37992
+        },
+        {
+          "name": {
+            "en": "Paoua"
+          },
+          "latitude": 7.24269,
+          "longitude": 16.44059
+        }
+      ]
+    },
+    {
+      "code": "CF-SE",
+      "name": {
+        "en": "Sangha-Mbaéré"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Nola"
+          },
+          "latitude": 3.52494,
+          "longitude": 16.04583
+        }
+      ]
+    },
+    {
+      "code": "CF-VK",
+      "name": {
+        "en": "Vakaga"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Birao"
+          },
+          "latitude": 10.28488,
+          "longitude": 22.78818
+        },
+        {
+          "name": {
+            "en": "Ouanda-Djallé"
+          },
+          "latitude": 9.05877,
+          "longitude": 22.42741
+        }
+      ]
+    }
+  ]
+}

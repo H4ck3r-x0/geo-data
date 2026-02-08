@@ -1,0 +1,326 @@
+{
+  "code": "TT",
+  "iso3": "TTO",
+  "name": {
+    "en": "Trinidad and Tobago",
+    "ar": "ترينيداد وتوباغو",
+    "de": "Trinidad und Tobago",
+    "es": "Trinidad y Tobago",
+    "fr": "Trinité et Tobago",
+    "hi": "त्रिनिदाद और टोबैगो",
+    "it": "Trinidad e Tobago",
+    "ja": "トリニダード・トバゴ",
+    "ko": "트리니다드 토바고",
+    "nl": "Trinidad en Tobago",
+    "pl": "Trynidad i Tobago",
+    "pt": "Trindade e Tobago",
+    "pt-BR": "Trinidad e Tobago",
+    "ru": "Тринидад и Тобаго",
+    "tr": "Trinidad Ve Tobago",
+    "uk": "Тринідад і Тобаго",
+    "zh": "特立尼达和多巴哥"
+  },
+  "phone": "+1",
+  "currency": "TTD",
+  "timezone": "America/Port_of_Spain",
+  "flag": "🇹🇹",
+  "regions": [
+    {
+      "code": "TT-ARI",
+      "name": {
+        "en": "Arima"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Arima"
+          },
+          "latitude": 10.63737,
+          "longitude": -61.28228
+        }
+      ]
+    },
+    {
+      "code": "TT-CHA",
+      "name": {
+        "en": "Chaguanas"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Chaguanas"
+          },
+          "latitude": 10.51667,
+          "longitude": -61.41667
+        },
+        {
+          "name": {
+            "en": "Ward of Chaguanas"
+          },
+          "latitude": 10.5,
+          "longitude": -61.38333
+        }
+      ]
+    },
+    {
+      "code": "TT-CTT",
+      "name": {
+        "en": "Couva-Tabaquite-Talparo"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Couva"
+          },
+          "latitude": 10.42248,
+          "longitude": -61.46748
+        },
+        {
+          "name": {
+            "en": "Tabaquite"
+          },
+          "latitude": 10.38824,
+          "longitude": -61.29704
+        }
+      ]
+    },
+    {
+      "code": "TT-DMN",
+      "name": {
+        "en": "Diego Martin"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Petit Valley"
+          },
+          "latitude": 10.69974,
+          "longitude": -61.54717
+        },
+        {
+          "name": {
+            "en": "Ward of Diego Martin"
+          },
+          "latitude": 10.7,
+          "longitude": -61.58333
+        }
+      ]
+    },
+    {
+      "code": "TT-PED",
+      "name": {
+        "en": "Penal-Debe"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Debe"
+          },
+          "latitude": 10.20846,
+          "longitude": -61.45273
+        },
+        {
+          "name": {
+            "en": "Peñal"
+          },
+          "latitude": 10.16667,
+          "longitude": -61.46667
+        }
+      ]
+    },
+    {
+      "code": "TT-PTF",
+      "name": {
+        "en": "Point Fortin"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Point Fortin"
+          },
+          "latitude": 10.17411,
+          "longitude": -61.68407
+        }
+      ]
+    },
+    {
+      "code": "TT-POS",
+      "name": {
+        "en": "Port of Spain"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Mucurapo"
+          },
+          "latitude": 10.66253,
+          "longitude": -61.53697
+        },
+        {
+          "name": {
+            "en": "Port of Spain",
+            "ar": "بورت أوف سبين"
+          },
+          "latitude": 10.66668,
+          "longitude": -61.51889
+        }
+      ]
+    },
+    {
+      "code": "TT-PRT",
+      "name": {
+        "en": "Princes Town"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Princes Town"
+          },
+          "latitude": 10.27184,
+          "longitude": -61.37103
+        }
+      ]
+    },
+    {
+      "code": "TT-MRC",
+      "name": {
+        "en": "Rio Claro-Mayaro"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Rio Claro"
+          },
+          "latitude": 10.30594,
+          "longitude": -61.17556
+        }
+      ]
+    },
+    {
+      "code": "TT-SFO",
+      "name": {
+        "en": "San Fernando"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Marabella",
+            "ar": "مارابيا"
+          },
+          "latitude": 10.30618,
+          "longitude": -61.44671
+        },
+        {
+          "name": {
+            "en": "Mon Repos"
+          },
+          "latitude": 10.27979,
+          "longitude": -61.4459
+        },
+        {
+          "name": {
+            "en": "San Fernando"
+          },
+          "latitude": 10.27969,
+          "longitude": -61.46835
+        }
+      ]
+    },
+    {
+      "code": "TT-SJL",
+      "name": {
+        "en": "San Juan-Laventille"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Laventille"
+          },
+          "latitude": 10.64917,
+          "longitude": -61.49889
+        }
+      ]
+    },
+    {
+      "code": "TT-SGE",
+      "name": {
+        "en": "Sangre Grande"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Sangre Grande"
+          },
+          "latitude": 10.58705,
+          "longitude": -61.13008
+        }
+      ]
+    },
+    {
+      "code": "TT-SIP",
+      "name": {
+        "en": "Siparia"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Siparia"
+          },
+          "latitude": 10.14525,
+          "longitude": -61.5074
+        },
+        {
+          "name": {
+            "en": "Ward of Siparia"
+          },
+          "latitude": 10.15,
+          "longitude": -61.46667
+        }
+      ]
+    },
+    {
+      "code": "TT-TOB",
+      "name": {
+        "en": "Tobago"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Scarborough"
+          },
+          "latitude": 11.18229,
+          "longitude": -60.73525
+        }
+      ]
+    },
+    {
+      "code": "TT-TUP",
+      "name": {
+        "en": "Tunapuna-Piarco"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Arouca"
+          },
+          "latitude": 10.62877,
+          "longitude": -61.33487
+        },
+        {
+          "name": {
+            "en": "Paradise"
+          },
+          "latitude": 10.65298,
+          "longitude": -61.36298
+        },
+        {
+          "name": {
+            "en": "Tunapuna"
+          },
+          "latitude": 10.65245,
+          "longitude": -61.38878
+        }
+      ]
+    }
+  ]
+}

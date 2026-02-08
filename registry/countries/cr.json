@@ -1,0 +1,1200 @@
+{
+  "code": "CR",
+  "iso3": "CRI",
+  "name": {
+    "en": "Costa Rica",
+    "ar": "كوستاريكا",
+    "de": "Costa Rica",
+    "es": "Costa Rica",
+    "fr": "Costa Rica",
+    "hi": "कोस्टा रिका",
+    "it": "Costa Rica",
+    "ja": "コスタリカ",
+    "ko": "코스타리카",
+    "nl": "Costa Rica",
+    "pl": "Kostaryka",
+    "pt": "Costa Rica",
+    "pt-BR": "Costa Rica",
+    "ru": "Коста-Рика",
+    "tr": "Kosta Rika",
+    "uk": "Коста-Ріка",
+    "zh": "哥斯达黎加"
+  },
+  "phone": "+506",
+  "currency": "CRC",
+  "timezone": "America/Costa_Rica",
+  "flag": "🇨🇷",
+  "regions": [
+    {
+      "code": "CR-A",
+      "name": {
+        "en": "Alajuela"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Alajuela",
+            "ar": "ألاخويلا"
+          },
+          "latitude": 10.01625,
+          "longitude": -84.21163
+        },
+        {
+          "name": {
+            "en": "Atenas"
+          },
+          "latitude": 9.98333,
+          "longitude": -84.38333
+        },
+        {
+          "name": {
+            "en": "Bijagua"
+          },
+          "latitude": 10.73279,
+          "longitude": -85.05676
+        },
+        {
+          "name": {
+            "en": "Carrillos"
+          },
+          "latitude": 10.02918,
+          "longitude": -84.27403
+        },
+        {
+          "name": {
+            "en": "Desamparados"
+          },
+          "latitude": 9.94727,
+          "longitude": -84.50626
+        },
+        {
+          "name": {
+            "en": "Esquipulas"
+          },
+          "latitude": 10.05676,
+          "longitude": -84.42337
+        },
+        {
+          "name": {
+            "en": "Grecia"
+          },
+          "latitude": 10.06892,
+          "longitude": -84.31458
+        },
+        {
+          "name": {
+            "en": "Guatuso"
+          },
+          "latitude": 10.66667,
+          "longitude": -84.83333
+        },
+        {
+          "name": {
+            "en": "La Fortuna"
+          },
+          "latitude": 10.47089,
+          "longitude": -84.64535
+        },
+        {
+          "name": {
+            "en": "Los Chiles"
+          },
+          "latitude": 10.86667,
+          "longitude": -84.66667
+        },
+        {
+          "name": {
+            "en": "Naranjo"
+          },
+          "latitude": 10.11667,
+          "longitude": -84.4
+        },
+        {
+          "name": {
+            "en": "Orotina"
+          },
+          "latitude": 9.9,
+          "longitude": -84.56667
+        },
+        {
+          "name": {
+            "en": "Palmares"
+          },
+          "latitude": 10.03333,
+          "longitude": -84.43333
+        },
+        {
+          "name": {
+            "en": "Pital"
+          },
+          "latitude": 10.45056,
+          "longitude": -84.27406
+        },
+        {
+          "name": {
+            "en": "Poás"
+          },
+          "latitude": 10.08333,
+          "longitude": -84.23333
+        },
+        {
+          "name": {
+            "en": "Pocosol"
+          },
+          "latitude": 10.36667,
+          "longitude": -84.61667
+        },
+        {
+          "name": {
+            "en": "Quesada"
+          },
+          "latitude": 10.32381,
+          "longitude": -84.42714
+        },
+        {
+          "name": {
+            "en": "Río Segundo"
+          },
+          "latitude": 10.24138,
+          "longitude": -84.27933
+        },
+        {
+          "name": {
+            "en": "Sabanilla"
+          },
+          "latitude": 10.07404,
+          "longitude": -84.21551
+        },
+        {
+          "name": {
+            "en": "San Carlos"
+          },
+          "latitude": 10.58333,
+          "longitude": -84.41667
+        },
+        {
+          "name": {
+            "en": "San José"
+          },
+          "latitude": 10.95173,
+          "longitude": -85.1361
+        },
+        {
+          "name": {
+            "en": "San Juan"
+          },
+          "latitude": 10.10248,
+          "longitude": -84.31694
+        },
+        {
+          "name": {
+            "en": "San Mateo"
+          },
+          "latitude": 9.95,
+          "longitude": -84.51667
+        },
+        {
+          "name": {
+            "en": "San Rafael"
+          },
+          "latitude": 10.06403,
+          "longitude": -84.47281
+        },
+        {
+          "name": {
+            "en": "San Ramón"
+          },
+          "latitude": 10.08718,
+          "longitude": -84.47044
+        },
+        {
+          "name": {
+            "en": "Santiago"
+          },
+          "latitude": 10.02275,
+          "longitude": -84.4442
+        },
+        {
+          "name": {
+            "en": "Upala"
+          },
+          "latitude": 10.85,
+          "longitude": -85.16667
+        },
+        {
+          "name": {
+            "en": "Valverde Vega"
+          },
+          "latitude": 10.18721,
+          "longitude": -84.3029
+        },
+        {
+          "name": {
+            "en": "Zarcero"
+          },
+          "latitude": 10.2,
+          "longitude": -84.4
+        }
+      ]
+    },
+    {
+      "code": "CR-C",
+      "name": {
+        "en": "Cartago"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Alvarado"
+          },
+          "latitude": 9.93333,
+          "longitude": -83.8
+        },
+        {
+          "name": {
+            "en": "Cartago"
+          },
+          "latitude": 9.86444,
+          "longitude": -83.91944
+        },
+        {
+          "name": {
+            "en": "Concepción"
+          },
+          "latitude": 9.93333,
+          "longitude": -84
+        },
+        {
+          "name": {
+            "en": "Cot"
+          },
+          "latitude": 9.89449,
+          "longitude": -83.87302
+        },
+        {
+          "name": {
+            "en": "El Guarco"
+          },
+          "latitude": 9.75,
+          "longitude": -83.91667
+        },
+        {
+          "name": {
+            "en": "Jiménez"
+          },
+          "latitude": 9.75,
+          "longitude": -83.68333
+        },
+        {
+          "name": {
+            "en": "La Suiza"
+          },
+          "latitude": 9.85065,
+          "longitude": -83.6169
+        },
+        {
+          "name": {
+            "en": "La Unión"
+          },
+          "latitude": 9.91667,
+          "longitude": -83.98333
+        },
+        {
+          "name": {
+            "en": "Oreamuno"
+          },
+          "latitude": 10,
+          "longitude": -83.83333
+        },
+        {
+          "name": {
+            "en": "Orosí"
+          },
+          "latitude": 9.79617,
+          "longitude": -83.85383
+        },
+        {
+          "name": {
+            "en": "Pacayas"
+          },
+          "latitude": 9.80709,
+          "longitude": -84.04764
+        },
+        {
+          "name": {
+            "en": "Paraíso"
+          },
+          "latitude": 9.75,
+          "longitude": -83.8
+        },
+        {
+          "name": {
+            "en": "Pejibaye"
+          },
+          "latitude": 9.81135,
+          "longitude": -83.70336
+        },
+        {
+          "name": {
+            "en": "San Diego"
+          },
+          "latitude": 9.89898,
+          "longitude": -84.00287
+        },
+        {
+          "name": {
+            "en": "Tobosi"
+          },
+          "latitude": 9.83837,
+          "longitude": -83.98391
+        },
+        {
+          "name": {
+            "en": "Tres Ríos"
+          },
+          "latitude": 9.90644,
+          "longitude": -83.9876
+        },
+        {
+          "name": {
+            "en": "Tucurrique"
+          },
+          "latitude": 9.85336,
+          "longitude": -83.72273
+        },
+        {
+          "name": {
+            "en": "Turrialba"
+          },
+          "latitude": 9.8,
+          "longitude": -83.53333
+        }
+      ]
+    },
+    {
+      "code": "CR-G",
+      "name": {
+        "en": "Guanacaste"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Abangares"
+          },
+          "latitude": 10.21667,
+          "longitude": -85
+        },
+        {
+          "name": {
+            "en": "Bagaces"
+          },
+          "latitude": 10.5,
+          "longitude": -85.25
+        },
+        {
+          "name": {
+            "en": "Belén"
+          },
+          "latitude": 10.40789,
+          "longitude": -85.58836
+        },
+        {
+          "name": {
+            "en": "Cañas"
+          },
+          "latitude": 10.48005,
+          "longitude": -85.11349
+        },
+        {
+          "name": {
+            "en": "Carrillo"
+          },
+          "latitude": 10.41667,
+          "longitude": -85.58333
+        },
+        {
+          "name": {
+            "en": "Fortuna"
+          },
+          "latitude": 10.67384,
+          "longitude": -85.19984
+        },
+        {
+          "name": {
+            "en": "Hojancha"
+          },
+          "latitude": 9.96667,
+          "longitude": -85.41667
+        },
+        {
+          "name": {
+            "en": "Juntas"
+          },
+          "latitude": 10.28089,
+          "longitude": -84.95951
+        },
+        {
+          "name": {
+            "en": "La Cruz"
+          },
+          "latitude": 11,
+          "longitude": -85.58333
+        },
+        {
+          "name": {
+            "en": "Liberia"
+          },
+          "latitude": 10.63504,
+          "longitude": -85.43772
+        },
+        {
+          "name": {
+            "en": "Nandayure"
+          },
+          "latitude": 9.91667,
+          "longitude": -85.28333
+        },
+        {
+          "name": {
+            "en": "Nicoya"
+          },
+          "latitude": 10.08333,
+          "longitude": -85.5
+        },
+        {
+          "name": {
+            "en": "Sámara"
+          },
+          "latitude": 9.88147,
+          "longitude": -85.52809
+        },
+        {
+          "name": {
+            "en": "Santa Cruz"
+          },
+          "latitude": 10.25,
+          "longitude": -85.66667
+        },
+        {
+          "name": {
+            "en": "Sardinal"
+          },
+          "latitude": 10.51674,
+          "longitude": -85.64748
+        },
+        {
+          "name": {
+            "en": "Tilarán"
+          },
+          "latitude": 10.45878,
+          "longitude": -84.97513
+        }
+      ]
+    },
+    {
+      "code": "CR-H",
+      "name": {
+        "en": "Heredia"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ángeles"
+          },
+          "latitude": 9.99591,
+          "longitude": -84.05126
+        },
+        {
+          "name": {
+            "en": "Barva"
+          },
+          "latitude": 10.08333,
+          "longitude": -84.1
+        },
+        {
+          "name": {
+            "en": "Belén"
+          },
+          "latitude": 9.98333,
+          "longitude": -84.16667
+        },
+        {
+          "name": {
+            "en": "Flores"
+          },
+          "latitude": 10,
+          "longitude": -84.15
+        },
+        {
+          "name": {
+            "en": "Heredia"
+          },
+          "latitude": 10.00236,
+          "longitude": -84.11651
+        },
+        {
+          "name": {
+            "en": "La Asunción"
+          },
+          "latitude": 9.97961,
+          "longitude": -84.17281
+        },
+        {
+          "name": {
+            "en": "Llorente"
+          },
+          "latitude": 9.99844,
+          "longitude": -84.15448
+        },
+        {
+          "name": {
+            "en": "Mercedes"
+          },
+          "latitude": 10.00695,
+          "longitude": -84.13396
+        },
+        {
+          "name": {
+            "en": "San Antonio"
+          },
+          "latitude": 9.98333,
+          "longitude": -84.18333
+        },
+        {
+          "name": {
+            "en": "San Francisco"
+          },
+          "latitude": 9.99299,
+          "longitude": -84.12934
+        },
+        {
+          "name": {
+            "en": "San Isidro"
+          },
+          "latitude": 10.03333,
+          "longitude": -84.03333
+        },
+        {
+          "name": {
+            "en": "San Josecito"
+          },
+          "latitude": 10.01667,
+          "longitude": -84.1
+        },
+        {
+          "name": {
+            "en": "San Pablo"
+          },
+          "latitude": 10,
+          "longitude": -84.08333
+        },
+        {
+          "name": {
+            "en": "San Rafael"
+          },
+          "latitude": 10.05,
+          "longitude": -84.06667
+        },
+        {
+          "name": {
+            "en": "Santa Bárbara"
+          },
+          "latitude": 10.08333,
+          "longitude": -84.15
+        },
+        {
+          "name": {
+            "en": "Santo Domingo"
+          },
+          "latitude": 10.06389,
+          "longitude": -84.15499
+        },
+        {
+          "name": {
+            "en": "Sarapiquí"
+          },
+          "latitude": 10.5,
+          "longitude": -84
+        }
+      ]
+    },
+    {
+      "code": "CR-L",
+      "name": {
+        "en": "Limón"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Batán"
+          },
+          "latitude": 10.08354,
+          "longitude": -83.33413
+        },
+        {
+          "name": {
+            "en": "Guácimo"
+          },
+          "latitude": 10.2,
+          "longitude": -83.66667
+        },
+        {
+          "name": {
+            "en": "Guápiles"
+          },
+          "latitude": 10.21682,
+          "longitude": -83.78483
+        },
+        {
+          "name": {
+            "en": "Limón"
+          },
+          "latitude": 9.99074,
+          "longitude": -83.03596
+        },
+        {
+          "name": {
+            "en": "Matina"
+          },
+          "latitude": 10,
+          "longitude": -83.25
+        },
+        {
+          "name": {
+            "en": "Pococí"
+          },
+          "latitude": 10.5,
+          "longitude": -83.63333
+        },
+        {
+          "name": {
+            "en": "Pocora"
+          },
+          "latitude": 10.17185,
+          "longitude": -83.60439
+        },
+        {
+          "name": {
+            "en": "Roxana"
+          },
+          "latitude": 10.26712,
+          "longitude": -83.7511
+        },
+        {
+          "name": {
+            "en": "Siquirres"
+          },
+          "latitude": 10.11667,
+          "longitude": -83.5
+        },
+        {
+          "name": {
+            "en": "Sixaola"
+          },
+          "latitude": 9.52766,
+          "longitude": -82.62185
+        },
+        {
+          "name": {
+            "en": "Talamanca"
+          },
+          "latitude": 9.5,
+          "longitude": -83.08333
+        }
+      ]
+    },
+    {
+      "code": "CR-P",
+      "name": {
+        "en": "Puntarenas"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Buenos Aires"
+          },
+          "latitude": 9.11667,
+          "longitude": -83.25
+        },
+        {
+          "name": {
+            "en": "Canoas"
+          },
+          "latitude": 8.53305,
+          "longitude": -82.83844
+        },
+        {
+          "name": {
+            "en": "Chacarita"
+          },
+          "latitude": 9.98424,
+          "longitude": -84.77892
+        },
+        {
+          "name": {
+            "en": "Ciudad Cortés"
+          },
+          "latitude": 8.95988,
+          "longitude": -83.52381
+        },
+        {
+          "name": {
+            "en": "Corredor"
+          },
+          "latitude": 8.64002,
+          "longitude": -82.946
+        },
+        {
+          "name": {
+            "en": "Corredores"
+          },
+          "latitude": 8.58333,
+          "longitude": -82.91667
+        },
+        {
+          "name": {
+            "en": "Coto Brus"
+          },
+          "latitude": 8.88333,
+          "longitude": -82.96667
+        },
+        {
+          "name": {
+            "en": "Esparza"
+          },
+          "latitude": 10,
+          "longitude": -84.66667
+        },
+        {
+          "name": {
+            "en": "Garabito"
+          },
+          "latitude": 9.61903,
+          "longitude": -84.62013
+        },
+        {
+          "name": {
+            "en": "Golfito"
+          },
+          "latitude": 8.6,
+          "longitude": -83.12
+        },
+        {
+          "name": {
+            "en": "Jacó"
+          },
+          "latitude": 9.61497,
+          "longitude": -84.62975
+        },
+        {
+          "name": {
+            "en": "Miramar"
+          },
+          "latitude": 10.0925,
+          "longitude": -84.72978
+        },
+        {
+          "name": {
+            "en": "Montes de Oro"
+          },
+          "latitude": 10.1,
+          "longitude": -84.75
+        },
+        {
+          "name": {
+            "en": "Osa"
+          },
+          "latitude": 8.83333,
+          "longitude": -83.5
+        },
+        {
+          "name": {
+            "en": "Paquera"
+          },
+          "latitude": 9.82005,
+          "longitude": -84.93513
+        },
+        {
+          "name": {
+            "en": "Parrita"
+          },
+          "latitude": 9.55,
+          "longitude": -84.33333
+        },
+        {
+          "name": {
+            "en": "Puntarenas"
+          },
+          "latitude": 9.97625,
+          "longitude": -84.83836
+        },
+        {
+          "name": {
+            "en": "Quepos"
+          },
+          "latitude": 9.43187,
+          "longitude": -84.16141
+        },
+        {
+          "name": {
+            "en": "San Vito"
+          },
+          "latitude": 8.82079,
+          "longitude": -82.97092
+        }
+      ]
+    },
+    {
+      "code": "CR-SJ",
+      "name": {
+        "en": "San José"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Acosta"
+          },
+          "latitude": 9.8,
+          "longitude": -84.2
+        },
+        {
+          "name": {
+            "en": "Alajuelita"
+          },
+          "latitude": 9.9,
+          "longitude": -84.1
+        },
+        {
+          "name": {
+            "en": "Aserrí"
+          },
+          "latitude": 9.86667,
+          "longitude": -84.1
+        },
+        {
+          "name": {
+            "en": "Calle Blancos"
+          },
+          "latitude": 9.95,
+          "longitude": -84.06667
+        },
+        {
+          "name": {
+            "en": "Colima"
+          },
+          "latitude": 9.95091,
+          "longitude": -84.08503
+        },
+        {
+          "name": {
+            "en": "Colón"
+          },
+          "latitude": 9.91491,
+          "longitude": -84.2417
+        },
+        {
+          "name": {
+            "en": "Curridabat"
+          },
+          "latitude": 9.91667,
+          "longitude": -84.03333
+        },
+        {
+          "name": {
+            "en": "Daniel Flores"
+          },
+          "latitude": 9.33554,
+          "longitude": -83.6694
+        },
+        {
+          "name": {
+            "en": "Desamparados"
+          },
+          "latitude": 9.9,
+          "longitude": -84.06667
+        },
+        {
+          "name": {
+            "en": "Dota"
+          },
+          "latitude": 9.65,
+          "longitude": -83.95
+        },
+        {
+          "name": {
+            "en": "Escazú"
+          },
+          "latitude": 9.93333,
+          "longitude": -84.13333
+        },
+        {
+          "name": {
+            "en": "Goicoechea"
+          },
+          "latitude": 9.94848,
+          "longitude": -84.06365
+        },
+        {
+          "name": {
+            "en": "Granadilla"
+          },
+          "latitude": 9.93491,
+          "longitude": -84.01688
+        },
+        {
+          "name": {
+            "en": "Guadalupe"
+          },
+          "latitude": 9.94805,
+          "longitude": -84.05665
+        },
+        {
+          "name": {
+            "en": "Ipís"
+          },
+          "latitude": 9.96745,
+          "longitude": -84.01326
+        },
+        {
+          "name": {
+            "en": "León Cortés"
+          },
+          "latitude": 9.683,
+          "longitude": -84.04781
+        },
+        {
+          "name": {
+            "en": "Mercedes"
+          },
+          "latitude": 9.2627,
+          "longitude": -83.58202
+        },
+        {
+          "name": {
+            "en": "Montes de Oca"
+          },
+          "latitude": 9.9396,
+          "longitude": -84.03013
+        },
+        {
+          "name": {
+            "en": "Mora"
+          },
+          "latitude": 9.91667,
+          "longitude": -84.25
+        },
+        {
+          "name": {
+            "en": "Moravia"
+          },
+          "latitude": 10.04,
+          "longitude": -84
+        },
+        {
+          "name": {
+            "en": "Palmichal"
+          },
+          "latitude": 9.83778,
+          "longitude": -84.20478
+        },
+        {
+          "name": {
+            "en": "Patarrá"
+          },
+          "latitude": 9.88071,
+          "longitude": -84.03501
+        },
+        {
+          "name": {
+            "en": "Pérez Zeledón"
+          },
+          "latitude": 9.35473,
+          "longitude": -83.63484
+        },
+        {
+          "name": {
+            "en": "Puriscal"
+          },
+          "latitude": 9.75,
+          "longitude": -84.41667
+        },
+        {
+          "name": {
+            "en": "Purral"
+          },
+          "latitude": 9.95808,
+          "longitude": -84.0305
+        },
+        {
+          "name": {
+            "en": "Sabanilla"
+          },
+          "latitude": 9.94522,
+          "longitude": -84.03927
+        },
+        {
+          "name": {
+            "en": "Salitral"
+          },
+          "latitude": 9.91163,
+          "longitude": -84.17835
+        },
+        {
+          "name": {
+            "en": "Salitrillos"
+          },
+          "latitude": 9.85259,
+          "longitude": -84.09062
+        },
+        {
+          "name": {
+            "en": "San Felipe"
+          },
+          "latitude": 9.90488,
+          "longitude": -84.10551
+        },
+        {
+          "name": {
+            "en": "San Ignacio"
+          },
+          "latitude": 9.79853,
+          "longitude": -84.16173
+        },
+        {
+          "name": {
+            "en": "San Isidro"
+          },
+          "latitude": 9.3674,
+          "longitude": -83.69713
+        },
+        {
+          "name": {
+            "en": "San José",
+            "ar": "سان خوسيه"
+          },
+          "latitude": 9.93333,
+          "longitude": -84.08333
+        },
+        {
+          "name": {
+            "en": "San Juan"
+          },
+          "latitude": 9.95974,
+          "longitude": -84.08165
+        },
+        {
+          "name": {
+            "en": "San Juan de Dios"
+          },
+          "latitude": 9.8773,
+          "longitude": -84.0847
+        },
+        {
+          "name": {
+            "en": "San Marcos"
+          },
+          "latitude": 9.6601,
+          "longitude": -84.02026
+        },
+        {
+          "name": {
+            "en": "San Miguel"
+          },
+          "latitude": 9.87121,
+          "longitude": -84.06084
+        },
+        {
+          "name": {
+            "en": "San Pedro"
+          },
+          "latitude": 9.92829,
+          "longitude": -84.05074
+        },
+        {
+          "name": {
+            "en": "San Rafael"
+          },
+          "latitude": 9.92787,
+          "longitude": -84.13722
+        },
+        {
+          "name": {
+            "en": "San Rafael Abajo"
+          },
+          "latitude": 9.831,
+          "longitude": -84.29008
+        },
+        {
+          "name": {
+            "en": "San Rafael Arriba"
+          },
+          "latitude": 9.87556,
+          "longitude": -84.07661
+        },
+        {
+          "name": {
+            "en": "San Vicente"
+          },
+          "latitude": 9.96016,
+          "longitude": -84.04762
+        },
+        {
+          "name": {
+            "en": "San Vicente de Moravia"
+          },
+          "latitude": 9.96164,
+          "longitude": -84.0488
+        },
+        {
+          "name": {
+            "en": "Santa Ana"
+          },
+          "latitude": 9.9326,
+          "longitude": -84.18255
+        },
+        {
+          "name": {
+            "en": "Santiago"
+          },
+          "latitude": 9.84636,
+          "longitude": -84.31428
+        },
+        {
+          "name": {
+            "en": "Tarrazú"
+          },
+          "latitude": 9.65965,
+          "longitude": -84.02138
+        },
+        {
+          "name": {
+            "en": "Tejar"
+          },
+          "latitude": 9.74622,
+          "longitude": -84.23368
+        },
+        {
+          "name": {
+            "en": "Tibás"
+          },
+          "latitude": 9.96667,
+          "longitude": -84.08333
+        },
+        {
+          "name": {
+            "en": "Turrubares"
+          },
+          "latitude": 9.75,
+          "longitude": -84.5
+        },
+        {
+          "name": {
+            "en": "Vázquez de Coronado"
+          },
+          "latitude": 10.06,
+          "longitude": -84
+        }
+      ]
+    }
+  ]
+}

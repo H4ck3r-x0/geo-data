@@ -1,0 +1,203 @@
+{
+  "code": "FJ",
+  "iso3": "FJI",
+  "name": {
+    "en": "Fiji Islands",
+    "ar": "جزر فيجي",
+    "de": "Fidschi",
+    "es": "Fiyi",
+    "fr": "Fidji",
+    "hi": "फिजी आइलैंड्स",
+    "it": "Figi",
+    "ja": "フィジー",
+    "ko": "피지",
+    "nl": "Fiji",
+    "pl": "Wyspy Fidżi",
+    "pt": "Fiji",
+    "pt-BR": "Fiji",
+    "ru": "Острова Фиджи",
+    "tr": "Fiji",
+    "uk": "Острови Фіджі",
+    "zh": "斐济"
+  },
+  "phone": "+679",
+  "currency": "FJD",
+  "timezone": "Pacific/Fiji",
+  "flag": "🇫🇯",
+  "regions": [
+    {
+      "code": "FJ-C",
+      "name": {
+        "en": "Central"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Naitasiri"
+          },
+          "latitude": -17.83333,
+          "longitude": 178.25
+        },
+        {
+          "name": {
+            "en": "Namosi"
+          },
+          "latitude": -18.05,
+          "longitude": 178.13333
+        },
+        {
+          "name": {
+            "en": "Rewa"
+          },
+          "latitude": -18.08333,
+          "longitude": 178.33333
+        },
+        {
+          "name": {
+            "en": "Serua"
+          },
+          "latitude": -18.16667,
+          "longitude": 178
+        },
+        {
+          "name": {
+            "en": "Suva"
+          },
+          "latitude": -18.14161,
+          "longitude": 178.44149
+        },
+        {
+          "name": {
+            "en": "Tailevu"
+          },
+          "latitude": -17.83333,
+          "longitude": 178.5
+        }
+      ]
+    },
+    {
+      "code": "FJ-E",
+      "name": {
+        "en": "Eastern"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Kadavu"
+          },
+          "latitude": -18.99331,
+          "longitude": 178.22021
+        },
+        {
+          "name": {
+            "en": "Lau"
+          },
+          "latitude": -18.20488,
+          "longitude": -178.79251
+        },
+        {
+          "name": {
+            "en": "Levuka"
+          },
+          "latitude": -18.06667,
+          "longitude": 179.31667
+        },
+        {
+          "name": {
+            "en": "Lomaiviti"
+          },
+          "latitude": -17.66667,
+          "longitude": 178.8
+        }
+      ]
+    },
+    {
+      "code": "FJ-N",
+      "name": {
+        "en": "Northern"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Bua"
+          },
+          "latitude": -16.83333,
+          "longitude": 178.75
+        },
+        {
+          "name": {
+            "en": "Cakaudrove"
+          },
+          "latitude": -16.66667,
+          "longitude": 179.41667
+        },
+        {
+          "name": {
+            "en": "Labasa"
+          },
+          "latitude": -16.4332,
+          "longitude": 179.36451
+        },
+        {
+          "name": {
+            "en": "Macuata"
+          },
+          "latitude": -16.5,
+          "longitude": 179.25
+        }
+      ]
+    },
+    {
+      "code": "FJ-W",
+      "name": {
+        "en": "Western"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Ba"
+          },
+          "latitude": -17.5343,
+          "longitude": 177.67407
+        },
+        {
+          "name": {
+            "en": "Ba Province"
+          },
+          "latitude": -17.66667,
+          "longitude": 177.66667
+        },
+        {
+          "name": {
+            "en": "Lautoka",
+            "ar": "لاوتوكا"
+          },
+          "latitude": -17.61686,
+          "longitude": 177.45049
+        },
+        {
+          "name": {
+            "en": "Nadi",
+            "ar": "نادي"
+          },
+          "latitude": -17.80309,
+          "longitude": 177.41617
+        },
+        {
+          "name": {
+            "en": "Nandronga and Navosa"
+          },
+          "latitude": -18,
+          "longitude": 177.66667
+        },
+        {
+          "name": {
+            "en": "Ra"
+          },
+          "latitude": -17.5,
+          "longitude": 178.16667
+        }
+      ]
+    }
+  ]
+}

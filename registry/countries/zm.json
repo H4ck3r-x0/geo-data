@@ -1,0 +1,616 @@
+{
+  "code": "ZM",
+  "iso3": "ZMB",
+  "name": {
+    "en": "Zambia",
+    "ar": "زامبيا",
+    "de": "Sambia",
+    "es": "Zambia",
+    "fr": "Zambie",
+    "hi": "जाम्बिया",
+    "it": "Zambia",
+    "ja": "ザンビア",
+    "ko": "잠비아",
+    "nl": "Zambia",
+    "pl": "Zambia",
+    "pt": "Zâmbia",
+    "pt-BR": "Zâmbia",
+    "ru": "Замбия",
+    "tr": "Zambiya",
+    "uk": "Замбія",
+    "zh": "赞比亚"
+  },
+  "phone": "+260",
+  "currency": "ZMW",
+  "timezone": "Africa/Lusaka",
+  "flag": "🇿🇲",
+  "regions": [
+    {
+      "code": "ZM-02",
+      "name": {
+        "en": "Central"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Chibombo"
+          },
+          "latitude": -14.65685,
+          "longitude": 28.07057
+        },
+        {
+          "name": {
+            "en": "Chibombo District"
+          },
+          "latitude": -14.65808,
+          "longitude": 28.07376
+        },
+        {
+          "name": {
+            "en": "Kabwe",
+            "ar": "كابوي"
+          },
+          "latitude": -14.4469,
+          "longitude": 28.44644
+        },
+        {
+          "name": {
+            "en": "Kapiri Mposhi"
+          },
+          "latitude": -13.97147,
+          "longitude": 28.66985
+        },
+        {
+          "name": {
+            "en": "Mkushi"
+          },
+          "latitude": -13.62015,
+          "longitude": 29.3939
+        },
+        {
+          "name": {
+            "en": "Mumbwa"
+          },
+          "latitude": -14.98293,
+          "longitude": 27.0619
+        },
+        {
+          "name": {
+            "en": "Serenje"
+          },
+          "latitude": -13.23251,
+          "longitude": 30.23522
+        }
+      ]
+    },
+    {
+      "code": "ZM-08",
+      "name": {
+        "en": "Copperbelt"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Chambishi"
+          },
+          "latitude": -12.63247,
+          "longitude": 28.05367
+        },
+        {
+          "name": {
+            "en": "Chililabombwe"
+          },
+          "latitude": -12.36475,
+          "longitude": 27.82286
+        },
+        {
+          "name": {
+            "en": "Chingola",
+            "ar": "شينغولا"
+          },
+          "latitude": -12.52897,
+          "longitude": 27.88382
+        },
+        {
+          "name": {
+            "en": "Chingola District"
+          },
+          "latitude": -12.48478,
+          "longitude": 27.66313
+        },
+        {
+          "name": {
+            "en": "Kalulushi"
+          },
+          "latitude": -12.84151,
+          "longitude": 28.09479
+        },
+        {
+          "name": {
+            "en": "Kataba"
+          },
+          "latitude": -11.88333,
+          "longitude": 29.78333
+        },
+        {
+          "name": {
+            "en": "Kitwe",
+            "ar": "كيتوي"
+          },
+          "latitude": -12.80243,
+          "longitude": 28.21323
+        },
+        {
+          "name": {
+            "en": "Luanshya"
+          },
+          "latitude": -13.13667,
+          "longitude": 28.41661
+        },
+        {
+          "name": {
+            "en": "Mpongwe"
+          },
+          "latitude": -13.50914,
+          "longitude": 28.15504
+        },
+        {
+          "name": {
+            "en": "Mufulira"
+          },
+          "latitude": -12.54982,
+          "longitude": 28.24071
+        },
+        {
+          "name": {
+            "en": "Ndola",
+            "ar": "ندولا"
+          },
+          "latitude": -12.95867,
+          "longitude": 28.63659
+        }
+      ]
+    },
+    {
+      "code": "ZM-03",
+      "name": {
+        "en": "Eastern"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Chadiza"
+          },
+          "latitude": -14.06779,
+          "longitude": 32.43917
+        },
+        {
+          "name": {
+            "en": "Chipata"
+          },
+          "latitude": -13.63333,
+          "longitude": 32.65
+        },
+        {
+          "name": {
+            "en": "Lundazi"
+          },
+          "latitude": -12.29292,
+          "longitude": 33.1782
+        },
+        {
+          "name": {
+            "en": "Nyimba"
+          },
+          "latitude": -14.55656,
+          "longitude": 30.8149
+        },
+        {
+          "name": {
+            "en": "Petauke"
+          },
+          "latitude": -14.24117,
+          "longitude": 31.31975
+        }
+      ]
+    },
+    {
+      "code": "ZM-04",
+      "name": {
+        "en": "Luapula"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Kawambwa",
+            "ar": "كاوامبوا"
+          },
+          "latitude": -9.7915,
+          "longitude": 29.07913
+        },
+        {
+          "name": {
+            "en": "Mansa"
+          },
+          "latitude": -11.19976,
+          "longitude": 28.89431
+        },
+        {
+          "name": {
+            "en": "Mwense"
+          },
+          "latitude": -10.38447,
+          "longitude": 28.698
+        },
+        {
+          "name": {
+            "en": "Nchelenge",
+            "ar": "ريف نشيلنجي"
+          },
+          "latitude": -9.34506,
+          "longitude": 28.73396
+        },
+        {
+          "name": {
+            "en": "Samfya"
+          },
+          "latitude": -11.36491,
+          "longitude": 29.55652
+        }
+      ]
+    },
+    {
+      "code": "ZM-09",
+      "name": {
+        "en": "Lusaka"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Chongwe"
+          },
+          "latitude": -15.32916,
+          "longitude": 28.68204
+        },
+        {
+          "name": {
+            "en": "Kafue"
+          },
+          "latitude": -15.76911,
+          "longitude": 28.18136
+        },
+        {
+          "name": {
+            "en": "Luangwa"
+          },
+          "latitude": -15.61667,
+          "longitude": 30.41667
+        },
+        {
+          "name": {
+            "en": "Lusaka",
+            "ar": "لوساكا"
+          },
+          "latitude": -15.40669,
+          "longitude": 28.28713
+        }
+      ]
+    },
+    {
+      "code": "ZM-10",
+      "name": {
+        "en": "Muchinga"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Chama"
+          },
+          "latitude": -11.21303,
+          "longitude": 33.1521
+        },
+        {
+          "name": {
+            "en": "Chinsali"
+          },
+          "latitude": -10.54142,
+          "longitude": 32.08162
+        },
+        {
+          "name": {
+            "en": "Isoka"
+          },
+          "latitude": -10.16062,
+          "longitude": 32.63353
+        },
+        {
+          "name": {
+            "en": "Mpika"
+          },
+          "latitude": -11.83431,
+          "longitude": 31.45287
+        },
+        {
+          "name": {
+            "en": "Nakonde"
+          },
+          "latitude": -9.34213,
+          "longitude": 32.745
+        }
+      ]
+    },
+    {
+      "code": "ZM-05",
+      "name": {
+        "en": "Northern"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Kaputa"
+          },
+          "latitude": -8.46887,
+          "longitude": 29.66193
+        },
+        {
+          "name": {
+            "en": "Kasama"
+          },
+          "latitude": -10.21289,
+          "longitude": 31.18084
+        },
+        {
+          "name": {
+            "en": "Luwingu"
+          },
+          "latitude": -10.2621,
+          "longitude": 29.92712
+        },
+        {
+          "name": {
+            "en": "Mbala",
+            "ar": "مبالا"
+          },
+          "latitude": -8.84024,
+          "longitude": 31.36587
+        },
+        {
+          "name": {
+            "en": "Mporokoso"
+          },
+          "latitude": -9.37273,
+          "longitude": 30.12501
+        },
+        {
+          "name": {
+            "en": "Mpulungu"
+          },
+          "latitude": -8.76234,
+          "longitude": 31.11405
+        },
+        {
+          "name": {
+            "en": "Mungwi"
+          },
+          "latitude": -10.1732,
+          "longitude": 31.36942
+        }
+      ]
+    },
+    {
+      "code": "ZM-06",
+      "name": {
+        "en": "Northwestern"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Kabompo"
+          },
+          "latitude": -13.59268,
+          "longitude": 24.20081
+        },
+        {
+          "name": {
+            "en": "Kalengwa"
+          },
+          "latitude": -13.46586,
+          "longitude": 25.00271
+        },
+        {
+          "name": {
+            "en": "Kansanshi"
+          },
+          "latitude": -12.09514,
+          "longitude": 26.42727
+        },
+        {
+          "name": {
+            "en": "Kasempa",
+            "ar": "كاسيمبا"
+          },
+          "latitude": -13.45836,
+          "longitude": 25.8338
+        },
+        {
+          "name": {
+            "en": "Mufumbwe"
+          },
+          "latitude": -13.68333,
+          "longitude": 24.8
+        },
+        {
+          "name": {
+            "en": "Mwinilunga"
+          },
+          "latitude": -11.73584,
+          "longitude": 24.42926
+        },
+        {
+          "name": {
+            "en": "Solwezi"
+          },
+          "latitude": -12.1688,
+          "longitude": 26.38938
+        },
+        {
+          "name": {
+            "en": "Zambezi"
+          },
+          "latitude": -13.54323,
+          "longitude": 23.10467
+        }
+      ]
+    },
+    {
+      "code": "ZM-07",
+      "name": {
+        "en": "Southern"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Choma"
+          },
+          "latitude": -16.80889,
+          "longitude": 26.9875
+        },
+        {
+          "name": {
+            "en": "Gwembe"
+          },
+          "latitude": -16.49755,
+          "longitude": 27.60691
+        },
+        {
+          "name": {
+            "en": "Itezhi-Tezhi"
+          },
+          "latitude": -15.74092,
+          "longitude": 26.04146
+        },
+        {
+          "name": {
+            "en": "Livingstone"
+          },
+          "latitude": -17.84194,
+          "longitude": 25.85425
+        },
+        {
+          "name": {
+            "en": "Maamba"
+          },
+          "latitude": -17.36667,
+          "longitude": 27.15
+        },
+        {
+          "name": {
+            "en": "Mazabuka"
+          },
+          "latitude": -15.85601,
+          "longitude": 27.748
+        },
+        {
+          "name": {
+            "en": "Monze"
+          },
+          "latitude": -16.28333,
+          "longitude": 27.48333
+        },
+        {
+          "name": {
+            "en": "Nakambala"
+          },
+          "latitude": -15.83244,
+          "longitude": 27.77994
+        },
+        {
+          "name": {
+            "en": "Namwala"
+          },
+          "latitude": -15.75042,
+          "longitude": 26.43839
+        },
+        {
+          "name": {
+            "en": "Siavonga"
+          },
+          "latitude": -16.53818,
+          "longitude": 28.70876
+        },
+        {
+          "name": {
+            "en": "Siavonga District"
+          },
+          "latitude": -16.26742,
+          "longitude": 28.55036
+        },
+        {
+          "name": {
+            "en": "Sinazongwe"
+          },
+          "latitude": -17.2614,
+          "longitude": 27.46179
+        }
+      ]
+    },
+    {
+      "code": "ZM-01",
+      "name": {
+        "en": "Western"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Kalabo"
+          },
+          "latitude": -14.99307,
+          "longitude": 22.67926
+        },
+        {
+          "name": {
+            "en": "Kaoma"
+          },
+          "latitude": -14.78333,
+          "longitude": 24.8
+        },
+        {
+          "name": {
+            "en": "Limulunga"
+          },
+          "latitude": -15.09691,
+          "longitude": 23.13757
+        },
+        {
+          "name": {
+            "en": "Lukulu"
+          },
+          "latitude": -14.37067,
+          "longitude": 23.24196
+        },
+        {
+          "name": {
+            "en": "Mongu"
+          },
+          "latitude": -15.24835,
+          "longitude": 23.12741
+        },
+        {
+          "name": {
+            "en": "Senanga",
+            "ar": "سينانغا"
+          },
+          "latitude": -16.11667,
+          "longitude": 23.26667
+        },
+        {
+          "name": {
+            "en": "Sesheke"
+          },
+          "latitude": -17.47593,
+          "longitude": 24.29684
+        }
+      ]
+    }
+  ]
+}
