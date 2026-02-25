@@ -41,8 +41,9 @@ console.log(sa.flag);    // "🇸🇦"
 const regions = getRegions("SA");
 const cities = getCities("SA", regions[0].code);
 
-// Get localized name
-console.log(getLocalizedName(sa, "ar")); // "المملكة العربية السعودية"
+// Get localized name — auto-detects from <html lang="..."> in browsers
+console.log(getLocalizedName(sa));       // uses document lang or falls back to "en"
+console.log(getLocalizedName(sa, "ar")); // explicit override: "المملكة العربية السعودية"
 ```
 
 ## Commands
@@ -98,7 +99,7 @@ getCities(code, regionCode?) // Cities — optionally filtered by region
 getAllCities(code)           // All cities in a country
 
 // Utilities
-getLocalizedName(item, lang) // Get name in a specific language (falls back to English)
+getLocalizedName(item, lang?) // Get localized name — auto-detects from <html lang>, falls back to "en"
 getCountryCodes()            // Array of installed country codes
 isValidCountryCode(code)     // Type guard
 ```
