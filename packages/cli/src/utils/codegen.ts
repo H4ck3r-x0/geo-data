@@ -82,8 +82,11 @@ export function getAllCities${config.typescript ? "(code: CountryCode)" : "(code
   return getRegions(code).flatMap(r => r.cities);
 }
 
-export function getLocalizedName${config.typescript ? '(item: { name: Record<string, string | undefined> & { en: string } }, lang: string = "en"): string' : '(item, lang = "en")'} {
-  return item.name[lang] ?? item.name.en;
+export function getLocalizedName${config.typescript ? "(\n  item: { name: Record<string, string | undefined> & { en: string } },\n  lang?: string\n): string" : "(item, lang)"} {
+  const resolved = lang
+    ?? (typeof document !== "undefined" ? document.documentElement.lang : undefined)
+    ?? "en";
+  return item.name[resolved] ?? item.name[resolved.split("-")[0]] ?? item.name.en;
 }
 
 export function getCountryCodes()${config.typescript ? ": CountryCode[]" : ""} {

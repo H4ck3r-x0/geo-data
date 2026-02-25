@@ -36,8 +36,14 @@ export function getAllCities(code: CountryCode) {
   return getRegions(code).flatMap(r => r.cities);
 }
 
-export function getLocalizedName(item: { name: Record<string, string | undefined> & { en: string } }, lang: string = "en"): string {
-  return item.name[lang] ?? item.name.en;
+export function getLocalizedName(
+  item: { name: Record<string, string | undefined> & { en: string } },
+  lang?: string
+): string {
+  const resolved = lang
+    ?? (typeof document !== "undefined" ? document.documentElement.lang : undefined)
+    ?? "en";
+  return item.name[resolved] ?? item.name[resolved.split("-")[0]] ?? item.name.en;
 }
 
 export function getCountryCodes(): CountryCode[] {
@@ -80,8 +86,11 @@ export function getAllCities(code) {
   return getRegions(code).flatMap(r => r.cities);
 }
 
-export function getLocalizedName(item, lang = "en") {
-  return item.name[lang] ?? item.name.en;
+export function getLocalizedName(item, lang) {
+  const resolved = lang
+    ?? (typeof document !== "undefined" ? document.documentElement.lang : undefined)
+    ?? "en";
+  return item.name[resolved] ?? item.name[resolved.split("-")[0]] ?? item.name.en;
 }
 
 export function getCountryCodes() {
@@ -132,8 +141,14 @@ export function getAllCities(code: CountryCode) {
   return getRegions(code).flatMap(r => r.cities);
 }
 
-export function getLocalizedName(item: { name: Record<string, string | undefined> & { en: string } }, lang: string = "en"): string {
-  return item.name[lang] ?? item.name.en;
+export function getLocalizedName(
+  item: { name: Record<string, string | undefined> & { en: string } },
+  lang?: string
+): string {
+  const resolved = lang
+    ?? (typeof document !== "undefined" ? document.documentElement.lang : undefined)
+    ?? "en";
+  return item.name[resolved] ?? item.name[resolved.split("-")[0]] ?? item.name.en;
 }
 
 export function getCountryCodes(): CountryCode[] {
