@@ -1,11 +1,12 @@
 {
   "name": "geo-data-cli",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "Copy only the countries you need. No bloat.",
   "type": "module",
   "files": [
     "dist",
-    "LICENSE"
+    "LICENSE",
+    "README.md"
   ],
   "bin": {
     "geo-data": "./dist/index.js"
