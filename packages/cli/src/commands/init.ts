@@ -1,7 +1,7 @@
 import fs from "fs-extra";
 import path from "path";
 import { CONFIG_FILE, getConfig } from "../utils/config.js";
-import { errorMessage } from "../utils/helpers.js";
+import { errorMessage, parseCountryCodes } from "../utils/helpers.js";
 import { banner, cancel, intro, outro, p } from "../utils/ui.js";
 import { add } from "./add.js";
 
@@ -155,14 +155,15 @@ export async function init() {
   s.stop("Configuration created");
 
   const firstCountry = await p.text({
-    message: "Add your first country? (code or name, Enter to skip)",
+    message: "Add countries? (codes, Enter to skip)",
     placeholder: "e.g. sa, us, fr",
     defaultValue: "",
   });
 
   if (!p.isCancel(firstCountry) && firstCountry.trim()) {
+    const codes = parseCountryCodes(firstCountry);
     console.log();
-    await add([firstCountry.trim()], {});
+    await add(codes, {});
     return;
   }
 

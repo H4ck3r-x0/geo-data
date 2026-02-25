@@ -1,5 +1,5 @@
 import { beforeEach, describe, expect, it, vi } from "vitest";
-import { formatCountryDisplay, getInstalledCountries } from "./helpers.js";
+import { formatCountryDisplay, getInstalledCountries, parseCountryCodes } from "./helpers.js";
 
 vi.mock("fs-extra", () => ({
   default: {
@@ -18,6 +18,32 @@ vi.mock("../utils/ui.js", () => ({
     log: { error: vi.fn(), warn: vi.fn(), info: vi.fn() },
   },
 }));
+
+describe("parseCountryCodes", () => {
+  it("splits comma-separated codes", () => {
+    expect(parseCountryCodes("sa,us,fr")).toEqual(["sa", "us", "fr"]);
+  });
+
+  it("splits space-separated codes", () => {
+    expect(parseCountryCodes("sa us fr")).toEqual(["sa", "us", "fr"]);
+  });
+
+  it("splits comma-and-space-separated codes", () => {
+    expect(parseCountryCodes("sa, us, fr")).toEqual(["sa", "us", "fr"]);
+  });
+
+  it("returns empty array for empty string", () => {
+    expect(parseCountryCodes("")).toEqual([]);
+  });
+
+  it("handles single code", () => {
+    expect(parseCountryCodes("sa")).toEqual(["sa"]);
+  });
+
+  it("trims extra whitespace", () => {
+    expect(parseCountryCodes("  sa  ,  us  ")).toEqual(["sa", "us"]);
+  });
+});
 
 describe("formatCountryDisplay", () => {
   it("formats with country info", () => {

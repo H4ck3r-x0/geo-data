@@ -39,6 +39,13 @@ export async function getInstalledCountries(outputDir: string): Promise<string[]
 /**
  * Formats a country for display, e.g. "🇸🇦 SA - Saudi Arabia"
  */
+/**
+ * Splits a string like "sa, us, fr" or "sa us fr" into individual country codes.
+ */
+export function parseCountryCodes(input: string): string[] {
+  return input.split(/[\s,]+/).filter(Boolean);
+}
+
 export function formatCountryDisplay(code: string, info?: { name: { en: string }; flag: string }): string {
   if (info) {
     return `${info.flag} ${code.toUpperCase()} - ${info.name.en}`;

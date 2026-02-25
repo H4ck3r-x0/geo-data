@@ -2,7 +2,13 @@ import fs from "fs-extra";
 import path from "path";
 import { findBestMatch } from "string-similarity";
 import { generateIndex } from "../utils/codegen.js";
-import { type CommandOptions, errorMessage, formatCountryDisplay, requireConfig } from "../utils/helpers.js";
+import {
+  type CommandOptions,
+  errorMessage,
+  formatCountryDisplay,
+  parseCountryCodes,
+  requireConfig,
+} from "../utils/helpers.js";
 import { fetchCountry, fetchRegistry } from "../utils/registry.js";
 import { cancel, intro, outro, p } from "../utils/ui.js";
 
@@ -15,7 +21,7 @@ export async function add(countryCodes: string[], options: CommandOptions = {}) 
 
   intro("Add Countries");
 
-  const codes = countryCodes.map((c) => c.toLowerCase());
+  const codes = [...new Set(countryCodes.flatMap(parseCountryCodes))].map((c) => c.toLowerCase());
   const s = p.spinner();
   s.start("Fetching registry");
 
