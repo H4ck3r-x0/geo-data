@@ -57,6 +57,8 @@ export async function update(options: CommandOptions = {}) {
     }
 
     let updated = 0;
+    const failed: string[] = [];
+
     for (const code of installed.sort()) {
       const info = registry.countries[code];
       if (!info) continue;
@@ -67,6 +69,7 @@ export async function update(options: CommandOptions = {}) {
         const countryData = await fetchCountry(code, config);
         if (!countryData) {
           s.stop(`${info.flag} ${info.name.en} - failed: invalid data`);
+          failed.push(code);
           continue;
         }
         const outputPath = path.join(config.outputDir, `${code}.json`);
@@ -77,6 +80,7 @@ export async function update(options: CommandOptions = {}) {
         updated++;
       } catch (error) {
         s.stop(`${info.flag} ${info.name.en} - failed: ${errorMessage(error)}`);
+        failed.push(code);
       }
     }
 
@@ -84,6 +88,11 @@ export async function update(options: CommandOptions = {}) {
     s.start(`Regenerating index.${ext}`);
     await generateIndex(config);
     s.stop(`Regenerated index.${ext}`);
+
+    if (failed.length > 0) {
+      process.exitCode = 1;
+      p.log.warn(`Failed: ${failed.map((c) => c.toUpperCase()).join(", ")}`);
+    }
 
     outro(`Updated ${updated} ${updated === 1 ? "country" : "countries"}`);
   } catch (error) {

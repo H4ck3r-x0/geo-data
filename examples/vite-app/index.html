@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>geo-data — Vite + TypeScript Example</title>
+  <link rel="stylesheet" href="/src/style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1 id="title">Geo Data Explorer</h1>
+
+    <div class="lang-toggle">
+      <button id="langBtn">العربية</button>
+    </div>
+
+    <label id="countryLabel" for="country">Country</label>
+    <select id="country"><option value="">—</option></select>
+
+    <label id="regionLabel" for="region">Region</label>
+    <select id="region"><option value="">—</option></select>
+
+    <label id="cityLabel" for="city">City</label>
+    <select id="city"><option value="">—</option></select>
+
+    <div class="card" id="info">
+      <h2 id="infoName"></h2>
+      <p id="infoRegion"></p>
+      <p id="infoCountry"></p>
+    </div>
+  </div>
+
+  <script type="module" src="/src/main.ts"></script>
+</body>
+</html>

@@ -1,0 +1,95 @@
+{
+  "code": "SA",
+  "iso3": "SAU",
+  "name": {
+    "en": "Saudi Arabia",
+    "ar": "المملكة العربية السعودية"
+  },
+  "phone": "+966",
+  "currency": "SAR",
+  "timezone": "Asia/Riyadh",
+  "flag": "🇸🇦",
+  "regions": [
+    {
+      "code": "SA-01",
+      "name": {
+        "en": "Riyadh",
+        "ar": "الرياض"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Riyadh",
+            "ar": "الرياض"
+          }
+        },
+        {
+          "name": {
+            "en": "Al Kharj",
+            "ar": "الخرج"
+          }
+        },
+        {
+          "name": {
+            "en": "Ad Dilam",
+            "ar": "الدلم"
+          }
+        }
+      ]
+    },
+    {
+      "code": "SA-02",
+      "name": {
+        "en": "Makkah",
+        "ar": "مكة المكرمة"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Mecca",
+            "ar": "مكة المكرمة"
+          }
+        },
+        {
+          "name": {
+            "en": "Jeddah",
+            "ar": "جدة"
+          }
+        },
+        {
+          "name": {
+            "en": "Al Adl",
+            "ar": "العدلة"
+          }
+        }
+      ]
+    },
+    {
+      "code": "SA-04",
+      "name": {
+        "en": "Eastern Province",
+        "ar": "المنطقة الشرقية"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Dammam",
+            "ar": "الدمام"
+          }
+        },
+        {
+          "name": {
+            "en": "Abqaiq",
+            "ar": "القاع"
+          }
+        },
+        {
+          "name": {
+            "en": "Al Bir",
+            "ar": "البير"
+          }
+        }
+      ]
+    }
+  ]
+}

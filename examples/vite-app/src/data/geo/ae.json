@@ -1,0 +1,83 @@
+{
+  "code": "AE",
+  "iso3": "ARE",
+  "name": {
+    "en": "United Arab Emirates",
+    "ar": "الإمارات العربية المتحدة"
+  },
+  "phone": "+971",
+  "currency": "AED",
+  "timezone": "Asia/Dubai",
+  "flag": "🇦🇪",
+  "regions": [
+    {
+      "code": "AE-AZ",
+      "name": {
+        "en": "Abu Dhabi",
+        "ar": "أبوظبي"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Abu Dhabi",
+            "ar": "أبوظبي"
+          }
+        },
+        {
+          "name": {
+            "en": "Al Ain City",
+            "ar": "العين"
+          }
+        },
+        {
+          "name": {
+            "en": "Khalifa City",
+            "ar": "مدينة خليفة أ"
+          }
+        }
+      ]
+    },
+    {
+      "code": "AE-DU",
+      "name": {
+        "en": "Dubai",
+        "ar": "دبي"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Dubai",
+            "ar": "دبي"
+          }
+        }
+      ]
+    },
+    {
+      "code": "AE-SH",
+      "name": {
+        "en": "Sharjah",
+        "ar": "الشارقة"
+      },
+      "cities": [
+        {
+          "name": {
+            "en": "Sharjah",
+            "ar": "الشارقة"
+          }
+        },
+        {
+          "name": {
+            "en": "Al Dhaid",
+            "ar": "الذيد"
+          }
+        },
+        {
+          "name": {
+            "en": "Ajman",
+            "ar": "عجمان"
+          }
+        }
+      ]
+    }
+  ]
+}

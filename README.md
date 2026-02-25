@@ -46,7 +46,7 @@ npx geo-data remove sa              # Remove a country
 npx geo-data cache clear            # Clear offline cache
 ```
 
-All mutating commands support `--force` (skip confirmation) and `--dry-run` (preview only).
+Commands that prompt support `--force` (skip confirmation). All mutating commands support `--dry-run` (preview only).
 
 ## Configuration
 
@@ -66,7 +66,7 @@ All mutating commands support `--force` (skip confirmation) and `--dry-run` (pre
 
 **`languages`** — which translations to include. English is always kept as a fallback. Available: `en` `ar` `de` `es` `fr` `hi` `it` `ja` `ko` `nl` `pl` `pt` `pt-BR` `ru` `tr` `uk` `zh`
 
-**`includeCoordinates`** — whether cities include `latitude`/`longitude`. Default: `true`
+**`includeCoordinates`** — whether cities include `latitude`/`longitude`. Default: `false`
 
 **`typescript`** — generates `index.ts` with full types. Set to `false` for plain `index.js`. Default: `true`
 

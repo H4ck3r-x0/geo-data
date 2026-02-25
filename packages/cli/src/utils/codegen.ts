@@ -59,7 +59,7 @@ ${imports}
 
 export const countries = {
 ${countriesObj}
-} as const;
+}${config.typescript ? " as const" : ""};
 ${types}
 export function getCountry${config.typescript ? "(code: CountryCode)" : "(code)"} {
   return countries[code];

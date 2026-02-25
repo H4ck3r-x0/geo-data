@@ -48,7 +48,6 @@ program
 program
   .command("update")
   .description("Re-download installed countries")
-  .option("-f, --force", "Update without confirmation")
   .option("-n, --dry-run", "Preview what would be updated")
   .action((options) => update(options));
 

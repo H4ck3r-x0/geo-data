@@ -57,7 +57,7 @@ import usData from './us.json' with { type: "json" };
 
 export const countries = {
   US: usData,
-} as const;
+};
 
 export function getCountry(code) {
   return countries[code];
